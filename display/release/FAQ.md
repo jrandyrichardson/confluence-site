@@ -1,7 +1,7 @@
 Product Information : FAQ  
 
-1.  [Product Information](index.html)
-2.  [Home](Home.html)
+1.  [Product Information](index)
+2.  [Home](Home)
 
 Product Information : FAQ
 =========================
@@ -65,11 +65,11 @@ The Terracotta Client is functionality in a Java library that operates inside yo
 
 #### What is the Terracotta Server Array?
 
-The Terracotta Server Array is a set of one or more processes that coordinate data sharing among all Terracotta Clients in the cluster. Each Terracotta Server Array process is a simple Java application that runs directly on the JVM (ie without an application server or container). The Terracotta Server Array is designed to provide maximal High Availability and Scalability. See the [Terracotta Server Array product documentation](http://www.terracotta.org/documentation/server-arrays.html) for more details.
+The Terracotta Server Array is a set of one or more processes that coordinate data sharing among all Terracotta Clients in the cluster. Each Terracotta Server Array process is a simple Java application that runs directly on the JVM (ie without an application server or container). The Terracotta Server Array is designed to provide maximal High Availability and Scalability. See the [Terracotta Server Array product documentation](http://www.terracotta.org/documentation/server-arrays) for more details.
 
 #### What is the Terracotta Toolkit?
 
-The Terracotta Toolkit is a powerful library designed for developers working on scalable applications, frameworks, and software tools. The Terracotta Toolkit provides a simple set of APIs, which themselves are used to create Terracotta products. Supported APIs include concurrent maps, cyclic barriers, locks, counters, and queues. The Toolkit is designed to be platform independent and runs on any Java 1.5 or 1.6 JVM without requiring boot-jars, agents, or container-specific code. See the [Terracotta Toolkit product documentation](http://www.terracotta.org/documentation/toolkit-intro.html) for more details.
+The Terracotta Toolkit is a powerful library designed for developers working on scalable applications, frameworks, and software tools. The Terracotta Toolkit provides a simple set of APIs, which themselves are used to create Terracotta products. Supported APIs include concurrent maps, cyclic barriers, locks, counters, and queues. The Toolkit is designed to be platform independent and runs on any Java 1.5 or 1.6 JVM without requiring boot-jars, agents, or container-specific code. See the [Terracotta Toolkit product documentation](http://www.terracotta.org/documentation/toolkit-intro) for more details.
 
 #### What is Terracotta DSO?
 

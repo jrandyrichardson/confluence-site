@@ -1,8 +1,8 @@
 Product Information : Ehcache 2.7 Release Notes  
 
-1.  [Product Information](index.html)
-2.  [Home](Home.html)
-3.  [BigMemory Release Archive](BigMemory-Release-Archive.html)
+1.  [Product Information](index)
+2.  [Home](Home)
+3.  [BigMemory Release Archive](BigMemory-Release-Archive)
 
 Product Information : Ehcache 2.7 Release Notes
 ===============================================

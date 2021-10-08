@@ -1,8 +1,8 @@
 Product Information : Ehcache 2.6.0 Release Notes  
 
-1.  [Product Information](index.html)
-2.  [Home](Home.html)
-3.  [Terracotta 3.7](Terracotta-3.7.html)
+1.  [Product Information](index)
+2.  [Home](Home)
+3.  [Terracotta 3.7](Terracotta-3.7)
 
 Product Information : Ehcache 2.6.0 Release Notes
 =================================================

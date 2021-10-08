@@ -1,7 +1,7 @@
 Product Information : Terracotta 3.7.0 EAP  
 
-1.  [Product Information](index.html)
-2.  [Home](Home.html)
+1.  [Product Information](index)
+2.  [Home](Home)
 
 Product Information : Terracotta 3.7.0 EAP
 ==========================================

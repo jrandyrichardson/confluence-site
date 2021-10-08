@@ -1,7 +1,7 @@
 Product Information : Fremantle Beta Release Notes  
 
-1.  [Product Information](index.html)
-2.  [Home](Home.html)
+1.  [Product Information](index)
+2.  [Home](Home)
 
 Product Information : Fremantle Beta Release Notes
 ==================================================
@@ -37,7 +37,7 @@ Quartz Scheduler
 
 *   New fluent configuration API (see below)
 *   Quartz Where - permitting control of where jobs execute in a clustered environment through node groups and node type constraints  
-    A getting-started page for using Quartz Scheduler Locality API is available: [Getting Started With Quartz Scheduler Locality API](Getting-Started-With-Quartz-Scheduler-Locality-API.html)
+    A getting-started page for using Quartz Scheduler Locality API is available: [Getting Started With Quartz Scheduler Locality API](Getting-Started-With-Quartz-Scheduler-Locality-API)
 
 #### About Ehcache Search
 
@@ -45,9 +45,9 @@ The Ehcache Search API allows you to execute arbitrarily complex queries against
 
 The easiest way to get started with the API is to try the sample application posted on github. This includes a ready to run bundle for \*nix (just download, unpack, and execute with 'sh run.sh'). This bundle also includes a maven pom to rebuild (using the latest SNAPSHOT rather than that in the bundle): [https://github.com/sharrissf/Ehcache-Search-Sample/downloads](https://github.com/sharrissf/Ehcache-Search-Sample/downloads)
 
-Ehcache Search docs are here: [http://ehcache.org/documentation/search.html](http://ehcache.org/documentation/search.html)
+Ehcache Search docs are here: [http://ehcache.org/documentation/search](http://ehcache.org/documentation/search)
 
-A getting-started page for using Ehcache Search with clustered caches is also available: [Getting Started With Ehcache Search API For Clustered Caches](Getting-Started-With-Ehcache-Search-API-For-Clustered-Caches.html)
+A getting-started page for using Ehcache Search with clustered caches is also available: [Getting Started With Ehcache Search API For Clustered Caches](Getting-Started-With-Ehcache-Search-API-For-Clustered-Caches)
 
 #### New configuration options
 
@@ -80,9 +80,9 @@ A sample that demonstrates the new transaction modes is available here: [https:/
 
 #### About Quartz Scheduler 2.0
 
-Please see the [What's new in Quartz 2.0](24642084.html) document
+Please see the [What's new in Quartz 2.0](24642084) document
 
-Note: [Quartz Where](Getting-Started-With-Quartz-Scheduler-Locality-API.html) is only supported when using the TerracottaJobStore, and is an enterprise-only feature.
+Note: [Quartz Where](Getting-Started-With-Quartz-Scheduler-Locality-API) is only supported when using the TerracottaJobStore, and is an enterprise-only feature.
 
 ### Expected Updates and Scheduled Bug Fixes
 

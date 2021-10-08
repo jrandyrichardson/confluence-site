@@ -1,7 +1,7 @@
 Product Information : Release Notes Terracotta 3.3.0 Ehcache 2.2.0  
 
-1.  [Product Information](index.html)
-2.  [Home](Home.html)
+1.  [Product Information](index)
+2.  [Home](Home)
 
 Product Information : Release Notes Terracotta 3.3.0 Ehcache 2.2.0
 ==================================================================

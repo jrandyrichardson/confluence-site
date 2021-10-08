@@ -1,7 +1,7 @@
 Product Information : Release Notes Ehcache Core 2.4.0  
 
-1.  [Product Information](index.html)
-2.  [Home](Home.html)
+1.  [Product Information](index)
+2.  [Home](Home)
 
 Product Information : Release Notes Ehcache Core 2.4.0
 ======================================================
@@ -13,7 +13,7 @@ Release Notes for Ehcache Core 2.4.0
 
 ### New Feature, Improvements and Upgrade Information
 
-Please see [Release Notes Terracotta 3.5.0 Release Candidate](Release-Notes-Terracotta-3.5.0-Release-Candidate.html)
+Please see [Release Notes Terracotta 3.5.0 Release Candidate](Release-Notes-Terracotta-3.5.0-Release-Candidate)
 
 ##### Expected Updates and Scheduled Bug Fixes
 

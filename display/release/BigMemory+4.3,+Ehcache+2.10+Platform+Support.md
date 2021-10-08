@@ -1,9 +1,9 @@
 Product Information : BigMemory 4.3, Ehcache 2.10 Platform Support  
 
-1.  [Product Information](index.html)
-2.  [Home](Home.html)
-3.  [BigMemory 4.0, Ehcache 2.7 Platform Support](37129882.html)
-4.  [BigMemory 4.1, Ehcache 2.8 Platform Support](38834165.html)
+1.  [Product Information](index)
+2.  [Home](Home)
+3.  [BigMemory 4.0, Ehcache 2.7 Platform Support](37129882)
+4.  [BigMemory 4.1, Ehcache 2.8 Platform Support](38834165)
 
 Product Information : BigMemory 4.3, Ehcache 2.10 Platform Support
 ==================================================================

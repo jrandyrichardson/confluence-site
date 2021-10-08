@@ -1,7 +1,7 @@
 Product Information : Release Notes Terracotta 3.5.0 Release Candidate  
 
-1.  [Product Information](index.html)
-2.  [Home](Home.html)
+1.  [Product Information](index)
+2.  [Home](Home)
 
 Product Information : Release Notes Terracotta 3.5.0 Release Candidate
 ======================================================================
@@ -41,7 +41,7 @@ The Ehcache Search API allows you to execute arbitrarily complex queries against
 
 The easiest way to get started with the API is to try the sample application posted on github. This includes a ready to run bundle for \*nix (just download, unpack, and execute with 'sh run.sh'). This bundle also includes a maven pom to rebuild (using the latest SNAPSHOT rather than that in the bundle): [https://github.com/sharrissf/Ehcache-Search-Sample/downloads](https://github.com/sharrissf/Ehcache-Search-Sample/downloads)
 
-Ehcache Search docs are here: [http://ehcache.org/documentation/search.html](http://ehcache.org/documentation/search.html)
+Ehcache Search docs are here: [http://ehcache.org/documentation/search](http://ehcache.org/documentation/search)
 
 A getting-started page for using Ehcache Search with clustered caches is also available: [Getting Started With Ehcache Search API For Clustered Caches](Getting+Started+With+Ehcache+Search+API+For+Clustered+Caches)
 
@@ -82,7 +82,7 @@ Note: [Quartz Where](Getting+Started+With+Quartz+Scheduler+Locality+API) is only
 
 ### Upgrade Information
 
-Brief descriptions of major changes that may affect upgrades from previous versions of Terracotta product installations are listed in this section. See the [product documentation](http://www.terracotta.org/documentation/3.5.0-RC/product-documentation-1page.html) for more information.
+Brief descriptions of major changes that may affect upgrades from previous versions of Terracotta product installations are listed in this section. See the [product documentation](http://www.terracotta.org/documentation/3.5.0-RC/product-documentation-1page) for more information.
 
 #### Change to <cache> "coherent" Attribute
 

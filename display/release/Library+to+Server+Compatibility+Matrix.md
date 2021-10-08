@@ -1,7 +1,7 @@
 Product Information : Library to Server Compatibility Matrix  
 
-1.  [Product Information](index.html)
-2.  [Home](Home.html)
+1.  [Product Information](index)
+2.  [Home](Home)
 
 Product Information : Library to Server Compatibility Matrix
 ============================================================

@@ -1,7 +1,7 @@
 Product Information : Release Notes 3.3.0 Beta  
 
-1.  [Product Information](index.html)
-2.  [Home](Home.html)
+1.  [Product Information](index)
+2.  [Home](Home)
 
 Product Information : Release Notes 3.3.0 Beta
 ==============================================

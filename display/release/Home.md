@@ -1,6 +1,6 @@
 Product Information : Home
 
-1.  [Product Information](index.html)
+1.  [Product Information](index)
 
 ![Home Page](images/icons/contenttypes/home_page_16.png) Product Information : Home
 ====================================================================================
@@ -107,7 +107,7 @@ Current Releases
 
 | Release | Date | Release Notes | Platform Support | Notes |
 |---------|------|---------------|------------------|-------|
-| Terracotta 10.7.0 | Apr 16, 2021 | [Release Notes](Terracotta-10.7-Release-Notes.html) | [Platform Support](Terracotta-10.7-Supported-Platforms.html) | Feature Release and Bug Fix |
+| Terracotta 10.7.0 | Apr 16, 2021 | [Release Notes](Terracotta-10.7-Release-Notes) | [Platform Support](Terracotta-10.7-Supported-Platforms) | Feature Release and Bug Fix |
 | Terracotta 10.3.1 | Apr 16, 2019 | [Release Notes](Terracotta+10.3+Release+Notes) | [Platform Support](Terracotta+10.3+Supported+Platforms) | Feature Release and Bug Fix|
 | Terracotta 10.3.0.3 | Jan 11, 2018 | [Release Notes](Terracotta+10.3+Release+Notes) | [Platform Support](Terracotta+10.3+Supported+Platforms) | Feature Release and Bug Fix|
 | Terracotta 10.3.0.2 | Dec 7, 2018 | [Release Notes](Terracotta+10.3+Release+Notes) | [Platform Support](Terracotta+10.3+Supported+Platforms) | Bug Fix|

@@ -1,14 +1,14 @@
 Product Information : Terracotta 3.5 Release Notes  
 
-1.  [Product Information](index.html)
-2.  [Home](Home.html)
+1.  [Product Information](index)
+2.  [Home](Home)
 
 Product Information : Terracotta 3.5 Release Notes
 ==================================================
 
 Created by Fiona OShea, last modified by Unknown User (ilevy) on Apr 12, 2013
 
-The Terracotta 3.5.5 kit includes Terracotta 3.5.5, Ehcache 2.4.8 and Quartz 2.1.6. Please see Ehcache 2.4.8 [Release Notes](Release-Notes-Ehcache-Core-2.4.html) for further information on changes
+The Terracotta 3.5.5 kit includes Terracotta 3.5.5, Ehcache 2.4.8 and Quartz 2.1.6. Please see Ehcache 2.4.8 [Release Notes](Release-Notes-Ehcache-Core-2.4) for further information on changes
 
 /\*<!\[CDATA\[\*/ div.rbtoc1633463967750 {padding: 0px;} div.rbtoc1633463967750 ul {list-style: disc;margin-left: 0px;} div.rbtoc1633463967750 li {margin-left: 0px;padding-left: 0px;} /\*\]\]>\*/
 
@@ -37,7 +37,7 @@ The following may be applicable to using certain Ehcache cache modes with Hibern
 Release Notes for Terracotta 3.5.5
 ==================================
 
-Terracotta 3.5.5 is a bug fix release. The kit includes Ehcache [2.4.8](Release-Notes-Ehcache-Core-2.4.html) and Quartz [2.1.6](https://jira.terracotta.org/jira/browse/QTZ/fixforversion/11104)
+Terracotta 3.5.5 is a bug fix release. The kit includes Ehcache [2.4.8](Release-Notes-Ehcache-Core-2.4) and Quartz [2.1.6](https://jira.terracotta.org/jira/browse/QTZ/fixforversion/11104)
 
 ##### Resolved Issues
 
@@ -49,7 +49,7 @@ Terracotta 3.5.5 is a bug fix release. The kit includes Ehcache [2.4.8](Release-
     Release Notes for Terracotta 3.5.4
     ==================================
     
-    Terracotta 3.5.4 is a bug fix release. The kit includes Ehcache [2.4.7](Release-Notes-Ehcache-Core-2.4.html) and Quartz [2.1.2](https://jira.terracotta.org/jira/browse/QTZ/fixforversion/11065)
+    Terracotta 3.5.4 is a bug fix release. The kit includes Ehcache [2.4.7](Release-Notes-Ehcache-Core-2.4) and Quartz [2.1.2](https://jira.terracotta.org/jira/browse/QTZ/fixforversion/11065)
     
 
 ##### Resolved Issues
@@ -85,7 +85,7 @@ Terracotta 3.5.5 is a bug fix release. The kit includes Ehcache [2.4.8](Release-
 Release Notes for Terracotta 3.5.3
 ==================================
 
-Terracotta 3.5.3 is a bug fix release. The kit includes Ehcache [2.4.6](Release-Notes-Ehcache-Core-2.4.html) and Quartz [2.1.0](https://jira.terracotta.org/jira/secure/ReleaseNote.jspa?projectId=10282&version=10981)
+Terracotta 3.5.3 is a bug fix release. The kit includes Ehcache [2.4.6](Release-Notes-Ehcache-Core-2.4) and Quartz [2.1.0](https://jira.terracotta.org/jira/secure/ReleaseNote.jspa?projectId=10282&version=10981)
 
 Terracotta 3.5.3 requires Ehcache 2.4.6. There is no backward compatibility with earlier Ehcache versions
 
@@ -120,7 +120,7 @@ For kits _without_ the "-gt" suffix, you can switch to Derby DB by following the
 
 For kits with the "-gt" suffix where Berkeley DB is required, follow these steps:
 
-1\. Download [Berkeley DB 4.1.10](http://www.oracle.com/technetwork/database/berkeleydb/downloads/index.html) or directly here: [http://download.oracle.com/maven/com/sleepycat/je/4.1.10/je-4.1.10.jar](http://download.oracle.com/maven/com/sleepycat/je/4.1.10/je-4.1.10.jar)
+1\. Download [Berkeley DB 4.1.10](http://www.oracle.com/technetwork/database/berkeleydb/downloads/index) or directly here: [http://download.oracle.com/maven/com/sleepycat/je/4.1.10/je-4.1.10.jar](http://download.oracle.com/maven/com/sleepycat/je/4.1.10/je-4.1.10.jar)
 
 2\. Extract Berkeley DB into <Terracotta-installation-directory>/lib.
 
@@ -143,7 +143,7 @@ When you start the Terracotta servers, they will use Berkeley DB.
 Release Notes for Terracotta 3.5.2
 ==================================
 
-Terracotta 3.5.2 is a bug-fix release. The kit includes Ehcache [2.4.3](Release-Notes-Ehcache-Core-2.4.html) and Quartz 2.0.2.
+Terracotta 3.5.2 is a bug-fix release. The kit includes Ehcache [2.4.3](Release-Notes-Ehcache-Core-2.4) and Quartz 2.0.2.
 
 ### Summary of Key Changes
 
@@ -183,7 +183,7 @@ Terracotta 3.5.2 is a bug-fix release. The kit includes Ehcache [2.4.3](Release-
 Release Notes for Terracotta 3.5.1
 ==================================
 
-Terracotta 3.5.1 is a bug-fix release. The kit includes [Ehcache 2.4.2](Release-Notes-Ehcache-Core-2.4.html) and Quartz 2.0.0.
+Terracotta 3.5.1 is a bug-fix release. The kit includes [Ehcache 2.4.2](Release-Notes-Ehcache-Core-2.4) and Quartz 2.0.0.
 
 ##### Resolved Issues
 

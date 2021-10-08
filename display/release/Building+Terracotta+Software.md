@@ -1,7 +1,7 @@
 Product Information : Building Terracotta Software  
 
-1.  [Product Information](index.html)
-2.  [Home](Home.html)
+1.  [Product Information](index)
+2.  [Home](Home)
 
 Product Information : Building Terracotta Software
 ==================================================
@@ -48,7 +48,7 @@ Requirements
 
 To build from source you must have the following installed:
 
-*   A Java 1.4 SDK ([Download](http://java.sun.com/j2se/1.4.2/download.html))
+*   A Java 1.4 SDK ([Download](http://java.sun.com/j2se/1.4.2/download))
 *   JDK 5 ([Download](http://java.sun.com/javase/downloads/index_jdk5.jsp))
 *   JDK 6 ([Download](http://java.sun.com/javase/downloads/index.jsp))
 *   The Ant build tool (version 1.6.5 is required, [Download](http://ant.apache.org/bindownload.cgi "ant.apache.org/bindownload.cgi"))

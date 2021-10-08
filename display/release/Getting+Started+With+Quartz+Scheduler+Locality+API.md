@@ -1,8 +1,8 @@
 Product Information : Getting Started With Quartz Scheduler Locality API  
 
-1.  [Product Information](index.html)
-2.  [Home](Home.html)
-3.  [Fremantle Beta Release Notes](Fremantle-Beta-Release-Notes.html)
+1.  [Product Information](index)
+2.  [Home](Home)
+3.  [Fremantle Beta Release Notes](Fremantle-Beta-Release-Notes)
 
 Product Information : Getting Started With Quartz Scheduler Locality API
 ========================================================================

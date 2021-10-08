@@ -1,8 +1,8 @@
 Product Information : Getting Started With Ehcache Search API For Clustered Caches  
 
-1.  [Product Information](index.html)
-2.  [Home](Home.html)
-3.  [Fremantle Beta Release Notes](Fremantle-Beta-Release-Notes.html)
+1.  [Product Information](index)
+2.  [Home](Home)
+3.  [Fremantle Beta Release Notes](Fremantle-Beta-Release-Notes)
 
 Product Information : Getting Started With Ehcache Search API For Clustered Caches
 ==================================================================================
@@ -84,7 +84,7 @@ The following shows how to programmatically create the cache configuration, with
 
         // Now create the attributes and queries, then execute. 
 
-To learn more about the Ehcache Search API, see the net.sf.ehcache.search\* packages in this [Javadoc](http://ehcache.org/apidocs/index.html).
+To learn more about the Ehcache Search API, see the net.sf.ehcache.search\* packages in this [Javadoc](http://ehcache.org/apidocs/index).
 
 ### Stored Search Indexes
 
@@ -112,7 +112,7 @@ If your query returns a result set containing a very large amount of data, perfo
 
 *   Limit the size of the results set with `Query.maxResults(int number_of_hits)`.
 *   Page the results set using Results.range(int start\_index, int number\_of\_hits).
-*   Use a built-in Aggregator function to return a summary statistic (see the net.sf.ehcache.search.aggregator package in this [Javadoc](http://ehcache.org/apidocs/index.html).
+*   Use a built-in Aggregator function to return a summary statistic (see the net.sf.ehcache.search.aggregator package in this [Javadoc](http://ehcache.org/apidocs/index).
 
 #### Case Sensitivity of Attribute Criteria
 

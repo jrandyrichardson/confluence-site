@@ -1,9 +1,9 @@
 Product Information : migration guide  
 
-1.  [Product Information](index.html)
-2.  [Home](Home.html)
-3.  [Fremantle Beta Release Notes](Fremantle-Beta-Release-Notes.html)
-4.  [What's new in Quartz 2.0](24642084.html)
+1.  [Product Information](index)
+2.  [Home](Home)
+3.  [Fremantle Beta Release Notes](Fremantle-Beta-Release-Notes)
+4.  [What's new in Quartz 2.0](24642084)
 
 Product Information : migration guide
 =====================================
@@ -19,7 +19,7 @@ IN-PROGRESS DRAFT
 
 If you find errors, or encounter difficulties that you wish had been covered by this document, please help the entire community by notifying the Quartz team of the needed improvements by posting a message in the forums.
 
-This document outlines how to migrate an application using Quartz Scheduler 1.8.x to version 2.0 - it does not document every change or new feature in version 2.0. For information related to what has changed with Quartz 2.0 please refer to the [What's New In Quartz 2.0](24642084.html) document, or refer to the 2.0 release notes the in project's Jira issue tracker.
+This document outlines how to migrate an application using Quartz Scheduler 1.8.x to version 2.0 - it does not document every change or new feature in version 2.0. For information related to what has changed with Quartz 2.0 please refer to the [What's New In Quartz 2.0](24642084) document, or refer to the 2.0 release notes the in project's Jira issue tracker.
 
 Making Changes Common To All Quartz Setups
 ------------------------------------------

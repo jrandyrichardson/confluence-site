@@ -1,7 +1,7 @@
 Product Information : Terracotta 3.6.0 Beta Release Notes  
 
-1.  [Product Information](index.html)
-2.  [Home](Home.html)
+1.  [Product Information](index)
+2.  [Home](Home)
 
 Product Information : Terracotta 3.6.0 Beta Release Notes
 =========================================================
@@ -43,7 +43,7 @@ The major new capability of Ehcache 2.5 is enhanced cache resource management, s
 *   Greater efficiency. Ehcache now efficiently manages caches based on their memory footprint and can dynamically balance their resource use based on runtime size information.
 
 For detailed documentation on how to use the new configuration settings available in Ehcache 2.5 please refer to:  
-[http://ehcache.org/documentation/beta/configuration.html](http://ehcache.org/documentation/beta/configuration.html)
+[http://ehcache.org/documentation/beta/configuration](http://ehcache.org/documentation/beta/configuration)
 
 Also the Ehcache API has been extended with new batch methods (getAll, putAll and removeAll) that are performance optimized for use with Terracotta clustered caches.
 

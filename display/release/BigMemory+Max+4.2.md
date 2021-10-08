@@ -1,7 +1,7 @@
 Product Information : BigMemory Max 4.2  
 
-1.  [Product Information](index.html)
-2.  [Home](Home.html)
+1.  [Product Information](index)
+2.  [Home](Home)
 
 Product Information : BigMemory Max 4.2
 =======================================
@@ -35,8 +35,8 @@ BigMemory Max 4.2 introduces following new capabilities:
 
 #### Configuration Changes
 
-*   New port dedicated to TMC - A new section, [/tc:tc-config/servers/server/management-port](http://terracotta-org.terracotta.eur.ad.sag/generated/4.2.0/html/bmm-all/BigMemory_Max_Documentation_Set/re-tconfig_servers_parameters_11.html#wwconnect_header "/tc:tc-config/servers/server/management-port"), has been added to the Terracotta configuration file. This section specifies the port used by the Terracotta Management Console (TMC). The default is 9540. (Prior to 4.2, the TMC used the tsa-port and tsa-group-port.)
-*   JMX port disabled - In the Terracotta configuration file, the section [/tc:tc-config/servers/server/jmx-port](http://terracotta-org.terracotta.eur.ad.sag/generated/4.2.0/html/bmm-all/BigMemory_Max_Documentation_Set/re-tconfig_servers_parameters_9.html#wwconnect_header "/tc:tc-config/servers/server/jmx-port") is now disabled by default. To enable it, change the value of "jmx-enabled" from false to true in the Terracotta configuration file.
+*   New port dedicated to TMC - A new section, [/tc:tc-config/servers/server/management-port](http://terracotta-org.terracotta.eur.ad.sag/generated/4.2.0/html/bmm-all/BigMemory_Max_Documentation_Set/re-tconfig_servers_parameters_11#wwconnect_header "/tc:tc-config/servers/server/management-port"), has been added to the Terracotta configuration file. This section specifies the port used by the Terracotta Management Console (TMC). The default is 9540. (Prior to 4.2, the TMC used the tsa-port and tsa-group-port.)
+*   JMX port disabled - In the Terracotta configuration file, the section [/tc:tc-config/servers/server/jmx-port](http://terracotta-org.terracotta.eur.ad.sag/generated/4.2.0/html/bmm-all/BigMemory_Max_Documentation_Set/re-tconfig_servers_parameters_9#wwconnect_header "/tc:tc-config/servers/server/jmx-port") is now disabled by default. To enable it, change the value of "jmx-enabled" from false to true in the Terracotta configuration file.
 
 #### Summary of Changes in 4.2.1
 

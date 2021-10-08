@@ -1,7 +1,7 @@
 Product Information : Quartz Manager 1.0 Release Notes  
 
-1.  [Product Information](index.html)
-2.  [Home](Home.html)
+1.  [Product Information](index)
+2.  [Home](Home)
 
 Product Information : Quartz Manager 1.0 Release Notes
 ======================================================

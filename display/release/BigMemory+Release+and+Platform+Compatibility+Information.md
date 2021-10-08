@@ -1,7 +1,7 @@
 Product Information : BigMemory Release and Platform Compatibility Information  
 
-1.  [Product Information](index.html)
-2.  [Home](Home.html)
+1.  [Product Information](index)
+2.  [Home](Home)
 
 Product Information : BigMemory Release and Platform Compatibility Information
 ==============================================================================
@@ -197,7 +197,7 @@ BigMemory 3.7.7
 Ehcache 2.6.8  
 Quartz 2.1.7
 
- | 23 January 2014 | [BigMemory 3.7.7, Ehcache 2.6.8 Release Notes](http://terracotta.org/confluence/display/release/Terracotta+3.7) |   | Bug Fix Release |
+ | 23 January 2014 | [BigMemory 3.7.7, Ehcache 2.6.8 Release Notes](Terracotta+3.7) |   | Bug Fix Release |
 | 
 
 BigMemory 4.1.0  

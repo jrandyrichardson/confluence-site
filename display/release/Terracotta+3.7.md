@@ -1,7 +1,7 @@
 Product Information : Terracotta 3.7  
 
-1.  [Product Information](index.html)
-2.  [Home](Home.html)
+1.  [Product Information](index)
+2.  [Home](Home)
 
 Product Information : Terracotta 3.7
 ====================================
@@ -154,7 +154,7 @@ Terracotta 3.7.4/Ehcache 2.6.5 is a bug fix release
 Release Notes for Terracotta 3.7.3/Ehcache 2.6.3
 ================================================
 
-Terracotta 3.7.3/Ehcache 2.6.3 is a maintenance release. This release also supports Java SE 7 (please refer to the [Platform Support](30965841.html) page for specifics).
+Terracotta 3.7.3/Ehcache 2.6.3 is a maintenance release. This release also supports Java SE 7 (please refer to the [Platform Support](30965841) page for specifics).
 
 #### Additional Resolved Issues for Terracotta 3.7.3/Ehcache 2.6.3
 

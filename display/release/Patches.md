@@ -1,7 +1,7 @@
 Product Information : Patches  
 
-1.  [Product Information](index.html)
-2.  [Home](Home.html)
+1.  [Product Information](index)
+2.  [Home](Home)
 
 Product Information : Patches
 =============================
@@ -72,7 +72,7 @@ For example, to implement a rolling upgrade in a cluster with an active Terracot
 
 1.  Confirm that all prerequisites have been met.  
     See [Preparing for a Patch Installation](#Patches-prepare).
-2.  Shut down the passive Terracotta server using the [server Shutdown button](http://www.terracotta.org/documentation/dev-console.html) or the Terracotta [stop-tc-server script](http://www.terracotta.org/documentation/tools-catalog.html).
+2.  Shut down the passive Terracotta server using the [server Shutdown button](http://www.terracotta.org/documentation/dev-console) or the Terracotta [stop-tc-server script](http://www.terracotta.org/documentation/tools-catalog).
 3.  Unzip the patch file in the passive Terracotta server's installation (root) directory.  
     On a UNIX/Linux machine, use the tar command as shown:
     
@@ -81,17 +81,17 @@ For example, to implement a rolling upgrade in a cluster with an active Terracot
     On a Microsoft Windows machine, double-click the zip file.
 4.  Restart the passive Terracotta server.
 5.  Confirm that the passive server has synced with the active server.  
-    You can use the [Terracotta Administrator Console](http://www.terracotta.org/documentation/dev-console.html) to monitor server status.
-6.  Confirm that the patch was installed by running the [Terracotta version script](http://www.terracotta.org/documentation/tools-catalog.html).
-7.  Shut down the active Terracotta server using the [server Shutdown button](http://www.terracotta.org/documentation/dev-console.html) or the Terracotta [stop-tc-server script](http://www.terracotta.org/documentation/tools-catalog.html).  
+    You can use the [Terracotta Administrator Console](http://www.terracotta.org/documentation/dev-console) to monitor server status.
+6.  Confirm that the patch was installed by running the [Terracotta version script](http://www.terracotta.org/documentation/tools-catalog).
+7.  Shut down the active Terracotta server using the [server Shutdown button](http://www.terracotta.org/documentation/dev-console) or the Terracotta [stop-tc-server script](http://www.terracotta.org/documentation/tools-catalog).  
     The cluster fails over to the passive Terracotta server, which becomes the active server.
 8.  Install the patch file on the shut-down Terracotta server.  
     Use the same procedure as above, including the confirmation step.
 9.  Start the shut-down Terracotta server.  
     The formerly active server becomes the passive server.
 10.  Confirm that the newly passive server has synced with the newly active server.  
-    You can use the [Terracotta Administrator Console](http://www.terracotta.org/documentation/dev-console.html) to monitor server status.
-11.  Shut down a Terracotta client using the client [Terracotta Administrator Console](http://www.terracotta.org/documentation/dev-console.html) or by stopping your application.
+    You can use the [Terracotta Administrator Console](http://www.terracotta.org/documentation/dev-console) to monitor server status.
+11.  Shut down a Terracotta client using the client [Terracotta Administrator Console](http://www.terracotta.org/documentation/dev-console) or by stopping your application.
 12.  Install the patch file on the shut-down Terracotta client.  
     Use the same procedure as above, including the confirmation step.
 13.  Repeat the patch installation with each Terracotta client, one at a time.

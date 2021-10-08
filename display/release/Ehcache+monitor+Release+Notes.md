@@ -1,8 +1,8 @@
 Product Information : Ehcache-monitor Release Notes  
 
-1.  [Product Information](index.html)
-2.  [Home](Home.html)
-3.  [Ehcache-monitor1.0.1 Release Notes](Ehcache-monitor1.0.1-Release-Notes.html)
+1.  [Product Information](index)
+2.  [Home](Home)
+3.  [Ehcache-monitor1.0.1 Release Notes](Ehcache-monitor1.0.1-Release-Notes)
 
 Product Information : Ehcache-monitor Release Notes
 ===================================================

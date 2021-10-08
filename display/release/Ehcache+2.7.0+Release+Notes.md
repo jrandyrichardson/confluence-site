@@ -1,8 +1,8 @@
 Product Information : Ehcache 2.7.0 Release Notes  
 
-1.  [Product Information](index.html)
-2.  [Home](Home.html)
-3.  [BigMemory Max 4.0.0 Release Notes](BigMemory-Max-4.0.0-Release-Notes.html)
+1.  [Product Information](index)
+2.  [Home](Home)
+3.  [BigMemory Max 4.0.0 Release Notes](BigMemory-Max-4.0.0-Release-Notes)
 
 Product Information : Ehcache 2.7.0 Release Notes
 =================================================

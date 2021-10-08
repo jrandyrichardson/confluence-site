@@ -1,14 +1,14 @@
 Product Information : Release Notes Terracotta 3.4.0  
 
-1.  [Product Information](index.html)
-2.  [Home](Home.html)
+1.  [Product Information](index)
+2.  [Home](Home)
 
 Product Information : Release Notes Terracotta 3.4.0
 ====================================================
 
 Created by Fiona OShea, last modified on Jan 05, 2011
 
-The Terracotta 3.4.0\_1 kit includes Terracotta 3.4.0, Ehcache 2.3.1 and Quartz 1.8.4. Please see Ehcache 2.3.1 [Release Notes](Release-Notes-Ehcache-2.3.1.html) for further information on changes
+The Terracotta 3.4.0\_1 kit includes Terracotta 3.4.0, Ehcache 2.3.1 and Quartz 1.8.4. Please see Ehcache 2.3.1 [Release Notes](Release-Notes-Ehcache-2.3.1) for further information on changes
 
 Release Notes for Terracotta 3.4.0
 ==================================

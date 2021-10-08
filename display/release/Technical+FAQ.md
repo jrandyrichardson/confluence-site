@@ -1,7 +1,7 @@
 Product Information : Technical FAQ  
 
-1.  [Product Information](index.html)
-2.  [Home](Home.html)
+1.  [Product Information](index)
+2.  [Home](Home)
 
 Product Information : Technical FAQ
 ===================================
@@ -12,8 +12,8 @@ Created by Unknown User (ilevy), last modified on Mar 21, 2013
 
 Other resources for solving issues include:
 
-*   [Release Notes](Home.html) – Lists features and issues for specific versions of Terracotta products.
-*   [Compatibility Information](Home.html) – Includes tables on compatible versions of Terracotta products, JVMs, and application servers.
+*   [Release Notes](Home) – Lists features and issues for specific versions of Terracotta products.
+*   [Compatibility Information](Home) – Includes tables on compatible versions of Terracotta products, JVMs, and application servers.
 *   [Product Documentation](http://www.terracotta.org/documentation) – Installation, configuration, monitoring, best practices, troubleshooting, and more.
 *   [General FAQ](FAQ) – For non-technical questions.
 

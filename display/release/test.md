@@ -1,8 +1,8 @@
 Product Information : Test Drive TMC  
 
-1.  [Product Information](index.html)
-2.  [Home](Home.html)
-3.  [Gladstone ReadMe](Gladstone-ReadMe.html)
+1.  [Product Information](index)
+2.  [Home](Home)
+3.  [Gladstone ReadMe](Gladstone-ReadMe)
 
 Product Information : Test Drive TMC
 ====================================

@@ -1,7 +1,7 @@
 Product Information : Terracotta Server Open Source  
 
-1.  [Product Information](index.html)
-2.  [Home](Home.html)
+1.  [Product Information](index)
+2.  [Home](Home)
 
 Product Information : Terracotta Server Open Source
 ===================================================
@@ -44,7 +44,7 @@ Notes
 
 Terracotta 4.3.0, Ehcache 2.10.0
 
- | 2 April 2015 | [Terracotta 4.3.0 Release Notes](43581483.html) |
+ | 2 April 2015 | [Terracotta 4.3.0 Release Notes](43581483) |
 | Quartz 2.2.1 |   | [Changelist for Quartz 2.2.1](https://jira.terracotta.org/jira/browse/QTZ/?selectedTab=com.atlassian.jira.jira-projects-plugin:changelog-panel) |   |
 
 Understanding Terracotta Kit Names and Version Numbers
@@ -66,7 +66,7 @@ A kit version number can also have one of the following attributes to indicate i
 Software Patches
 ----------------
 
-Patches are a provided for ee (Enterprise Edition) kits for commercial customers only. For more information on using software patches, see [Patches](Patches.html).
+Patches are a provided for ee (Enterprise Edition) kits for commercial customers only. For more information on using software patches, see [Patches](Patches).
 
 Attachments:
 ------------

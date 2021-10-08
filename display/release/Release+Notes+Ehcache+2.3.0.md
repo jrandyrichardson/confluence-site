@@ -1,7 +1,7 @@
 Product Information : Release Notes Ehcache 2.3.0  
 
-1.  [Product Information](index.html)
-2.  [Home](Home.html)
+1.  [Product Information](index)
+2.  [Home](Home)
 
 Product Information : Release Notes Ehcache 2.3.0
 =================================================
@@ -20,9 +20,9 @@ BigMemory is an add-on product for Enterprise Ehcache. It provides an off-heap c
 ### Additional Improvements
 
 *   Updated release of Ehcache-monitor to support BigMemory  
-    Users of Ehcache-monitor ([http://ehcache.org/documentation/monitor.html](http://ehcache.org/documentation/monitor.html)) should download the updated build ehcache-monitor-kit-1.0.2-distribution.tar.gz along with the ehcache-core-ee-2.3.0-distribution.tar.gz build. The new version reports additional statistics for the off-heap store.
+    Users of Ehcache-monitor ([http://ehcache.org/documentation/monitor](http://ehcache.org/documentation/monitor)) should download the updated build ehcache-monitor-kit-1.0.2-distribution.tar.gz along with the ehcache-core-ee-2.3.0-distribution.tar.gz build. The new version reports additional statistics for the off-heap store.
 *   Platform Updates
-    *   Supported Platform [3.4.0 and 3.4.1 Platform Support](3.4.0-and-3.4.1-Platform-Support.html)
+    *   Supported Platform [3.4.0 and 3.4.1 Platform Support](3.4.0-and-3.4.1-Platform-Support)
     *   Added a fix to enable Ehcache support for IBM z/OS operating system [EHC-768](https://jira.terracotta.org/jira/browse/EHC-768)
     *   Certification on JDK 1.6.0\_22
 

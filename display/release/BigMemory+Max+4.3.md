@@ -1,7 +1,7 @@
 Product Information : BigMemory Max 4.3  
 
-1.  [Product Information](index.html)
-2.  [Home](Home.html)
+1.  [Product Information](index)
+2.  [Home](Home)
 
 Product Information : BigMemory Max 4.3
 =======================================
@@ -97,7 +97,7 @@ To fix the problem edit the "shiro.ini" found in the ".tc/mgmt" directory of the
 
 /401.jsp = anon 
 /403.jsp = anon 
-/404.html = anon
+/404 = anon
 
   
 

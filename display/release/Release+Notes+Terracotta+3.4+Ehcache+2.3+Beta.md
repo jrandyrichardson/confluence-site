@@ -1,7 +1,7 @@
 Product Information : Release Notes Terracotta 3.4 Ehcache 2.3 Beta  
 
-1.  [Product Information](index.html)
-2.  [Home](Home.html)
+1.  [Product Information](index)
+2.  [Home](Home)
 
 Product Information : Release Notes Terracotta 3.4 Ehcache 2.3 Beta
 ===================================================================
@@ -36,7 +36,7 @@ Additionally, the accompanying trial license key "terracotta-license.key" should
 
 3\. Review the new beta documentation:
 
-*   For Enterprise Ehcache (standalone): [http://ehcache.org/documentation/offheap\_store.html](http://ehcache.org/documentation/offheap_store.html)
+*   For Enterprise Ehcache (standalone): [http://ehcache.org/documentation/offheap\_store](http://ehcache.org/documentation/offheap_store)
 *   For Terracotta Server Array: [BigMemory+for+the+Terracotta+Server+Array+-+FAQ](BigMemory+for+the+Terracotta+Server+Array+-+FAQ)
 
 Getting Started with BigMemory for Enterprise Ehcache (standalone)
@@ -111,7 +111,7 @@ You can, for example, add this option to the appropriate line in `${TERRACOTTA_H
 
 ##### Updated release of Ehcache-monitor
 
-Users of Ehcache-monitor ([http://ehcache.org/documentation/monitor.html](http://ehcache.org/documentation/monitor.html)) should download the updated build ehcache-monitor-kit-1.0.2-BETA.tar.gz along with the ehcache-core-ee-2.3-BETA-distribution.tar.gz build. The new version reports additional statistics for the off-heap store.
+Users of Ehcache-monitor ([http://ehcache.org/documentation/monitor](http://ehcache.org/documentation/monitor)) should download the updated build ehcache-monitor-kit-1.0.2-BETA.tar.gz along with the ehcache-core-ee-2.3-BETA-distribution.tar.gz build. The new version reports additional statistics for the off-heap store.
 
 ##### Expected Updates and Scheduled Bug Fixes
 

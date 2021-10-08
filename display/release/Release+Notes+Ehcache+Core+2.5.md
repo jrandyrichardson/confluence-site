@@ -1,8 +1,8 @@
 Product Information : Release Notes Ehcache Core 2.5  
 
-1.  [Product Information](index.html)
-2.  [Home](Home.html)
-3.  [Release Notes Terracotta 3.6, Ehcache 2.5, Quartz 2.1](28803333.html)
+1.  [Product Information](index)
+2.  [Home](Home)
+3.  [Release Notes Terracotta 3.6, Ehcache 2.5, Quartz 2.1](28803333)
 
 Product Information : Release Notes Ehcache Core 2.5
 ====================================================

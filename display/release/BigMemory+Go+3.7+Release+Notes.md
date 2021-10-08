@@ -1,7 +1,7 @@
 Product Information : BigMemory Go 3.7 Release Notes  
 
-1.  [Product Information](index.html)
-2.  [Home](Home.html)
+1.  [Product Information](index)
+2.  [Home](Home)
 
 Product Information : BigMemory Go 3.7 Release Notes
 ====================================================
@@ -60,7 +60,7 @@ Summary of Features
 Platform Support
 ----------------
 
-Please see the [Platform Support Page](30965841.html).
+Please see the [Platform Support Page](30965841).
 
 How to get support
 ------------------
