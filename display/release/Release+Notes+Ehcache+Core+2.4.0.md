@@ -7,7 +7,7 @@ Release Notes for Ehcache Core 2.4.0
 
 ### New Feature, Improvements and Upgrade Information
 
-Please see [Release Notes Terracotta 3.5.0 Release Candidate](Release-Notes-Terracotta-3.5.0-Release-Candidate)
+Please see [Release Notes Terracotta 3.5.0 Release Candidate](Release+Notes+Terracotta+3.5.0+Release+Candidate)
 
 ##### Expected Updates and Scheduled Bug Fixes
 

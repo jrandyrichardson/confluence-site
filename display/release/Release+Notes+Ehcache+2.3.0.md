@@ -16,7 +16,7 @@ BigMemory is an add-on product for Enterprise Ehcache. It provides an off-heap c
 *   Updated release of Ehcache-monitor to support BigMemory  
     Users of Ehcache-monitor ([http://ehcache.org/documentation/monitor](http://ehcache.org/documentation/monitor)) should download the updated build ehcache-monitor-kit-1.0.2-distribution.tar.gz along with the ehcache-core-ee-2.3.0-distribution.tar.gz build. The new version reports additional statistics for the off-heap store.
 *   Platform Updates
-    *   Supported Platform [3.4.0 and 3.4.1 Platform Support](3.4.0-and-3.4.1-Platform-Support)
+    *   Supported Platform [3.4.0 and 3.4.1 Platform Support](3.4.0+and+3.4.1+Platform+Support)
     *   Added a fix to enable Ehcache support for IBM z/OS operating system [EHC-768](https://jira.terracotta.org/jira/browse/EHC-768)
     *   Certification on JDK 1.6.0\_22
 

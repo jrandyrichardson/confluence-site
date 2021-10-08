@@ -5,7 +5,7 @@ title:  Release Notes Terracotta 3.4.1
 Release Notes for Terracotta 3.4.1
 ==================================
 
-Terracotta 3.4.1 is a bug fix release. The kit includes [Ehcache 2.3.2](Release-Notes-Ehcache-2.3.2) and Quartz 1.8.4
+Terracotta 3.4.1 is a bug fix release. The kit includes [Ehcache 2.3.2](Release+Notes+Ehcache+2.3.2) and Quartz 1.8.4
 
 *   5207 - Fix deadlock in server map eviction
 *   5123 - Fix to Developer Console cacheable region reporting error in Hibernate panel

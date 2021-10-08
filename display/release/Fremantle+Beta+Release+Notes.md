@@ -31,7 +31,7 @@ Quartz Scheduler
 
 *   New fluent configuration API (see below)
 *   Quartz Where - permitting control of where jobs execute in a clustered environment through node groups and node type constraints  
-    A getting-started page for using Quartz Scheduler Locality API is available: [Getting Started With Quartz Scheduler Locality API](Getting-Started-With-Quartz-Scheduler-Locality-API)
+    A getting-started page for using Quartz Scheduler Locality API is available: [Getting Started With Quartz Scheduler Locality API](Getting+Started+With+Quartz+Scheduler+Locality+API)
 
 #### About Ehcache Search
 
@@ -41,7 +41,7 @@ The easiest way to get started with the API is to try the sample application pos
 
 Ehcache Search docs are here: [http://ehcache.org/documentation/search](http://ehcache.org/documentation/search)
 
-A getting-started page for using Ehcache Search with clustered caches is also available: [Getting Started With Ehcache Search API For Clustered Caches](Getting-Started-With-Ehcache-Search-API-For-Clustered-Caches)
+A getting-started page for using Ehcache Search with clustered caches is also available: [Getting Started With Ehcache Search API For Clustered Caches](Getting+Started+With+Ehcache+Search+API+For+Clustered+Caches)
 
 #### New configuration options
 
@@ -76,7 +76,7 @@ A sample that demonstrates the new transaction modes is available here: [https:/
 
 Please see the [What's new in Quartz 2.0](What%27s+new+in+Quartz+2.0) document
 
-Note: [Quartz Where](Getting-Started-With-Quartz-Scheduler-Locality-API) is only supported when using the TerracottaJobStore, and is an enterprise-only feature.
+Note: [Quartz Where](Getting+Started+With+Quartz+Scheduler+Locality+API) is only supported when using the TerracottaJobStore, and is an enterprise-only feature.
 
 ### Expected Updates and Scheduled Bug Fixes
 

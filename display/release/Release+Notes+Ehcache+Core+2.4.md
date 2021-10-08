@@ -81,7 +81,7 @@ Release Notes for Ehcache Core 2.4.2
 
 ##### Compatibility
 
-*   Compatible with Terracotta 3.5.1 - which includes platform bug fixes. See [Terracotta 3.5.1 Release Notes](Terracotta-3.5-Release-Notes)
+*   Compatible with Terracotta 3.5.1 - which includes platform bug fixes. See [Terracotta 3.5.1 Release Notes](Terracotta+3.5+Release+Notes)
     
     * * *
     
@@ -94,7 +94,7 @@ Release Notes for Ehcache Core 2.4.2
 *   Created improved toString method on ResultImpl
 *   Allowed transactional caches that use the xa\_strict mode to be configured as nonstop caches.
 
-Please refer to [Terracotta 3.5.0](Release-Notes-Terracotta-3.5.0) Release notes for more detailed information on new features Ehcache 2.4.0 and up.
+Please refer to [Terracotta 3.5.0](Release+Notes+Terracotta+3.5.0) Release notes for more detailed information on new features Ehcache 2.4.0 and up.
 
 ##### Fix list in Jira
 
@@ -123,7 +123,7 @@ Release Notes for Ehcache Core 2.4.0
 
 ### New Feature, Improvements and Upgrade Information
 
-Please see [Release Notes Terracotta 3.5.0](Release-Notes-Terracotta-3.5.0)
+Please see [Release Notes Terracotta 3.5.0](Release+Notes+Terracotta+3.5.0)
 
 ##### Expected Updates and Scheduled Bug Fixes
 
