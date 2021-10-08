@@ -1,12 +1,6 @@
-Product Information : Fremantle Beta Release Notes  
-
-1.  [Product Information](index)
-2.  [Home](Home)
-
-Product Information : Fremantle Beta Release Notes
-==================================================
-
-Created by Fiona OShea, last modified by Mike Allen on Jan 04, 2011
+---
+title:  Fremantle Beta Release Notes  
+---
 
 Release Notes for Fremantle Beta 2
 ==================================

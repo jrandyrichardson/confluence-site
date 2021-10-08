@@ -1,12 +1,6 @@
-Product Information : Release Notes Terracotta 3.3.0 Ehcache 2.2.0  
-
-1.  [Product Information](index)
-2.  [Home](Home)
-
-Product Information : Release Notes Terracotta 3.3.0 Ehcache 2.2.0
-==================================================================
-
-Created by Fiona OShea, last modified on Nov 05, 2010
+---
+title:  Release Notes Terracotta 3.3.0 Ehcache 2.2.0  
+---
 
 ### Changes in Terracotta 3.3.0 and Ehcache 2.2.0
 

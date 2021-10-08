@@ -1,12 +1,6 @@
-Product Information : Release Notes Ehcache Core 2.4  
-
-1.  [Product Information](index)
-2.  [Home](Home)
-
-Product Information : Release Notes Ehcache Core 2.4
-====================================================
-
-Created by Fiona OShea, last modified on Oct 31, 2012
+---
+title:  Release Notes Ehcache Core 2.4  
+---
 
 /\*<!\[CDATA\[\*/ div.rbtoc1633463967636 {padding: 0px;} div.rbtoc1633463967636 ul {list-style: disc;margin-left: 0px;} div.rbtoc1633463967636 li {margin-left: 0px;padding-left: 0px;} /\*\]\]>\*/
 

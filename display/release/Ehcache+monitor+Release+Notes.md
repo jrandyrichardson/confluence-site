@@ -1,13 +1,6 @@
-Product Information : Ehcache-monitor Release Notes  
-
-1.  [Product Information](index)
-2.  [Home](Home)
-3.  [Ehcache-monitor1.0.1 Release Notes](Ehcache-monitor1.0.1-Release-Notes)
-
-Product Information : Ehcache-monitor Release Notes
-===================================================
-
-Created by Mike Allen, last modified by Fiona OShea on Sep 21, 2015
+---
+title:  Ehcache-monitor Release Notes  
+---
 
 Ehcache-monitor is EOL. It is not supported for later versions of BigMemory or Ehcache.
 

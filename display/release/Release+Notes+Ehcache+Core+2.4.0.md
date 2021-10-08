@@ -1,12 +1,6 @@
-Product Information : Release Notes Ehcache Core 2.4.0  
-
-1.  [Product Information](index)
-2.  [Home](Home)
-
-Product Information : Release Notes Ehcache Core 2.4.0
-======================================================
-
-Created by Fiona OShea, last modified on Feb 14, 2011
+---
+title:  Release Notes Ehcache Core 2.4.0  
+---
 
 Release Notes for Ehcache Core 2.4.0
 ====================================

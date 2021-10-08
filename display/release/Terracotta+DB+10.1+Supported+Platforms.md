@@ -1,12 +1,6 @@
-Product Information : Terracotta DB 10.1 Supported Platforms  
-
-1.  [Product Information](index)
-2.  [Home](Home)
-
-Product Information : Terracotta DB 10.1 Supported Platforms
-============================================================
-
-Created by Subhashni Anuradha, last modified by Steve Yellenberg on Oct 27, 2017
+---
+title:  Terracotta DB 10.1 Supported Platforms  
+---
 
 Platform Support
 ----------------

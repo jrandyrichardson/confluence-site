@@ -1,12 +1,6 @@
-Product Information : BigMemory Release Archive  
-
-1.  [Product Information](index)
-2.  [Home](Home)
-
-Product Information : BigMemory Release Archive
-===============================================
-
-Created by Subhashni Anuradha, last modified by Fiona OShea on Feb 17, 2021
+---
+title:  BigMemory Release Archive  
+---
 
 ### Previous Releases
 

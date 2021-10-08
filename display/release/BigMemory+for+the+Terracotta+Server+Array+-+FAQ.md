@@ -1,44 +1,14 @@
-Product Information : BigMemory for the Terracotta Server Array - FAQ  
-
-1.  [Product Information](index)
-2.  [Home](Home)
-
-Product Information : BigMemory for the Terracotta Server Array - FAQ
-=====================================================================
-
-Created by Unknown User (ilevy), last modified on Nov 09, 2010
+---
+title:  BigMemory for the Terracotta Server Array - FAQ  
+---
 
   
 This FAQ explains what BigMemory is and how to use it.
 
-/\*<!\[CDATA\[\*/ div.rbtoc1633463967044 {padding: 0px;} div.rbtoc1633463967044 ul {list-style: disc;margin-left: 0px;} div.rbtoc1633463967044 li {margin-left: 0px;padding-left: 0px;} /\*\]\]>\*/
+* TOC
+{:toc}
 
-*   [About BigMemory](#BigMemoryfortheTerracottaServerArrayFAQ-AboutBigMemory)
-    *   [What is BigMemory?](#BigMemoryfortheTerracottaServerArrayFAQ-WhatisBigMemory?)
-    *   [Exactly how does using BigMemory improve performance?](#BigMemoryfortheTerracottaServerArrayFAQ-ExactlyhowdoesusingBigMemoryimproveperformance?)
-    *   [How do I know if BigMemory will help me?](#BigMemoryfortheTerracottaServerArrayFAQ-HowdoIknowifBigMemorywillhelpme?)
-    *   [How do I see how much time I currently spend doing GC?](#BigMemoryfortheTerracottaServerArrayFAQ-HowdoIseehowmuchtimeIcurrentlyspenddoingGC?)
-    *   [How is expanding hardware memory better than expanding database or disk-based storage?](#BigMemoryfortheTerracottaServerArrayFAQ-Howisexpandinghardwarememorybetterthanexpandingdatabaseordisk-basedstorage?)
-    *   [Does BigMemory use JNI or non-Java code, or does it require a special version of Java or JVM?](#BigMemoryfortheTerracottaServerArrayFAQ-DoesBigMemoryuseJNIornon-Javacode,ordoesitrequireaspecialversionofJavaorJVM?)
-    *   [Is BigMemory really just a custom garbage collector or does it require one?](#BigMemoryfortheTerracottaServerArrayFAQ-IsBigMemoryreallyjustacustomgarbagecollectorordoesitrequireone?)
-    *   [Is there documentation for BigMemory?](#BigMemoryfortheTerracottaServerArrayFAQ-IstheredocumentationforBigMemory?)
-    *   [Is BigMemory included in the open source release?](#BigMemoryfortheTerracottaServerArrayFAQ-IsBigMemoryincludedintheopensourcerelease?)
-*   [Specifications](#BigMemoryfortheTerracottaServerArrayFAQ-Specifications)
-    *   [Can BigMemory be used with both standard and DSO installations of Terracotta products?](#BigMemoryfortheTerracottaServerArrayFAQ-CanBigMemorybeusedwithbothstandardandDSOinstallationsofTerracottaproducts?)
-    *   [What kind of scale does BigMemory offer?](#BigMemoryfortheTerracottaServerArrayFAQ-WhatkindofscaledoesBigMemoryoffer?)
-    *   [Does BigMemory require a specific OS or OS version, or OS patches?](#BigMemoryfortheTerracottaServerArrayFAQ-DoesBigMemoryrequireaspecificOSorOSversion,orOSpatches?)
-    *   [Which JVMs are supported?](#BigMemoryfortheTerracottaServerArrayFAQ-WhichJVMsaresupported?)
-    *   [Where can BigMemory operate?](#BigMemoryfortheTerracottaServerArrayFAQ-WherecanBigMemoryoperate?)
-    *   [How is off-heap memory allocated?](#BigMemoryfortheTerracottaServerArrayFAQ-Howisoff-heapmemoryallocated?)
-    *   [Do JVMs have a default value for MaxDirectMemorySize?](#BigMemoryfortheTerracottaServerArrayFAQ-DoJVMshaveadefaultvalueforMaxDirectMemorySize?)
-    *   [What are the maximum heap and off-heap sizes I can allocate for my JVM?](#BigMemoryfortheTerracottaServerArrayFAQ-Whatarethemaximumheapandoff-heapsizesIcanallocateformyJVM?)
-    *   [Can I use this with a 32-bit JVM?](#BigMemoryfortheTerracottaServerArrayFAQ-CanIusethiswitha32-bitJVM?)
-*   [Configuration and Tuning](#BigMemoryfortheTerracottaServerArrayFAQ-ConfigurationandTuning)
-    *   [How do I start using BigMemory?](#BigMemoryfortheTerracottaServerArrayFAQ-HowdoIstartusingBigMemory?)
-    *   [How much of my total available hardware RAM should I make available to the direct memory space using -XX:MaxDirectMemorySize?](#BigMemoryfortheTerracottaServerArrayFAQ-HowmuchofmytotalavailablehardwareRAMshouldImakeavailabletothedirectmemoryspaceusing-XX:MaxDirectMemorySize?)
-    *   [What kind of tuning should be considered to ensure optimal memory performance?](#BigMemoryfortheTerracottaServerArrayFAQ-Whatkindoftuningshouldbeconsideredtoensureoptimalmemoryperformance?)
-
-About BigMemory
+# About BigMemory
 ---------------
 
 ### What is BigMemory?

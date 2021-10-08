@@ -1,12 +1,6 @@
-Product Information : BigMemory Go 4.1  
-
-1.  [Product Information](index)
-2.  [Home](Home)
-
-Product Information : BigMemory Go 4.1
-======================================
-
-Created by Subhashni Anuradha, last modified on Dec 20, 2013
+---
+title:  BigMemory Go 4.1  
+---
 
 **/\*<!\[CDATA\[\*/ div.rbtoc1633463967088 {padding: 0px;} div.rbtoc1633463967088 ul {list-style: disc;margin-left: 0px;} div.rbtoc1633463967088 li {margin-left: 0px;padding-left: 0px;} /\*\]\]>\*/**
 

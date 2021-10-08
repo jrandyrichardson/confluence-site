@@ -1,13 +1,6 @@
-Product Information : Ehcache 2.7 Release Notes  
-
-1.  [Product Information](index)
-2.  [Home](Home)
-3.  [BigMemory Release Archive](BigMemory-Release-Archive)
-
-Product Information : Ehcache 2.7 Release Notes
-===============================================
-
-Created by Fiona OShea on Feb 17, 2021
+---
+title:  Ehcache 2.7 Release Notes  
+---
 
 /\*<!\[CDATA\[\*/ div.rbtoc1633463967348 {padding: 0px;} div.rbtoc1633463967348 ul {list-style: disc;margin-left: 0px;} div.rbtoc1633463967348 li {margin-left: 0px;padding-left: 0px;} /\*\]\]>\*/
 

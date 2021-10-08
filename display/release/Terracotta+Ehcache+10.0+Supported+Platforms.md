@@ -1,12 +1,6 @@
-Product Information : Terracotta Ehcache 10.0 Supported Platforms  
-
-1.  [Product Information](index)
-2.  [Home](Home)
-
-Product Information : Terracotta Ehcache 10.0 Supported Platforms
-=================================================================
-
-Created by Subhashni Anuradha on Apr 18, 2017
+---
+title:  Terracotta Ehcache 10.0 Supported Platforms  
+---
 
 /\*<!\[CDATA\[\*/ div.rbtoc1633463967963 {padding: 0px;} div.rbtoc1633463967963 ul {list-style: disc;margin-left: 0px;} div.rbtoc1633463967963 li {margin-left: 0px;padding-left: 0px;} /\*\]\]>\*/
 

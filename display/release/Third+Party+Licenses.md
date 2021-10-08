@@ -1,12 +1,6 @@
-Product Information : Third Party Licenses  
-
-1.  [Product Information](index)
-2.  [Home](Home)
-
-Product Information : Third Party Licenses
-==========================================
-
-Created by Fiona OShea, last modified on Apr 19, 2021
+---
+title:  Third Party Licenses  
+---
 
 Terracotta Third Party License Files
 ====================================

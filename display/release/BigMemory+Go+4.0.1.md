@@ -1,12 +1,6 @@
-Product Information : BigMemory Go 4.0.1  
-
-1.  [Product Information](index)
-2.  [Home](Home)
-
-Product Information : BigMemory Go 4.0.1
-========================================
-
-Created by Fiona OShea, last modified on Jun 07, 2013
+---
+title:  BigMemory Go 4.0.1  
+---
 
 The 4.0.1 release primarily is a GA release of BigMemory Go, fixing the issues below.
 

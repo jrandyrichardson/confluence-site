@@ -1,12 +1,6 @@
-Product Information : Terracotta 10.3 Release Notes  
-
-1.  [Product Information](index)
-2.  [Home](Home)
-
-Product Information : Terracotta 10.3 Release Notes
-===================================================
-
-Created by Subhashni Anuradha, last modified by James House on Oct 30, 2019
+---
+title:  Terracotta 10.3 Release Notes  
+---
 
 Terracotta is a distributed in-memory data management solution for both operational storage and analytical processing.  Terracotta has powerful query and computation capabilities, leveraging native JDK features such as Java Streams, collections, and functions. It supports the following sub-systems:
 

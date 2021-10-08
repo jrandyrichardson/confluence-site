@@ -1,12 +1,6 @@
-Product Information : Release Notes 3.3.0 Beta  
-
-1.  [Product Information](index)
-2.  [Home](Home)
-
-Product Information : Release Notes 3.3.0 Beta
-==============================================
-
-Created by Fiona OShea, last modified on Jul 16, 2010
+---
+title:  Release Notes 3.3.0 Beta  
+---
 
 Release Notes for Terracotta 3.3 (Esperance) Beta
 =================================================

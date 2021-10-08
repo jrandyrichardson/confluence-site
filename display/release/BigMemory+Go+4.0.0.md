@@ -1,13 +1,6 @@
-Product Information : BigMemory Go 4.0.0  
-
-1.  [Product Information](index)
-2.  [Home](Home)
-3.  [BigMemory Max 4.0.0 Release Notes](BigMemory-Max-4.0.0-Release-Notes)
-
-Product Information : BigMemory Go 4.0.0
-========================================
-
-Created by Fiona OShea, last modified on Mar 04, 2013
+---
+title:  BigMemory Go 4.0.0  
+---
 
 BigMemory Go 4.0 introduces various enhancements in management tools and restartability.  The new version of BigMemory Go includes various UX and functional enhancements in Terracotta Management Console (TMC).  The improved restartable store provides enhancements including ability to take live backup of in-memory data. BigMemory Go supports Java 7. 
 

@@ -1,12 +1,6 @@
-Product Information : Quartz Manager 1.0 Release Notes  
-
-1.  [Product Information](index)
-2.  [Home](Home)
-
-Product Information : Quartz Manager 1.0 Release Notes
-======================================================
-
-Created by Fiona OShea, last modified on Jan 27, 2012
+---
+title:  Quartz Manager 1.0 Release Notes  
+---
 
 /\*<!\[CDATA\[\*/ div.rbtoc1633463967582 {padding: 0px;} div.rbtoc1633463967582 ul {list-style: disc;margin-left: 0px;} div.rbtoc1633463967582 li {margin-left: 0px;padding-left: 0px;} /\*\]\]>\*/
 

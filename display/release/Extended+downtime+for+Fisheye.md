@@ -1,12 +1,6 @@
-Product Information : Extended downtime for Fisheye  
-
-1.  [Product Information](index)
-2.  [Home](Home)
-
-Product Information : Extended downtime for Fisheye
-===================================================
-
-Created by Fiona OShea, last modified on Jul 19, 2012
+---
+title:  Extended downtime for Fisheye  
+---
 
 Fisheye downtime
 ================

@@ -1,12 +1,6 @@
-Product Information : BigMemory Max 4.0.1  
-
-1.  [Product Information](index)
-2.  [Home](Home)
-
-Product Information : BigMemory Max 4.0.1
-=========================================
-
-Created by Fiona OShea, last modified by Unknown User (ilevy) on Jun 19, 2013
+---
+title:  BigMemory Max 4.0.1  
+---
 
 BigMemory Max 4.0.1 is a General Availability ("GA") release of BigMemory Max 4.
 

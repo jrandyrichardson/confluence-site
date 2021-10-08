@@ -1,12 +1,6 @@
-Product Information : Terracotta 3.5 Release Notes  
-
-1.  [Product Information](index)
-2.  [Home](Home)
-
-Product Information : Terracotta 3.5 Release Notes
-==================================================
-
-Created by Fiona OShea, last modified by Unknown User (ilevy) on Apr 12, 2013
+---
+title:  Terracotta 3.5 Release Notes  
+---
 
 The Terracotta 3.5.5 kit includes Terracotta 3.5.5, Ehcache 2.4.8 and Quartz 2.1.6. Please see Ehcache 2.4.8 [Release Notes](Release-Notes-Ehcache-Core-2.4) for further information on changes
 

@@ -1,12 +1,6 @@
-Product Information : Release Notes Terracotta 3.5.0 Release Candidate  
-
-1.  [Product Information](index)
-2.  [Home](Home)
-
-Product Information : Release Notes Terracotta 3.5.0 Release Candidate
-======================================================================
-
-Created by Fiona OShea, last modified by Mike Allen on Mar 14, 2011
+---
+title:  Release Notes Terracotta 3.5.0 Release Candidate  
+---
 
 The Terracotta 3.5.0 Release Candidate includes Ehcache Core 2.4.0 and Quartz 2.0.0 RC
 

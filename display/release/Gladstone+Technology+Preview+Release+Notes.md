@@ -1,12 +1,6 @@
-Product Information : Gladstone Technology Preview Release Notes  
-
-1.  [Product Information](index)
-2.  [Home](Home)
-
-Product Information : Gladstone Technology Preview Release Notes
-================================================================
-
-Created by Fiona OShea, last modified on Jun 25, 2012
+---
+title:  Gladstone Technology Preview Release Notes  
+---
 
 /\*<!\[CDATA\[\*/ div.rbtoc1633463967505 {padding: 0px;} div.rbtoc1633463967505 ul {list-style: disc;margin-left: 0px;} div.rbtoc1633463967505 li {margin-left: 0px;padding-left: 0px;} /\*\]\]>\*/
 

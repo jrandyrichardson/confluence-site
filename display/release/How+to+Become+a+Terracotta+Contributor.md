@@ -1,12 +1,6 @@
-Product Information : How to Become a Terracotta Contributor  
-
-1.  [Product Information](index)
-2.  [Home](Home)
-
-Product Information : How to Become a Terracotta Contributor
-============================================================
-
-Created by Unknown User (ilevy), last modified by Fiona OShea on Apr 24, 2017
+---
+title:  How to Become a Terracotta Contributor  
+---
 
 Become a Contributor
 ====================

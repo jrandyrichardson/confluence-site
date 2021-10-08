@@ -1,12 +1,6 @@
-Product Information : Ehcache-monitor1.0.1 Release Notes  
-
-1.  [Product Information](index)
-2.  [Home](Home)
-
-Product Information : Ehcache-monitor1.0.1 Release Notes
-========================================================
-
-Created by Fiona OShea, last modified on Aug 11, 2010
+---
+title:  Ehcache-monitor1.0.1 Release Notes  
+---
 
 ### Changes in Ehache-monitor 1.0.1
 

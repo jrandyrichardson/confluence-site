@@ -1,12 +1,6 @@
-Product Information : BigMemory Max 4.0.0 Release Notes  
-
-1.  [Product Information](index)
-2.  [Home](Home)
-
-Product Information : BigMemory Max 4.0.0 Release Notes
-=======================================================
-
-Created by Fiona OShea, last modified by Karen Quastler on Jan 17, 2014
+---
+title:  BigMemory Max 4.0.0 Release Notes  
+---
 
 BigMemory Max 4.0 introduces new and improved In-memory Data Management platform with following core capabilities:
 

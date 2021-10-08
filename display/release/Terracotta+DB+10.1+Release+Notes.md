@@ -1,12 +1,6 @@
-Product Information : Terracotta DB 10.1 Release Notes  
-
-1.  [Product Information](index)
-2.  [Home](Home)
-
-Product Information : Terracotta DB 10.1 Release Notes
-======================================================
-
-Created by Subhashni Anuradha, last modified on Oct 31, 2017
+---
+title:  Terracotta DB 10.1 Release Notes  
+---
 
 Terracotta DB is a distributed in-memory data management solution for both operational and analytical workloads.  Terracotta DB has powerful query and computation capabilities, leveraging native JDK features such as Java Streams, collections, and functions. It supports the following sub-systems:
 

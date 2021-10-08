@@ -1,12 +1,6 @@
-Product Information : Patches  
-
-1.  [Product Information](index)
-2.  [Home](Home)
-
-Product Information : Patches
-=============================
-
-Created by Unknown User (ilevy), last modified by Mike Allen on Jan 14, 2011
+---
+title:  Patches  
+---
 
 Terracotta Software Patches
 ===========================

@@ -1,12 +1,6 @@
-Product Information : Release Notes Terracotta 3.5.0  
-
-1.  [Product Information](index)
-2.  [Home](Home)
-
-Product Information : Release Notes Terracotta 3.5.0
-====================================================
-
-Created by Fiona OShea, last modified by Unknown User (ilevy) on Jun 22, 2011
+---
+title:  Release Notes Terracotta 3.5.0  
+---
 
 The Terracotta 3.5.0 Release includes Ehcache Core 2.4.1 and Quartz 2.0.0
 

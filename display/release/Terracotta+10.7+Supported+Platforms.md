@@ -1,12 +1,6 @@
-Product Information : Terracotta 10.7 Supported Platforms  
-
-1.  [Product Information](index)
-2.  [Home](Home)
-
-Product Information : Terracotta 10.7 Supported Platforms
-=========================================================
-
-Created by Fiona OShea on Apr 13, 2021
+---
+title:  Terracotta 10.7 Supported Platforms  
+---
 
 Platform Support
 ----------------

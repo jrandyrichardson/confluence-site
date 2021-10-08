@@ -1,12 +1,6 @@
-Product Information : Terracotta 3.6.0 Beta Release Notes  
-
-1.  [Product Information](index)
-2.  [Home](Home)
-
-Product Information : Terracotta 3.6.0 Beta Release Notes
-=========================================================
-
-Created by Fiona OShea, last modified on Nov 10, 2011
+---
+title:  Terracotta 3.6.0 Beta Release Notes  
+---
 
 /\*<!\[CDATA\[\*/ div.rbtoc1633463967793 {padding: 0px;} div.rbtoc1633463967793 ul {list-style: disc;margin-left: 0px;} div.rbtoc1633463967793 li {margin-left: 0px;padding-left: 0px;} /\*\]\]>\*/
 

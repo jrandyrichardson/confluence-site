@@ -1,12 +1,6 @@
-Product Information : BigMemory Go 4.2  
-
-1.  [Product Information](index)
-2.  [Home](Home)
-
-Product Information : BigMemory Go 4.2
-======================================
-
-Created by Subhashni Anuradha, last modified on Feb 23, 2015
+---
+title:  BigMemory Go 4.2  
+---
 
 **/\*<!\[CDATA\[\*/ div.rbtoc1633463967097 {padding: 0px;} div.rbtoc1633463967097 ul {list-style: disc;margin-left: 0px;} div.rbtoc1633463967097 li {margin-left: 0px;padding-left: 0px;} /\*\]\]>\*/**
 

@@ -1,14 +1,6 @@
-Product Information : migration guide  
-
-1.  [Product Information](index)
-2.  [Home](Home)
-3.  [Fremantle Beta Release Notes](Fremantle-Beta-Release-Notes)
-4.  [What's new in Quartz 2.0](24642084)
-
-Product Information : migration guide
-=====================================
-
-Created by Fiona OShea, last modified on Nov 24, 2010
+---
+title:  migration guide  
+---
 
 Quartz 1.8.x to Quartz 2.0 Migration Guide
 ==========================================

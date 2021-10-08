@@ -1,12 +1,6 @@
-Product Information : BigMemory Max 4.3  
-
-1.  [Product Information](index)
-2.  [Home](Home)
-
-Product Information : BigMemory Max 4.3
-=======================================
-
-Created by Subhashni Anuradha, last modified by Fiona OShea on Sep 28, 2021
+---
+title:  BigMemory Max 4.3  
+---
 
 BigMemory Max 4.3.9 (April 2021) is the latest release. It includes Ehcache 2.10.9.
 

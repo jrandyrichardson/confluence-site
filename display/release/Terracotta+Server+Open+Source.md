@@ -1,12 +1,6 @@
-Product Information : Terracotta Server Open Source  
-
-1.  [Product Information](index)
-2.  [Home](Home)
-
-Product Information : Terracotta Server Open Source
-===================================================
-
-Created by Fiona OShea, last modified on Apr 02, 2015
+---
+title:  Terracotta Server Open Source  
+---
 
 Latest Release News
 

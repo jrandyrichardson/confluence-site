@@ -1,12 +1,6 @@
-Product Information : Terracotta Ehcache 10.3 Release Notes  
-
-1.  [Product Information](index)
-2.  [Home](Home)
-
-Product Information : Terracotta Ehcache 10.3 Release Notes
-===========================================================
-
-Created by Subhashni Anuradha, last modified on Jan 11, 2019
+---
+title:  Terracotta Ehcache 10.3 Release Notes  
+---
 
 Terracotta Ehcache is a standards-based cache that boosts performance, offloads your database, and simplifies scalability. It's the most widely-used Java-based caching platform in the world for its ability to integrate with other popular libraries and frameworks like Hibernate, Spring, etc. Terracotta Ehcache scales from in-process caching, all the way to mixed in-process/out-of-process deployments with terabyte-sized caches. It strengthens distributed caching capabilities via a new generation of Terracotta server with support for high-availability and improved performance.
 

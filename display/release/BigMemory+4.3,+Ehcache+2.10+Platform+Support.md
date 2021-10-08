@@ -1,14 +1,6 @@
-Product Information : BigMemory 4.3, Ehcache 2.10 Platform Support  
-
-1.  [Product Information](index)
-2.  [Home](Home)
-3.  [BigMemory 4.0, Ehcache 2.7 Platform Support](37129882)
-4.  [BigMemory 4.1, Ehcache 2.8 Platform Support](38834165)
-
-Product Information : BigMemory 4.3, Ehcache 2.10 Platform Support
-==================================================================
-
-Created by Steve Yellenberg, last modified by James House on May 18, 2021
+---
+title:  BigMemory 4.3, Ehcache 2.10 Platform Support  
+---
 
 /\*<!\[CDATA\[\*/ div.rbtoc1633463967020 {padding: 0px;} div.rbtoc1633463967020 ul {list-style: disc;margin-left: 0px;} div.rbtoc1633463967020 li {margin-left: 0px;padding-left: 0px;} /\*\]\]>\*/
 

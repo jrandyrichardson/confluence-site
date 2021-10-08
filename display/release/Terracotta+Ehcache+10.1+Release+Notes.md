@@ -1,12 +1,6 @@
-Product Information : Terracotta Ehcache 10.1 Release Notes  
-
-1.  [Product Information](index)
-2.  [Home](Home)
-
-Product Information : Terracotta Ehcache 10.1 Release Notes
-===========================================================
-
-Created by Subhashni Anuradha, last modified on Oct 16, 2017
+---
+title:  Terracotta Ehcache 10.1 Release Notes  
+---
 
 /\*<!\[CDATA\[\*/ div.rbtoc1633463967971 {padding: 0px;} div.rbtoc1633463967971 ul {list-style: disc;margin-left: 0px;} div.rbtoc1633463967971 li {margin-left: 0px;padding-left: 0px;} /\*\]\]>\*/
 

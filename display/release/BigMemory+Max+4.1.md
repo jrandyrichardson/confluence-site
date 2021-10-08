@@ -1,12 +1,6 @@
-Product Information : BigMemory Max 4.1  
-
-1.  [Product Information](index)
-2.  [Home](Home)
-
-Product Information : BigMemory Max 4.1
-=======================================
-
-Created by Subhashni Anuradha, last modified by James House on Jul 02, 2018
+---
+title:  BigMemory Max 4.1  
+---
 
 **BigMemory Max 4.1.11 is the latest release**. It includes Ehcache 2.8.10 and Quartz 2.2.1
 

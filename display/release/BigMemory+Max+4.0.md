@@ -1,12 +1,6 @@
-Product Information : BigMemory Max 4.0  
-
-1.  [Product Information](index)
-2.  [Home](Home)
-
-Product Information : BigMemory Max 4.0
-=======================================
-
-Created by Fiona OShea, last modified by Subhashni Anuradha on Mar 17, 2016
+---
+title:  BigMemory Max 4.0  
+---
 
 BigMemory Max 4.0.8 is the latest  release of BigMemory Max 4.0. It includes Ehcache 2.7.8 and Quartz 2.2.1
 

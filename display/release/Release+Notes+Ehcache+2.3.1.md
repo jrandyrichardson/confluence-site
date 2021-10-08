@@ -1,12 +1,6 @@
-Product Information : Release Notes Ehcache 2.3.1  
-
-1.  [Product Information](index)
-2.  [Home](Home)
-
-Product Information : Release Notes Ehcache 2.3.1
-=================================================
-
-Created by Fiona OShea, last modified on Dec 16, 2010
+---
+title:  Release Notes Ehcache 2.3.1  
+---
 
 Release Notes for Ehcache 2.3.1
 ===============================

@@ -1,12 +1,6 @@
-Product Information : Release Notes Terracotta 3.4 Ehcache 2.3 Beta  
-
-1.  [Product Information](index)
-2.  [Home](Home)
-
-Product Information : Release Notes Terracotta 3.4 Ehcache 2.3 Beta
-===================================================================
-
-Created by Fiona OShea, last modified by Mike Allen on Sep 17, 2010
+---
+title:  Release Notes Terracotta 3.4 Ehcache 2.3 Beta  
+---
 
 Release Notes for BigMemory Beta
 ================================

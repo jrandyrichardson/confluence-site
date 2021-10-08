@@ -1,12 +1,6 @@
-Product Information : Library to Server Compatibility Matrix  
-
-1.  [Product Information](index)
-2.  [Home](Home)
-
-Product Information : Library to Server Compatibility Matrix
-============================================================
-
-Created by Mike Allen, last modified by Steve Yellenberg on Apr 24, 2015
+---
+title:  Library to Server Compatibility Matrix  
+---
 
 Library-to-Server Compatibility Matrix
 ======================================

@@ -1,12 +1,6 @@
-Product Information : Terracotta 10.3 Supported Platforms  
-
-1.  [Product Information](index)
-2.  [Home](Home)
-
-Product Information : Terracotta 10.3 Supported Platforms
-=========================================================
-
-Created by Subhashni Anuradha, last modified by James House on May 21, 2019
+---
+title:  Terracotta 10.3 Supported Platforms  
+---
 
 Platform Support
 ----------------

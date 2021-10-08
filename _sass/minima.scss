@@ -23,8 +23,9 @@ $table-text-align: left !default;
 // Width of the content area
 $content-width:    1024px !default;
 
-$on-palm:          600px !default;
-$on-laptop:        800px !default;
+// Disables on-top nav which is obnoxious:
+$on-palm:          60000px !default;
+$on-laptop:        80000px !default;
 
 // Use media queries like this:
 // @include media-query($on-palm) {

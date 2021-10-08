@@ -1,12 +1,6 @@
-Product Information : Terracotta 3.7  
-
-1.  [Product Information](index)
-2.  [Home](Home)
-
-Product Information : Terracotta 3.7
-====================================
-
-Created by Fiona OShea, last modified by Subhashni Anuradha on Jul 18, 2016
+---
+title:  Terracotta 3.7  
+---
 
 The Terracotta 3.7.10 kit includes Terracotta 3.7.10, Ehcache 2.6.11 and Quartz 2.1.7
 

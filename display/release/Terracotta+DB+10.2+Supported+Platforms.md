@@ -1,13 +1,6 @@
-Product Information : Terracotta DB 10.2 Supported Platforms  
-
-1.  [Product Information](index)
-2.  [Home](Home)
-3.  [Terracotta DB 10.2 Release Notes](Terracotta-DB-10.2-Release-Notes)
-
-Product Information : Terracotta DB 10.2 Supported Platforms
-============================================================
-
-Created by Subhashni Anuradha on Apr 16, 2018
+---
+title:  Terracotta DB 10.2 Supported Platforms  
+---
 
 Platform Support
 ----------------

@@ -1,12 +1,6 @@
-Product Information : Terracotta Ehcache 10.0 Release Notes  
-
-1.  [Product Information](index)
-2.  [Home](Home)
-
-Product Information : Terracotta Ehcache 10.0 Release Notes
-===========================================================
-
-Created by Subhashni Anuradha, last modified on May 31, 2017
+---
+title:  Terracotta Ehcache 10.0 Release Notes  
+---
 
 **Terracotta Ehcache **is an innovation release which is an improved version of Java's de facto caching API, Ehcache. It has a powerful, streamlined, modernized caching API taking advantage of newer Java features as well as the capability to be used via the JSR-107 "JCache" API.
 

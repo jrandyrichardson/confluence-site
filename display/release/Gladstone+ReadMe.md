@@ -1,12 +1,6 @@
-Product Information : Gladstone ReadMe  
-
-1.  [Product Information](index)
-2.  [Home](Home)
-
-Product Information : Gladstone ReadMe
-======================================
-
-Created by Fiona OShea, last modified by Manish Devgan on Jun 14, 2012
+---
+title:  Gladstone ReadMe  
+---
 
 Gladstone Tech Preview
 ======================

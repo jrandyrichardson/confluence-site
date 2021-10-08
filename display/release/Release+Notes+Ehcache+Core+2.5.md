@@ -1,13 +1,6 @@
-Product Information : Release Notes Ehcache Core 2.5  
-
-1.  [Product Information](index)
-2.  [Home](Home)
-3.  [Release Notes Terracotta 3.6, Ehcache 2.5, Quartz 2.1](28803333)
-
-Product Information : Release Notes Ehcache Core 2.5
-====================================================
-
-Created by Fiona OShea, last modified on Aug 13, 2012
+---
+title:  Release Notes Ehcache Core 2.5  
+---
 
 /\*<!\[CDATA\[\*/ div.rbtoc1633463967722 {padding: 0px;} div.rbtoc1633463967722 ul {list-style: disc;margin-left: 0px;} div.rbtoc1633463967722 li {margin-left: 0px;padding-left: 0px;} /\*\]\]>\*/
 

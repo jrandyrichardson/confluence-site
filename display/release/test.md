@@ -1,13 +1,6 @@
-Product Information : Test Drive TMC  
-
-1.  [Product Information](index)
-2.  [Home](Home)
-3.  [Gladstone ReadMe](Gladstone-ReadMe)
-
-Product Information : Test Drive TMC
-====================================
-
-Created by Fiona OShea, last modified by Manish Devgan on Jun 25, 2012
+---
+title:  Test Drive TMC  
+---
 
 To get a quick overview of how the new Terracotta Management Console works, you can start by running the console against a sample application available on github (see instructions below). Once you have successfully run TMC against the sample application, you may refer to the steps in "Using TMC with your own application" section below to run it against your existing application.
 

@@ -1,12 +1,6 @@
-Product Information : Terracotta 3.7.0 EAP  
-
-1.  [Product Information](index)
-2.  [Home](Home)
-
-Product Information : Terracotta 3.7.0 EAP
-==========================================
-
-Created by Fiona OShea, last modified by Manish Devgan on Jun 27, 2012
+---
+title:  Terracotta 3.7.0 EAP  
+---
 
 Download link: [http://tcdistributions.s3.amazonaws.com/terracotta-ee-3.7.0-SNAPSHOT.tar.gz](http://tcdistributions.s3.amazonaws.com/terracotta-ee-3.7.0-SNAPSHOT.tar.gz)
 

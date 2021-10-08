@@ -1,12 +1,6 @@
-Product Information : Technical FAQ  
-
-1.  [Product Information](index)
-2.  [Home](Home)
-
-Product Information : Technical FAQ
-===================================
-
-Created by Unknown User (ilevy), last modified on Mar 21, 2013
+---
+title:  Technical FAQ  
+---
 
 [The Technical FAQ](http://terracotta.org/documentation/bigmemorymax/technical-faq) answers questions on how Terracotta products work, integrations, and solving issues. If your question doesn't appear there, consider posting it on the [Terracotta forums](http://forums.terracotta.org).
 

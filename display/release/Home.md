@@ -1,11 +1,6 @@
-Product Information : Home
-
-1.  [Product Information](index)
-
-![Home Page](images/icons/contenttypes/home_page_16.png) Product Information : Home
-====================================================================================
-
-Created by Unknown User (ilevy), last modified by Fiona OShea on May 12, 2021
+---
+title:  Home
+---
 
 ![](attachments/23232545/SAG_Terracotta_Logo_Oct17.png)
 =======================================

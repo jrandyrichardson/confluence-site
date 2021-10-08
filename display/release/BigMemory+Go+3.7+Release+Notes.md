@@ -1,12 +1,6 @@
-Product Information : BigMemory Go 3.7 Release Notes  
-
-1.  [Product Information](index)
-2.  [Home](Home)
-
-Product Information : BigMemory Go 3.7 Release Notes
-====================================================
-
-Created by Fiona OShea, last modified by Subhashni Anuradha on Nov 08, 2013
+---
+title:  BigMemory Go 3.7 Release Notes  
+---
 
 /\*<!\[CDATA\[\*/ div.rbtoc1633463967061 {padding: 0px;} div.rbtoc1633463967061 ul {list-style: disc;margin-left: 0px;} div.rbtoc1633463967061 li {margin-left: 0px;padding-left: 0px;} /\*\]\]>\*/
 

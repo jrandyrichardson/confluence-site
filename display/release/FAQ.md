@@ -1,12 +1,6 @@
-Product Information : FAQ  
-
-1.  [Product Information](index)
-2.  [Home](Home)
-
-Product Information : FAQ
-=========================
-
-Created by Unknown User (ilevy), last modified by Mike Allen on Dec 08, 2010
+---
+title:  FAQ  
+---
 
 Terracotta General FAQ
 ----------------------

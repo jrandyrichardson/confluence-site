@@ -1,12 +1,6 @@
-Product Information : Terracotta EOS Policy and Notices  
-
-1.  [Product Information](index)
-2.  [Home](Home)
-
-Product Information : Terracotta EOS Policy and Notices
-=======================================================
-
-Created by Fiona OShea, last modified by Steve Yellenberg on Apr 21, 2016
+---
+title:  Terracotta EOS Policy and Notices  
+---
 
 Terracotta EOS Policy and Notices
 =================================

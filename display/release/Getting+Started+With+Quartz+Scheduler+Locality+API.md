@@ -1,13 +1,6 @@
-Product Information : Getting Started With Quartz Scheduler Locality API  
-
-1.  [Product Information](index)
-2.  [Home](Home)
-3.  [Fremantle Beta Release Notes](Fremantle-Beta-Release-Notes)
-
-Product Information : Getting Started With Quartz Scheduler Locality API
-========================================================================
-
-Created by Unknown User (ilevy), last modified on Feb 07, 2011
+---
+title:  Getting Started With Quartz Scheduler Locality API  
+---
 
 Terracotta Quartz Scheduler Where introduces an Enterprise feature that allows jobs and triggers to be run on specified Terracotta clients instead of randomly chosen ones. Quartz Scheduler Where is a locality API that can be used to direct jobs to nodes having enough resources or the relevant data for successfully executing those jobs. Also introduced with Quartz 2.0 is a more readable fluent-interface approach to creating and scheduling jobs and triggers.
 

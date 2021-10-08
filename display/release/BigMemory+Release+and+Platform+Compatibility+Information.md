@@ -1,12 +1,6 @@
-Product Information : BigMemory Release and Platform Compatibility Information  
-
-1.  [Product Information](index)
-2.  [Home](Home)
-
-Product Information : BigMemory Release and Platform Compatibility Information
-==============================================================================
-
-Created by Subhashni Anuradha, last modified on Aug 02, 2017
+---
+title:  BigMemory Release and Platform Compatibility Information  
+---
 
 Latest Release News
 

@@ -1,12 +1,6 @@
-Product Information : Release Notes Terracotta 3.4.1  
-
-1.  [Product Information](index)
-2.  [Home](Home)
-
-Product Information : Release Notes Terracotta 3.4.1
-====================================================
-
-Created by Fiona OShea, last modified on Feb 11, 2011
+---
+title:  Release Notes Terracotta 3.4.1  
+---
 
 Release Notes for Terracotta 3.4.1
 ==================================

@@ -1,13 +1,6 @@
-Product Information : Getting Started With Ehcache Search API For Clustered Caches  
-
-1.  [Product Information](index)
-2.  [Home](Home)
-3.  [Fremantle Beta Release Notes](Fremantle-Beta-Release-Notes)
-
-Product Information : Getting Started With Ehcache Search API For Clustered Caches
-==================================================================================
-
-Created by Unknown User (ilevy), last modified on Nov 24, 2010
+---
+title:  Getting Started With Ehcache Search API For Clustered Caches  
+---
 
 ﻿  
 Ehcache Search is a powerful search API for querying clustered caches in a Terracotta cluster. Designed to be easy to integrate with existing projects, the Ehcache Search API can be implemented with configuration or programmatically. The following is an example snipped from an Ehcache configuration file:

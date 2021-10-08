@@ -1,12 +1,6 @@
-Product Information : Web Sessions 4.0.0  
-
-1.  [Product Information](index)
-2.  [Home](Home)
-
-Product Information : Web Sessions 4.0.0
-========================================
-
-Created by Steve Yellenberg, last modified by Fiona OShea on Jun 07, 2013
+---
+title:  Web Sessions 4.0.0  
+---
 
 Version 4.0.0 (General Availability or "GA" of Web Sessions) 
 

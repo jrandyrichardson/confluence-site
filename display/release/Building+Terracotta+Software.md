@@ -1,12 +1,6 @@
-Product Information : Building Terracotta Software  
-
-1.  [Product Information](index)
-2.  [Home](Home)
-
-Product Information : Building Terracotta Software
-==================================================
-
-Created by Unknown User (ilevy), last modified on Sep 12, 2011
+---
+title:  Building Terracotta Software  
+---
 
 Building Versions 3.6.x and Later
 
