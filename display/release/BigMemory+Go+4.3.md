@@ -6,20 +6,8 @@ title:  BigMemory Go 4.3
 
 **
 
-*   [New Features](#BigMemoryGo4.3-NewFeatures)
-*   [Summary of Changes in 4.3.6.3](#BigMemoryGo4.3-SummaryofChangesin4.3.6.3)
-    *   [Resolved](#BigMemoryGo4.3-Resolved)
-    *   [Known Issues](#BigMemoryGo4.3-KnownIssues)
-*   [Summary of Changes in 4.3.6](#BigMemoryGo4.3-SummaryofChangesin4.3.6)
-    *   [Resolved](#BigMemoryGo4.3-Resolved.1)
-    *   [Known Issues](#BigMemoryGo4.3-KnownIssues.1)
-*   [Summary of Changes in 4.3.1](#BigMemoryGo4.3-SummaryofChangesin4.3.1)
-    *   [Resolved](#BigMemoryGo4.3-Resolved.2)
-    *   [Known Issues  ](#BigMemoryGo4.3-KnownIssues.2)
-*   [Summary of Changes in 4.3.0.1](#BigMemoryGo4.3-SummaryofChangesin4.3.0.1)
-    *   [Resolved](#BigMemoryGo4.3-Resolved.3)
-    *   [Known Issues  ](#BigMemoryGo4.3-KnownIssues.3)
-    *   [Known Issues in 4.3.0](#BigMemoryGo4.3-KnownIssuesin4.3.0)
+* TOC
+{:toc}
 
 **
 

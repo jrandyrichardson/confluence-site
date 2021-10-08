@@ -2,16 +2,10 @@
 title:  Quartz Manager 1.0 Release Notes  
 ---
 
-/\*<!\[CDATA\[\*/ div.rbtoc1633463967582 {padding: 0px;} div.rbtoc1633463967582 ul {list-style: disc;margin-left: 0px;} div.rbtoc1633463967582 li {margin-left: 0px;padding-left: 0px;} /\*\]\]>\*/
 
-*   [Quartz Manager 1.0.2](#QuartzManager1.0ReleaseNotes-QuartzManager1.0.2)
-    *   [Resolved Issues](#QuartzManager1.0ReleaseNotes-ResolvedIssues)
-*   [Quartz Manager 1.0.1](#QuartzManager1.0ReleaseNotes-QuartzManager1.0.1)
-    *   [Resolved Issues](#QuartzManager1.0ReleaseNotes-ResolvedIssues.1)
-*   [Quartz Manager 1.0.0](#QuartzManager1.0ReleaseNotes-QuartzManager1.0.0)
-    *   [Overview](#QuartzManager1.0ReleaseNotes-Overview)
-    *   [Details](#QuartzManager1.0ReleaseNotes-Details)
-*   [Known Open Issues](#QuartzManager1.0ReleaseNotes-KnownOpenIssues)
+
+* TOC
+{:toc}
 
 ### Quartz Manager 1.0.2
 

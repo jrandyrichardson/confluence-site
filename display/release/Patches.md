@@ -5,7 +5,7 @@ title:  Patches
 Terracotta Software Patches
 ===========================
 
-/\*<!\[CDATA\[\*/ div.rbtoc1633463967553 {padding: 0px;} div.rbtoc1633463967553 ul {list-style: disc;margin-left: 0px;} div.rbtoc1633463967553 li {margin-left: 0px;padding-left: 0px;} /\*\]\]>\*/
+
 
 *   [Introduction](#Patches-Introduction)
 *   [About Patches](#Patches-AboutPatches)

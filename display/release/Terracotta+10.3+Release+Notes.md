@@ -11,24 +11,12 @@ Terracotta is a distributed in-memory data management solution for both operati
 
 Both sub-systems are backed by the distributed Terracotta Server, which provides a common platform for distributed in-memory data storage with scale-out, scale-up and high availability features.
 
-/\*<!\[CDATA\[\*/ div.rbtoc1633463967878 {padding: 0px;} div.rbtoc1633463967878 ul {list-style: disc;margin-left: 0px;} div.rbtoc1633463967878 li {margin-left: 0px;padding-left: 0px;} /\*\]\]>\*/
 
-*   [Feature Highlights](#Terracotta10.3ReleaseNotes-FeatureHighlights)
-*   [Summary of Changes 10.3.1.2](#Terracotta10.3ReleaseNotes-SummaryofChanges10.3.1.2)
-    *   [Resolved](#Terracotta10.3ReleaseNotes-Resolved)
-    *   [Known Issues](#Terracotta10.3ReleaseNotes-KnownIssues)
-*   [Summary of Changes 10.3.1](#Terracotta10.3ReleaseNotes-SummaryofChanges10.3.1)
-    *   [New in Terracotta 10.3.1](#Terracotta10.3ReleaseNotes-NewinTerracotta10.3.1)
-    *   [Resolved](#Terracotta10.3ReleaseNotes-Resolved.1)
-*   [Summary of Changes 10.3.0.3](#Terracotta10.3ReleaseNotes-SummaryofChanges10.3.0.3)
-    *   [Resolved](#Terracotta10.3ReleaseNotes-Resolved.2)
-*   [Summary of Changes 10.3.0.2](#Terracotta10.3ReleaseNotes-SummaryofChanges10.3.0.2)
-    *   [Resolved](#Terracotta10.3ReleaseNotes-Resolved.3)
-*   [Summary of Changes 10.3.0.1](#Terracotta10.3ReleaseNotes-SummaryofChanges10.3.0.1)
-    *   [Resolved](#Terracotta10.3ReleaseNotes-Resolved.4)
-*   [Notes:](#Terracotta10.3ReleaseNotes-Notes:)
 
-Feature Highlights
+* TOC
+{:toc}
+
+# Feature Highlights
 ------------------
 
 Terracotta 10.3 release introduces key enterprise readiness features and analytical capabilities in Terracotta. With this release, Terracotta took a big leap forward to support multi cloud deployments, security, and operational usability. Some of the notable features of Terracotta 10.3 include:
@@ -43,7 +31,7 @@ Terracotta 10.3 release introduces key enterprise readiness features and analyti
 *   Numerous operational usability enhancements including latency metering, refactoring and role based access in Terracotta Management Console.
     
 
-Summary of Changes 10.3.1.2
+# Summary of Changes 10.3.1.2
 ---------------------------
 
 This is a fix release, fully backward compatible with earlier 10.3.x releases.
@@ -64,7 +52,7 @@ This is a fix release, fully backward compatible with earlier 10.3.x releases.
 
 *   When using tens-of-thousands of unique cell definitions within a dataset, performance of write operations degrades
 
-Summary of Changes 10.3.1
+# Summary of Changes 10.3.1
 -------------------------
 
 ### New in Terracotta 10.3.1
@@ -82,7 +70,7 @@ Summary of Changes 10.3.1
 *   3903 - Fix possible NullPointerException on server when client process crashes
 *   3883 - Improve display of data in TMC when there is a very large number of connected clients
 
-Summary of Changes 10.3.0.3
+# Summary of Changes 10.3.0.3
 ---------------------------
 
 ### Resolved
@@ -90,7 +78,7 @@ Summary of Changes 10.3.0.3
 *   4249 – Fixed bug related to sending dataset description during replication and cleanup
 *   4149 – Implemented a more efficient backoff waiting algorithm for IO during secure handshake in order to remove a performance degradation when secure network communications are enabled.
 
-Summary of Changes 10.3.0.2
+# Summary of Changes 10.3.0.2
 ---------------------------
 
 ### Resolved
@@ -99,7 +87,7 @@ Summary of Changes 10.3.0.2
 *   3989 – Resolved client not reconnecting to newly promoted active after failover. This happened when cluster was configured for consistency mode with external voters.
 *   3912 – Resolved an “IllegalStateException: Tx slot starvation!” occurring in TCStore for read-heavy loads.  User will most likely encounter this when the server has a limited number of processors available and many RecordStreams are processed.  (The number of concurrent reads was limited to 16 times the number of processors.)  The correction for this removes that limit for read loads without concurrent updates.
 
-Summary of Changes 10.3.0.1
+# Summary of Changes 10.3.0.1
 ---------------------------
 
 ### Resolved
@@ -121,7 +109,7 @@ Summary of Changes 10.3.0.1
 *   1699 - Ehcache EE now automatically registers its management registry if absent  
     
 
-Notes:
+# Notes:
 ------
 
 *   Terracotta BigMemory 4.x and Terracotta 10.x clients may be used simultaneously in the same application by ensuring ClassLoader isolation when initializing at least one of the clients.

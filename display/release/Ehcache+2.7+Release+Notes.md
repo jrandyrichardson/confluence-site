@@ -2,7 +2,7 @@
 title:  Ehcache 2.7 Release Notes  
 ---
 
-/\*<!\[CDATA\[\*/ div.rbtoc1633463967348 {padding: 0px;} div.rbtoc1633463967348 ul {list-style: disc;margin-left: 0px;} div.rbtoc1633463967348 li {margin-left: 0px;padding-left: 0px;} /\*\]\]>\*/
+
 
 *   [Ehcache 2.7.7](#Ehcache2.7ReleaseNotes-Ehcache2.7.7)
     *   [Bug Fix](#Ehcache2.7ReleaseNotes-BugFix)

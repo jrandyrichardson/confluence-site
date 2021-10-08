@@ -2,7 +2,7 @@
 title:  Terracotta 3.6.0 Beta Release Notes  
 ---
 
-/\*<!\[CDATA\[\*/ div.rbtoc1633463967793 {padding: 0px;} div.rbtoc1633463967793 ul {list-style: disc;margin-left: 0px;} div.rbtoc1633463967793 li {margin-left: 0px;padding-left: 0px;} /\*\]\]>\*/
+
 
 *   [Release Notes for Terracotta 3.6.0 Beta](#Terracotta3.6.0BetaReleaseNotes-ReleaseNotesforTerracotta3.6.0Beta)
     *   [Overview](#Terracotta3.6.0BetaReleaseNotes-Overview)

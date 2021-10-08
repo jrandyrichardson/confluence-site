@@ -4,12 +4,10 @@ title:  Terracotta Ehcache 10.0 Release Notes
 
 **Terracotta Ehcache **is an innovation release which is an improved version of Java's de facto caching API, Ehcache. It has a powerful, streamlined, modernized caching API taking advantage of newer Java features as well as the capability to be used via the JSR-107 "JCache" API.
 
-/\*<!\[CDATA\[\*/ div.rbtoc1633463967955 {padding: 0px;} div.rbtoc1633463967955 ul {list-style: disc;margin-left: 0px;} div.rbtoc1633463967955 li {margin-left: 0px;padding-left: 0px;} /\*\]\]>\*/
 
-*   [Feature Highlights](#TerracottaEhcache10.0ReleaseNotes-FeatureHighlights)
-*   [Summary of Changes in 10.0.0.2](#TerracottaEhcache10.0ReleaseNotes-SummaryofChangesin10.0.0.2)
-    *   [Resolved](#TerracottaEhcache10.0ReleaseNotes-Resolved)
-    *   [Known Issues](#TerracottaEhcache10.0ReleaseNotes-KnownIssues)
+
+* TOC
+{:toc}
 
 ### Feature Highlights
 

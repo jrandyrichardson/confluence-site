@@ -2,19 +2,11 @@
 title:  BigMemory Go 3.7 Release Notes  
 ---
 
-/\*<!\[CDATA\[\*/ div.rbtoc1633463967061 {padding: 0px;} div.rbtoc1633463967061 ul {list-style: disc;margin-left: 0px;} div.rbtoc1633463967061 li {margin-left: 0px;padding-left: 0px;} /\*\]\]>\*/
 
-*   [Release Notes for BigMemory Go 3.7.6](#BigMemoryGo3.7ReleaseNotes-ReleaseNotesforBigMemoryGo3.7.6)
-    *   [Resolved Issues](#BigMemoryGo3.7ReleaseNotes-ResolvedIssues)
-*   [Release Notes for BigMemory Go 3.7.2](#BigMemoryGo3.7ReleaseNotes-ReleaseNotesforBigMemoryGo3.7.2)
-    *   [Resolved Issues](#BigMemoryGo3.7ReleaseNotes-ResolvedIssues.1)
-*   [Release Notes for BigMemory Go 3.7.1](#BigMemoryGo3.7ReleaseNotes-ReleaseNotesforBigMemoryGo3.7.1)
-    *   [Summary of Features](#BigMemoryGo3.7ReleaseNotes-SummaryofFeatures)
-    *   [Platform Support](#BigMemoryGo3.7ReleaseNotes-PlatformSupport)
-    *   [How to get support](#BigMemoryGo3.7ReleaseNotes-Howtogetsupport)
-        *   [Known Issues and Limitations](#BigMemoryGo3.7ReleaseNotes-KnownIssuesandLimitations)
+* TOC
+{:toc}
 
-Release Notes for BigMemory Go 3.7.6
+# Release Notes for BigMemory Go 3.7.6
 ====================================
 
 BigMemory Go 3.7.6 is a bug fix release.
@@ -23,7 +15,7 @@ BigMemory Go 3.7.6 is a bug fix release.
 
 *   9463 – Support for HP-UX
 
-Release Notes for BigMemory Go 3.7.2
+# Release Notes for BigMemory Go 3.7.2
 ====================================
 
 BigMemory Go 3.7.2 is a bug fix release.
@@ -37,12 +29,12 @@ BigMemory Go 3.7.2 is a bug fix release.
 *   EHC-973 -Failure while decoding key java.nio.HeapByteBuffer 
     
 
-Release Notes for BigMemory Go 3.7.1
+# Release Notes for BigMemory Go 3.7.1
 ====================================
 
 BigMemory Go is a pluggable, in-memory data management solution with sizable storage capacity and includes search, fast restartability, and support for management, administration, and monitoring.
 
-Summary of Features
+# Summary of Features
 -------------------
 
 *   **In-memory data storage** - BigMemory Go comes with 32GB of free storage capacity per JVM.
@@ -51,12 +43,12 @@ Summary of Features
 *   **Terracotta Management Console** - BigMemory Go includes new web-based management console for complete management, administration, and monitoring of BigMemory Go deployments.
 *   **Ehcache interfaces (APIs)** - BigMemory Go includes Ehcache interfaces for in-memory data management.
 
-Platform Support
+# Platform Support
 ----------------
 
 Please see the [Platform Support Page](30965841).
 
-How to get support
+# How to get support
 ------------------
 
 #### Known Issues and Limitations

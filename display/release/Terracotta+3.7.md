@@ -4,41 +4,16 @@ title:  Terracotta 3.7
 
 The Terracotta 3.7.10 kit includes Terracotta 3.7.10, Ehcache 2.6.11 and Quartz 2.1.7
 
-/\*<!\[CDATA\[\*/ div.rbtoc1633463967811 {padding: 0px;} div.rbtoc1633463967811 ul {list-style: disc;margin-left: 0px;} div.rbtoc1633463967811 li {margin-left: 0px;padding-left: 0px;} /\*\]\]>\*/
 
-*   [Release Notes for Terracotta 3.7.10/Ehcache 2.6.11](#Terracotta3.7-ReleaseNotesforTerracotta3.7.10/Ehcache2.6.11)
-    *   [Resolved Issues](#Terracotta3.7-ResolvedIssues)
-    *   [Known Issues](#Terracotta3.7-KnownIssues)
-*   [Release Notes for Terracotta 3.7.9/Ehcache 2.6.10](#Terracotta3.7-ReleaseNotesforTerracotta3.7.9/Ehcache2.6.10)
-    *   [Resolved Issues](#Terracotta3.7-ResolvedIssues.1)
-    *   [Known Issues](#Terracotta3.7-KnownIssues.1)
-*   [Release Notes for Terracotta 3.7.8/Ehcache 2.6.9](#Terracotta3.7-ReleaseNotesforTerracotta3.7.8/Ehcache2.6.9)
-    *   [Resolved Issues](#Terracotta3.7-ResolvedIssues.2)
-    *   [Known Issues](#Terracotta3.7-KnownIssues.2)
-*   [Release Notes for Terracotta 3.7.7/Ehcache 2.6.8](#Terracotta3.7-ReleaseNotesforTerracotta3.7.7/Ehcache2.6.8)
-    *   [Resolved Issues](#Terracotta3.7-ResolvedIssues.3)
-*   [Release Notes for Terracotta 3.7.6/Ehcache 2.6.6](#Terracotta3.7-ReleaseNotesforTerracotta3.7.6/Ehcache2.6.6)
-    *   [Resolved Issues](#Terracotta3.7-ResolvedIssues.4)
-*   [Release Notes for Terracotta 3.7.5/Ehcache 2.6.6](#Terracotta3.7-ReleaseNotesforTerracotta3.7.5/Ehcache2.6.6)
-    *   [Resolved Issues](#Terracotta3.7-ResolvedIssues.5)
-*   [Release Notes for Terracotta 3.7.4/Ehcache 2.6.5](#Terracotta3.7-ReleaseNotesforTerracotta3.7.4/Ehcache2.6.5)
-    *   [Resolved Issues](#Terracotta3.7-ResolvedIssues.6)
-*   [Release Notes for Terracotta 3.7.3/Ehcache 2.6.3](#Terracotta3.7-ReleaseNotesforTerracotta3.7.3/Ehcache2.6.3)
-    *   [Additional Resolved Issues for Terracotta 3.7.3/Ehcache 2.6.3](#Terracotta3.7-AdditionalResolvedIssuesforTerracotta3.7.3/Ehcache2.6.3)
-*   [Release Notes for Terracotta 3.7.2](#Terracotta3.7-ReleaseNotesforTerracotta3.7.2)
-    *   [Resolved Issues Terracotta 3.7.2](#Terracotta3.7-ResolvedIssuesTerracotta3.7.2)
-    *   [Resolved Issues Ehcache 2.6.2](#Terracotta3.7-ResolvedIssuesEhcache2.6.2)
-*   [ Release Notes for Terracotta 3.7.0](#Terracotta3.7-ReleaseNotesforTerracotta3.7.0)
-    *   [Summary of Changes](#Terracotta3.7-SummaryofChanges)
-    *   [Upgrading](#Terracotta3.7-Upgrading)
-    *   [Platform Changes](#Terracotta3.7-PlatformChanges)
-    *   [Known Issues](#Terracotta3.7-KnownIssues.3)
+
+* TOC
+{:toc}
 
 The following may be applicable to using certain Ehcache cache modes with Hibernate:
 
 <table class="confluenceTable"><tbody><tr><td class="highlight-grey confluenceTd" colspan="5" data-highlight-colour="grey" style="text-align: center;"><strong>HIBERNATE MODES</strong></td></tr><tr><th colspan="1" class="confluenceTh"><p>&nbsp;</p><p>EHCACHE MODES</p></th><th class="confluenceTh">Read-Only</th><th class="confluenceTh">Non-Strict Read-Write</th><th class="confluenceTh">Read-Write</th><th class="confluenceTh">Transactional</th></tr><tr><td class="highlight-grey confluenceTd" colspan="1" data-highlight-colour="grey"><strong>Nonstop caches</strong></td><td class="confluenceTd">Good</td><td class="confluenceTd">Good (but can degrade)</td><td class="confluenceTd">Not Recommended</td><td class="confluenceTd">Not Recommended</td></tr><tr><td class="highlight-grey confluenceTd" colspan="1" data-highlight-colour="grey"><strong>Eventual consistency</strong></td><td class="confluenceTd">Good</td><td class="confluenceTd">Good (but can degrade)</td><td class="confluenceTd">Not Recommended</td><td class="confluenceTd">Not Recommended</td></tr><tr><td class="highlight-grey confluenceTd" colspan="1" data-highlight-colour="grey"><strong>Strong consistency</strong></td><td class="confluenceTd">Good</td><td class="confluenceTd">Good</td><td class="confluenceTd">Good</td><td class="confluenceTd">Not recommended</td></tr><tr><td class="highlight-grey confluenceTd" colspan="1" data-highlight-colour="grey"><strong>Transactional</strong></td><td class="confluenceTd">Not Recommended</td><td class="confluenceTd">Not Recommended</td><td class="confluenceTd">Not Recommended</td><td class="confluenceTd">Good</td></tr></tbody></table>
 
-Release Notes for Terracotta 3.7.10/Ehcache 2.6.11
+# Release Notes for Terracotta 3.7.10/Ehcache 2.6.11
 ==================================================
 
 This is a bug fix release; and allows compatibility with Java 8.
@@ -62,7 +37,7 @@ This is a bug fix release; and allows compatibility with Java 8.
         watt.server.cachemanager.parallelThreads=1
         
 
-Release Notes for Terracotta 3.7.9/Ehcache 2.6.10
+# Release Notes for Terracotta 3.7.9/Ehcache 2.6.10
 =================================================
 
 This is a bug fix release.
@@ -78,7 +53,7 @@ This is a bug fix release.
     *   Workaround:  use short versions of the flags
 *   4433 - example10 under quartz/examples/example10 does not work
 
-Release Notes for Terracotta 3.7.8/Ehcache 2.6.9
+# Release Notes for Terracotta 3.7.8/Ehcache 2.6.9
 ================================================
 
 This is a bug fix release.
@@ -98,7 +73,7 @@ This is a bug fix release.
     *   Workaround:  use short versions of the flags
 *   4433 - example10 under quartz/examples/example10 does not work
 
-Release Notes for Terracotta 3.7.7/Ehcache 2.6.8
+# Release Notes for Terracotta 3.7.7/Ehcache 2.6.8
 ================================================
 
 This is a bug fix release.
@@ -113,7 +88,7 @@ This is a bug fix release.
 *   8701 - Fixed the case where non-restartable caches were reusing search indexes persisted from a previous session.
 *   8770 - Resolved reprobing issues in L1.
 
-Release Notes for Terracotta 3.7.6/Ehcache 2.6.6
+# Release Notes for Terracotta 3.7.6/Ehcache 2.6.6
 ================================================
 
 Terracotta 3.7.6/Ehcache 2.6.6 is a bug fix release
@@ -122,7 +97,7 @@ Terracotta 3.7.6/Ehcache 2.6.6 is a bug fix release
 
 *   9463 – Support for HP-UX
 
-Release Notes for Terracotta 3.7.5/Ehcache 2.6.6
+# Release Notes for Terracotta 3.7.5/Ehcache 2.6.6
 ================================================
 
 Terracotta 3.7.5/Ehcache 2.6.6 is a bug fix release
@@ -133,7 +108,7 @@ Terracotta 3.7.5/Ehcache 2.6.6 is a bug fix release
 *   8788 - resolved stop-tc-server fails when JMX Authentication is enabled.  
 *   [EHC-1018](https://jira.terracotta.org/jira/browse/EHC-1018) - Intermittent "NaN Eviction Cost \[hit:NaN miss:NaN size:0\]" at CacheManager initialization time
 
-Release Notes for Terracotta 3.7.4/Ehcache 2.6.5
+# Release Notes for Terracotta 3.7.4/Ehcache 2.6.5
 ================================================
 
 Terracotta 3.7.4/Ehcache 2.6.5 is a bug fix release
@@ -145,7 +120,7 @@ Terracotta 3.7.4/Ehcache 2.6.5 is a bug fix release
 *   8783 - Resolved stray message printed on server startup
 *   8465 - Added ability to add search indexes to an existing cache without reloading entries
 
-Release Notes for Terracotta 3.7.3/Ehcache 2.6.3
+# Release Notes for Terracotta 3.7.3/Ehcache 2.6.3
 ================================================
 
 Terracotta 3.7.3/Ehcache 2.6.3 is a maintenance release. This release also supports Java SE 7 (please refer to the [Platform Support](30965841) page for specifics).
@@ -154,7 +129,7 @@ Terracotta 3.7.3/Ehcache 2.6.3 is a maintenance release. This release also suppo
 
 8194 - Updated warning when erroneous configuration for Write Behind specified
 
-Release Notes for Terracotta 3.7.2
+# Release Notes for Terracotta 3.7.2
 ==================================
 
 Terracotta 3.7.2 is a bug fix release. This kit includes Ehcache 2.6.2 and Quartz 2.1.6
@@ -176,14 +151,14 @@ Terracotta 3.7.2 is a bug fix release. This kit includes Ehcache 2.6.2 and Quart
 *   EHC-973 - Failure while decoding key java.nio.HeapByteBuffer
 *   EHC-962 - JavaDoc of Element.getValue() is wrong for non-Serializable values
 
- Release Notes for Terracotta 3.7.0
+# Release Notes for Terracotta 3.7.0
 ===================================
 
 Release Notes for Ehcache 2.6.0 available [here](https://confluence.terracotta.org/display/rel/Ehcache+2.6.0+Release+Notes)
 
 Terracotta 3.7.0 comes with key enhancements to Terracotta's In-memory Data Management offering including enhanced Security and improved Search performance.
 
-Summary of Changes
+# Summary of Changes
 ------------------
 
 *   Security:  
@@ -192,20 +167,20 @@ Summary of Changes
 *   Search  
     With Terracotta 3.7, data is indexed without significant overhead, empowering users to conduct fast searches with predictable low latencies across terabytes of in-memory data. All Ehcache search features are now available for BigMemory in standalone mode, along with enhanced features like "GroupBy".
 
-Upgrading
+# Upgrading
 ---------
 
 If you are upgrading from a previous version of Terracotta, note the following changes.
 
 *   DEV-6920 - Searches of eventually consistent caches are now faster as queries are executed immediately without waiting for pending transactions at the local node to commit. In general, search results are eventually consistent with the caches. This change implies that, if a thread adds an element into an eventually consistent cache and immediately runs a query to fetch the element, it will not be visible in the search results until the update is published to the server. If you want pending transactions on the local node to commit before executing a search query, set the consistency option to "strong".
 
-Platform Changes
+# Platform Changes
 ----------------
 
 *   Supported JDK in Terracotta 3.7.0 is JDK 1.6
 *   Terracotta 3.7.0 now supports JBOSS AS 7
 
-Known Issues
+# Known Issues
 ------------
 
 *   If you are using security with the Terracotta Server Array,  

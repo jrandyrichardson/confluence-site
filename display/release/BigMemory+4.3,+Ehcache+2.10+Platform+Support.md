@@ -2,7 +2,7 @@
 title:  BigMemory 4.3, Ehcache 2.10 Platform Support  
 ---
 
-/\*<!\[CDATA\[\*/ div.rbtoc1633463967020 {padding: 0px;} div.rbtoc1633463967020 ul {list-style: disc;margin-left: 0px;} div.rbtoc1633463967020 li {margin-left: 0px;padding-left: 0px;} /\*\]\]>\*/
+
 
 *   [Platform Support](#BigMemory4.3,Ehcache2.10PlatformSupport-PlatformSupport)
 *   [Client JDKs](#BigMemory4.3,Ehcache2.10PlatformSupport-ClientJDKs)

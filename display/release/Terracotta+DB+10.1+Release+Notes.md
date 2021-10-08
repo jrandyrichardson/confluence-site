@@ -11,19 +11,12 @@ Terracotta DB is a distributed in-memory data management solution for both oper
 
 Both sub-systems are backed by the Terracotta Server, which provides a common platform for distributed in-memory data storage with scale-out, scale-up and high availability features.
 
-/\*<!\[CDATA\[\*/ div.rbtoc1633463967916 {padding: 0px;} div.rbtoc1633463967916 ul {list-style: disc;margin-left: 0px;} div.rbtoc1633463967916 li {margin-left: 0px;padding-left: 0px;} /\*\]\]>\*/
 
-*   [Feature Highlights](#TerracottaDB10.1ReleaseNotes-FeatureHighlights)
-*   [Summary of Changes 10.1.0.2](#TerracottaDB10.1ReleaseNotes-SummaryofChanges10.1.0.2)
-    *   [Resolved](#TerracottaDB10.1ReleaseNotes-Resolved)
-    *   [Known Issues](#TerracottaDB10.1ReleaseNotes-KnownIssues)
-*   [Summary of Changes 10.1.0.1](#TerracottaDB10.1ReleaseNotes-SummaryofChanges10.1.0.1)
-    *   [Resolved](#TerracottaDB10.1ReleaseNotes-Resolved.1)
-    *   [Known Issues](#TerracottaDB10.1ReleaseNotes-KnownIssues.1)
-    *   [Known Limitations With This Initial Release](#TerracottaDB10.1ReleaseNotes-KnownLimitationsWithThisInitialRelease)
-*   [Notes:](#TerracottaDB10.1ReleaseNotes-Notes:)
 
-Feature Highlights
+* TOC
+{:toc}
+
+# Feature Highlights
 ------------------
 
 Distributed Storage & Compute:
@@ -61,7 +54,7 @@ Other notable features include:
 *   Optional MashZone NextGen integration to build interactive dashboards on in-memory data   
     
 
-Summary of Changes 10.1.0.2
+# Summary of Changes 10.1.0.2
 ---------------------------
 
 ### Resolved
@@ -80,7 +73,7 @@ Summary of Changes 10.1.0.2
 *   2287 - When an IMMEDIATE write is performed then currently any resulting change events are sent to registered ChangeListeners before the server can be sure that caching clients have become consistent. This can lead to a client knowing that a record has changed (been updated, added or deleted) outside of the expected consistency guarantees of IMMEDIATE writes.
 *   2336 - Management operations are blocked during passive sync and some operations like creating dataset manager times out with exception.
 
-Summary of Changes 10.1.0.1
+# Summary of Changes 10.1.0.1
 ---------------------------
 
 ### Resolved
@@ -105,7 +98,7 @@ Summary of Changes 10.1.0.1
 *   New client connections must wait for in-progress long-operations to complete
 *   Security features are not yet enabled
 
-Notes:
+# Notes:
 ------
 
 *   Terracotta BigMemory 4.x and Terracotta DB 10.x clients cannot be used simultaneously in the same application without using ClassLoader separation when initializing at least one of the clients.

@@ -2,22 +2,17 @@
 title:  Release Notes Ehcache Core 2.5  
 ---
 
-/\*<!\[CDATA\[\*/ div.rbtoc1633463967722 {padding: 0px;} div.rbtoc1633463967722 ul {list-style: disc;margin-left: 0px;} div.rbtoc1633463967722 li {margin-left: 0px;padding-left: 0px;} /\*\]\]>\*/
 
-*   [Release Notes for Ehcache 2.5.4](#ReleaseNotesEhcacheCore2.5-ReleaseNotesforEhcache2.5.4)
-    *   [Resolved Issues](#ReleaseNotesEhcacheCore2.5-ResolvedIssues)
-*   [Release Notes for Ehcache 2.5.2](#ReleaseNotesEhcacheCore2.5-ReleaseNotesforEhcache2.5.2)
-    *   [Resolved Issues](#ReleaseNotesEhcacheCore2.5-ResolvedIssues.1)
-*   [Release Notes for Ehcache 2.5.1](#ReleaseNotesEhcacheCore2.5-ReleaseNotesforEhcache2.5.1)
-    *   [Resolved Issues](#ReleaseNotesEhcacheCore2.5-ResolvedIssues.2)
-    *   [Known Issues and Limitations](#ReleaseNotesEhcacheCore2.5-KnownIssuesandLimitations)
 
-Release Notes for Ehcache 2.5.4
+* TOC
+{:toc}
+
+# Release Notes for Ehcache 2.5.4
 ===============================
 
 Ehcache 2.5.4 is a bug fix release
 
-##### Resolved Issues
+## Resolved Issues
 
 *   DEV-6572 - overloaded putIfAbsent API
 *   DEV-7076 - Possible thread leak when shutting down Ehcache clients on Tomcat 7
@@ -27,12 +22,12 @@ Ehcache 2.5.4 is a bug fix release
 *   EHC-923 - Hibernate entity cache region is growing over maxEntriesLocalHeap limit
 *   EHC-920 - CacheManager.create() always calls ConfigurationFactory.parseConfiguration() which causes poor performance loading existing caches
 
-Release Notes for Ehcache 2.5.2
+# Release Notes for Ehcache 2.5.2
 ===============================
 
 Ehcache 2.5.2 is a bug fix release
 
-##### Resolved Issues
+## Resolved Issues
 
 *   [EHC-869](https://jira.terracotta.org/jira/browse/EHC-869) - Maven use with Terracotta very difficult to get going
 *   [EHC-898](https://jira.terracotta.org/jira/browse/EHC-898) - net.sf.ehcache.configurationResourceName is ignored
@@ -49,12 +44,12 @@ Ehcache 2.5.2 is a bug fix release
 *   [EHC-935](https://jira.terracotta.org/jira/browse/EHC-935) - Add a system property to disable Hibernate value mode optimizations
 *   [EHC-937](https://jira.terracotta.org/jira/browse/EHC-937) - Possible memory leak in xa\_strict mode
 
-Release Notes for Ehcache 2.5.1
+# Release Notes for Ehcache 2.5.1
 ===============================
 
 Ehcache 2.5.1 is a bug fix release
 
-##### Resolved Issues
+## Resolved Issues
 
 *   [EHC-882](https://jira.terracotta.org/jira/browse/EHC-882) - Make @IgnoreSizeOf inheritable by users
 *   [EHC-894](https://jira.terracotta.org/jira/browse/EHC-894) - Regression in replace(Element, Element) method on Cache
@@ -70,7 +65,7 @@ Ehcache 2.5.1 is a bug fix release
 *   DEV-6639 - SerializablePortability instances hold strong references to serialized types.
 *   DEV-6783 - CacheException while committing local transactions on decorated cache
 
-##### Known Issues and Limitations
+## Known Issues and Limitations
 
 *   7994 - Terracotta Toolkit 1.5-runtime-ee-4.3.0 is not backward compatible with previous versions of Ehcache. It requires 2.5.4 and higher.
 *   5376 - The ehcache xa transactional mode (not xa\_strict, that one is fine) doesn't play 100% well with the Atomikos transaction manager: if all other XA resources participating in the transaction return XA\_RDONLY during prepare then Atomikos will mistakenly report the transaction's status as UNKNOWN instead of COMMITTED, making ehcache rollback the changes.  

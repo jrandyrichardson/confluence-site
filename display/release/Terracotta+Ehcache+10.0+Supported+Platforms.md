@@ -2,19 +2,17 @@
 title:  Terracotta Ehcache 10.0 Supported Platforms  
 ---
 
-/\*<!\[CDATA\[\*/ div.rbtoc1633463967963 {padding: 0px;} div.rbtoc1633463967963 ul {list-style: disc;margin-left: 0px;} div.rbtoc1633463967963 li {margin-left: 0px;padding-left: 0px;} /\*\]\]>\*/
 
-*   [Platform Support](#TerracottaEhcache10.0SupportedPlatforms-PlatformSupport)
-*   [Client JDKs](#TerracottaEhcache10.0SupportedPlatforms-ClientJDKs)
-*   [Server Information](#TerracottaEhcache10.0SupportedPlatforms-ServerInformation)
-*   [Browsers (TMC)](#TerracottaEhcache10.0SupportedPlatforms-Browsers(TMC))
+
+* TOC
+{:toc}
 
 
 
 
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-Platform Support
+# Platform Support
 ----------------
 
 The platforms listed on this page are currently certified for use with commercial Terracotta product editions. As a 100% Java solution, Terracotta should run without issues on Java platforms for which it is not certified as well. If you have any questions about a certified or non-certified platform, contact us in one of the following ways:  
@@ -25,7 +23,7 @@ The platforms listed on this page are currently certified for use with commercia
 
 Terracotta is comprised of two different components: the client that integrates with your application, and the server (the server array) that typically runs on a set of separate machines in production.  The client is designed to run on many platform/JDK/container combinations. The server runs directly as a Java process (without a container).
 
-Client JDKs
+# Client JDKs
 -----------
 
 | 
@@ -40,7 +38,7 @@ JDK Version
 | Oracle 1.8.0\_121 |
 | OpenJDK 1.8.0.111 |
 
-Server Information
+# Server Information
 ------------------
 
 The Terracotta server is a process that runs directly in a JVM.  
@@ -59,7 +57,7 @@ It has been validated on the following OSes with Oracle 1.8.0\_121 and OpenJDK�
 | Windows Server 2008 R2 |
 | Ubuntu 14.04 |
 
-Browsers (TMC)
+# Browsers (TMC)
 --------------
 
 | 

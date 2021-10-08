@@ -9,7 +9,7 @@ The Terracotta General FAQ answers non-technical questions about Terracotta. Sen
 
 The Terracotta FAQ is divided into the following subject areas:
 
-/\*<!\[CDATA\[\*/ div.rbtoc1633463967412 {padding: 0px;} div.rbtoc1633463967412 ul {list-style: disc;margin-left: 0px;} div.rbtoc1633463967412 li {margin-left: 0px;padding-left: 0px;} /\*\]\]>\*/
+
 
 *   [General Questions](#FAQ-GeneralQuestions)
     *   [What is the difference between Terracotta open source software projects and Terracotta enterprise products?](#FAQ-WhatisthedifferencebetweenTerracottaopensourcesoftwareprojectsandTerracottaenterpriseproducts?)

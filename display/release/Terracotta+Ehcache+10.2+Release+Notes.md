@@ -6,24 +6,11 @@ Terracotta Ehcache is a standards-based cache that boosts performance, offloads 
 
 Ehcache also is alive as an open source project. Outside of this distribution, Ehcache builds are available on the project's GitHub release page at htt[ps://github.com/ehcache/ehcache3/releases](ps://github.com/ehcache/ehcache3/releases).
 
-/\*<!\[CDATA\[\*/ div.rbtoc1633463967993 {padding: 0px;} div.rbtoc1633463967993 ul {list-style: disc;margin-left: 0px;} div.rbtoc1633463967993 li {margin-left: 0px;padding-left: 0px;} /\*\]\]>\*/
 
-*   [New Features](#TerracottaEhcache10.2ReleaseNotes-NewFeatures)
-*   [Summary of Changes 10.2.0.4](#TerracottaEhcache10.2ReleaseNotes-SummaryofChanges10.2.0.4)
-    *   [Resolved](#TerracottaEhcache10.2ReleaseNotes-Resolved)
-    *   [Known Issues](#TerracottaEhcache10.2ReleaseNotes-KnownIssues)
-*   [Summary of Changes 10.2.0.3](#TerracottaEhcache10.2ReleaseNotes-SummaryofChanges10.2.0.3)
-    *   [Resolved](#TerracottaEhcache10.2ReleaseNotes-Resolved.1)
-    *   [Known Issues](#TerracottaEhcache10.2ReleaseNotes-KnownIssues.1)
-*   [Summary of Changes 10.2.0.2](#TerracottaEhcache10.2ReleaseNotes-SummaryofChanges10.2.0.2)
-    *   [Resolved](#TerracottaEhcache10.2ReleaseNotes-Resolved.2)
-    *   [Known Issues](#TerracottaEhcache10.2ReleaseNotes-KnownIssues.2)
-*   [Summary of Changes in 10.2.0.1](#TerracottaEhcache10.2ReleaseNotes-SummaryofChangesin10.2.0.1)
-    *   [Resolved](#TerracottaEhcache10.2ReleaseNotes-Resolved.3)
-    *   [Known Issues](#TerracottaEhcache10.2ReleaseNotes-KnownIssues.3)
-*   [Notes:](#TerracottaEhcache10.2ReleaseNotes-Notes:)
+* TOC
+{:toc}
 
-New Features
+# New Features
 ------------
 
 *   *   AWS as a supported platform for Terracotta DB
@@ -33,7 +20,7 @@ New Features
     *   Security enhancements including SSL support for Encryption and Authentication
     *   Numerous operational usability enhancements including Latency statistics and Query statistics monitoring
 
-Summary of Changes 10.2.0.4
+# Summary of Changes 10.2.0.4
 ---------------------------
 
 ### Resolved[](https://itrac.eur.ad.sag/browse/TDB-3891)
@@ -45,7 +32,7 @@ Summary of Changes 10.2.0.4
 
 *   3119 - Cluster tool fails to connect to server when the bind address is different from host
 
-Summary of Changes 10.2.0.3
+# Summary of Changes 10.2.0.3
 ---------------------------
 
 ### Resolved
@@ -56,7 +43,7 @@ Summary of Changes 10.2.0.3
 
 *   3119 - Cluster tool fails to connect to server when the bind address is different from host
 
-Summary of Changes 10.2.0.2
+# Summary of Changes 10.2.0.2
 ---------------------------
 
 ### Resolved
@@ -68,7 +55,7 @@ Summary of Changes 10.2.0.2
 
 *   3119 - Cluster tool fails to connect to server when the bind address is different from host
 
-Summary of Changes in 10.2.0.1
+# Summary of Changes in 10.2.0.1
 ------------------------------
 
 *   ### Resolved
@@ -91,7 +78,7 @@ Summary of Changes in 10.2.0.1
     
     *   None
 
-Notes:
+# Notes:
 ------
 
 *   Terracotta BigMemory 4.x and Terracotta DB 10.x clients cannot be used simultaneously in the same application without using ClassLoader separation when initializing at least one of the clients.

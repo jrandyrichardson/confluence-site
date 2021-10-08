@@ -4,43 +4,9 @@ title:  BigMemory Max 4.0
 
 BigMemory Max 4.0.8 is the latest  release of BigMemory Max 4.0. It includes Ehcache 2.7.8 and Quartz 2.2.1
 
-/\*<!\[CDATA\[\*/ div.rbtoc1633463967126 {padding: 0px;} div.rbtoc1633463967126 ul {list-style: disc;margin-left: 0px;} div.rbtoc1633463967126 li {margin-left: 0px;padding-left: 0px;} /\*\]\]>\*/
 
-*   [Summary of Changes 4.0.8](#BigMemoryMax4.0-SummaryofChanges4.0.8)
-    *   [Resolved Issues](#BigMemoryMax4.0-ResolvedIssues)
-    *   [Known Issues](#BigMemoryMax4.0-KnownIssues)
-*   [Summary of Changes 4.0.7](#BigMemoryMax4.0-SummaryofChanges4.0.7)
-    *   [Resolved Issues](#BigMemoryMax4.0-ResolvedIssues.1)
-    *   [Known Issues](#BigMemoryMax4.0-KnownIssues.1)
-*   [Summary of Changes 4.0.6](#BigMemoryMax4.0-SummaryofChanges4.0.6)
-    *   [Resolved Issues](#BigMemoryMax4.0-ResolvedIssues.2)
-    *   [Known Issues](#BigMemoryMax4.0-KnownIssues.2)
-*   [Summary of Changes 4.0.5](#BigMemoryMax4.0-SummaryofChanges4.0.5)
-    *   [Resolved Issues](#BigMemoryMax4.0-ResolvedIssues.3)
-    *   [Known Issues](#BigMemoryMax4.0-KnownIssues.3)
-*   [Summary of Changes 4.0.4](#BigMemoryMax4.0-SummaryofChanges4.0.4)
-    *   [Resolved Issues](#BigMemoryMax4.0-ResolvedIssues.4)
-    *   [Known Issues](#BigMemoryMax4.0-KnownIssues.4)
-*   [Summary of Changes 4.0.3](#BigMemoryMax4.0-SummaryofChanges4.0.3)
-    *   [Resolved Issues](#BigMemoryMax4.0-ResolvedIssues.5)
-    *   [Known Issues](#BigMemoryMax4.0-KnownIssues.5)
-*   [Summary of Changes 4.0.2](#BigMemoryMax4.0-SummaryofChanges4.0.2)
-    *   [Terracotta Quartz](#BigMemoryMax4.0-TerracottaQuartz)
-    *   [Resolved Issues](#BigMemoryMax4.0-ResolvedIssues.6)
-    *   [Known Issues](#BigMemoryMax4.0-KnownIssues.6)
-*   [Summary of Changes 4.0.1](#BigMemoryMax4.0-SummaryofChanges4.0.1)
-    *   [Scale & Performance](#BigMemoryMax4.0-Scale&Performance)
-    *   [Search](#BigMemoryMax4.0-Search)
-    *   [Terracotta Management Platform](#BigMemoryMax4.0-TerracottaManagementPlatform)
-    *   [Terracotta Web Sessions](#BigMemoryMax4.0-TerracottaWebSessions)
-*   [Upgrading](#BigMemoryMax4.0-Upgrading)
-    *   [Configuring Security for the Terracotta Server Array](#BigMemoryMax4.0-ConfiguringSecurityfortheTerracottaServerArray)
-    *   [Simplified Configuration of tc-config](#BigMemoryMax4.0-SimplifiedConfigurationoftc-config)
-    *   [Terracotta Management Server and Console](#BigMemoryMax4.0-TerracottaManagementServerandConsole)
-        *   [Compatible Browsers](#BigMemoryMax4.0-CompatibleBrowsers)
-        *   [Configuration changes to admin.xml (when upgrading from 4.0.0 to 4.0.1)](#BigMemoryMax4.0-Configurationchangestoadmin.xml(whenupgradingfrom4.0.0to4.0.1))
-*   [Platform Changes](#BigMemoryMax4.0-PlatformChanges)
-*   [Known Issues](#BigMemoryMax4.0-KnownIssues.7)
+* TOC
+{:toc}
 
 Summary of Changes 4.0.8
 ------------------------

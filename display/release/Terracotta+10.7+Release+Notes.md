@@ -11,16 +11,12 @@ Terracotta is a distributed in-memory data management solution for both operati
 
 Both sub-systems are backed by the distributed Terracotta Server, which provides a common platform for distributed in-memory data storage with scale-out, scale-up and high availability features.
 
-/\*<!\[CDATA\[\*/ div.rbtoc1633463967896 {padding: 0px;} div.rbtoc1633463967896 ul {list-style: disc;margin-left: 0px;} div.rbtoc1633463967896 li {margin-left: 0px;padding-left: 0px;} /\*\]\]>\*/
 
-*   [Feature Highlights](#Terracotta10.7ReleaseNotes-FeatureHighlights)
-*   [Summary of Changes 10.7](#Terracotta10.7ReleaseNotes-SummaryofChanges10.7)
-    *   [New in Terracotta 10.7.0.0 and 10.7.0.1 ](#Terracotta10.7ReleaseNotes-NewinTerracotta10.7.0.0and10.7.0.1)
-        *   [      Resolved](#Terracotta10.7ReleaseNotes-Resolved)
-        *   [     Security Updates to Third Party Libraries](#Terracotta10.7ReleaseNotes-SecurityUpdatestoThirdPartyLibraries)
-*   [Notes:](#Terracotta10.7ReleaseNotes-Notes:)
 
-Feature Highlights
+* TOC
+{:toc}
+
+# Feature Highlights
 ------------------
 
 The Terracotta 10.7 release builds upon the enterprise readiness features and analytical capabilities of past releases, by improving operational usability and performance. Some of the notable features of Terracotta 10.7 include:
@@ -29,7 +25,7 @@ The Terracotta 10.7 release builds upon the enterprise readiness features and an
 *   Improved ability to scale-out (horizontally) servers without downtime
 *   Formal support for complex data types in TCStore
 
-Summary of Changes 10.7
+# Summary of Changes 10.7
 -----------------------
 
 ### New in Terracotta 10.7.0.0 and 10.7.0.1 
@@ -59,7 +55,7 @@ Summary of Changes 10.7
 
   
 
-Notes:
+# Notes:
 ------
 
 *   Terracotta BigMemory 4.x and Terracotta 10.x clients may be used simultaneously in the same application by ensuring ClassLoader isolation when initializing at least one of the clients.

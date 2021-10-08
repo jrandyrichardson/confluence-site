@@ -4,14 +4,9 @@ title:  Ehcache-monitor Release Notes
 
 Ehcache-monitor is EOL. It is not supported for later versions of BigMemory or Ehcache.
 
-/\*<!\[CDATA\[\*/ div.rbtoc1633463967397 {padding: 0px;} div.rbtoc1633463967397 ul {list-style: disc;margin-left: 0px;} div.rbtoc1633463967397 li {margin-left: 0px;padding-left: 0px;} /\*\]\]>\*/
 
-*   [Changes in Ehcache-monitor 1.0.3](#EhcachemonitorReleaseNotes-ChangesinEhcache-monitor1.0.3)
-    *   [Bug Fix](#EhcachemonitorReleaseNotes-BugFix)
-*   [Changes in Ehcache-monitor 1.0.2](#EhcachemonitorReleaseNotes-ChangesinEhcache-monitor1.0.2)
-    *   [New Features](#EhcachemonitorReleaseNotes-NewFeatures)
-    *   [Bug Fixes](#EhcachemonitorReleaseNotes-BugFixes)
-*   [Known Open Issues](#EhcachemonitorReleaseNotes-KnownOpenIssues)
+* TOC
+{:toc}
 
 ### Changes in Ehcache-monitor 1.0.3
 

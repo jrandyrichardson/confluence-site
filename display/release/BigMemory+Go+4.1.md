@@ -6,8 +6,8 @@ title:  BigMemory Go 4.1
 
 **
 
-*   [New Features](#BigMemoryGo4.1-NewFeatures)
-    *   [Universal Access](#BigMemoryGo4.1-UniversalAccess)
+* TOC
+{:toc}
 
 **
 

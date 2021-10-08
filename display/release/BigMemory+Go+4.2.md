@@ -6,10 +6,8 @@ title:  BigMemory Go 4.2
 
 **
 
-*   [New Features](#BigMemoryGo4.2-NewFeatures)
-*   [Summary of Changes in 4.2.1](#BigMemoryGo4.2-SummaryofChangesin4.2.1)
-    *   [Resolved Issues](#BigMemoryGo4.2-ResolvedIssues)
-*   [Known Issues in 4.2.0](#BigMemoryGo4.2-KnownIssuesin4.2.0)
+* TOC
+{:toc}
 
 **
 

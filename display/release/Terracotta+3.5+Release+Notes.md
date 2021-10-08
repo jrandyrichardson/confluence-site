@@ -4,25 +4,9 @@ title:  Terracotta 3.5 Release Notes
 
 The Terracotta 3.5.5 kit includes Terracotta 3.5.5, Ehcache 2.4.8 and Quartz 2.1.6. Please see Ehcache 2.4.8 [Release Notes](Release-Notes-Ehcache-Core-2.4) for further information on changes
 
-/\*<!\[CDATA\[\*/ div.rbtoc1633463967750 {padding: 0px;} div.rbtoc1633463967750 ul {list-style: disc;margin-left: 0px;} div.rbtoc1633463967750 li {margin-left: 0px;padding-left: 0px;} /\*\]\]>\*/
 
-*   [Release Notes for Terracotta 3.5.5](#Terracotta3.5ReleaseNotes-ReleaseNotesforTerracotta3.5.5)
-    *   [Resolved Issues](#Terracotta3.5ReleaseNotes-ResolvedIssues)
-*   [Release Notes for Terracotta 3.5.4](#Terracotta3.5ReleaseNotes-ReleaseNotesforTerracotta3.5.4)
-    *   [Resolved Issues](#Terracotta3.5ReleaseNotes-ResolvedIssues.1)
-*   [Release Notes for Terracotta 3.5.3](#Terracotta3.5ReleaseNotes-ReleaseNotesforTerracotta3.5.3)
-    
-    *   [Summary of Key Changes](#Terracotta3.5ReleaseNotes-SummaryofKeyChanges)
-        *   [Resolved Issues](#Terracotta3.5ReleaseNotes-ResolvedIssues.2)
-    
-    *   [Database Setup](#Terracotta3.5ReleaseNotes-DatabaseSetup)
-*   [Release Notes for Terracotta 3.5.2](#Terracotta3.5ReleaseNotes-ReleaseNotesforTerracotta3.5.2)
-    *   [Summary of Key Changes](#Terracotta3.5ReleaseNotes-SummaryofKeyChanges.1)
-        *   [Resolved Issues Terracotta 3.5.2](#Terracotta3.5ReleaseNotes-ResolvedIssuesTerracotta3.5.2)
-        *   [Resolved Issues Quartz 2.0.2](#Terracotta3.5ReleaseNotes-ResolvedIssuesQuartz2.0.2)
-*   [Release Notes for Terracotta 3.5.1](#Terracotta3.5ReleaseNotes-ReleaseNotesforTerracotta3.5.1)
-    *   [Resolved Issues](#Terracotta3.5ReleaseNotes-ResolvedIssues.3)
-    *   [Known Issues and Limitations](#Terracotta3.5ReleaseNotes-KnownIssuesandLimitations)
+* TOC
+{:toc}
 
 The following may be applicable to using certain Ehcache cache modes with Hibernate:
 

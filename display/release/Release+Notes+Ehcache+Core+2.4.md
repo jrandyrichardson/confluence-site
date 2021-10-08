@@ -2,31 +2,9 @@
 title:  Release Notes Ehcache Core 2.4  
 ---
 
-/\*<!\[CDATA\[\*/ div.rbtoc1633463967636 {padding: 0px;} div.rbtoc1633463967636 ul {list-style: disc;margin-left: 0px;} div.rbtoc1633463967636 li {margin-left: 0px;padding-left: 0px;} /\*\]\]>\*/
 
-*   [Release Notes for Ehcache 2.4.8](#ReleaseNotesEhcacheCore2.4-ReleaseNotesforEhcache2.4.8)
-*   [Release Notes for Ehcache 2.4.7](#ReleaseNotesEhcacheCore2.4-ReleaseNotesforEhcache2.4.7)
-    *   [Resolved Issues](#ReleaseNotesEhcacheCore2.4-ResolvedIssues)
-*   [Release Notes for Ehcache 2.4.6](#ReleaseNotesEhcacheCore2.4-ReleaseNotesforEhcache2.4.6)
-    *   [Resolved Issues](#ReleaseNotesEhcacheCore2.4-ResolvedIssues.1)
-*   [Release Notes for Ehcache Core 2.4.5](#ReleaseNotesEhcacheCore2.4-ReleaseNotesforEhcacheCore2.4.5)
-    *   [Resolved Issues](#ReleaseNotesEhcacheCore2.4-ResolvedIssues.2)
-*   [Release Notes for Ehcache Core 2.4.4](#ReleaseNotesEhcacheCore2.4-ReleaseNotesforEhcacheCore2.4.4)
-    *   [Resolved Issues](#ReleaseNotesEhcacheCore2.4-ResolvedIssues.3)
-*   [Release Notes for Ehcache Core 2.4.3](#ReleaseNotesEhcacheCore2.4-ReleaseNotesforEhcacheCore2.4.3)
-    *   [Resolved Issues](#ReleaseNotesEhcacheCore2.4-ResolvedIssues.4)
-*   [Release Notes for Ehcache Core 2.4.2](#ReleaseNotesEhcacheCore2.4-ReleaseNotesforEhcacheCore2.4.2)
-    *   [Resolved Issues](#ReleaseNotesEhcacheCore2.4-ResolvedIssues.5)
-    *   [Compatibility](#ReleaseNotesEhcacheCore2.4-Compatibility)
-*   [Release Notes for Ehcache Core 2.4.1](#ReleaseNotesEhcacheCore2.4-ReleaseNotesforEhcacheCore2.4.1)
-    *   [Updates and Enhancements](#ReleaseNotesEhcacheCore2.4-UpdatesandEnhancements)
-    *   [Fix list in Jira](#ReleaseNotesEhcacheCore2.4-FixlistinJira)
-    *   [Other Resolved Issues](#ReleaseNotesEhcacheCore2.4-OtherResolvedIssues)
-    *   [Known Issues](#ReleaseNotesEhcacheCore2.4-KnownIssues)
-*   [Release Notes for Ehcache Core 2.4.0](#ReleaseNotesEhcacheCore2.4-ReleaseNotesforEhcacheCore2.4.0)
-    *   [New Feature, Improvements and Upgrade Information](#ReleaseNotesEhcacheCore2.4-NewFeature,ImprovementsandUpgradeInformation)
-        *   [Expected Updates and Scheduled Bug Fixes](#ReleaseNotesEhcacheCore2.4-ExpectedUpdatesandScheduledBugFixes)
-        *   [Known Issues Ehcache 2.4.0](#ReleaseNotesEhcacheCore2.4-KnownIssuesEhcache2.4.0)
+* TOC
+{:toc}
 
 Release Notes for Ehcache 2.4.8
 ===============================

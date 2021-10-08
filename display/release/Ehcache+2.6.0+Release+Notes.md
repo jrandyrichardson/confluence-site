@@ -2,16 +2,9 @@
 title:  Ehcache 2.6.0 Release Notes  
 ---
 
-/\*<!\[CDATA\[\*/ div.rbtoc1633463967844 {padding: 0px;} div.rbtoc1633463967844 ul {list-style: disc;margin-left: 0px;} div.rbtoc1633463967844 li {margin-left: 0px;padding-left: 0px;} /\*\]\]>\*/
 
-*   [Release Notes for Standalone commercial Ehcache 2.6.0](#Ehcache2.6.0ReleaseNotes-ReleaseNotesforStandalonecommercialEhcache2.6.0)
-    *   [Summary of Changes](#Ehcache2.6.0ReleaseNotes-SummaryofChanges)
-    *   [Upgrading](#Ehcache2.6.0ReleaseNotes-Upgrading)
-        *   [DiskStorePath Methods Removed](#Ehcache2.6.0ReleaseNotes-DiskStorePathMethodsRemoved)
-        *   [CacheManager Creation Methods](#Ehcache2.6.0ReleaseNotes-CacheManagerCreationMethods)
-        *   [OverflowToDisk and DiskPersistent Attributes Deprecated](#Ehcache2.6.0ReleaseNotes-OverflowToDiskandDiskPersistentAttributesDeprecated)
-    *   [Platform Changes](#Ehcache2.6.0ReleaseNotes-PlatformChanges)
-        *   [Known Issues and Limitations](#Ehcache2.6.0ReleaseNotes-KnownIssuesandLimitations)
+* TOC
+{:toc}
 
 Release Notes for Standalone commercial Ehcache 2.6.0
 =====================================================

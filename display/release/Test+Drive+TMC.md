@@ -6,10 +6,10 @@ To get a quick overview of how the new Terracotta Management Console works, you 
 
 If you have any problems in getting TMC running with the sample application, please send an email to [pm@terracottatech.com](mailto:pm@terracottatech.com)
 
-/\*<!\[CDATA\[\*/ div.rbtoc1633463967495 {padding: 0px;} div.rbtoc1633463967495 ul {list-style: disc;margin-left: 0px;} div.rbtoc1633463967495 li {margin-left: 0px;padding-left: 0px;} /\*\]\]>\*/
 
-*   [Using TMC with Pounder Sample application](#TestDriveTMC-UsingTMCwithPounderSampleapplication)
-*   [Using TMC with your own application](#TestDriveTMC-UsingTMCwithyourownapplication)
+
+* TOC
+{:toc}
 
 ### Using TMC with Pounder Sample application
 

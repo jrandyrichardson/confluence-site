@@ -13,19 +13,11 @@ Some key features include:
 
 Ehcache also is alive as an open source project. Outside of this distribution, Ehcache builds are available on the project's GitHub release page at htt[ps://github.com/ehcache/ehcache3/releases](ps://github.com/ehcache/ehcache3/releases).
 
-/\*<!\[CDATA\[\*/ div.rbtoc1633463968013 {padding: 0px;} div.rbtoc1633463968013 ul {list-style: disc;margin-left: 0px;} div.rbtoc1633463968013 li {margin-left: 0px;padding-left: 0px;} /\*\]\]>\*/
 
-*   [New Features](#TerracottaEhcache10.3ReleaseNotes-NewFeatures)
-*   [Summary of Changes 10.3.0.3](#TerracottaEhcache10.3ReleaseNotes-SummaryofChanges10.3.0.3)
-    *   [Resolved](#TerracottaEhcache10.3ReleaseNotes-Resolved)
-*   [Summary of Changes 10.3.0.2](#TerracottaEhcache10.3ReleaseNotes-SummaryofChanges10.3.0.2)
-    *   [Resolved](#TerracottaEhcache10.3ReleaseNotes-Resolved.1)
-*   [Summary of Changes in 10.3.0.1](#TerracottaEhcache10.3ReleaseNotes-SummaryofChangesin10.3.0.1)
-    *   [Resolved](#TerracottaEhcache10.3ReleaseNotes-Resolved.2)
-    *   [Known Issues](#TerracottaEhcache10.3ReleaseNotes-KnownIssues)
-*   [Notes:](#TerracottaEhcache10.3ReleaseNotes-Notes:)
+* TOC
+{:toc}
 
-New Features
+# New Features
 ------------
 
 Terracotta DB 10.3 release introduces key enterprise readiness features and analytical capabilities in Terracotta DB. With this release, Terracotta DB took a big leap forward to support multi cloud deployments, security, and operational usability. Some of the notable features of Terracotta DB 10.3 include:
@@ -38,14 +30,14 @@ Terracotta DB 10.3 release introduces key enterprise readiness features and anal
 *   Configuration helpers for simple to use XML based configuration import and export.
 *   Numerous operational usability enhancements including Latency metering refactoring and role based access in Terracotta Management Console.
 
-Summary of Changes 10.3.0.3
+# Summary of Changes 10.3.0.3
 ---------------------------
 
 ### Resolved
 
 *   4149 – Implemented a more efficient backoff waiting algorithm for IO during secure handshake in order to remove a performance degradation when secure network communications are enabled.
 
-Summary of Changes 10.3.0.2
+# Summary of Changes 10.3.0.2
 ---------------------------
 
 ### Resolved
@@ -53,7 +45,7 @@ Summary of Changes 10.3.0.2
 *   4098 – The external voter now tracks server partition events and takes care not to vote for multiple servers in the same partition event.
 *   3989 – Resolved client not reconnecting to newly promoted active after failover. This happened when cluster was configured for consistency mode with external voters.
 
-Summary of Changes in 10.3.0.1
+# Summary of Changes in 10.3.0.1
 ------------------------------
 
 ### Resolved
@@ -76,7 +68,7 @@ Summary of Changes in 10.3.0.1
     
     *   None
 
-Notes:
+# Notes:
 ------
 
 *   Terracotta BigMemory 4.x and Terracotta DB 10.x clients cannot be used simultaneously in the same application without using ClassLoader separation when initializing at least one of the clients.

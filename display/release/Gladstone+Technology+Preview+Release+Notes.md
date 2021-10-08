@@ -2,24 +2,17 @@
 title:  Gladstone Technology Preview Release Notes  
 ---
 
-/\*<!\[CDATA\[\*/ div.rbtoc1633463967505 {padding: 0px;} div.rbtoc1633463967505 ul {list-style: disc;margin-left: 0px;} div.rbtoc1633463967505 li {margin-left: 0px;padding-left: 0px;} /\*\]\]>\*/
 
-*   [Release Notes for Gladstone Technology Preview2](#GladstoneTechnologyPreviewReleaseNotes-ReleaseNotesforGladstoneTechnologyPreview2)
-    *   [Summary of Changes](#GladstoneTechnologyPreviewReleaseNotes-SummaryofChanges)
-    *   [Upgrading](#GladstoneTechnologyPreviewReleaseNotes-Upgrading)
-        *   [DiskStorePath Methods Removed](#GladstoneTechnologyPreviewReleaseNotes-DiskStorePathMethodsRemoved)
-        *   [CacheManager Creation Methods](#GladstoneTechnologyPreviewReleaseNotes-CacheManagerCreationMethods)
-        *   [OverflowToDisk and DiskPersistent Attributes Deprecated](#GladstoneTechnologyPreviewReleaseNotes-OverflowToDiskandDiskPersistentAttributesDeprecated)
-        *   [New REST Agent and Ehcache Monitor](#GladstoneTechnologyPreviewReleaseNotes-NewRESTAgentandEhcacheMonitor)
-    *   [Platform Changes](#GladstoneTechnologyPreviewReleaseNotes-PlatformChanges)
-        *   [Known Issues and Limitations](#GladstoneTechnologyPreviewReleaseNotes-KnownIssuesandLimitations)
 
-Release Notes for Gladstone Technology Preview2
+* TOC
+{:toc}
+
+# Release Notes for Gladstone Technology Preview2
 ===============================================
 
 The Gladstone Technology Preview features new and improved standalone Ehcache. This preview is limited to standalone Ehcache without Terracotta Server Array (TSA). Subsequent Tech Preview(s) will include TSA backed Ehcache.
 
-Summary of Changes
+## Summary of Changes
 ------------------
 
 *   Terracotta Management Console  
@@ -31,7 +24,7 @@ Summary of Changes
 *   Search  
     All Ehcache search features are now available for BigMemory in standalone mode. Various performance improvements and support for "GroupBy" expression is now available. For more information on search related enhancements, refer to documentation [here](http://www.ehcache.org/documentation/beta/search)
 
-Upgrading
+## Upgrading
 ---------
 
 If you are upgrading from a previous version of Ehcache, note the following changes.
@@ -74,7 +67,7 @@ Most disk persistence settings will continue to work, but it is recommended to u
 
 The new REST agent supports the new Terracotta Management Console (TMC), but not the Ehcache Monitor from previous versions of Ehcache. The Ehcache Monitor cannot be used with this release of Ehcache.
 
-Platform Changes
+## Platform Changes
 ----------------
 
 *   JDK 1.6 is the only supported JDK in Ehcache 2.6.0

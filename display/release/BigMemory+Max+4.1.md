@@ -10,42 +10,8 @@ _**Fixes are cumulative from version to version.**_
 
 **
 
-*   [New Features](#BigMemoryMax4.1-NewFeatures)
-*   [Configuration Changes](#BigMemoryMax4.1-ConfigurationChanges)
-*   [Summary of Changes 4.1.11](#BigMemoryMax4.1-SummaryofChanges4.1.11)
-    *   [Resolved Issues](#BigMemoryMax4.1-ResolvedIssues)
-    *   [Known Issues](#BigMemoryMax4.1-KnownIssues)
-*   [Summary of Changes 4.1.10](#BigMemoryMax4.1-SummaryofChanges4.1.10)
-    *   [Resolved Issues](#BigMemoryMax4.1-ResolvedIssues.1)
-    *   [Known Issues](#BigMemoryMax4.1-KnownIssues.1)
-*   [Summary of Changes 4.1.9](#BigMemoryMax4.1-SummaryofChanges4.1.9)
-    *   [Resolved Issues](#BigMemoryMax4.1-ResolvedIssues.2)
-    *   [Known Issues](#BigMemoryMax4.1-KnownIssues.2)
-*   [Summary of Changes 4.1.8](#BigMemoryMax4.1-SummaryofChanges4.1.8)
-    *   [Resolved Issues](#BigMemoryMax4.1-ResolvedIssues.3)
-    *   [Known Issues](#BigMemoryMax4.1-KnownIssues.3)
-*   [Summary of Changes 4.1.7](#BigMemoryMax4.1-SummaryofChanges4.1.7)
-    *   [Resolved Issues](#BigMemoryMax4.1-ResolvedIssues.4)
-    *   [Known Issues](#BigMemoryMax4.1-KnownIssues.4)
-*   [Summary of Changes 4.1.6](#BigMemoryMax4.1-SummaryofChanges4.1.6)
-    *   [Resolved Issues](#BigMemoryMax4.1-ResolvedIssues.5)
-    *   [Known Issues](#BigMemoryMax4.1-KnownIssues.5)
-*   [Summary of Changes 4.1.5](#BigMemoryMax4.1-SummaryofChanges4.1.5)
-    *   [Resolved Issues](#BigMemoryMax4.1-ResolvedIssues.6)
-    *   [Known Issues](#BigMemoryMax4.1-KnownIssues.6)
-*   [Summary of Changes 4.1.4](#BigMemoryMax4.1-SummaryofChanges4.1.4)
-    *   [Resolved Issues](#BigMemoryMax4.1-ResolvedIssues.7)
-    *   [Known Issues](#BigMemoryMax4.1-KnownIssues.7)
-*   [Summary of Changes 4.1.3](#BigMemoryMax4.1-SummaryofChanges4.1.3)
-    *   [Resolved Issues](#BigMemoryMax4.1-ResolvedIssues.8)
-*   [Summary of Changes 4.1.2](#BigMemoryMax4.1-SummaryofChanges4.1.2)
-    *   [Resolved Issues](#BigMemoryMax4.1-ResolvedIssues.9)
-    *   [Known Issues](#BigMemoryMax4.1-KnownIssues.8)
-    *   [Platform Enhancements:](#BigMemoryMax4.1-PlatformEnhancements:)
-*   [Summary of Changes 4.1.1](#BigMemoryMax4.1-SummaryofChanges4.1.1)
-    *   [Resolved Issues](#BigMemoryMax4.1-ResolvedIssues.10)
-    *   [Known Issues](#BigMemoryMax4.1-KnownIssues.9)
-*   [Known Issues in 4.1.0](#BigMemoryMax4.1-KnownIssuesin4.1.0)
+* TOC
+{:toc}
 
 **
 

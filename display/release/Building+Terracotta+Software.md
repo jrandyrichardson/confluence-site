@@ -8,29 +8,9 @@ Beginning with Terracotta version 3.6.x, Terracotta software is built using Apac
 
 For Terracotta versions **3.5.x and earlier**, see the following documentation.
 
-/\*<!\[CDATA\[\*/ div.rbtoc1633463967374 {padding: 0px;} div.rbtoc1633463967374 ul {list-style: disc;margin-left: 0px;} div.rbtoc1633463967374 li {margin-left: 0px;padding-left: 0px;} /\*\]\]>\*/
 
-*   [Building Terracotta Software](#BuildingTerracottaSoftware-BuildingTerracottaSoftware)
-*   [Requirements](#BuildingTerracottaSoftware-Requirements)
-*   [Building From Source](#BuildingTerracottaSoftware-BuildingFromSource)
-    *   [Examples](#BuildingTerracottaSoftware-Examples)
-*   [Running Tests](#BuildingTerracottaSoftware-RunningTests)
-*   [tcbuild Targets](#BuildingTerracottaSoftware-tcbuildTargets)
-    *   [Syntax](#BuildingTerracottaSoftware-Syntax)
-    *   [Targets](#BuildingTerracottaSoftware-Targets)
-        *   [Basics](#BuildingTerracottaSoftware-Basics)
-        *   [Testing](#BuildingTerracottaSoftware-Testing)
-        *   [Testing in Eclipse or Other Tools](#BuildingTerracottaSoftware-TestinginEclipseorOtherTools)
-        *   [Running Servers, Classes, etc.](#BuildingTerracottaSoftware-RunningServers,Classes,etc.)
-        *   [Miscellaneous](#BuildingTerracottaSoftware-Miscellaneous)
-*   [Source Modules](#BuildingTerracottaSoftware-SourceModules)
-    *   [Subtrees](#BuildingTerracottaSoftware-Subtrees)
-*   [Configuring JDK Versions](#BuildingTerracottaSoftware-ConfiguringJDKVersions)
-    *   [Overriding JDK Selection](#BuildingTerracottaSoftware-OverridingJDKSelection)
-        *   [For compiling classes and running class main() method or running DSO server:](#BuildingTerracottaSoftware-Forcompilingclassesandrunningclassmain()methodorrunningDSOserver:)
-        *   [For running non-container tests:](#BuildingTerracottaSoftware-Forrunningnon-containertests:)
-        *   [For running container tests:](#BuildingTerracottaSoftware-Forrunningcontainertests:)
-*   [The Eclipse Plugin](#BuildingTerracottaSoftware-TheEclipsePlugin)
+* TOC
+{:toc}
 
 Building Terracotta Software
 ----------------------------

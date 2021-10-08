@@ -11,28 +11,16 @@ Terracotta DB is a distributed in-memory data management solution for both oper
 
 Both sub-systems are backed by the distributed Terracotta Server, which provides a common platform for distributed in-memory data storage with scale-out, scale-up and high availability features.
 
-/\*<!\[CDATA\[\*/ div.rbtoc1633463967934 {padding: 0px;} div.rbtoc1633463967934 ul {list-style: disc;margin-left: 0px;} div.rbtoc1633463967934 li {margin-left: 0px;padding-left: 0px;} /\*\]\]>\*/
 
-*   [Feature Highlights](#TerracottaDB10.2ReleaseNotes-FeatureHighlights)
-*   [Summary of Changes 10.2.0.4](#TerracottaDB10.2ReleaseNotes-SummaryofChanges10.2.0.4)
-    *   [Resolved](#TerracottaDB10.2ReleaseNotes-Resolved)
-    *   [Known Issues](#TerracottaDB10.2ReleaseNotes-KnownIssues)
-*   [Summary of Changes 10.2.0.3](#TerracottaDB10.2ReleaseNotes-SummaryofChanges10.2.0.3)
-    *   [Resolved](#TerracottaDB10.2ReleaseNotes-Resolved.1)
-    *   [Known Issues](#TerracottaDB10.2ReleaseNotes-KnownIssues.1)
-*   [Summary of Changes 10.2.0.2](#TerracottaDB10.2ReleaseNotes-SummaryofChanges10.2.0.2)
-    *   [Resolved](#TerracottaDB10.2ReleaseNotes-Resolved.2)
-    *   [Known Issues](#TerracottaDB10.2ReleaseNotes-KnownIssues.2)
-*   [Summary of Changes 10.2.0.1](#TerracottaDB10.2ReleaseNotes-SummaryofChanges10.2.0.1)
-    *   [Resolved](#TerracottaDB10.2ReleaseNotes-Resolved.3)
-*   [Notes:](#TerracottaDB10.2ReleaseNotes-Notes:)
 
+* TOC
+{:toc}
 
 
 
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-Feature Highlights
+# Feature Highlights
 ------------------
 
 *   AWS as a supported platform for Terracotta DB
@@ -44,7 +32,7 @@ Feature Highlights
 *   Ad Hoc Query capability within Terracotta Management Console with new Terracotta DB Explorer
 *   Numerous operational usability enhancements including Latency statistics and Query statistics monitoring
 
-Summary of Changes 10.2.0.4
+# Summary of Changes 10.2.0.4
 ---------------------------
 
 ### Resolved
@@ -56,7 +44,7 @@ Summary of Changes 10.2.0.4
 
 *   3119 - Cluster tool fails to connect to server when the bind address is different from host
 
-Summary of Changes 10.2.0.3
+# Summary of Changes 10.2.0.3
 ---------------------------
 
 ### Resolved
@@ -68,7 +56,7 @@ Summary of Changes 10.2.0.3
 
 *   3119 - Cluster tool fails to connect to server when the bind address is different from host
 
-Summary of Changes 10.2.0.2
+# Summary of Changes 10.2.0.2
 ---------------------------
 
 ### Resolved
@@ -81,7 +69,7 @@ Summary of Changes 10.2.0.2
 
 *   3119 - Cluster tool fails to connect to server when the bind address is different from host
 
-Summary of Changes 10.2.0.1
+# Summary of Changes 10.2.0.1
 ---------------------------
 
 ### Resolved
@@ -102,7 +90,7 @@ Summary of Changes 10.2.0.1
 *   3022 - Reconnect attempts should use a distinct timeout
     
 
-Notes:
+# Notes:
 ------
 
 *   Terracotta BigMemory 4.x and Terracotta DB 10.x clients may be used simultaneously in the same application by ensuring ClassLoader isolation when initializing at least one of the clients.

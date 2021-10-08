@@ -2,24 +2,17 @@
 title:  Terracotta Ehcache 10.1 Release Notes  
 ---
 
-/\*<!\[CDATA\[\*/ div.rbtoc1633463967971 {padding: 0px;} div.rbtoc1633463967971 ul {list-style: disc;margin-left: 0px;} div.rbtoc1633463967971 li {margin-left: 0px;padding-left: 0px;} /\*\]\]>\*/
 
-*   [New Features](#TerracottaEhcache10.1ReleaseNotes-NewFeatures)
-*   [Summary of Changes in 10.1.0.1](#TerracottaEhcache10.1ReleaseNotes-SummaryofChangesin10.1.0.1)
-    *   [Resolved](#TerracottaEhcache10.1ReleaseNotes-Resolved)
-    *   [Known Issues](#TerracottaEhcache10.1ReleaseNotes-KnownIssues)
-*   [Summary of Changes in 10.1](#TerracottaEhcache10.1ReleaseNotes-SummaryofChangesin10.1)
-    *   [Resolved](#TerracottaEhcache10.1ReleaseNotes-Resolved.1)
-    *   [Known Issues](#TerracottaEhcache10.1ReleaseNotes-KnownIssues.1)
-    *   [Known Limitations With This Release](#TerracottaEhcache10.1ReleaseNotes-KnownLimitationsWithThisRelease)
-*   [Notes:](#TerracottaEhcache10.1ReleaseNotes-Notes:)
 
-New Features
+* TOC
+{:toc}
+
+# New Features
 ------------
 
 *   New backup and restore functionality added to the server
 
-Summary of Changes in 10.1.0.1
+# Summary of Changes in 10.1.0.1
 ------------------------------
 
 *   ### Resolved
@@ -31,7 +24,7 @@ Summary of Changes in 10.1.0.1
     
     *   None
 
-Summary of Changes in 10.1
+# Summary of Changes in 10.1
 --------------------------
 
 *   ### Resolved
@@ -56,7 +49,7 @@ Summary of Changes in 10.1
 *   Data inconsistency can occur from split-brain scenarios
 *   Security features are not yet enabled
 
-Notes:
+# Notes:
 ------
 
 *   Terracotta BigMemory 4.x and Terracotta DB 10.x clients cannot be used simultaneously in the same application without using ClassLoader separation when initializing at least one of the clients.
