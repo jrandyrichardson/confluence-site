@@ -74,7 +74,7 @@ A sample that demonstrates the new transaction modes is available here: [https:/
 
 #### About Quartz Scheduler 2.0
 
-Please see the [What's new in Quartz 2.0](24642084) document
+Please see the [What's new in Quartz 2.0](What%27s+new+in+Quartz+2.0) document
 
 Note: [Quartz Where](Getting-Started-With-Quartz-Scheduler-Locality-API) is only supported when using the TerracottaJobStore, and is an enterprise-only feature.
 

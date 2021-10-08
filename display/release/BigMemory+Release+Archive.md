@@ -4,7 +4,19 @@ title:  BigMemory Release Archive
 
 ### Previous Releases
 
-<table class="wrapped confluenceTable"><colgroup><col><col><col><col><col></colgroup><tbody><tr><th class="confluenceTh"><p>Release</p></th><th class="confluenceTh"><p>Date</p></th><th class="confluenceTh"><p>Platform Compatibility and Release Notes</p></th><th class="confluenceTh"><p>Notes</p></th><th class="confluenceTh"><br></th></tr><tr><td colspan="1" class="confluenceTd"><p>BigMemory 4.0.8<br>Ehcache 2.7.8<br>Quartz 2.2.1</p></td><td colspan="1" class="confluenceTd">5 May, 2015</td><td colspan="1" class="confluenceTd"><a href="BigMemory+Max+4.0" rel="nofollow">BigMemory 4.0.8 Release Notes</a>, Ehcache 2.7.8 (no code updates, version bump for build)</td><td colspan="1" class="confluenceTd"><a href="BigMemory+4.0%2C+Ehcache+2.7+Platform+Support" rel="nofollow">Platform Support</a></td><td colspan="1" class="confluenceTd">Bug Fix Release</td></tr><tr><td colspan="1" class="confluenceTd"><p>BigMemory 4.0.7<br>Ehcache 2.7.7<br>Quartz 2.2.1</p></td><td colspan="1" class="confluenceTd">26 November 2014</td><td colspan="1" class="confluenceTd"><a class="external-link" href="BigMemory+Max+4.0" rel="nofollow">BigMemory 4.0.7 Release Notes</a>,&nbsp;<a href="Ehcache-2.7-Release-Notes">Ehcache 2.7.7 Release Notes</a>,&nbsp;<a class="external-link" href="https://jira.terracotta.org/jira/browse/QTZ/?selectedTab=com.atlassian.jira.jira-projects-plugin:changelog-panel" rel="nofollow">Changelist for Quartz 2.2.1</a></td><td colspan="1" class="confluenceTd"><a href="BigMemory+4.0%2C+Ehcache+2.7+Platform+Support" rel="nofollow">Platform Support</a></td><td colspan="1" class="confluenceTd">Bug Fix Release</td></tr><tr><td colspan="1" class="confluenceTd"><p>BigMemory 4.0.6<br>Ehcache 2.7.6<br>Quartz 2.2.1</p></td><td colspan="1" class="confluenceTd">29 April 2014</td><td colspan="1" class="confluenceTd"><a class="external-link" href="BigMemory+Max+4.0" rel="nofollow">BigMemory 4.0.6 Release Notes</a>,&nbsp;Ehcache 2.7.6 (no code updates, version bump for build),&nbsp;<a class="external-link" href="https://jira.terracotta.org/jira/browse/QTZ/?selectedTab=com.atlassian.jira.jira-projects-plugin:changelog-panel" rel="nofollow">Changelist for Quartz 2.2.1</a></td><td colspan="1" class="confluenceTd"><a href="BigMemory+4.0%2C+Ehcache+2.7+Platform+Support" rel="nofollow">Platform Support</a></td><td colspan="1" class="confluenceTd">Bug Fix Release</td></tr><tr><td colspan="1" class="confluenceTd"><p>BigMemory 4.0.5<br>Ehcache 2.7.5<br>Quartz 2.2.1</p></td><td colspan="1" class="confluenceTd">25 October 2013</td><td colspan="1" class="confluenceTd"><a class="external-link" href="BigMemory+Max+4.0" rel="nofollow">BigMemory 4.0.5 Release Notes</a>,&nbsp;Ehcache 2.7.5 (no code updates, version bump for build),&nbsp;<a class="external-link" href="https://jira.terracotta.org/jira/browse/QTZ/?selectedTab=com.atlassian.jira.jira-projects-plugin:changelog-panel" rel="nofollow">Changelist for Quartz 2.2.1</a></td><td colspan="1" class="confluenceTd"><a href="BigMemory+4.0%2C+Ehcache+2.7+Platform+Support" rel="nofollow">Platform Support</a></td><td colspan="1" class="confluenceTd">Bug Fix Release</td></tr><tr><td colspan="1" class="confluenceTd"><p>BigMemory 4.0.4<br>Ehcache 2.7.4<br>Quartz 2.2.1<strong><br></strong></p></td><td colspan="1" class="confluenceTd">26 September 2013</td><td colspan="1" class="confluenceTd"><a class="external-link" href="BigMemory+Max+4.0" rel="nofollow">BigMemory 4.0.4 Release Notes</a>,&nbsp;<a href="Ehcache+2.7+Release+Notes" rel="nofollow">Ehcache 2.7.4 Release Notes</a>,&nbsp;<a class="external-link" href="https://jira.terracotta.org/jira/browse/QTZ/?selectedTab=com.atlassian.jira.jira-projects-plugin:changelog-panel" rel="nofollow">Changelist for Quartz 2.2.1</a></td><td colspan="1" class="confluenceTd"><a href="BigMemory+4.0%2C+Ehcache+2.7+Platform+Support" rel="nofollow">Platform Support</a></td><td colspan="1" class="confluenceTd">Bug Fix Release</td></tr><tr><td colspan="1" class="confluenceTd"><p>BigMemory 4.0.3<br>Ehcache 2.7.3</p></td><td colspan="1" class="confluenceTd">2 August 2013</td><td colspan="1" class="confluenceTd"><p><a class="external-link" href="BigMemory+Max+4.0" rel="nofollow">BigMemory Max 4.0.3 Release Notes</a>,&nbsp;<a class="external-link" href="https://iwiki.eur.ad.sag/display/TCREL/Test+Page+-+Product+Info" rel="nofollow">BigMemory Go 4.0.3 Release Notes</a></p></td><td colspan="1" class="confluenceTd"><a href="BigMemory+4.0%2C+Ehcache+2.7+Platform+Support" rel="nofollow">Platform Support</a></td><td colspan="1" class="confluenceTd">Bug Fix Release</td></tr><tr><td colspan="1" class="confluenceTd"><p>BigMemory 4.0.2<br>Ehcache 2.7.2</p></td><td colspan="1" class="confluenceTd">28 June 2013</td><td colspan="1" class="confluenceTd"><p><a class="external-link" href="BigMemory+Max+4.0" rel="nofollow">BigMemory Max 4.0.2 Release Notes</a>,&nbsp;<a class="external-link" href="https://iwiki.eur.ad.sag/display/TCREL/Test+Page+-+Product+Info" rel="nofollow">BigMemory Go 4.0.2 Release Notes</a>,&nbsp;<a href="Ehcache+2.7+Release+Notes" rel="nofollow">Ehcache 2.7.2 Release Notes</a></p><p><a class="external-link" href="https://iwiki.eur.ad.sag/display/TCREL/Test+Page+-+Product+Info" rel="nofollow">Test Page - Product Info</a></p><p><br></p></td><td colspan="1" class="confluenceTd"><a href="BigMemory+4.0%2C+Ehcache+2.7+Platform+Support" rel="nofollow">Platform Support</a></td><td colspan="1" class="confluenceTd"><br></td></tr><tr><td colspan="1" class="confluenceTd"><p>BigMemory 4.0.1</p><p>Ehcache 2.7.1</p></td><td colspan="1" class="confluenceTd">7 June 2013</td><td colspan="1" class="confluenceTd"><p><a href="BigMemory+Max+4.0.1" class="external-link" rel="nofollow">BigMemory Max 4.0.1 Release Notes</a>, <a href="BigMemory-Go-4.0.0">BigMemory Go 4.0.1 Release Notes</a>,&nbsp;<a href="Ehcache+2.7+Release+Notes" rel="nofollow">Ehcache 2.7.1 Release Notes</a></p><p><a href="37129882">BigMemory 4.0, Ehcache 2.7 Platform Support</a></p><p><br></p></td><td colspan="1" class="confluenceTd"><br></td><td colspan="1" class="confluenceTd"><br></td></tr><tr><td colspan="1" class="confluenceTd">BigMemory 4.0.0</td><td colspan="1" class="confluenceTd">4 March 2013</td><td colspan="1" class="confluenceTd"><p><a href="BigMemory-Max-4.0.0-Release-Notes">BigMemory Max 4.0.0 Release Notes</a>, <a href="BigMemory-Go-4.0.0">BigMemory Go 4.0.0 Release Notes</a>,&nbsp;<a href="Ehcache+2.7+Release+Notes" rel="nofollow">Ehcache 2.7.0 Release Notes</a></p><p><a href="37129882">BigMemory 4.0, Ehcache 2.7 Platform Support</a></p><p><br></p></td><td colspan="1" class="confluenceTd"><br></td><td colspan="1" class="confluenceTd"><br></td></tr></tbody></table>
+<table class="wrapped confluenceTable"><colgroup><col><col><col><col><col></colgroup><tbody>
+ 
+<tr><th class="confluenceTh"><p>Release</p></th><th class="confluenceTh"><p>Date</p></th><th class="confluenceTh"><p>Platform Compatibility and Release Notes</p></th><th class="confluenceTh"><p>Notes</p></th><th class="confluenceTh"><br></th></tr>
+<tr><td colspan="1" class="confluenceTd"><p>BigMemory 4.0.8<br>Ehcache 2.7.8<br>Quartz 2.2.1</p></td><td colspan="1" class="confluenceTd">5 May, 2015</td><td colspan="1" class="confluenceTd"><a href="BigMemory+Max+4.0" rel="nofollow">BigMemory 4.0.8 Release Notes</a>, Ehcache 2.7.8 (no code updates, version bump for build)</td><td colspan="1" class="confluenceTd"><a href="BigMemory+4.0%2C+Ehcache+2.7+Platform+Support" rel="nofollow">Platform Support</a></td><td colspan="1" class="confluenceTd">Bug Fix Release</td></tr>
+<tr><td colspan="1" class="confluenceTd"><p>BigMemory 4.0.7<br>Ehcache 2.7.7<br>Quartz 2.2.1</p></td><td colspan="1" class="confluenceTd">26 November 2014</td><td colspan="1" class="confluenceTd"><a class="external-link" href="BigMemory+Max+4.0" rel="nofollow">BigMemory 4.0.7 Release Notes</a>,&nbsp;<a href="Ehcache-2.7-Release-Notes">Ehcache 2.7.7 Release Notes</a>,&nbsp;<a class="external-link" href="https://jira.terracotta.org/jira/browse/QTZ/?selectedTab=com.atlassian.jira.jira-projects-plugin:changelog-panel" rel="nofollow">Changelist for Quartz 2.2.1</a></td><td colspan="1" class="confluenceTd"><a href="BigMemory+4.0%2C+Ehcache+2.7+Platform+Support" rel="nofollow">Platform Support</a></td><td colspan="1" class="confluenceTd">Bug Fix Release</td></tr>
+<tr><td colspan="1" class="confluenceTd"><p>BigMemory 4.0.6<br>Ehcache 2.7.6<br>Quartz 2.2.1</p></td><td colspan="1" class="confluenceTd">29 April 2014</td><td colspan="1" class="confluenceTd"><a class="external-link" href="BigMemory+Max+4.0" rel="nofollow">BigMemory 4.0.6 Release Notes</a>,&nbsp;Ehcache 2.7.6 (no code updates, version bump for build),&nbsp;<a class="external-link" href="https://jira.terracotta.org/jira/browse/QTZ/?selectedTab=com.atlassian.jira.jira-projects-plugin:changelog-panel" rel="nofollow">Changelist for Quartz 2.2.1</a></td><td colspan="1" class="confluenceTd"><a href="BigMemory+4.0%2C+Ehcache+2.7+Platform+Support" rel="nofollow">Platform Support</a></td><td colspan="1" class="confluenceTd">Bug Fix Release</td></tr>
+<tr><td colspan="1" class="confluenceTd"><p>BigMemory 4.0.5<br>Ehcache 2.7.5<br>Quartz 2.2.1</p></td><td colspan="1" class="confluenceTd">25 October 2013</td><td colspan="1" class="confluenceTd"><a class="external-link" href="BigMemory+Max+4.0" rel="nofollow">BigMemory 4.0.5 Release Notes</a>,&nbsp;Ehcache 2.7.5 (no code updates, version bump for build),&nbsp;<a class="external-link" href="https://jira.terracotta.org/jira/browse/QTZ/?selectedTab=com.atlassian.jira.jira-projects-plugin:changelog-panel" rel="nofollow">Changelist for Quartz 2.2.1</a></td><td colspan="1" class="confluenceTd"><a href="BigMemory+4.0%2C+Ehcache+2.7+Platform+Support" rel="nofollow">Platform Support</a></td><td colspan="1" class="confluenceTd">Bug Fix Release</td></tr>
+<tr><td colspan="1" class="confluenceTd"><p>BigMemory 4.0.4<br>Ehcache 2.7.4<br>Quartz 2.2.1<strong><br></strong></p></td><td colspan="1" class="confluenceTd">26 September 2013</td><td colspan="1" class="confluenceTd"><a class="external-link" href="BigMemory+Max+4.0" rel="nofollow">BigMemory 4.0.4 Release Notes</a>,&nbsp;<a href="Ehcache+2.7+Release+Notes" rel="nofollow">Ehcache 2.7.4 Release Notes</a>,&nbsp;<a class="external-link" href="https://jira.terracotta.org/jira/browse/QTZ/?selectedTab=com.atlassian.jira.jira-projects-plugin:changelog-panel" rel="nofollow">Changelist for Quartz 2.2.1</a></td><td colspan="1" class="confluenceTd"><a href="BigMemory+4.0%2C+Ehcache+2.7+Platform+Support" rel="nofollow">Platform Support</a></td><td colspan="1" class="confluenceTd">Bug Fix Release</td></tr>
+<tr><td colspan="1" class="confluenceTd"><p>BigMemory 4.0.3<br>Ehcache 2.7.3</p></td><td colspan="1" class="confluenceTd">2 August 2013</td><td colspan="1" class="confluenceTd"><p><a class="external-link" href="BigMemory+Max+4.0" rel="nofollow">BigMemory Max 4.0.3 Release Notes</a>,&nbsp;<a class="external-link" href="https://iwiki.eur.ad.sag/display/TCREL/Test+Page+-+Product+Info" rel="nofollow">BigMemory Go 4.0.3 Release Notes</a></p></td><td colspan="1" class="confluenceTd"><a href="BigMemory+4.0%2C+Ehcache+2.7+Platform+Support" rel="nofollow">Platform Support</a></td><td colspan="1" class="confluenceTd">Bug Fix Release</td></tr>
+<tr><td colspan="1" class="confluenceTd"><p>BigMemory 4.0.2<br>Ehcache 2.7.2</p></td><td colspan="1" class="confluenceTd">28 June 2013</td><td colspan="1" class="confluenceTd"><p><a class="external-link" href="BigMemory+Max+4.0" rel="nofollow">BigMemory Max 4.0.2 Release Notes</a>,&nbsp;<a class="external-link" href="https://iwiki.eur.ad.sag/display/TCREL/Test+Page+-+Product+Info" rel="nofollow">BigMemory Go 4.0.2 Release Notes</a>,&nbsp;<a href="Ehcache+2.7+Release+Notes" rel="nofollow">Ehcache 2.7.2 Release Notes</a></p><p><a class="external-link" href="https://iwiki.eur.ad.sag/display/TCREL/Test+Page+-+Product+Info" rel="nofollow">Test Page - Product Info</a></p><p><br></p></td><td colspan="1" class="confluenceTd"><a href="BigMemory+4.0%2C+Ehcache+2.7+Platform+Support" rel="nofollow">Platform Support</a></td><td colspan="1" class="confluenceTd"><br></td></tr>
+<tr><td colspan="1" class="confluenceTd"><p>BigMemory 4.0.1</p><p>Ehcache 2.7.1</p></td><td colspan="1" class="confluenceTd">7 June 2013</td><td colspan="1" class="confluenceTd"><p><a href="BigMemory+Max+4.0.1" class="external-link" rel="nofollow">BigMemory Max 4.0.1 Release Notes</a>, <a href="BigMemory-Go-4.0.0">BigMemory Go 4.0.1 Release Notes</a>,&nbsp;<a href="Ehcache+2.7+Release+Notes" rel="nofollow">Ehcache 2.7.1 Release Notes</a></p><p><a href="BigMemory+4.0%2C+Ehcache+2.7+Platform+Support">BigMemory 4.0, Ehcache 2.7 Platform Support</a></p><p><br></p></td><td colspan="1" class="confluenceTd"><br></td><td colspan="1" class="confluenceTd"><br></td></tr>
+<tr><td colspan="1" class="confluenceTd">BigMemory 4.0.0</td><td colspan="1" class="confluenceTd">4 March 2013</td><td colspan="1" class="confluenceTd"><p><a href="BigMemory-Max-4.0.0-Release-Notes">BigMemory Max 4.0.0 Release Notes</a>, <a href="BigMemory-Go-4.0.0">BigMemory Go 4.0.0 Release Notes</a>,&nbsp;<a href="Ehcache+2.7+Release+Notes" rel="nofollow">Ehcache 2.7.0 Release Notes</a></p><p><a href="BigMemory+4.0%2C+Ehcache+2.7+Platform+Support">BigMemory 4.0, Ehcache 2.7 Platform Support</a></p><p><br></p></td><td colspan="1" class="confluenceTd"><br></td><td colspan="1" class="confluenceTd"><br></td></tr></tbody>
+</table>
 
 | 
 Release
@@ -56,7 +68,7 @@ Quartz 2.1.7
 | Terracotta 3.7.6 | 16 July 2013 | [Terracotta 3.7.6, Ehcache 2.6.6 Release Notes](Terracotta+3.7) |   
  |   
  |
-| Terracotta 3.7.5 | 25 March 2013 | [Terracotta 3.7.5, Ehcache 2.6.6 Release Notes](Terracotta-3.7) | This Kit contains Terracotta 3.7.5, Ehcache 2.6.6, Quartz 2.1.7 |   
+| Terracotta 3.7.5 | 25 March 2013 | [Terracotta 3.7.5, Ehcache 2.6.6 Release Notes](Terracotta+3.7) | This Kit contains Terracotta 3.7.5, Ehcache 2.6.6, Quartz 2.1.7 |   
  |
 | 
 
@@ -68,8 +80,8 @@ Terracotta 3.7.4
 
  | 
 
-[Terracotta 3.7.4, Ehcache 2.6.5 Release Notes](Terracotta-3.7)  
-[3.7 Platform Support](30965841)
+[Terracotta 3.7.4, Ehcache 2.6.5 Release Notes](Terracotta+3.7)  
+[3.7 Platform Support](Terracotta+3.7%2C+Ehcache+2.6%2C+Quartz+2.1+Platform+Support)
 
  | 
 
@@ -87,8 +99,8 @@ Terracotta 3.7.3
 
  | 
 
-[Terracotta 3.7.3, Ehcache 2.6.3 Release Notes](Terracotta-3.7)  
-[3.7 Platform Support](30965841)
+[Terracotta 3.7.3, Ehcache 2.6.3 Release Notes](Terracotta+3.7)  
+[3.7 Platform Support](Terracotta+3.7%2C+Ehcache+2.6%2C+Quartz+2.1+Platform+Support)
 
  | 
 
@@ -124,8 +136,8 @@ Terracotta 3.7.2
 
  | 
 
-[Terracotta 3.7.2, Ehcache 2.6.2 Release Notes](Terracotta-3.7)  
-[3.7 Platform Support](30965841)
+[Terracotta 3.7.2, Ehcache 2.6.2 Release Notes](Terracotta+3.7)  
+[3.7 Platform Support](Terracotta+3.7%2C+Ehcache+2.6%2C+Quartz+2.1+Platform+Support)
 
  | 
 
@@ -143,7 +155,7 @@ This Kit contains Terracotta 3.7.2, Ehcache 2.6.2, Quartz 2.1.6
 | Terracotta 3.7.0 | 23 July 2012 | 
 
 [Terracotta 3.7.0, Ehcache 2.6.0 Release Notes ](Terracotta-3.7)  
-[3.7 Platform Support](30965841)
+[3.7 Platform Support](Terracotta+3.7%2C+Ehcache+2.6%2C+Quartz+2.1+Platform+Support)
 
  |  This kit contains Terracotta 3.7.0, Ehcache 2.6.0,  Quartz 2.1.5 |   
  |
@@ -170,13 +182,13 @@ Notes
  |
 | Terracotta 3.6.5 | 22 October 2012 | 
 
-[Terracotta 3.6.5, Ehcache 2.5.6, Quartz 2.1.6 Release Notes ](28803333)   
-[3.6 Platform Support](28803337)
+[Terracotta 3.6.5, Ehcache 2.5.6, Quartz 2.1.6 Release Notes ](Release+Notes+Terracotta+3.6%2C+Ehcache+2.5%2C+Quartz+2.1)   
+[3.6 Platform Support](Platform+Support+Terracotta+3.6%2C+Ehcache+2.5%2C+Quartz+2.1)
 
  |  This contains Terracotta 3.6.5, Ehcache 2.5.6, Quartz 2.1.6 |   
  |
-| Terracotta 3.6.3 | 13 August 2012 | [Terracotta 3.6.3, Ehcache 2.5.4, Quartz 2.1.6 Release Notes ](28803333)   
-[3.6 Platform Support](28803337) | This kit contains Terracotta 3.6.3, Ehcache 2.5.4, Quartz 2.1.6 |   
+| Terracotta 3.6.3 | 13 August 2012 | [Terracotta 3.6.3, Ehcache 2.5.4, Quartz 2.1.6 Release Notes ](Release+Notes+Terracotta+3.6%2C+Ehcache+2.5%2C+Quartz+2.1)   
+[3.6 Platform Support](Platform+Support+Terracotta+3.6%2C+Ehcache+2.5%2C+Quartz+2.1) | This kit contains Terracotta 3.6.3, Ehcache 2.5.4, Quartz 2.1.6 |   
  |
 | 
 
@@ -188,8 +200,8 @@ Terracotta 3.6.2
 
  | 
 
-[Terracotta 3.6.2, Ehcache 2.5.2, Quartz 2.1.4 Release Notes](28803333)  
-[3.6 Platform Support](28803337)
+[Terracotta 3.6.2, Ehcache 2.5.2, Quartz 2.1.4 Release Notes](Release+Notes+Terracotta+3.6%2C+Ehcache+2.5%2C+Quartz+2.1)  
+[3.6 Platform Support](Platform+Support+Terracotta+3.6%2C+Ehcache+2.5%2C+Quartz+2.1)
 
  | 
 
@@ -207,8 +219,8 @@ Terracotta 3.6.1
 
  | 
 
-[Terracotta 3.6.1, Ehcache 2.5.1, Quartz 2.1.3 Release Notes](28803333)  
-[3.6 Platform Support](28803337)
+[Terracotta 3.6.1, Ehcache 2.5.1, Quartz 2.1.3 Release Notes](Release+Notes+Terracotta+3.6%2C+Ehcache+2.5%2C+Quartz+2.1)  
+[3.6 Platform Support](Platform+Support+Terracotta+3.6%2C+Ehcache+2.5%2C+Quartz+2.1)
 
  | 
 
@@ -226,8 +238,8 @@ Terracotta 3.6.0
 
  | 
 
-[Terracotta 3.6.0, Ehcache 2.5.0, Quartz 2.1.1 Release Notes](28803333)  
-[3.6 Platform Support](28803337)
+[Terracotta 3.6.0, Ehcache 2.5.0, Quartz 2.1.1 Release Notes](Release+Notes+Terracotta+3.6%2C+Ehcache+2.5%2C+Quartz+2.1)  
+[3.6 Platform Support](Platform+Support+Terracotta+3.6%2C+Ehcache+2.5%2C+Quartz+2.1)
 
  | 
 
@@ -264,7 +276,7 @@ Terracotta 3.5.5
 
  | 
 
-[Terracotta 3.5.5 Release Notes](Terracotta-3.5-Release-Notes)
+[Terracotta 3.5.5 Release Notes](Terracotta+3.5+Release+Notes)
 
  | 
 
@@ -272,7 +284,7 @@ This kit includes Ehcache 2.4.8, Quartz 2.1.6
 
  |   
  |
-| Terracotta 3.5.4 | 22 December 2012 | [Terracotta 3.5.4 Release Notes](Terracotta-3.5-Release-Notes) | 
+| Terracotta 3.5.4 | 22 December 2012 | [Terracotta 3.5.4 Release Notes](Terracotta+3.5+Release+Notes) | 
 
 This kit includes Ehcache 2.4.7 and Quartz 2.1.2. Downloads are available [here](3.5.4-Downloads)
 
@@ -288,7 +300,7 @@ Terracotta 3.5.3
 
  | 
 
-[Terracotta 3.5.3 Release Notes](Terracotta-3.5-Release-Notes)
+[Terracotta 3.5.3 Release Notes](Terracotta+3.5-Release-Notes)
 
  | 
 
@@ -306,7 +318,7 @@ Terracotta 3.5.2\_2
 
  | 
 
-[Terracotta 3.5.2\_2 and Quartz 2.0.2 Release Notes](Terracotta-3.5-Release-Notes)
+[Terracotta 3.5.2\_2 and Quartz 2.0.2 Release Notes](Terracotta+3.5+Release+Notes)
 
  | 
 
@@ -325,7 +337,7 @@ Terracotta 3.5.2\_1
 
  | 
 
-[Terracotta 3.5.2\_1 and Quartz 2.0.2 Release Notes](Terracotta-3.5-Release-Notes)
+[Terracotta 3.5.2\_1 and Quartz 2.0.2 Release Notes](Terracotta+3.5+Release+Notes)
 
  | 
 
@@ -343,7 +355,7 @@ Terracotta 3.5.2
 
  | 
 
-[Terracotta 3.5.2 and Quartz 2.0.2 Release Notes](Terracotta-3.5-Release-Notes)
+[Terracotta 3.5.2 and Quartz 2.0.2 Release Notes](Terracotta+3.5+Release+Notes)
 
  | 
 
@@ -361,7 +373,7 @@ Terracotta 3.5.1
 
  | 
 
-[Terracotta 3.5.1 Release Notes](Terracotta-3.5-Release-Notes)
+[Terracotta 3.5.1 Release Notes](Terracotta+3.5+Release+Notes)
 
  | 
 
@@ -380,7 +392,7 @@ Terracotta 3.5.0
  | 
 
 [3.5.0 Platform Support](3.5.0-Platform-Support)  
-[Release Notes Terracotta 3.5.0](Release-Notes-Terracotta-3.5.0)
+[Release Notes Terracotta 3.5.0](Release-Notes-Terracotta+3.5.0)
 
  | 
 
@@ -437,7 +449,7 @@ Terracotta 3.4.1
  | 
 
 [3.4.0 and 3.4.1 Platform Support](3.4.0-and-3.4.1-Platform-Support)  
-[Release Notes Terracotta 3.4.1](Release-Notes-Terracotta-3.4.1)
+[Release Notes Terracotta 3.4.1](Release-Notes-Terracotta+3.4.1)
 
  | 
 
@@ -475,7 +487,7 @@ Terracotta 3.4.0\_1
  | 
 
 [3.4.0 and 3.4.1 Platform Support](3.4.0-and-3.4.1-Platform-Support)  
-[Release Notes Terracotta 3.4.0](Release-Notes-Terracotta-3.4.0)  
+[Release Notes Terracotta 3.4.0](Release-Notes-Terracotta+3.4.0)  
 [Release Notes Ehcache 2.3.1](Release-Notes-Ehcache-2.3.1)
 
  | 
@@ -494,7 +506,7 @@ Terracotta 3.4.0
 
  | 
 
-[Release Notes Terracotta 3.4.0](Release-Notes-Terracotta-3.4.0)
+[Release Notes Terracotta 3.4.0](Release-Notes-Terracotta+3.4.0)
 
  | 
 
@@ -512,7 +524,7 @@ Terracotta 3.3.0
 
  | 
 
-[Release Notes Terracotta 3.3.0 Ehcache 2.2.0](Release-Notes-Terracotta-3.3.0-Ehcache-2.2.0)
+[Release Notes Terracotta 3.3.0 Ehcache 2.2.0](Release-Notes-Terracotta+3.3.0+Ehcache+2.2.0)
 
  | 
 

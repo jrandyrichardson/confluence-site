@@ -4,8 +4,6 @@ title:  Release Notes
 
 Terracotta Server 4.3 is the latest release of Open Source edition of the Terracotta Server. It includes Ehcache 2.10.0
 
-**/\*<!\[CDATA\[\*/ div.rbtoc1633463967602 {padding: 0px;} div.rbtoc1633463967602 ul {list-style: disc;margin-left: 0px;} div.rbtoc1633463967602 li {margin-left: 0px;padding-left: 0px;} /\*\]\]>\*/**
-
 **
 
 *   [New Features](#ReleaseNotes:TerracottaServer4.3.0OpenSource-NewFeatures)

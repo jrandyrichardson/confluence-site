@@ -46,7 +46,7 @@ BigMemory Go is a pluggable, in-memory data management solution with sizable sto
 # Platform Support
 ----------------
 
-Please see the [Platform Support Page](30965841).
+Please see the [Platform Support Page](Terracotta+3.7%2C+Ehcache+2.6%2C+Quartz+2.1+Platform+Support).
 
 # How to get support
 ------------------

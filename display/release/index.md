@@ -21,10 +21,10 @@ Available Pages:
     
     *   [3.5.4 Downloads](3.5.4+Downloads)
     
-    *   [BigMemory 4.0, Ehcache 2.7 Platform Support](37129882)
-        *   [BigMemory 4.1, Ehcache 2.8 Platform Support](38834165)
+    *   [BigMemory 4.0, Ehcache 2.7 Platform Support](BigMemory+4.0%2C+Ehcache+2.7+Platform+Support)
+        *   [BigMemory 4.1, Ehcache 2.8 Platform Support](BigMemory+4.1%2C+Ehcache+2.8+Platform+Support)
             
-            *   [BigMemory 4.2, Ehcache 2.9 Platform Support](42795662)
+            *   [BigMemory 4.2, Ehcache 2.9 Platform Support](BigMemory+4.2%2C+Ehcache+2.9+Platform+Support)
             
             *   [BigMemory 4.3, Ehcache 2.10 Platform Support](BigMemory+4.3%2C+Ehcache+2.10+Platform+Support)
     
@@ -78,7 +78,7 @@ Available Pages:
         
         *   [Getting Started With Quartz Scheduler Locality API](Getting+Started+With+Quartz+Scheduler+Locality+API)
         
-        *   [What's new in Quartz 2.0](24642084)
+        *   [What's new in Quartz 2.0](What%27s+new+in+Quartz+2.0)
             *   [migration guide](migration+guide)
     
     *   [Gladstone ReadMe](Gladstone+ReadMe)
@@ -92,15 +92,15 @@ Available Pages:
     
     *   [Patches](Patches)
     
-    *   [Platform Support Terracotta 3.6, Ehcache 2.5, Quartz 2.1](28803337)
+    *   [Platform Support Terracotta 3.6, Ehcache 2.5, Quartz 2.1](Platform+Support+Terracotta+3.6%2C+Ehcache+2.5%2C+Quartz+2.1)
     
     *   [Quartz Manager 1.0 Release Notes](Quartz+Manager+1.0+Release+Notes)
     
-    *   [Release+Notes+Terracotta+3.4.1](25886804)
+    *   [Release+Notes+Terracotta+3.4.1](Release+Notes+Terracotta+3.4.1)
     
     *   [Release Notes 3.3.0 Beta](Release+Notes+3.3.0+Beta)
     
-    *   [Release Notes: Terracotta Server 4.3.0 Open Source](43581483)
+    *   [Release Notes: Terracotta Server 4.3.0 Open Source](Release+Notes%3A+Terracotta+Server+4.3.0+Open+Source)
     
     *   [Release Notes Ehcache 2.3.0](Release+Notes+Ehcache+2.3.0)
     
@@ -124,7 +124,7 @@ Available Pages:
     
     *   [Release Notes Terracotta 3.5.0 Release Candidate](Release+Notes+Terracotta+3.5.0+Release+Candidate)
     
-    *   [Release Notes Terracotta 3.6, Ehcache 2.5, Quartz 2.1](28803333)
+    *   [Release Notes Terracotta 3.6, Ehcache 2.5, Quartz 2.1](Release+Notes+Terracotta+3.6%2C+Ehcache+2.5%2C+Quartz+2.1)
         *   [Release Notes Ehcache Core 2.5](Release+Notes+Ehcache+Core+2.5)
     
     *   [Technical FAQ](Technical+FAQ)
@@ -140,7 +140,7 @@ Available Pages:
         
         *   [Ehcache 2.6.0 Release Notes](Ehcache+2.6.0+Release+Notes)
     
-    *   [Terracotta 3.7, Ehcache 2.6, Quartz 2.1 Platform Support](30965841)
+    *   [Terracotta 3.7, Ehcache 2.6, Quartz 2.1 Platform Support](Terracotta+3.7%2C+Ehcache+2.6%2C+Quartz+2.1+Platform+Support)
     
     *   [Terracotta 3.7.0 EAP](Terracotta+3.7.0+EAP)
     

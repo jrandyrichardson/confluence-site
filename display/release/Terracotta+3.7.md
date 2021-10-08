@@ -123,7 +123,7 @@ Terracotta 3.7.4/Ehcache 2.6.5 is a bug fix release
 # Release Notes for Terracotta 3.7.3/Ehcache 2.6.3
 ================================================
 
-Terracotta 3.7.3/Ehcache 2.6.3 is a maintenance release. This release also supports Java SE 7 (please refer to the [Platform Support](30965841) page for specifics).
+Terracotta 3.7.3/Ehcache 2.6.3 is a maintenance release. This release also supports Java SE 7 (please refer to the [Platform Support](Terracotta+3.7%2C+Ehcache+2.6%2C+Quartz+2.1+Platform+Support) page for specifics).
 
 #### Additional Resolved Issues for Terracotta 3.7.3/Ehcache 2.6.3
 

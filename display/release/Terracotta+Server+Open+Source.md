@@ -38,7 +38,7 @@ Notes
 
 Terracotta 4.3.0, Ehcache 2.10.0
 
- | 2 April 2015 | [Terracotta 4.3.0 Release Notes](43581483) |
+ | 2 April 2015 | [Terracotta 4.3.0 Release Notes](Release+Notes%3A+Terracotta+Server+4.3.0+Open+Source) |
 | Quartz 2.2.1 |   | [Changelist for Quartz 2.2.1](https://jira.terracotta.org/jira/browse/QTZ/?selectedTab=com.atlassian.jira.jira-projects-plugin:changelog-panel) |   |
 
 Understanding Terracotta Kit Names and Version Numbers
