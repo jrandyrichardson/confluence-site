@@ -27,7 +27,7 @@ BigMemory Max 4.0.1 brings significant enhancements to Terracotta management pl
 
 #### Terracotta Web Sessions
 
-Support for Web Sessions is included in BigMemory Max 4.0.1 kit. For more information, see [Release Notes](http://www.terracotta.org/confluence/display/release/Web+Sessions+4.0.0)  
+Support for Web Sessions is included in BigMemory Max 4.0.1 kit. For more information, see [Release Notes](Web+Sessions+4.0.0)  
 
 Upgrading
 ---------

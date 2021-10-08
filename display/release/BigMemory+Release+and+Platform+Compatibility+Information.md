@@ -134,14 +134,14 @@ BigMemory 4.0.7
 Ehcache 2.7.7  
 Quartz 2.2.1
 
- | 26 November 2014 | [BigMemory 4.0.7 Release Notes](http://www.terracotta.org/confluence/display/release/BigMemory+Max+4.0), [Ehcache 2.7.7 Release Notes](https://jira.terracotta.org/jira/browse/EHC/?selectedTab=com.atlassian.jira.jira-projects-plugin:changelog-panel), [Changelist for Quartz 2.2.1](https://jira.terracotta.org/jira/browse/QTZ/?selectedTab=com.atlassian.jira.jira-projects-plugin:changelog-panel) | [Platform Support](BigMemory+4.0%2C+Ehcache+2.7+Platform+Support) | Bug Fix Release |
+ | 26 November 2014 | [BigMemory 4.0.7 Release Notes](BigMemory+Max+4.0), [Ehcache 2.7.7 Release Notes](https://jira.terracotta.org/jira/browse/EHC/?selectedTab=com.atlassian.jira.jira-projects-plugin:changelog-panel), [Changelist for Quartz 2.2.1](https://jira.terracotta.org/jira/browse/QTZ/?selectedTab=com.atlassian.jira.jira-projects-plugin:changelog-panel) | [Platform Support](BigMemory+4.0%2C+Ehcache+2.7+Platform+Support) | Bug Fix Release |
 | 
 
 BigMemory 4.1.5  
 Ehcache 2.8.5  
 Quartz 2.2.1
 
- | 17 October 2014 | [BigMemory Max 4.1.5 Release Notes](http://www.terracotta.org/confluence/display/release/BigMemory+Max+4.1), [BigMemory Go 4.1.5 Release Notes](http://www.terracotta.org/confluence/display/release/BigMemory+Go+4.1), [Ehcache 2.8.5 Release Notes](https://jira.terracotta.org/jira/browse/EHC/?selectedTab=com.atlassian.jira.jira-projects-plugin:changelog-panel), [Changelist for Quartz 2.2.1](https://jira.terracotta.org/jira/browse/QTZ/?selectedTab=com.atlassian.jira.jira-projects-plugin:changelog-panel) | [Platform Support](BigMemory+4.1%2C+Ehcache+2.8+Platform+Support) | Bug Fix Release |
+ | 17 October 2014 | [BigMemory Max 4.1.5 Release Notes](BigMemory+Max+4.1), [BigMemory Go 4.1.5 Release Notes](BigMemory+Go+4.1), [Ehcache 2.8.5 Release Notes](https://jira.terracotta.org/jira/browse/EHC/?selectedTab=com.atlassian.jira.jira-projects-plugin:changelog-panel), [Changelist for Quartz 2.2.1](https://jira.terracotta.org/jira/browse/QTZ/?selectedTab=com.atlassian.jira.jira-projects-plugin:changelog-panel) | [Platform Support](BigMemory+4.1%2C+Ehcache+2.8+Platform+Support) | Bug Fix Release |
 | 
 
 BigMemory 4.2  
@@ -155,28 +155,28 @@ BigMemory 4.1.4
 Ehcache 2.8.4  
 Quartz 2.2.1
 
- | 23 September 2014 | [BigMemory Max 4.1.4 Release Notes](http://www.terracotta.org/confluence/display/release/BigMemory+Max+4.1), [BigMemory Go 4.1.4 Release Notes](http://www.terracotta.org/confluence/display/release/BigMemory+Go+4.1), [Ehcache 2.8.4 Release Notes](https://jira.terracotta.org/jira/browse/EHC/?selectedTab=com.atlassian.jira.jira-projects-plugin:changelog-panel), [Changelist for Quartz 2.2.1](https://jira.terracotta.org/jira/browse/QTZ/?selectedTab=com.atlassian.jira.jira-projects-plugin:changelog-panel) | [Platform Support](BigMemory+4.1%2C+Ehcache+2.8+Platform+Support) | Bug Fix Release |
+ | 23 September 2014 | [BigMemory Max 4.1.4 Release Notes](BigMemory+Max+4.1), [BigMemory Go 4.1.4 Release Notes](BigMemory+Go+4.1), [Ehcache 2.8.4 Release Notes](https://jira.terracotta.org/jira/browse/EHC/?selectedTab=com.atlassian.jira.jira-projects-plugin:changelog-panel), [Changelist for Quartz 2.2.1](https://jira.terracotta.org/jira/browse/QTZ/?selectedTab=com.atlassian.jira.jira-projects-plugin:changelog-panel) | [Platform Support](BigMemory+4.1%2C+Ehcache+2.8+Platform+Support) | Bug Fix Release |
 | 
 
 BigMemory 4.1.3  
 Ehcache 2.8.3  
 Quartz 2.2.1
 
- | 6 June 2014 | [BigMemory Max 4.1.3 Release Notes](http://www.terracotta.org/confluence/display/release/BigMemory+Max+4.1), [BigMemory Go 4.1.3 Release Notes](http://www.terracotta.org/confluence/display/release/BigMemory+Go+4.1), [Ehcache 2.8.3 Release Notes](https://jira.terracotta.org/jira/browse/EHC/?selectedTab=com.atlassian.jira.jira-projects-plugin:changelog-panel), [Changelist for Quartz 2.2.1](https://jira.terracotta.org/jira/browse/QTZ/?selectedTab=com.atlassian.jira.jira-projects-plugin:changelog-panel) | [Platform Support](BigMemory+4.1%2C+Ehcache+2.8+Platform+Support) | Bug Fix Release |
+ | 6 June 2014 | [BigMemory Max 4.1.3 Release Notes](BigMemory+Max+4.1), [BigMemory Go 4.1.3 Release Notes](BigMemory+Go+4.1), [Ehcache 2.8.3 Release Notes](https://jira.terracotta.org/jira/browse/EHC/?selectedTab=com.atlassian.jira.jira-projects-plugin:changelog-panel), [Changelist for Quartz 2.2.1](https://jira.terracotta.org/jira/browse/QTZ/?selectedTab=com.atlassian.jira.jira-projects-plugin:changelog-panel) | [Platform Support](BigMemory+4.1%2C+Ehcache+2.8+Platform+Support) | Bug Fix Release |
 | 
 
 BigMemory 4.0.6  
 Ehcache 2.7.6  
 Quartz 2.2.1
 
- | 29 April 2014 | [BigMemory 4.0.6 Release Notes](http://www.terracotta.org/confluence/display/release/BigMemory+Max+4.0), [Ehcache 2.7.6 Release Notes](https://jira.terracotta.org/jira/browse/EHC/?selectedTab=com.atlassian.jira.jira-projects-plugin:changelog-panel), [Changelist for Quartz 2.2.1](https://jira.terracotta.org/jira/browse/QTZ/?selectedTab=com.atlassian.jira.jira-projects-plugin:changelog-panel) | [Platform Support](BigMemory+4.0%2C+Ehcache+2.7+Platform+Support) | Bug Fix Release |
+ | 29 April 2014 | [BigMemory 4.0.6 Release Notes](BigMemory+Max+4.0), [Ehcache 2.7.6 Release Notes](https://jira.terracotta.org/jira/browse/EHC/?selectedTab=com.atlassian.jira.jira-projects-plugin:changelog-panel), [Changelist for Quartz 2.2.1](https://jira.terracotta.org/jira/browse/QTZ/?selectedTab=com.atlassian.jira.jira-projects-plugin:changelog-panel) | [Platform Support](BigMemory+4.0%2C+Ehcache+2.7+Platform+Support) | Bug Fix Release |
 | 
 
 BigMemory 4.1.2  
 Ehcache 2.8.2  
 Quartz 2.2.1
 
- | 15 April 2014 | [BigMemory Max 4.1.2 Release Notes](http://www.terracotta.org/confluence/display/release/BigMemory+Max+4.1), [BigMemory Go 4.1.2 Release Notes](http://www.terracotta.org/confluence/display/release/BigMemory+Go+4.1), [Ehcache 2.8.1 Release Notes](https://jira.terracotta.org/jira/browse/EHC/?selectedTab=com.atlassian.jira.jira-projects-plugin:changelog-panel), [Changelist for Quartz 2.2.1](https://jira.terracotta.org/jira/browse/QTZ/?selectedTab=com.atlassian.jira.jira-projects-plugin:changelog-panel) | [Platform Support](BigMemory+4.1%2C+Ehcache+2.8+Platform+Support) |   |
+ | 15 April 2014 | [BigMemory Max 4.1.2 Release Notes](BigMemory+Max+4.1), [BigMemory Go 4.1.2 Release Notes](BigMemory+Go+4.1), [Ehcache 2.8.1 Release Notes](https://jira.terracotta.org/jira/browse/EHC/?selectedTab=com.atlassian.jira.jira-projects-plugin:changelog-panel), [Changelist for Quartz 2.2.1](https://jira.terracotta.org/jira/browse/QTZ/?selectedTab=com.atlassian.jira.jira-projects-plugin:changelog-panel) | [Platform Support](BigMemory+4.1%2C+Ehcache+2.8+Platform+Support) |   |
 | 
 
 BigMemory 3.7.8  
@@ -190,7 +190,7 @@ BigMemory 4.1.1
 Ehcache 2.8.1  
 Quartz 2.2.1
 
- | 4 February 2014 | [BigMemory Max 4.1.1 Release Notes](http://www.terracotta.org/confluence/display/release/BigMemory+Max+4.1), [BigMemory Go 4.1.1 Release Notes](http://www.terracotta.org/confluence/display/release/BigMemory+Go+4.1), [Ehcache 2.8.1 Release Notes](https://jira.terracotta.org/jira/browse/EHC#selectedTab=com.atlassian.jira.plugin.system.project%3Achangelog-panel), [Changelist for Quartz 2.2.1](https://jira.terracotta.org/jira/browse/QTZ/?selectedTab=com.atlassian.jira.jira-projects-plugin:changelog-panel) | [Platform Support](BigMemory+4.1%2C+Ehcache+2.8+Platform+Support) |   |
+ | 4 February 2014 | [BigMemory Max 4.1.1 Release Notes](BigMemory+Max+4.1), [BigMemory Go 4.1.1 Release Notes](BigMemory+Go+4.1), [Ehcache 2.8.1 Release Notes](https://jira.terracotta.org/jira/browse/EHC#selectedTab=com.atlassian.jira.plugin.system.project%3Achangelog-panel), [Changelist for Quartz 2.2.1](https://jira.terracotta.org/jira/browse/QTZ/?selectedTab=com.atlassian.jira.jira-projects-plugin:changelog-panel) | [Platform Support](BigMemory+4.1%2C+Ehcache+2.8+Platform+Support) |   |
 | 
 
 BigMemory 3.7.7  
@@ -204,21 +204,21 @@ BigMemory 4.1.0
 Ehcache 2.8.0  
 Quartz 2.2.1
 
- | 20 December 2013 | [BigMemory Max 4.1.0 Release Notes](http://www.terracotta.org/confluence/display/release/BigMemory+Max+4.1), [BigMemory Go 4.1.0 Release Notes](http://www.terracotta.org/confluence/display/release/BigMemory+Go+4.1), [Ehcache 2.8.0 Release Notes](https://jira.terracotta.org/jira/browse/EHC#selectedTab=com.atlassian.jira.plugin.system.project%3Achangelog-panel), [Changelist for Quartz 2.2.1](https://jira.terracotta.org/jira/browse/QTZ/?selectedTab=com.atlassian.jira.jira-projects-plugin:changelog-panel) | [Platform Support](BigMemory+4.1%2C+Ehcache+2.8+Platform+Support) |   |
+ | 20 December 2013 | [BigMemory Max 4.1.0 Release Notes](BigMemory+Max+4.1), [BigMemory Go 4.1.0 Release Notes](BigMemory+Go+4.1), [Ehcache 2.8.0 Release Notes](https://jira.terracotta.org/jira/browse/EHC#selectedTab=com.atlassian.jira.plugin.system.project%3Achangelog-panel), [Changelist for Quartz 2.2.1](https://jira.terracotta.org/jira/browse/QTZ/?selectedTab=com.atlassian.jira.jira-projects-plugin:changelog-panel) | [Platform Support](BigMemory+4.1%2C+Ehcache+2.8+Platform+Support) |   |
 | 
 
 BigMemory 4.0.5  
 Ehcache 2.7.5  
 Quartz 2.2.1
 
- | 25 October 2013 | [BigMemory 4.0.5 Release Notes](http://www.terracotta.org/confluence/display/release/BigMemory+Max+4.0), [Ehcache 2.7.5 Release Notes](https://jira.terracotta.org/jira/browse/EHC#selectedTab=com.atlassian.jira.plugin.system.project%3Achangelog-panel), [Changelist for Quartz 2.2.1](https://jira.terracotta.org/jira/browse/QTZ/?selectedTab=com.atlassian.jira.jira-projects-plugin:changelog-panel) | [Platform Support](BigMemory+4.0%2C+Ehcache+2.7+Platform+Support) | Bug Fix Release |
+ | 25 October 2013 | [BigMemory 4.0.5 Release Notes](BigMemory+Max+4.0), [Ehcache 2.7.5 Release Notes](https://jira.terracotta.org/jira/browse/EHC#selectedTab=com.atlassian.jira.plugin.system.project%3Achangelog-panel), [Changelist for Quartz 2.2.1](https://jira.terracotta.org/jira/browse/QTZ/?selectedTab=com.atlassian.jira.jira-projects-plugin:changelog-panel) | [Platform Support](BigMemory+4.0%2C+Ehcache+2.7+Platform+Support) | Bug Fix Release |
 | 
 
 BigMemory 4.0.4  
 Ehcache 2.7.4  
 Quartz 2.2.1
 
- | 26 September 2013 | [BigMemory 4.0.4 Release Notes](http://www.terracotta.org/confluence/display/release/BigMemory+Max+4.0), [Ehcache 2.7.4 Release Notes](https://jira.terracotta.org/jira/browse/EHC/fixforversion/11707), [Changelist for Quartz 2.2.1](https://jira.terracotta.org/jira/browse/QTZ/?selectedTab=com.atlassian.jira.jira-projects-plugin:changelog-panel) | [Platform Support](BigMemory+4.0%2C+Ehcache+2.7+Platform+Support) | Bug Fix Release |
+ | 26 September 2013 | [BigMemory 4.0.4 Release Notes](BigMemory+Max+4.0), [Ehcache 2.7.4 Release Notes](https://jira.terracotta.org/jira/browse/EHC/fixforversion/11707), [Changelist for Quartz 2.2.1](https://jira.terracotta.org/jira/browse/QTZ/?selectedTab=com.atlassian.jira.jira-projects-plugin:changelog-panel) | [Platform Support](BigMemory+4.0%2C+Ehcache+2.7+Platform+Support) | Bug Fix Release |
 | 
 
 BigMemory 4.0.3  
@@ -226,7 +226,7 @@ Ehcache 2.7.3
 
  | 2 August 2013 | 
 
-[BigMemory Max 4.0.3 Release Notes](http://www.terracotta.org/confluence/display/release/BigMemory+Max+4.0), [BigMemory Go 4.0.3 Release Notes](https://iwiki.eur.ad.sag/display/TCREL/Test+Page+-+Product+Info)
+[BigMemory Max 4.0.3 Release Notes](BigMemory+Max+4.0), [BigMemory Go 4.0.3 Release Notes](https://iwiki.eur.ad.sag/display/TCREL/Test+Page+-+Product+Info)
 
  | [Platform Support](BigMemory+4.0%2C+Ehcache+2.7+Platform+Support) | Bug Fix Release |
 | 
@@ -236,7 +236,7 @@ Ehcache 2.7.2
 
  | 28 June 2013 | 
 
-[BigMemory Max 4.0.2 Release Notes](http://www.terracotta.org/confluence/display/release/BigMemory+Max+4.0), [BigMemory Go 4.0.2 Release Notes](https://iwiki.eur.ad.sag/display/TCREL/Test+Page+-+Product+Info), [Ehcache 2.7.2 Release Notes](https://jira.terracotta.org/jira/browse/EHC/fixforversion/11701)
+[BigMemory Max 4.0.2 Release Notes](BigMemory+Max+4.0), [BigMemory Go 4.0.2 Release Notes](https://iwiki.eur.ad.sag/display/TCREL/Test+Page+-+Product+Info), [Ehcache 2.7.2 Release Notes](https://jira.terracotta.org/jira/browse/EHC/fixforversion/11701)
 
 [Test Page - Product Info](https://iwiki.eur.ad.sag/display/TCREL/Test+Page+-+Product+Info)
 

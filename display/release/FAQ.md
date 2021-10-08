@@ -11,7 +11,7 @@ Created by Unknown User (ilevy), last modified by Mike Allen on Dec 08, 2010
 Terracotta General FAQ
 ----------------------
 
-The Terracotta General FAQ answers non-technical questions about Terracotta. Send any general questions not answered by this FAQ to info@terracotta.org. For technical questions, check the [Technical FAQ](http://www.terracotta.org/confluence/display/release/Technical+FAQ) or post your questions on our [forums](http://forums.terracotta.org).
+The Terracotta General FAQ answers non-technical questions about Terracotta. Send any general questions not answered by this FAQ to info@terracotta.org. For technical questions, check the [Technical FAQ](Technical+FAQ) or post your questions on our [forums](http://forums.terracotta.org).
 
 The Terracotta FAQ is divided into the following subject areas:
 
@@ -57,7 +57,7 @@ The product samples allow you to work directly with Terracotta software. However
 
 #### What platforms does Terracotta software run on? Which application stacks does Terracotta support?
 
-Terracotta is designed to work with as broad an array of platforms, JVMs and application server versions as possible. Supported platforms are listed in the [Release and Platform Compatibility Information](http://www.terracotta.org/confluence/display/release/Home) section of the documentation.
+Terracotta is designed to work with as broad an array of platforms, JVMs and application server versions as possible. Supported platforms are listed in the [Release and Platform Compatibility Information](Home) section of the documentation.
 
 #### What is the Terracotta Client?
 

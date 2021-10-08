@@ -1,21 +1,21 @@
-Product Information : Release Notes Terracotta 3.5.0 Release Candidate  
+Product Information : Release Notes Terracotta 3.5.0  
 
 1.  [Product Information](index.html)
 2.  [Home](Home.html)
 
-Product Information : Release Notes Terracotta 3.5.0 Release Candidate
-======================================================================
+Product Information : Release Notes Terracotta 3.5.0
+====================================================
 
-Created by Fiona OShea, last modified by Mike Allen on Mar 14, 2011
+Created by Fiona OShea, last modified by Unknown User (ilevy) on Jun 22, 2011
 
-The Terracotta 3.5.0 Release Candidate includes Ehcache Core 2.4.0 and Quartz 2.0.0 RC
+The Terracotta 3.5.0 Release includes Ehcache Core 2.4.1 and Quartz 2.0.0
 
-### Summary of Changes
+### Summary of Key Changes
 
-*   Addition of Ehcache Search
+*   Addition of Ehcache Search (see below)
 *   New Ehcache Consistency setting (strong or eventual)
 *   Improvements to Enterprise Ehcache Disk Store (for use in conjunction with BigMemory)
-*   New local and xa (non-strict) Ehcache transaction modes
+*   New local and local\_jta Ehcache transaction modes
 *   NonStopCache is now in core
 *   Explicit locking is now in core
 *   Ehcache rejoin. Distributed Ehcache L1's are now able to rejoin the cluster on disconnect/reconnect from the Terracotta Server Array
@@ -26,14 +26,14 @@ Quartz Scheduler [http://www.quartz-scheduler.org](http://www.quartz-scheduler.o
 
 *   New fluent configuration API (see below)
 *   Quartz Where - permitting control of where jobs execute in a clustered environment through node groups and node type constraints  
-    A getting-started page for using Quartz Scheduler Locality API is available: [Getting Started With Quartz Scheduler Locality API](http://www.terracotta.org/confluence/display/release/Getting+Started+With+Quartz+Scheduler+Locality+API)
+    A getting-started page for using Quartz Scheduler Locality API is available: [Getting Started With Quartz Scheduler Locality API](Getting+Started+With+Quartz+Scheduler+Locality+API)
 *   Clustered Quartz performance improvements
 
 #### Additional Improvements
 
 *   Developer console improvements
 *   Platform Updates
-    *   Certification on JDK 1.6.0\_22
+    *   Certification on JDK 1.6.0\_24
 
 #### About Ehcache Search
 
@@ -43,7 +43,7 @@ The easiest way to get started with the API is to try the sample application pos
 
 Ehcache Search docs are here: [http://ehcache.org/documentation/search.html](http://ehcache.org/documentation/search.html)
 
-A getting-started page for using Ehcache Search with clustered caches is also available: [Getting Started With Ehcache Search API For Clustered Caches](http://www.terracotta.org/confluence/display/release/Getting+Started+With+Ehcache+Search+API+For+Clustered+Caches)
+A getting-started page for using Ehcache Search with clustered caches is also available: [Getting Started With Ehcache Search API For Clustered Caches](Getting+Started+With+Ehcache+Search+API+For+Clustered+Caches)
 
 #### New configuration options
 
@@ -68,7 +68,7 @@ Ehcache now has three transaction modes:
     transactionalMode="xa"
     
 
-The original "xa" mode is now "xa\_strict"
+The original "xa" mode is now "xa\_strict". Transactional caches can be made nonstop only in xa\_strict mode.
 
 Local is the fastest mode, followed by xa, followed by xa\_strict
 
@@ -78,11 +78,11 @@ A sample that demonstrates the new transaction modes is available here: [https:/
 
 Please see the [What's new in Quartz 2.0](http://www.quartz-scheduler.org) document
 
-Note: [Quartz Where](http://www.terracotta.org/confluence/display/release/Getting+Started+With+Quartz+Scheduler+Locality+API) is only supported when using the TerracottaJobStore, and is an enterprise-only feature.
+Note: [Quartz Where](Getting+Started+With+Quartz+Scheduler+Locality+API) is only supported when using the TerracottaJobStore, and is an enterprise-only feature.
 
 ### Upgrade Information
 
-Brief descriptions of major changes that may affect upgrades from previous versions of Terracotta product installations are listed in this section. See the [product documentation](http://www.terracotta.org/documentation/3.5.0-RC/product-documentation-1page.html) for more information.
+Brief descriptions of major changes that may affect upgrades from previous versions of Terracotta product installations are listed in this section. See the [product documentation](http://www.terracotta.org/documentation) for more information.
 
 #### Change to <cache> "coherent" Attribute
 
@@ -97,7 +97,7 @@ The <cache> attribute `transactionalMode` can now have one of the following valu
 *   xa – Basic JTA support.
 *   xa\_strict – Full JTA support.
 
-Note that with a transactional cache, the <cache> attribute `consistency` must be set to "strong".
+Note that with a transactional cache, the <cache> attribute `coherent` must be set to "strong".
 
 #### Coherency API Deprecated in Favor of Bulk-Load Methods
 
@@ -171,33 +171,43 @@ NonStopCache is no longer a decorator. Default values for NonStopCache behavior 
 
 #### Change in default storageStrategy for distributed Ehcache
 
-The DCV2 strategy is now the default. The old strategy is deprecated, but can be accessed by setting storageStrategy=classic. Note: many of the new features (such as eventual consistency, rejoin, and nonstop) are not compatible with classic.
+The DCV2 strategy is now the default. The old strategy is deprecated, but can be accessed by setting storageStrategy=classic.  
+Note: many of the new features (such as eventual consistency, rejoin, and nonstop) are not compatible with classic.
+
+DCV2 is optimized for large data sets. In certain environments, including ones with small data sets, this optimization may need to be tuned to avoid higher latency and memory usage. If your cluster experiences these issues after upgrading, reduce cache concurrency from the default 2048 to a lower number using the `concurrency` attribute of the <cache> element's <terracotta> subelement:
+
+<cache ... >
+  ...
+  <terracotta concurrence="10" ... />
+</cache>
+
+#### Change in server side eviction precedence for distributed Ehcache
+
+Server side eviction now gives precedence to the maxElementsOnDisk setting over TTI/TTL, and thus if the total number of elements reaches maxElementsOnDisk, entries will be evicted from cache irrespective of whether they have expired or not.
 
 ### Expected Updates and Scheduled Bug Fixes
 
-[CDV](https://jira.terracotta.org/jira/secure/IssueNavigator.jspa?mode=hide&requestId=11716) Project Jira fixes in Terracotta 3.5.0 RC  
-[EHC](https://jira.terracotta.org/jira/browse/EHC#selectedTab=com.atlassian.jira.plugin.system.project%3Aroadmap-panel) Project scheduled fixes for Ehcache 2.4.0  
-[QTZ](https://jira.terracotta.org/jira/browse/QTZ/fixforversion/10842#selectedTab=com.atlassian.jira.plugin.system.project%3Aversion-issues-panel) Project scheduled fixes for Quartz 2.0.0 RC
-
-### Release Candidate Notes
-
-##### In RC
-
-*   Monitoring of Write Behind, JTA
-*   Ehcache Search is supported with Terracotta clustered caches
-    *   Active/Passive server failover is supported
-    *   Attribute.like() is no longer case sensitive for clustered search
-    *   Server side eviction does not update search index causing incorrect search results
-
-*   Resolution to issues with NonStopCache and Rejoin interation with Hibernate, BlockingCache and Explicit Locking
-*   (writebehind) maxQueueSize is now implemented
-*   (writebehind) maxQueueSize is configurable using the ehcache.xml
+[CDV](https://jira.terracotta.org/jira/secure/IssueNavigator.jspa?mode=hide&requestId=11716) Project Jira fixes in Terracotta 3.5.0  
+[EHC](https://jira.terracotta.org/jira/browse/EHC#selectedTab=com.atlassian.jira.plugin.system.project%3Aroadmap-panel) Project scheduled fixes for Ehcache 2.4.1  
+[QTZ](https://jira.terracotta.org/jira/browse/QTZ/fixforversion/10842#selectedTab=com.atlassian.jira.plugin.system.project%3Aversion-issues-panel) Project scheduled fixes for Quartz 2.0.0
 
 ##### Known Issues and Limitations
 
-*   FORGE-594 Quartz avg load monitoring only supported on JDK6
-
-##### Specific items which are planned for the final release, but are not included in Beta
+*   [CDV-1569](https://jira.terracotta.org/jira/browse/CDV-1569) TCNonPortableObjectError using tim-ehcache-2.x-ee and non-EE tims
+*   5595 - Quartz Where custom constraints need to be registered using their own prop file, that has to be named just as the property to actually define these.
+    *   Workaround: needs to have the org.terracotta.quartz.locality.evaluators.properties on this classpath with a single prop in it (org.terracotta.quartz.locality.evaluators) to define custom evaluators
+*   [FORGE-594](https://jira.terracotta.org/jira/browse/CDV-1522) - Quartz avg load monitoring only supported on JDK6
+*   [CDV-1522](https://jira.terracotta.org/jira/browse/CDV-1522) - LinkageError with ehcache jta & jetty (maven plugin)
+*   [CDV-1564](https://jira.terracotta.org/jira/browse/CDV-1564) - Server backup and archive features do not cover search index files
+*   [CDV=1565](https://jira.terracotta.org/jira/browse/CDV-1565) - dirty objectdb move aside functionality does not archive search index files
+    *   Workaround: have the full jta.jar on jetty's classpath and nowhere else, ie: exclude the geronimo jta jar from BTM's deps and make jta-1.1.jar provided.
+*   5234 - Possible java.lang.Error when rapidly shutting down and restarting a Cache that uses the same disk file.
+    *   Probably related to [http://bugs.sun.com/bugdatabase/view\_bug.do?bug\_id=4938372](http://bugs.sun.com/bugdatabase/view_bug.do?bug_id=4938372)
+*   5050 - Due to [https://issues.apache.org/jira/browse/LUCENE-588](https://issues.apache.org/jira/browse/LUCENE-588) we are unable to support escaped wildcards in Search
+*   5573 - If an active terracotta server crashes in the middle of creating a new lucene index it may fail to reload when active restarts
+    *   java.io.FileNotFoundException: XXX/\_terracotta\_cache\_name.txt (No such file or directory)
+    *   Delete the incomplete lucene index path and restart server
+*   5353 - If the L2 dies during cacheManager initialization itself, the thread will be stuck.
 
 Please email any questions you have regarding the beta to pm <at> terracotta.org
 
