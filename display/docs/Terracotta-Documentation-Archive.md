@@ -5,7 +5,7 @@ layout: page
 keywords: LoopBack
 tags:
 sidebar: lb2_sidebar
-permalink: /display/docs/Terracotta-Documentation-Archive
+permalink: /display/docs/Terracotta+Documentation+Archive
 summary:
 ---
 

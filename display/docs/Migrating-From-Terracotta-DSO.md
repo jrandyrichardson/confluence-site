@@ -5,7 +5,7 @@ layout: page
 keywords: LoopBack
 tags:
 sidebar: lb2_sidebar
-permalink: /display/docs/Migrating-From-Terracotta-DSO
+permalink: /display/docs/Migrating+From+Terracotta+DSO
 summary:
 ---
 

@@ -6,10 +6,8 @@ To get a quick overview of how the new Terracotta Management Console works, you 
 
 If you have any problems in getting TMC running with the sample application, please send an email to [pm@terracottatech.com](mailto:pm@terracottatech.com)
 
-
-
-*   [Using TMC with Pounder Sample application](#TestDriveTMC-UsingTMCwithPounderSampleapplication)
-*   [Using TMC with your own application](#TestDriveTMC-UsingTMCwithyourownapplication)
+* TOC
+{:toc}
 
 ### Using TMC with Pounder Sample application
 

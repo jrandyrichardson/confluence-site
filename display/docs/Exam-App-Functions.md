@@ -5,13 +5,13 @@ layout: page
 keywords: LoopBack
 tags:
 sidebar: lb2_sidebar
-permalink: /display/docs/Exam-App-Functions
+permalink: /display/docs/Exam+App+Functions
 summary:
 ---
 
 <div class="panelContent">
 
-[Overview](https://confluence.terracotta.org/display/docs/Web+App+Reference+Implementation)
+[Overview](Web+App+Reference+Implementation)
 
 </div>
 

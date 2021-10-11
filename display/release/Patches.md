@@ -5,14 +5,8 @@ title:  Patches
 Terracotta Software Patches
 ===========================
 
-
-
-*   [Introduction](#Patches-Introduction)
-*   [About Patches](#Patches-AboutPatches)
-*   [Preparing for a Patch Installation](#Patches-PreparingforaPatchInstallation)
-*   [Installing Patches With No Downtime](#Patches-InstallingPatchesWithNoDowntime)
-*   [Locating the Installed Patch Level](#Patches-LocatingtheInstalledPatchLevel)
-*   [Rolling Back a Patch Installation](#Patches-RollingBackaPatchInstallation)
+* TOC
+{:toc}
 
 Introduction
 ------------

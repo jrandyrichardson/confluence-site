@@ -6,8 +6,8 @@ Terracotta Server 4.3 is the latest release of Open Source edition of the Terrac
 
 **
 
-*   [New Features](#ReleaseNotes:TerracottaServer4.3.0OpenSource-NewFeatures)
-*   [Known Issues in 4.3.0](#ReleaseNotes:TerracottaServer4.3.0OpenSource-KnownIssuesin4.3.0)
+* TOC
+{:toc}
 
 **
 

@@ -2,13 +2,8 @@
 title:  Terracotta 3.7, Ehcache 2.6, Quartz 2.1 Platform Support  
 ---
 
-
-
-*   [Platform Support](#Terracotta3.7,Ehcache2.6,Quartz2.1PlatformSupport-PlatformSupport)
-*   [Client JDKs](#Terracotta3.7,Ehcache2.6,Quartz2.1PlatformSupport-ClientJDKs)
-*   [Client Containers](#Terracotta3.7,Ehcache2.6,Quartz2.1PlatformSupport-ClientContainers)
-*   [Server Information](#Terracotta3.7,Ehcache2.6,Quartz2.1PlatformSupport-ServerInformation)
-*   [Library to Server Compatibility Matrix](#Terracotta3.7,Ehcache2.6,Quartz2.1PlatformSupport-LibrarytoServerCompatibilityMatrix)
+* TOC
+{:toc}
 
 Platform Support
 ================

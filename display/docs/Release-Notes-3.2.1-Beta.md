@@ -5,7 +5,7 @@ layout: page
 keywords: LoopBack
 tags:
 sidebar: lb2_sidebar
-permalink: /display/docs/Release-Notes-3.2.1-Beta
+permalink: /display/docs/Release+Notes+3.2.1+Beta
 summary:
 ---
 

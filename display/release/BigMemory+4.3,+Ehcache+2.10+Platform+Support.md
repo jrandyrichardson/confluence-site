@@ -2,14 +2,8 @@
 title:  BigMemory 4.3, Ehcache 2.10 Platform Support  
 ---
 
-
-
-*   [Platform Support](#BigMemory4.3,Ehcache2.10PlatformSupport-PlatformSupport)
-*   [Client JDKs](#BigMemory4.3,Ehcache2.10PlatformSupport-ClientJDKs)
-*   [Client Containers](#BigMemory4.3,Ehcache2.10PlatformSupport-ClientContainers)
-*   [Server Information](#BigMemory4.3,Ehcache2.10PlatformSupport-ServerInformation)
-*   [Browsers (TMC)](#BigMemory4.3,Ehcache2.10PlatformSupport-Browsers(TMC))
-*   [Library to Server Compatibility Matrix](#BigMemory4.3,Ehcache2.10PlatformSupport-LibrarytoServerCompatibilityMatrix)
+* TOC
+{:toc}
 
 Platform Support
 ----------------

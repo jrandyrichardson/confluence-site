@@ -2,19 +2,8 @@
 title:  Terracotta 3.6.0 Beta Release Notes  
 ---
 
-
-
-*   [Release Notes for Terracotta 3.6.0 Beta](#Terracotta3.6.0BetaReleaseNotes-ReleaseNotesforTerracotta3.6.0Beta)
-    *   [Overview](#Terracotta3.6.0BetaReleaseNotes-Overview)
-    *   [Summary of Changes](#Terracotta3.6.0BetaReleaseNotes-SummaryofChanges)
-        
-        *   [Ehcache 2.5.0](#Terracotta3.6.0BetaReleaseNotes-Ehcache2.5.0)
-        *   [Quartz Scheduler 2.1.0](#Terracotta3.6.0BetaReleaseNotes-QuartzScheduler2.1.0)
-        *   [Terracotta 3.6.0](#Terracotta3.6.0BetaReleaseNotes-Terracotta3.6.0)
-        
-        *   [Beta3 Notes](#Terracotta3.6.0BetaReleaseNotes-Beta3Notes)
-            *   [Resolved in Beta3](#Terracotta3.6.0BetaReleaseNotes-ResolvedinBeta3)
-            *   [Known Issues and Limitations](#Terracotta3.6.0BetaReleaseNotes-KnownIssuesandLimitations)
+* TOC
+{:toc}
 
 Release Notes for Terracotta 3.6.0 Beta
 =======================================

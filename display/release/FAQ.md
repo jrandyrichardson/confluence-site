@@ -9,27 +9,8 @@ The Terracotta General FAQ answers non-technical questions about Terracotta. Sen
 
 The Terracotta FAQ is divided into the following subject areas:
 
-
-
-*   [General Questions](#FAQ-GeneralQuestions)
-    *   [What is the difference between Terracotta open source software projects and Terracotta enterprise products?](#FAQ-WhatisthedifferencebetweenTerracottaopensourcesoftwareprojectsandTerracottaenterpriseproducts?)
-    *   [Where do I find detail and pricing information for your commercial products?](#FAQ-WheredoIfinddetailandpricinginformationforyourcommercialproducts?)
-    *   [What is the best way to get started with Terracotta software?](#FAQ-WhatisthebestwaytogetstartedwithTerracottasoftware?)
-    *   [Can I skip the learning track and go straight to working with the software?](#FAQ-CanIskipthelearningtrackandgostraighttoworkingwiththesoftware?)
-    *   [What platforms does Terracotta software run on? Which application stacks does Terracotta support?](#FAQ-WhatplatformsdoesTerracottasoftwarerunon?WhichapplicationstacksdoesTerracottasupport?)
-    *   [What is the Terracotta Client?](#FAQ-WhatistheTerracottaClient?)
-    *   [What is the Terracotta Server Array?](#FAQ-WhatistheTerracottaServerArray?)
-    *   [What is the Terracotta Toolkit?](#FAQ-WhatistheTerracottaToolkit?)
-    *   [What is Terracotta DSO?](#FAQ-WhatisTerracottaDSO?)
-    *   [What is the difference between a typical installation (also called "express") and a DSO installation (also called "custom")?](#FAQ-Whatisthedifferencebetweenatypicalinstallation(alsocalled"express")andaDSOinstallation(alsocalled"custom")?)
-*   [Support Questions](#FAQ-SupportQuestions)
-    *   [Do you offer support?](#FAQ-Doyouoffersupport?)
-    *   [How do I open a support ticket?](#FAQ-HowdoIopenasupportticket?)
-    *   [Do you offer professional services?](#FAQ-Doyouofferprofessionalservices?)
-    *   [Do you have a network of consulting partners?](#FAQ-Doyouhaveanetworkofconsultingpartners?)
-    *   [Can I get training on Terracotta products?](#FAQ-CanIgettrainingonTerracottaproducts?)
-    *   [What kind of support options do you provide for ISVs?](#FAQ-WhatkindofsupportoptionsdoyouprovideforISVs?)
-    *   [Where can I find out more about the license you use?](#FAQ-WherecanIfindoutmoreaboutthelicenseyouuse?)
+* TOC
+{:toc}
 
 ### General Questions
 

@@ -2,20 +2,10 @@
 title:  Ehcache 2.7 Release Notes  
 ---
 
+* TOC
+{:toc}
 
 
-*   [Ehcache 2.7.7](#Ehcache2.7ReleaseNotes-Ehcache2.7.7)
-    *   [Bug Fix](#Ehcache2.7ReleaseNotes-BugFix)
-*   [Ehcache 2.7.4](#Ehcache2.7ReleaseNotes-Ehcache2.7.4)
-    *   [Bug Fix](#Ehcache2.7ReleaseNotes-BugFix.1)
-*   [Ehcache 2.7.2](#Ehcache2.7ReleaseNotes-Ehcache2.7.2)
-    *   [Bug Fix](#Ehcache2.7ReleaseNotes-BugFix.2)
-*   [Ehcache 2.7.1](#Ehcache2.7ReleaseNotes-Ehcache2.7.1)
-    *   [New Feature](#Ehcache2.7ReleaseNotes-NewFeature)
-    *   [Bug Fix](#Ehcache2.7ReleaseNotes-BugFix.3)
-*   [Ehcache 2.7.0](#Ehcache2.7ReleaseNotes-Ehcache2.7.0)
-    *   [New Feature](#Ehcache2.7ReleaseNotes-NewFeature.1)
-    *   [Bug Fix](#Ehcache2.7ReleaseNotes-BugFix.4)
 
 ### Ehcache 2.7.7
 

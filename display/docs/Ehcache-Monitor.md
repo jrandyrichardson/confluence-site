@@ -5,7 +5,7 @@ layout: page
 keywords: LoopBack
 tags:
 sidebar: lb2_sidebar
-permalink: /display/docs/Ehcache-Monitor
+permalink: /display/docs/Ehcache+Monitor
 summary:
 ---
 

@@ -61,8 +61,6 @@ Yes – see the [BigMemory](http://www.terracotta.org/documentation/bigmemory.ht
 
 No, it is only available as a commercial offering. It is a separately licensed product available for Terracotta servers with an enterprise license. To access BigMemory, you must use the terracotta-ee kit. Trial downloads of enterprise kits with a trial license key are available for evaluation purproses.
 
-[Back to Top](#BigMemoryfortheTerracottaServerArrayFAQ-top)
-
 Specifications
 --------------
 
@@ -108,8 +106,6 @@ Yes, though the amount of heap-offload you can achieve is limited by the address
 
 A useful rule to observe is to allocate no more to off-heap memory than what is left over after `-Xmx` is set. For example, if you set `-Xmx3G`, then off-heap should be no more than 1GB. Breaking this rule may not cause an OOME on startup, but one is likely to occur at some point during the JVM's life.
 
-[Back to Top](#BigMemoryfortheTerracottaServerArrayFAQ-top)
-
 Configuration and Tuning
 ------------------------
 
@@ -140,8 +136,6 @@ For the Sun HotSpot, compressed references are enabled using the option `-XX:+Us
 
 *   [http://wikis.sun.com/display/HotSpotInternals/CompressedOops](http://wikis.sun.com/display/HotSpotInternals/CompressedOops)
 *   [http://blog.juma.me.uk/2008/10/14/32-bit-or-64-bit-jvm-how-about-a-hybrid/](http://blog.juma.me.uk/2008/10/14/32-bit-or-64-bit-jvm-how-about-a-hybrid/)
-
-[Back to Top](#BigMemoryfortheTerracottaServerArrayFAQ-top)
 
 Attachments:
 ------------

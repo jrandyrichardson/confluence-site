@@ -5,7 +5,7 @@ layout: page
 keywords: LoopBack
 tags:
 sidebar: lb2_sidebar
-permalink: /display/docs/Console-Dashboard-Include
+permalink: /display/docs/Console+Dashboard+Include
 summary:
 ---
 
