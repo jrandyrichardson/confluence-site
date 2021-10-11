@@ -1,5 +1,12 @@
 ---
 title:  Release Notes Terracotta 3.4.0  
+lang: en
+layout: page
+keywords:
+tags:
+sidebar: lb2_sidebar
+permalink: /display/release/Release+Notes+Terracotta+3.4.0/
+summary:
 ---
 
 The Terracotta 3.4.0\_1 kit includes Terracotta 3.4.0, Ehcache 2.3.1 and Quartz 1.8.4. Please see Ehcache 2.3.1 [Release Notes](Release+Notes+Ehcache+2.3.1) for further information on changes

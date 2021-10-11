@@ -1,5 +1,12 @@
 ---
 title:  Third Party Licenses  
+lang: en
+layout: page
+keywords:
+tags:
+sidebar: lb2_sidebar
+permalink: /display/release/Third+Party+Licenses
+summary:
 ---
 
 Terracotta Third Party License Files

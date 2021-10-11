@@ -1,5 +1,12 @@
 ---
 title:  Patches  
+lang: en
+layout: page
+keywords:
+tags:
+sidebar: lb2_sidebar
+permalink: /display/release/Patches
+summary:
 ---
 
 Terracotta Software Patches

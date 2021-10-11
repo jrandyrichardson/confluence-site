@@ -1,5 +1,12 @@
 ---
 title:  How to Become a Terracotta Contributor  
+lang: en
+layout: page
+keywords:
+tags:
+sidebar: lb2_sidebar
+permalink: /display/release/How+to+Become+a+Terracotta+Contributor
+summary:
 ---
 
 Become a Contributor

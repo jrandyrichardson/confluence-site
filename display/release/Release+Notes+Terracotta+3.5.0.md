@@ -1,5 +1,12 @@
 ---
 title:  Release Notes Terracotta 3.5.0  
+lang: en
+layout: page
+keywords:
+tags:
+sidebar: lb2_sidebar
+permalink: /display/release/Release+Notes+Terracotta+3.5.0/
+summary:
 ---
 
 The Terracotta 3.5.0 Release includes Ehcache Core 2.4.1 and Quartz 2.0.0
@@ -43,9 +50,11 @@ A getting-started page for using Ehcache Search with clustered caches is also av
 
 NonStopCache is disabled by default, to enable non-stop, update the <terracotta> element in each <cache>
 
+{% highlight xml %}
 <terracotta clustered="true">
    <nonstop enabled="true"/>
 </terracotta>
+{% endhighlight %}
 
 Ehcache rejoin on disconnect from Terracotta Server Array is disabled by default and can be enabled as follows in ehcache.xml. Note: that rejoin enable is dependent on NonStopCache being enabled.
 

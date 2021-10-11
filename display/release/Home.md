@@ -1,5 +1,12 @@
 ---
 title:  Home
+lang: en
+layout: page
+keywords:
+tags:
+sidebar: lb2_sidebar
+permalink: /display/release/Home
+summary:
 ---
 
 ![](/download/attachments/23232545/SAG_Terracotta_Logo_Oct17.png)

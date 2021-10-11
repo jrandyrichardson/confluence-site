@@ -1,5 +1,12 @@
 ---
 title:  Release Notes
+lang: en
+layout: page
+keywords:
+tags:
+sidebar: lb2_sidebar
+permalink: /display/release/Release+Notes
+summary:
 ---
 
 Terracotta Server 4.3 is the latest release of Open Source edition of the Terracotta Server. It includes Ehcache 2.10.0

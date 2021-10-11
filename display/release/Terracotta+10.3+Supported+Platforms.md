@@ -1,5 +1,12 @@
 ---
 title:  Terracotta 10.3 Supported Platforms  
+lang: en
+layout: page
+keywords:
+tags:
+sidebar: lb2_sidebar
+permalink: /display/release/Terracotta+10.3+Supported+Platforms/
+summary:
 ---
 
 Platform Support

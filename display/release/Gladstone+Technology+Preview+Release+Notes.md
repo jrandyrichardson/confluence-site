@@ -1,5 +1,12 @@
 ---
 title:  Gladstone Technology Preview Release Notes  
+lang: en
+layout: page
+keywords:
+tags:
+sidebar: lb2_sidebar
+permalink: /display/release/Gladstone+Technology+Preview+Release+Notes
+summary:
 ---
 
 
@@ -45,6 +52,7 @@ The following methods, which implied that the diskstore path could be changed pr
 
 The correct way to programmatically set a diskstore path is:
 
+{% highlight java %}
 DiskStoreConfiguration diskStoreConfiguration = new
 DiskStoreConfiguration();
 
@@ -54,6 +62,7 @@ diskStoreConfiguration.setPath("/my/path/dir");
 configuration.addDiskStore(diskStoreConfiguration);
 
 CacheManager mgr = new CacheManager(configuration);
+{% endhighlight %}
 
 #### CacheManager Creation Methods
 

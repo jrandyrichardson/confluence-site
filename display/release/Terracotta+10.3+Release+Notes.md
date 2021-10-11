@@ -1,5 +1,12 @@
 ---
 title:  Terracotta 10.3 Release Notes  
+lang: en
+layout: page
+keywords:
+tags:
+sidebar: lb2_sidebar
+permalink: /display/release/Terracotta+10.3+Release+Notes/
+summary:
 ---
 
 Terracotta is a distributed in-memory data management solution for both operational storage and analytical processing.  Terracotta has powerful query and computation capabilities, leveraging native JDK features such as Java Streams, collections, and functions. It supports the following sub-systems:

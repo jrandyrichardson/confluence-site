@@ -1,5 +1,12 @@
 ---
 title:  Release Notes Terracotta 3.5.0 Release Candidate  
+lang: en
+layout: page
+keywords:
+tags:
+sidebar: lb2_sidebar
+permalink: /display/release/Release+Notes+Terracotta+3.5.0+Release+Candidate/
+summary:
 ---
 
 The Terracotta 3.5.0 Release Candidate includes Ehcache Core 2.4.0 and Quartz 2.0.0 RC

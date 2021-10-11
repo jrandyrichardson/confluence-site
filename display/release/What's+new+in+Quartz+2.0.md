@@ -1,5 +1,12 @@
 ---
 title:  What's new in Quartz 2.0  
+lang: en
+layout: page
+keywords:
+tags:
+sidebar: lb2_sidebar
+permalink: /display/release/What%27s+new+in+Quartz+2.0/
+summary:
 ---
 
 What's New In Quartz Scheduler 2.0

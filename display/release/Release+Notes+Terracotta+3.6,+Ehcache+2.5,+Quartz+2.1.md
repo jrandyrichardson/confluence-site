@@ -1,5 +1,12 @@
 ---
 title:  Release Notes Terracotta 3.6, Ehcache 2.5, Quartz 2.1  
+lang: en
+layout: page
+keywords:
+tags:
+sidebar: lb2_sidebar
+permalink: /display/release/Release+Notes+Terracotta+3.6%2C+Ehcache+2.5%2C+Quartz+2.1/
+summary:
 ---
 
 The Terracotta 3.6.6 kit includes Terracotta 3.6.6, Ehcache 2.5.7 and Quartz 2.1.6.

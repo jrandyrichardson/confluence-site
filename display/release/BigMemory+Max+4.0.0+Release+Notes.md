@@ -1,5 +1,12 @@
 ---
 title:  BigMemory Max 4.0.0 Release Notes  
+lang: en
+layout: page
+keywords:
+tags:
+sidebar: lb2_sidebar
+permalink: /display/release/BigMemory+Max+4.0.0+Release+Notes/
+summary:
 ---
 
 BigMemory Max 4.0 introduces new and improved In-memory Data Management platform with following core capabilities:

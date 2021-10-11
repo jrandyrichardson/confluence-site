@@ -1,5 +1,12 @@
 ---
 title:  Terracotta 3.7  
+lang: en
+layout: page
+keywords:
+tags:
+sidebar: lb2_sidebar
+permalink: /display/release/Terracotta+3.7/
+summary:
 ---
 
 The Terracotta 3.7.10 kit includes Terracotta 3.7.10, Ehcache 2.6.11 and Quartz 2.1.7

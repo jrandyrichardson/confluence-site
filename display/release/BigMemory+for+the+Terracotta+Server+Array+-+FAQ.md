@@ -1,5 +1,12 @@
 ---
 title:  BigMemory for the Terracotta Server Array - FAQ  
+lang: en
+layout: page
+keywords:
+tags:
+sidebar: lb2_sidebar
+permalink: /display/release/BigMemory+for+the+Terracotta+Server+Array+-+FAQ
+summary:
 ---
 
   

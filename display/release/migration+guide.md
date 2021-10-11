@@ -1,5 +1,12 @@
 ---
 title:  migration guide  
+lang: en
+layout: page
+keywords:
+tags:
+sidebar: lb2_sidebar
+permalink: /display/release/migration+guide
+summary:
 ---
 
 Quartz 1.8.x to Quartz 2.0 Migration Guide

@@ -1,5 +1,12 @@
 ---
 title:  BigMemory Release and Platform Compatibility Information  
+lang: en
+layout: page
+keywords:
+tags:
+sidebar: lb2_sidebar
+permalink: /display/release/BigMemory+Release+and+Platform+Compatibility+Information
+summary:
 ---
 
 Latest Release News

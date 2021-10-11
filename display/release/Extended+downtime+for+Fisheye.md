@@ -1,5 +1,12 @@
 ---
 title:  Extended downtime for Fisheye  
+lang: en
+layout: page
+keywords:
+tags:
+sidebar: lb2_sidebar
+permalink: /display/release/Extended+downtime+for+Fisheye
+summary:
 ---
 
 Fisheye downtime

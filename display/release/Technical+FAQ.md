@@ -1,5 +1,12 @@
 ---
 title:  Technical FAQ  
+lang: en
+layout: page
+keywords:
+tags:
+sidebar: lb2_sidebar
+permalink: /display/release/Technical+FAQ
+summary:
 ---
 
 [The Technical FAQ](http://terracotta.org/documentation/bigmemorymax/technical-faq) answers questions on how Terracotta products work, integrations, and solving issues. If your question doesn't appear there, consider posting it on the [Terracotta forums](http://forums.terracotta.org).

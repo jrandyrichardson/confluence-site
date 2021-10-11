@@ -1,5 +1,12 @@
 ---
 title:  Release Notes Terracotta 3.4 Ehcache 2.3 Beta  
+lang: en
+layout: page
+keywords:
+tags:
+sidebar: lb2_sidebar
+permalink: /display/release/Release+Notes+Terracotta+3.4+Ehcache+2.3+Beta/
+summary:
 ---
 
 Release Notes for BigMemory Beta

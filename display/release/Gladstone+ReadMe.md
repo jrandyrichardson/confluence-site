@@ -1,5 +1,12 @@
 ---
 title:  Gladstone ReadMe  
+lang: en
+layout: page
+keywords:
+tags:
+sidebar: lb2_sidebar
+permalink: /display/release/Gladstone+ReadMe
+summary:
 ---
 
 Gladstone Tech Preview

@@ -1,5 +1,12 @@
 ---
 title:  BigMemory Release Archive  
+lang: en
+layout: page
+keywords:
+tags:
+sidebar: lb2_sidebar
+permalink: /display/release/BigMemory+Release+Archive
+summary:
 ---
 
 ### Previous Releases

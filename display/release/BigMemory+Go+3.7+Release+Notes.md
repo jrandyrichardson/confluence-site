@@ -1,5 +1,12 @@
 ---
 title:  BigMemory Go 3.7 Release Notes  
+lang: en
+layout: page
+keywords:
+tags:
+sidebar: lb2_sidebar
+permalink: /display/release/BigMemory+Go+3.7+Release+Notes/
+summary:
 ---
 
 

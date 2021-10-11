@@ -1,5 +1,12 @@
 ---
 title:  Terracotta 3.5 Release Notes  
+lang: en
+layout: page
+keywords:
+tags:
+sidebar: lb2_sidebar
+permalink: /display/release/Terracotta+3.5+Release+Notes/
+summary:
 ---
 
 The Terracotta 3.5.5 kit includes Terracotta 3.5.5, Ehcache 2.4.8 and Quartz 2.1.6. Please see Ehcache 2.4.8 [Release Notes](Release+Notes+Ehcache+Core+2.4) for further information on changes

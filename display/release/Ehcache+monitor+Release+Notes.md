@@ -1,5 +1,12 @@
 ---
 title:  Ehcache-monitor Release Notes  
+lang: en
+layout: page
+keywords:
+tags:
+sidebar: lb2_sidebar
+permalink: /display/release/Ehcache-monitor+Release+Notes
+summary:
 ---
 
 Ehcache-monitor is EOL. It is not supported for later versions of BigMemory or Ehcache.

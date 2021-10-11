@@ -1,5 +1,12 @@
 ---
 title:  Library to Server Compatibility Matrix  
+lang: en
+layout: page
+keywords:
+tags:
+sidebar: lb2_sidebar
+permalink: /display/release/Library+to+Server+Compatibility+Matrix
+summary:
 ---
 
 Library-to-Server Compatibility Matrix

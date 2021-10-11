@@ -1,5 +1,12 @@
 ---
 title:  Terracotta 3.7, Ehcache 2.6, Quartz 2.1 Platform Support  
+lang: en
+layout: page
+keywords:
+tags:
+sidebar: lb2_sidebar
+permalink: /display/release/Terracotta+3.7%2C+Ehcache+2.6%2C+Quartz+2.1+Platform+Support/
+summary:
 ---
 
 * TOC

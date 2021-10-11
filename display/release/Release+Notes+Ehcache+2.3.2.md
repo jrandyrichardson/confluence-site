@@ -1,5 +1,12 @@
 ---
 title:  Release Notes Ehcache 2.3.2  
+lang: en
+layout: page
+keywords:
+tags:
+sidebar: lb2_sidebar
+permalink: /display/release/Release+Notes+Ehcache+2.3.2/
+summary:
 ---
 
 Release Notes for Ehcache 2.3.2

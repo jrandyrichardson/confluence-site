@@ -1,5 +1,12 @@
 ---
 title:  Release Notes Ehcache Core 2.4  
+lang: en
+layout: page
+keywords:
+tags:
+sidebar: lb2_sidebar
+permalink: /display/release/Release+Notes+Ehcache+Core+2.4/
+summary:
 ---
 
 

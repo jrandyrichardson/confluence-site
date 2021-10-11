@@ -1,5 +1,12 @@
 ---
 title:  Terracotta Ehcache 10.2 Release Notes  
+lang: en
+layout: page
+keywords:
+tags:
+sidebar: lb2_sidebar
+permalink: /display/release/Terracotta+Ehcache+10.2+Release+Notes/
+summary:
 ---
 
 Terracotta Ehcache is a standards-based cache that boosts performance, offloads your database, and simplifies scalability. It's the most widely-used Java-based cache because it's robust, proven, full-featured, and integrates with other popular libraries and frameworks. Terracotta Ehcache scales from in-process caching, all the way to mixed in-process/out-of-process deployments with terabyte-sized caches. Terracotta Ehcache strengthens the distributed caching capabilities via a new generation of Terracotta server with support for high-availability and improved performance. Features include: An API that leverages Java generics and simplifies Cache interactions, Full compatibility with javax.cache API (JSR-107), Offheap storage capabilities, including offheap-only caches, Out of the box Spring Caching and Hibernate integration thanks to the javax.cache support, and many more ...

@@ -1,5 +1,12 @@
 ---
 title:  BigMemory Go 4.0.0  
+lang: en
+layout: page
+keywords:
+tags:
+sidebar: lb2_sidebar
+permalink: /display/release/BigMemory+Go+4.0.0/
+summary:
 ---
 
 BigMemory Go 4.0 introduces various enhancements in management tools and restartability.  The new version of BigMemory Go includes various UX and functional enhancements in Terracotta Management Console (TMC).  The improved restartable store provides enhancements including ability to take live backup of in-memory data. BigMemory Go supports Java 7. 

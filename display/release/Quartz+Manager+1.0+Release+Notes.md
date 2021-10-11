@@ -1,5 +1,12 @@
 ---
 title:  Quartz Manager 1.0 Release Notes  
+lang: en
+layout: page
+keywords:
+tags:
+sidebar: lb2_sidebar
+permalink: /display/release/Quartz+Manager+1.0+Release+Notes/
+summary:
 ---
 
 

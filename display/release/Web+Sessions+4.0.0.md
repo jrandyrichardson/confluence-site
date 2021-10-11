@@ -1,5 +1,12 @@
 ---
 title:  Web Sessions 4.0.0  
+lang: en
+layout: page
+keywords:
+tags:
+sidebar: lb2_sidebar
+permalink: /display/release/Web+Sessions+4.0.0/
+summary:
 ---
 
 Version 4.0.0 (General Availability or "GA" of Web Sessions) 

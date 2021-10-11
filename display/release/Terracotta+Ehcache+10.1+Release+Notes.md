@@ -1,5 +1,12 @@
 ---
 title:  Terracotta Ehcache 10.1 Release Notes  
+lang: en
+layout: page
+keywords:
+tags:
+sidebar: lb2_sidebar
+permalink: /display/release/Terracotta+Ehcache+10.1+Release+Notes/
+summary:
 ---
 
 

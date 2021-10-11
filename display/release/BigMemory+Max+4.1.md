@@ -1,5 +1,12 @@
 ---
 title:  BigMemory Max 4.1  
+lang: en
+layout: page
+keywords:
+tags:
+sidebar: lb2_sidebar
+permalink: /display/release/BigMemory+Max+4.1/
+summary:
 ---
 
 **BigMemory Max 4.1.11 is the latest release**. It includes Ehcache 2.8.10 and Quartz 2.2.1

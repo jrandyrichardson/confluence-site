@@ -1,5 +1,12 @@
 ---
 title:  Release Notes 3.3.0 Beta  
+lang: en
+layout: page
+keywords:
+tags:
+sidebar: lb2_sidebar
+permalink: /display/release/Release+Notes+3.3.0+Beta/
+summary:
 ---
 
 Release Notes for Terracotta 3.3 (Esperance) Beta

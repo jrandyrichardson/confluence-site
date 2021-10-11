@@ -1,5 +1,12 @@
 ---
 title:  Terracotta DB 10.1 Supported Platforms  
+lang: en
+layout: page
+keywords:
+tags:
+sidebar: lb2_sidebar
+permalink: /display/release/Terracotta+DB+10.1+Supported+Platforms/
+summary:
 ---
 
 Platform Support

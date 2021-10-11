@@ -1,5 +1,12 @@
 ---
 title:  Terracotta Server Open Source  
+lang: en
+layout: page
+keywords:
+tags:
+sidebar: lb2_sidebar
+permalink: /display/release/Terracotta+Server+Open+Source
+summary:
 ---
 
 Latest Release News

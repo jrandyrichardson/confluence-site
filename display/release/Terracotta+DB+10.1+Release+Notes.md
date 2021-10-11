@@ -1,5 +1,12 @@
 ---
 title:  Terracotta DB 10.1 Release Notes  
+lang: en
+layout: page
+keywords:
+tags:
+sidebar: lb2_sidebar
+permalink: /display/release/Terracotta+DB+10.1+Release+Notes/
+summary:
 ---
 
 Terracotta DB is a distributed in-memory data management solution for both operational and analytical workloads.  Terracotta DB has powerful query and computation capabilities, leveraging native JDK features such as Java Streams, collections, and functions. It supports the following sub-systems:

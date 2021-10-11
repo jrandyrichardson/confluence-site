@@ -1,5 +1,12 @@
 ---
 title:  Ehcache 2.7 Release Notes  
+lang: en
+layout: page
+keywords:
+tags:
+sidebar: lb2_sidebar
+permalink: /display/release/Ehcache+2.7+Release+Notes/
+summary:
 ---
 
 * TOC

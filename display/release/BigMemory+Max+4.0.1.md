@@ -1,5 +1,12 @@
 ---
 title:  BigMemory Max 4.0.1  
+lang: en
+layout: page
+keywords:
+tags:
+sidebar: lb2_sidebar
+permalink: /display/release/BigMemory+Max+4.0.1/
+summary:
 ---
 
 BigMemory Max 4.0.1 is a General Availability ("GA") release of BigMemory Max 4.

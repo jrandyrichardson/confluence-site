@@ -33,7 +33,7 @@ kramdown:
   parse_block_html: true
 
 # remove .html extension
-permalink: /display/release/:title
+#permalink: /display/release/:title
 #minima:
 #  skin: dark
 

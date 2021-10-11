@@ -1,5 +1,12 @@
 ---
 title:  Release Notes Terracotta 3.4.1  
+lang: en
+layout: page
+keywords:
+tags:
+sidebar: lb2_sidebar
+permalink: /display/release/Release+Notes+Terracotta+3.4.1/
+summary:
 ---
 
 Release Notes for Terracotta 3.4.1

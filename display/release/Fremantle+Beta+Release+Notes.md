@@ -1,5 +1,12 @@
 ---
 title:  Fremantle Beta Release Notes  
+lang: en
+layout: page
+keywords:
+tags:
+sidebar: lb2_sidebar
+permalink: /display/release/Fremantle+Beta+Release+Notes
+summary:
 ---
 
 Release Notes for Fremantle Beta 2

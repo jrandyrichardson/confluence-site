@@ -1,5 +1,12 @@
 ---
 title:  Building Terracotta Software  
+lang: en
+layout: page
+keywords:
+tags:
+sidebar: lb2_sidebar
+permalink: /display/release/Building+Terracotta+Software
+summary:
 ---
 
 Building Versions 3.6.x and Later

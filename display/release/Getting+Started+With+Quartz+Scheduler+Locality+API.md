@@ -1,5 +1,12 @@
 ---
 title:  Getting Started With Quartz Scheduler Locality API  
+lang: en
+layout: page
+keywords:
+tags:
+sidebar: lb2_sidebar
+permalink: /display/release/Getting+Started+With+Quartz+Scheduler+Locality+API
+summary:
 ---
 
 Terracotta Quartz Scheduler Where introduces an Enterprise feature that allows jobs and triggers to be run on specified Terracotta clients instead of randomly chosen ones. Quartz Scheduler Where is a locality API that can be used to direct jobs to nodes having enough resources or the relevant data for successfully executing those jobs. Also introduced with Quartz 2.0 is a more readable fluent-interface approach to creating and scheduling jobs and triggers.
@@ -27,8 +34,10 @@ For DSO installation, see [this](#DSO Installation).
         org.quartz.jobStore.class = org.terracotta.quartz.EnterpriseTerracottaJobStore
         
 3.  Configure the trigger and nodes (Terracotta clients) in `quartzLocality.properties`. For example:
+
+{% highlight properties %}
     
-    \# Set up node groups that can be referenced from application code:
+    # Set up node groups that can be referenced from application code:
     org.quartz.locality.nodeGroup.slowJobs = node0, node3
     org.quartz.locality.nodeGroup.group1 = node1, node2
     org.quartz.locality.nodeGroup.allNodes = node0, node1, node2, node3
@@ -36,15 +45,17 @@ For DSO installation, see [this](#DSO Installation).
     # Set up trigger groups whose triggers fire only on nodes in the specified node groups:
     org.quartz.locality.nodeGroup.slowJobs.triggerGroups = slowTriggers
     org.quartz.locality.nodeGroup.group1.triggerGroups = fastTriggers
-    
+{% endhighlight %}
+
     Any job with a trigger in the "slowTriggers" group will fire only on nodes in the group "slowJobs", while jobs with triggers in "fastTriggers" will fire only on nodes in the group "group1".
+
 4.  `quartzLocality.properties` must be on the classpath, the same as `quartz.properties`.
 
 ### Use in Application Code
 
 The following example is a code snippet that uses Quartz Scheduler Where to create a locality-aware trigger and a locality-aware job.
 
-        
+{% highlight java %}        
 import static org.quartz.JobBuilder.newJob;
 import static org.quartz.TriggerBuilder.newTrigger;
 import static org.quartz.locality.LocalityTriggerBuilder.localTrigger;
@@ -97,7 +108,7 @@ LocalityTrigger trigger2 =
                      .is(partOfNodeGroup("allNodes")))  // fire on any node in allNodes that ... 
                      .has(atLeastAvailable(100, MemoryConstraint.Unit.MB))  // has at least 100MB in free memory available.
              .build();
-
+{% endhighlight %}
 This example showed how memory and node-group constraints are used to route locality-aware triggers and jobs. trigger2, for example, is set to fire myJob2 on a node in a specific group ("allNodes") with a specified minimum amount of free memory. A constraint based on operating system (Linux, Microsoft Windows, Apple OSX, and Oracle Solaris) is also available.
 
 #### Locality With the Standard Quartz Scheduler API

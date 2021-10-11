@@ -1,5 +1,12 @@
 ---
 title:  Getting Started With Ehcache Search API For Clustered Caches  
+lang: en
+layout: page
+keywords:
+tags:
+sidebar: lb2_sidebar
+permalink: /display/release/Getting+Started+With+Ehcache+Search+API+For+Clustered+Caches
+summary:
 ---
 
 ﻿  

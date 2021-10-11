@@ -1,5 +1,12 @@
 ---
 title:  BigMemory Max 4.3  
+lang: en
+layout: page
+keywords:
+tags:
+sidebar: lb2_sidebar
+permalink: /display/release/BigMemory+Max+4.3/
+summary:
 ---
 
 BigMemory Max 4.3.9 (April 2021) is the latest release. It includes Ehcache 2.10.9.
@@ -60,11 +67,13 @@ BigMemory Max 4.3.0 introduced following new capabilities:
 
       To solve this issue, add the following 2 lines if they don't exist already at the very top under the \[main\] section of file ~/.tc/mgmt/shiro.ini
 
-\[main\]
+{% highlight ini %}
+
+[main]
 invalidRequest = org.apache.shiro.web.filter.InvalidRequestFilter
 invalidRequest.blockSemicolon = false
 
-  
+{% endhighlight %}  
 
 ### Summary of Changes in 4.3.8
 

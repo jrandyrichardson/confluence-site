@@ -1,5 +1,12 @@
 ---
 title:  FAQ  
+lang: en
+layout: page
+keywords:
+tags:
+sidebar: lb2_sidebar
+permalink: /display/release/FAQ
+summary:
 ---
 
 Terracotta General FAQ
