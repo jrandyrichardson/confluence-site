@@ -5,7 +5,7 @@ layout: page
 keywords:
 tags:
 sidebar: lb2_sidebar
-permalink: /display/release/Release+Notes+Ehcache+2.3.2/
+permalink: /display/release/Release+Notes+Ehcache+2.3.2.html
 summary:
 ---
 

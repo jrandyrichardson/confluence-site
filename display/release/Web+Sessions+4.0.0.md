@@ -5,7 +5,7 @@ layout: page
 keywords:
 tags:
 sidebar: lb2_sidebar
-permalink: /display/release/Web+Sessions+4.0.0/
+permalink: /display/release/Web+Sessions+4.0.0.html
 summary:
 ---
 

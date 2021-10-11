@@ -5,7 +5,7 @@ layout: page
 keywords:
 tags:
 sidebar: lb2_sidebar
-permalink: /display/release/BigMemory+Go+4.0.0/
+permalink: /display/release/BigMemory+Go+4.0.0.html
 summary:
 ---
 

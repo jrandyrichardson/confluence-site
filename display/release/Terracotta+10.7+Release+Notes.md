@@ -5,7 +5,7 @@ layout: page
 keywords:
 tags:
 sidebar: lb2_sidebar
-permalink: /display/release/Terracotta+10.7+Release+Notes/
+permalink: /display/release/Terracotta+10.7+Release+Notes.html
 summary:
 ---
 

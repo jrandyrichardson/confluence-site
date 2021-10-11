@@ -5,7 +5,7 @@ layout: page
 keywords:
 tags:
 sidebar: lb2_sidebar
-permalink: /display/release/Terracotta+3.7.0+EAP/
+permalink: /display/release/Terracotta+3.7.0+EAP.html
 summary:
 ---
 

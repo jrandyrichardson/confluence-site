@@ -5,7 +5,7 @@ layout: page
 keywords:
 tags:
 sidebar: lb2_sidebar
-permalink: /display/release/Release+Notes+Terracotta+3.3.0+Ehcache+2.2.0/
+permalink: /display/release/Release+Notes+Terracotta+3.3.0+Ehcache+2.2.0.html
 summary:
 ---
 

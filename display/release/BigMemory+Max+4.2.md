@@ -5,7 +5,7 @@ layout: page
 keywords:
 tags:
 sidebar: lb2_sidebar
-permalink: /display/release/BigMemory+Max+4.2/
+permalink: /display/release/BigMemory+Max+4.2.html
 summary:
 ---
 

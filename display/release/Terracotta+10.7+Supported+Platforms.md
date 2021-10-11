@@ -5,7 +5,7 @@ layout: page
 keywords:
 tags:
 sidebar: lb2_sidebar
-permalink: /display/release/Terracotta+10.7+Supported+Platforms/
+permalink: /display/release/Terracotta+10.7+Supported+Platforms.html
 summary:
 ---
 
