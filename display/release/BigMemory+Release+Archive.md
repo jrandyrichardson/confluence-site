@@ -42,7 +42,7 @@ summary:
 
 | Release | Date | Platform Compatibility and Release Notes | Notes | |
 | --- | --- | --- | --- | --- |
-| Terracotta 3.6.6 | 16 January 2013 | [Terracotta 3.6.6, Ehcache 2.5.7, Quartz 2.1.6 Release Notes](https://confluence.terracotta.org/display/rel/Release+Notes+DRAFT+3.6%2C+Ehcache+2.5%2C+Quartz+2.1) | This is a bug fix release which includes Terracotta 3.6.6, Ehcache 2.5.7, Quartz 2.1.6 | |
+| Terracotta 3.6.6 | 16 January 2013 | [Terracotta 3.6.6, Ehcache 2.5.7, Quartz 2.1.6 Release Notes](Release+Notes+Terracotta+3.6%2C+Ehcache+2.5%2C+Quartz+2.1) | This is a bug fix release which includes Terracotta 3.6.6, Ehcache 2.5.7, Quartz 2.1.6 | |
 | Terracotta 3.6.5 | 22 October 2012 | [Terracotta 3.6.5, Ehcache 2.5.6, Quartz 2.1.6 Release Notes ](Release+Notes+Terracotta+3.6%2C+Ehcache+2.5%2C+Quartz+2.1)  [3.6 Platform Support](Platform+Support+Terracotta+3.6%2C+Ehcache+2.5%2C+Quartz+2.1) |  This contains Terracotta 3.6.5, Ehcache 2.5.6, Quartz 2.1.6 | |
 | Terracotta 3.6.3 | 13 August 2012 | [Terracotta 3.6.3, Ehcache 2.5.4, Quartz 2.1.6 Release Notes ](Release+Notes+Terracotta+3.6%2C+Ehcache+2.5%2C+Quartz+2.1)  [3.6 Platform Support](Platform+Support+Terracotta+3.6%2C+Ehcache+2.5%2C+Quartz+2.1) | This kit contains Terracotta 3.6.3, Ehcache 2.5.4, Quartz 2.1.6 | |
 | Terracotta 3.6.2 | 16 April 2012 | [Terracotta 3.6.2, Ehcache 2.5.2, Quartz 2.1.4 Release Notes](Release+Notes+Terracotta+3.6%2C+Ehcache+2.5%2C+Quartz+2.1) [3.6 Platform Support](Platform+Support+Terracotta+3.6%2C+Ehcache+2.5%2C+Quartz+2.1) | This Kit contains Terracotta 3.6.2, Ehcache 2.5.2, Quartz 2.1.4 | |

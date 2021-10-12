@@ -161,7 +161,7 @@ Terracotta 3.7.2 is a bug fix release. This kit includes Ehcache 2.6.2 and Quart
 # Release Notes for Terracotta 3.7.0
 ===================================
 
-Release Notes for Ehcache 2.6.0 available [here](https://confluence.terracotta.org/display/rel/Ehcache+2.6.0+Release+Notes)
+Release Notes for Ehcache 2.6.0 available [here](Ehcache+2.6.0+Release+Notes)
 
 Terracotta 3.7.0 comes with key enhancements to Terracotta's In-memory Data Management offering including enhanced Security and improved Search performance.
 
