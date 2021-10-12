@@ -19,6 +19,8 @@ A workaround is in place:
 
 ### Linking to Pages and Anchors
 
+Link to pages without `.html` suffix!
+
 * Sibling link: `[Name](The+Page+Name)` (basename of the permalink without path)
 * Non-sibling link: `[Name](/path/to/The+Page+Name)` (full permalink of target page)
 * Anchor link: `[Name](The+Page+Name#lower-case-dashes-for-spaces-in-target-heading)` (headings have implicit ids)
