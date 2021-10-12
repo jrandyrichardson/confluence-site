@@ -39,51 +39,12 @@ Windows users building a source release version 2.2.1 or earlier must also have 
 
 Once all of the required tools are installed, you must set the following environment variables:
 
-| 
-Environment Variable
-
- | 
-
-Value
-
- |
+| Environment Variable | Value |
 | --- | --- |
-| 
-
-ANT\_HOME
-
- | 
-
-The root directory of the Ant installation on your system, e.g. **`C:\apache-ant-1.6.5`** or **`/usr/local/ant`**
-
- |
-| 
-
-JAVA\_HOME\_14
-
- | 
-
-The root directory of the Java 1.4 SDK on your system, e.g. **`C:\j2sdk1.4.2_13`** or **`/usr/local/j2sdk1.4.2_13`**
-
- |
-| 
-
-JAVA\_HOME\_15
-
- | 
-
-The root directory of JDK 5 on your system, e.g. **`C:\jdk1.5.0_15`** or **`/usr/local/jdk1.5.0_15`**
-
- |
-| 
-
-JAVA\_HOME\_16
-
- | 
-
-The root directory of JDK 6 on your system, e.g. **`C:\jdk1.6.0_05`** or **`/usr/local/jdk1.6.0_05`**
-
- |
+| ANT\_HOME | The root directory of the Ant installation on your system, e.g. **`C:\apache-ant-1.6.5`** or **`/usr/local/ant`** |
+| JAVA\_HOME\_14 | The root directory of the Java 1.4 SDK on your system, e.g. **`C:\j2sdk1.4.2_13`** or **`/usr/local/j2sdk1.4.2_13`** |
+| JAVA\_HOME\_15 | The root directory of JDK 5 on your system, e.g. **`C:\jdk1.5.0_15`** or **`/usr/local/jdk1.5.0_15`** |
+| JAVA\_HOME\_16 | The root directory of JDK 6 on your system, e.g. **`C:\jdk1.6.0_05`** or **`/usr/local/jdk1.6.0_05`** |
 
 For additional options for selecting the JDKs to use for building and testing, see [Configuring JDK Versions](#BuildingTerracottaSoftware-ConfiguringJDKVersions).
 
@@ -102,42 +63,11 @@ cd code/base
 
 The most commonly used targets are shown in the table below.
 
-| 
-Target
-
- | 
-
-Description
-
- |
+| Target | Description |
 | --- | --- |
-| 
-
-compile
-
- | 
-
-Compiles all source code for all modules. The compiled modules will be in the code/base/build directory, with one directory per module.
-
- |
-| 
-
-check
-
- | 
-
-Executes all tests for all modules.
-
- |
-| 
-
-create\_package
-
- | 
-
-Assembles and packages a kit. The package will be placed in the code/base/build/dist directory.
-
- |
+| compile | Compiles all source code for all modules. The compiled modules will be in the code/base/build directory, with one directory per module. |
+| check | Executes all tests for all modules. |
+| create\_package | Assembles and packages a kit. The package will be placed in the code/base/build/dist directory. |
 
 For a full list of build system targets see [tcbuild Targets](#BuildingTerracottaSoftware-tcbuildTargets).
 
@@ -158,59 +88,12 @@ Running Tests
 
 The Terracotta source tree includes a comprehensive suite of automated unit and system tests. The `tcbuild` tool provides several targets for executing all or some of the tests included in the test suite.
 
-| 
-Target
-
- | 
-
-Description
-
- |
+| Target | Description |
 | --- | --- |
-| 
-
-check
-
- | 
-
-Runs all tests
-
- |
-| 
-
-check\_one
-
- | 
-
-Runs a single named test where <test\_name> is the class  
-name of the Java class containing the test to run. This  
-target will scan all modules to find the test.  
-  
-Example: tcbuild check\_one AssertTest
-
- |
-| 
-
-check\_file
-
- | 
-
-Runs set of tests specified in a given file.  
-Each line of the file can be blank, a comment (starting with '#'),  
-or the fully qualified class name of the Java class containing a test.  
-  
-Example: tcbuild check\_file tests\_to\_run.txt
-
- |
-| 
-
-check\_short
-
- | 
-
-Runs all tests in files called **`<modulename>/tests.unit.lists.short`** and **`<modulename>/tests.system.lists.short`**
-
- |
+| check | Runs all tests |
+| check\_one | Runs a single named test where <test\_name> is the class name of the Java class containing the test to run. This target will scan all modules to find the test. Example: `tcbuild check_one AssertTest` |
+| check\_file | Runs set of tests specified in a given file. Each line of the file can be blank, a comment (starting with '#'), or the fully qualified class name of the Java class containing a test. Example: `tcbuild check_file tests_to_run.txt` |
+| check\_short | Runs all tests in files called **`<modulename>/tests.unit.lists.short`** and **`<modulename>/tests.system.lists.short`** |
 
 For a full list of build system targets see [tcbuild Targets](#BuildingTerracottaSoftware-tcbuildTargets).
 
@@ -254,7 +137,7 @@ tcbuild Targets
 
 *   **check\_file** runs a set of tests as specified in a file. It takes one argument - the name of the file of tests to run. Each line of the file can be blank, a comment (starting with '#'), or the name of a test. You can include the package, or leave it off if you want (e.g., either 'com.tc.util.AssertTest' or just 'AssertTest' works); don't include .class or .java on the end.
 
-*   **check\_list** runs a set of tests for each test subtree, as specified in a file called '<modulename</tests.(unit|system).lists.<listname>' for each module. For example, if you create files called 'common/tests.unit.lists.foo' and 'legacy-test-tree/tests.system.lists.foo', then 'tcbuild check\_list foo' will run the tests named in those files. For subtrees (tests.unit or tests.system) that don't have these files, no tests will be run.
+*   **check\_list** runs a set of tests for each test subtree, as specified in a file called '<modulename</tests.(unit\|system).lists.<listname>' for each module. For example, if you create files called 'common/tests.unit.lists.foo' and 'legacy-test-tree/tests.system.lists.foo', then 'tcbuild check\_list foo' will run the tests named in those files. For subtrees (tests.unit or tests.system) that don't have these files, no tests will be run.
 
 *   **check\_short** runs 'check\_list short' - in other words, runs all tests in files called '<modulename>/tests.unit.lists.short' and '<modulename>/tests.system.lists.short'. The idea is to limit these files to a fairly short-running, 'sanity check' set of tests for each tree - so developers can run a reasonably-quick set of tests before checking in.
 
@@ -376,9 +259,6 @@ In any case, an error is raised if the JDK selected is incompatible with the tas
 The Eclipse Plugin
 ------------------
 
-For using Eclipse with Terracotta software, see \[Working with Eclipse|http://www.terracotta.org/confluence/display/docs/DSO+Eclipse+Plugin+Guide  
-\].
+For using Eclipse with Terracotta software, see [Working with Eclipse](http://www.terracotta.org/confluence/display/docs/DSO+Eclipse+Plugin+Guide).
 
-Document generated by Confluence on Oct 05, 2021 15:59
 
-[Atlassian](http://www.atlassian.com/)
