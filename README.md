@@ -6,6 +6,7 @@ It is hosted using GitHub Pages (GitHub runs Jekyll).  Push to `main` is a **pub
 
 ## Caveats
 
+### Permalinks and Hiding Extensions
 Jekyll limitations make removing `.html` extension (to preserve old URLs) difficult for **pages with dots** in the url.
 * https://talk.jekyllrb.com/t/how-to-remove-extension-on-pages-with-dots-periods-in-the-name/6556
 * https://github.com/jekyll/jekyll/issues/4996
@@ -15,6 +16,19 @@ A workaround is in place:
 * All front matter `permalink` tags have `.html` on the end (at least for pages with dots in the permalink)
 * The nav from the theme (`_includes/header.html`) was modified to remove `.html`
 * Jekyll/GH seem to serve pages with or without `.html`
+
+### Linking to Pages and Anchors
+
+* Sibling link: `[Name](The+Page+Name)` (basename of the permalink without path)
+* Non-sibling link: `[Name](/path/to/The+Page+Name)` (full permalink of target page)
+* Anchor link: `[Name](The+Page+Name#lower-case-dashes-for-spaces-in-target-heading)` (headings have implicit ids)
+
+### Adding Pages
+
+* Filename does not matter (but should be easy to find and ideally free of special characters)
+* `permalink` in front matter... matters and defines final filename.
+* Ensure `permalink` ends in `.html` if there are any dots in the permalink value.
+* New pages appear in nav menu automatically
 
 ## Local Testing
 
