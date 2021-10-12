@@ -39,7 +39,7 @@ API methods that return (or take as parameters) arrays now return (or take) type
 
 Example old code:
 
-         String\[\] triggerGroups = sched.getTriggerGroupNames();
+         String[] triggerGroups = sched.getTriggerGroupNames();
 
 New code:
 
@@ -53,7 +53,7 @@ Much of this can be done with search-and-replace.
 
 Example old code:
 
-String\[\] triggersInGroup = sched.getTriggerNames("myGroup");
+String[] triggersInGroup = sched.getTriggerNames("myGroup");
 Trigger trg = sched.getTrigger("myTriggerName", "myGroup");
 sched.unscheduleJob("myOtherTriggerName", null);
 trigger.getName();
@@ -62,8 +62,8 @@ JobDetail myJob = sched.getJobDetail("myJobName", "myGroup");
 
 New code:
 
-import static org.quartz.TriggerKey.\*;
-import static org.quartz.JobKey.\*;
+import static org.quartz.TriggerKey.*;
+import static org.quartz.JobKey.*;
 ...
 List<TriggerKey> triggersInGroup = sched.getTriggerNames("myGroup");
 Trigger trg = sched.getTrigger(triggerKey("myTriggerName", "myGroup"));
@@ -92,17 +92,17 @@ trg.setStartTime(new Date(System.currentTimeMillis() + 10000L));
 trg.setPriority(6);
 trg.setJobName("myJob");
 trg.setJobGroup("myGroup");
-trg.setRepeatCount(SimpleTrigger.REPEAT\_INDEFINITELY);
+trg.setRepeatCount(SimpleTrigger.REPEAT_INDEFINITELY);
 trg.setRepeatInterval(30000L);
 {% endhighlight %}
 
 New code:
 
 {% highlight java %}
-import static org.quartz.TriggerBuilder.\*;
-import static org.quartz.JobBuilder.\*;
-import static org.quartz.DateBuilder.\*;
-import static org.quartz.SimpleScheduleBuilder.\*;
+import static org.quartz.TriggerBuilder.*;
+import static org.quartz.JobBuilder.*;
+import static org.quartz.DateBuilder.*;
+import static org.quartz.SimpleScheduleBuilder.*;
 ...
 JobDetail job = newJob(MyJobClass.class)
         .withIdentity("myJob", "myGroup")
@@ -178,7 +178,7 @@ job.addJobListener(myJobListener.getName());
 New code:
 
 {% highlight java %}
-import static org.quartz.impl.matchers.GroupMatcher.\*;
+import static org.quartz.impl.matchers.GroupMatcher.*;
 ...
 // no matcher == match all
 scheduler.getListenerManager().addJobListener(myGlobalJobListener);
@@ -201,9 +201,9 @@ t.setStartTime(startDate);
 
 New code:
 {% highlight java %}
-import static org.quartz.DateBuilder.\*;
-import static org.quartz.TriggerBuilder.\*;
-import static org.quartz.CronScheduleBuilder.\*;
+import static org.quartz.DateBuilder.*;
+import static org.quartz.TriggerBuilder.*;
+import static org.quartz.CronScheduleBuilder.*;
 ...
 Trigger t = newTrigger()
         .withSchedule(cronScheduleDaily(10,45)) // every day at 10:45

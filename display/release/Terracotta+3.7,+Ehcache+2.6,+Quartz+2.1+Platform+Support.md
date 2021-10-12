@@ -46,7 +46,7 @@ Custom/DSO Usage
 *   For more information on integration and installation modes, see our [Product Documentation](http://www.terracotta.org/documentation)
     
 *   Custom/DSO usage is only supported with the Sun Hotspot JDK - as it relies on a JDK specific boot-jar for byte-code manipulation. Additionally, Websphere is not support with Custom/DSO usage.
-*   BigMemory 4.0 no longer includes Custom/DSO support mode.  Please note that Terracotta will only be supporting Custom/DSO as part of Terracotta 3.7 through December 31 2013.  For more information, including migration options for DSO, please refer to [Terracotta DSO FAQ](37129634).
+*   BigMemory 4.0 no longer includes Custom/DSO support mode.  Please note that Terracotta will only be supporting Custom/DSO as part of Terracotta 3.7 through December 31 2013.  For more information, including migration options for DSO, please refer to [Terracotta DSO FAQ](Changes+to+Open-Source+Terracotta+Server+Array+and+Terracotta+DSO+(FAQ)).
 
 Client Containers
 =================

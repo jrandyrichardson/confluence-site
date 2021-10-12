@@ -19,7 +19,10 @@ About Terracotta Documentation
 
 This documentation is about Terracotta DSO, an advanced distributed-computing technology aimed at meeting special clustering requirements.
 
-Terracotta products without the overhead and complexity of DSO meet the needs of almost all use cases and clustering requirements. To learn how to migrate from Terracotta DSO to standard Terracotta products, see [Migrating From Terracotta DSO](Migrating+From+Terracotta+DSO). To find documentation on non-DSO (standard) Terracotta products, see [Terracotta Documentation](http://terracotta.org/documentation). Terracotta release information, such as release notes and platform compatibility, is found in [Product Information](/display/release/Home).
+Terracotta products without the overhead and complexity of DSO meet the needs of almost all use cases and clustering requirements. 
+To learn how to migrate from Terracotta DSO to standard Terracotta products, see [Migrating From Terracotta DSO](Migrating+From+Terracotta+DSO). 
+To find documentation on non-DSO (standard) Terracotta products, see [Terracotta Documentation](http://terracotta.org/documentation). 
+Terracotta release information, such as release notes and platform compatibility, is found in [Product Information](/display/release/Home).
 
 </div>
 
@@ -67,6 +70,6 @@ The Developer Console will automatically detect and launch the SVT when you pres
 
 ### Terracotta 2.6 Users
 
-*   Download the [svt-1.0.4.jar](attachments/19857466/19955784.jar)
+*   Download the [svt-1.0.4.jar](/download/attachments/19857466/svt-1.0.4.jar)
 *   Copy into your TC_HOME/lib directory
 *   _Restart_ the Admin Console

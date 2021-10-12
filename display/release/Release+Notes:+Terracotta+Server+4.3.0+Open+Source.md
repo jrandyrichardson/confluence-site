@@ -5,7 +5,7 @@ layout: page
 keywords:
 tags:
 sidebar: lb2_sidebar
-permalink: /display/release/Release+Notes
+permalink: /display/release/Release+Notes%3A+Terracotta+Server+4.3.0+Open+Source.html
 summary:
 ---
 
