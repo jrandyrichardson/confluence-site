@@ -14,15 +14,10 @@ summary:
 _**Fixes are cumulative from version to version.**_
 
 
-**
-
 * TOC
 {:toc}
 
-**
-
-#### **New Features  
-**
+#### **New Features**
 
 BigMemory Max 4.1 introduces following new capabilities:
 
@@ -59,8 +54,7 @@ BigMemory Max 4.1 introduces following new capabilities:
 
 #### **Summary of Changes 4.1.10**
 
-##### **Resolved Issues  
-**
+##### **Resolved Issues**
 
 *   7254 – Updated JavaDoc for cache.getKeys() with clarifying warning message for when it takes a long time to complete operation
     

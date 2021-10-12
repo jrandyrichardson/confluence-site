@@ -45,8 +45,7 @@ See the [TSA Configuration Reference](http://terracotta.org/documentation/4.0/te
 
 #### BigMemory Max 4.0.0 Known Issues
 
-**Resource Management  
-**
+**Resource Management**
 
 *   DEV-8998 - Known issue during active-mirror sync operation
 *   DEV-9179 - Known performance issue during start of active-passive sync

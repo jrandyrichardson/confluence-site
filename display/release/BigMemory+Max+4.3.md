@@ -13,8 +13,7 @@ BigMemory Max 4.3.9 (April 2021) is the latest release. It includes Ehcache 2.10
 
 Fixes are cumulative from version to version.
 
-### **Deprecation Notices  
-**
+### **Deprecation Notices**
 
 Software AG intends to deprecate and remove from distribution the WAN Replication Service/Module in the next release (4.3.10, late 2021).
 
@@ -22,8 +21,7 @@ Software AG intends to deprecate the Web Sessions product in the next release (4
 
   
 
-**New Features  
-**
+**New Features**
 -------------------
 
 BigMemory Max 4.3.0 introduced following new capabilities:

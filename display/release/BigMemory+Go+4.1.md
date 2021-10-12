@@ -10,15 +10,11 @@ summary:
 ---
 
 
-**
-
 * TOC
 {:toc}
 
-**
 
-#### **New Features  
-**
+#### **New Features**
 
 BigMemory Go 4.1.0 introduces following new capability:
 

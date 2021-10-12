@@ -10,15 +10,12 @@ summary:
 ---
 
 
-**
 
 * TOC
 {:toc}
 
-**
 
-### **New Features  
-**
+### **New Features**
 
 BigMemory Max 4.2 introduces following new capabilities:
 

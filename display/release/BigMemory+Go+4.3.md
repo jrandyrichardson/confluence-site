@@ -10,15 +10,12 @@ summary:
 ---
 
 
-**
 
 * TOC
 {:toc}
 
-**
 
-### **New Features  
-**
+### **New Features**
 
 BigMemory Go 4.3 introduces following new capabilities:
 
