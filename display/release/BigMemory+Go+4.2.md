@@ -9,7 +9,6 @@ permalink: /display/release/BigMemory+Go+4.2.html
 summary:
 ---
 
-**/\*<!\[CDATA\[\*/ div.rbtoc1633463967097 {padding: 0px;} div.rbtoc1633463967097 ul {list-style: disc;margin-left: 0px;} div.rbtoc1633463967097 li {margin-left: 0px;padding-left: 0px;} /\*\]\]>\*/**
 
 **
 

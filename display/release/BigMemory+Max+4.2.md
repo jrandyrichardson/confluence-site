@@ -11,7 +11,6 @@ summary:
 
 BigMemory Max 4.2.1 is the latest release. It includes Ehcache 2.9.1 and Quartz 2.2.1.
 
-**/\*<!\[CDATA\[\*/ div.rbtoc1633463967205 {padding: 0px;} div.rbtoc1633463967205 ul {list-style: disc;margin-left: 0px;} div.rbtoc1633463967205 li {margin-left: 0px;padding-left: 0px;} /\*\]\]>\*/**
 
 **
 
