@@ -17,7 +17,7 @@ This section shows you how to install, configure, and use the locality API.
 
 To access the Quartz Scheduler Locality API in a standard installation, include quartz-terracotta-ee-2.0.0-SNAPSHOT.jar in your classpath. This jar is found under the `${TERRACOTTA_HOME}/quartz` directory.
 
-For DSO installation, see [this](#DSO Installation).
+For DSO installation, see [this](#dso-installation).
 
 ### Configuration
 

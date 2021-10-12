@@ -46,7 +46,7 @@ Once all of the required tools are installed, you must set the following environ
 | JAVA\_HOME\_15 | The root directory of JDK 5 on your system, e.g. **`C:\jdk1.5.0_15`** or **`/usr/local/jdk1.5.0_15`** |
 | JAVA\_HOME\_16 | The root directory of JDK 6 on your system, e.g. **`C:\jdk1.6.0_05`** or **`/usr/local/jdk1.6.0_05`** |
 
-For additional options for selecting the JDKs to use for building and testing, see [Configuring JDK Versions](#BuildingTerracottaSoftware-ConfiguringJDKVersions).
+For additional options for selecting the JDKs to use for building and testing, see [Configuring JDK Versions](#configuring-jdk-versions).
 
 Windows users should be sure to escape the space and backslash symbols when setting the above environment variables:
 
@@ -69,7 +69,7 @@ The most commonly used targets are shown in the table below.
 | check | Executes all tests for all modules. |
 | create\_package | Assembles and packages a kit. The package will be placed in the code/base/build/dist directory. |
 
-For a full list of build system targets see [tcbuild Targets](#BuildingTerracottaSoftware-tcbuildTargets).
+For a full list of build system targets see [tcbuild Targets](#tcbuild-targets).
 
 ### Examples
 
@@ -95,7 +95,7 @@ The Terracotta source tree includes a comprehensive suite of automated unit and 
 | check\_file | Runs set of tests specified in a given file. Each line of the file can be blank, a comment (starting with '#'), or the fully qualified class name of the Java class containing a test. Example: `tcbuild check_file tests_to_run.txt` |
 | check\_short | Runs all tests in files called **`<modulename>/tests.unit.lists.short`** and **`<modulename>/tests.system.lists.short`** |
 
-For a full list of build system targets see [tcbuild Targets](#BuildingTerracottaSoftware-tcbuildTargets).
+For a full list of build system targets see [tcbuild Targets](#tcbuild-targets).
 
 Some tests, such as those in the `dso-container-tests` module, require a web container such as Tomcat or WebLogic to run. To run these tests, you must have a suitable web container installed and tell tcbuild where to find it, which you do by setting the TC\_CONTAINER\_HOME environment variable. For example, if you wish to use Tomcat as the web container for the tests and Tomcat is installed at **`/opt/tomcat`** then you will need to set the TC\_CONTAINER\_HOME environment variable to **`/opt/tomcat`**.
 

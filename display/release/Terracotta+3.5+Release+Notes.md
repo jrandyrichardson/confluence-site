@@ -76,7 +76,7 @@ Terracotta 3.5.3 requires Ehcache 2.4.6. There is no backward compatibility with
 
 ### Summary of Key Changes
 
-*   The 3.5.3 release provides a kit option which excludes Oracle Berkeley DB. For more information, see [#Database Setup](#Terracotta3.5ReleaseNotes-DatabaseSetup).
+*   The 3.5.3 release provides a kit option which excludes Oracle Berkeley DB. For more information, see [#Database Setup](#database-setup).
 
 ##### Resolved Issues
 
