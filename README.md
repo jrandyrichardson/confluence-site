@@ -39,13 +39,14 @@ At this time, local testing is done using the same versions of ruby and jekyll a
 
 Easiest way is to use [rbenv](https://github.com/rbenv/rbenv), then:
 ```shell
-rbenv install 2.7.3
-rbenv shell 2.7.3  #select for this shell
+rbenv install 2.7.3  # one-time step
+rbenv shell 2.7.3  #select for this shell (should happeen automatically via .ruby-version)
 rbenv bundle install # install gems
+
+# Interactive browser testing:
 rbenv bundle exec jekyll s --watch [--incremental] # incremental is fast but does not apply structural changes
+
+# Link Checking
+bundle exec jekyll b ; bundle exec htmlproofer --log-level :debug --assume-extension --disable-external ./_site
 ```
 
-### Link Checking
-
-* Download linkcheck from https://github.com/filiph/linkcheck/releases
-* `./linkcheck http://localhost:4000`
