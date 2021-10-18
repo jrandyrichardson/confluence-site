@@ -1,5 +1,6 @@
 ---
-title:  "BigMemory Release and Platform Compatibility Information <br/> lang: en"
+title:  "BigMemory Release and Platform Compatibility Information"
+lang: en
 layout: page
 keywords:
 space: release
