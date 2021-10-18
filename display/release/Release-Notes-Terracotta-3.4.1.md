@@ -3,7 +3,7 @@ title:  Release Notes Terracotta 3.4.1
 lang: en
 layout: page
 keywords:
-tags:
+space: release
 sidebar: lb2_sidebar
 permalink: /display/release/Release+Notes+Terracotta+3.4.1.html
 summary:

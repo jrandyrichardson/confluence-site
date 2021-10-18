@@ -3,7 +3,7 @@ title: "AspectWerkz Pattern Language"
 lang: en
 layout: page
 keywords: LoopBack
-tags:
+space: docs
 sidebar: lb2_sidebar
 permalink: /display/docs/AspectWerkz+Pattern+Language
 summary:

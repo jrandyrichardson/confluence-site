@@ -3,7 +3,7 @@ title:  Ehcache-monitor Release Notes
 lang: en
 layout: page
 keywords:
-tags:
+space: release
 sidebar: lb2_sidebar
 permalink: /display/release/Ehcache+monitor+Release+Notes
 summary:

@@ -1,9 +1,9 @@
 ---
-title: "Console Dashboard Includedocumentation-indexdocumentation-navbarHeaderBasicexamapp-navbardsoCaveat_includeHome"
+title: "Console Dashboard Include"
 lang: en
 layout: page
 keywords: LoopBack
-tags:
+space: docs
 sidebar: lb2_sidebar
 permalink: /display/docs/Console+Dashboard+Include
 summary:

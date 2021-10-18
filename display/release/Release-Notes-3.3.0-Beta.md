@@ -3,7 +3,7 @@ title:  Release Notes 3.3.0 Beta
 lang: en
 layout: page
 keywords:
-tags:
+space: release
 sidebar: lb2_sidebar
 permalink: /display/release/Release+Notes+3.3.0+Beta.html
 summary:

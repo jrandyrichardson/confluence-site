@@ -3,7 +3,7 @@ title:  Getting Started With Quartz Scheduler Locality API
 lang: en
 layout: page
 keywords:
-tags:
+space: release
 sidebar: lb2_sidebar
 permalink: /display/release/Getting+Started+With+Quartz+Scheduler+Locality+API
 summary:

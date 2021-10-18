@@ -3,7 +3,7 @@ title:  How to Become a Terracotta Contributor
 lang: en
 layout: page
 keywords:
-tags:
+space: release
 sidebar: lb2_sidebar
 permalink: /display/release/How+to+Become+a+Terracotta+Contributor
 summary:

@@ -3,7 +3,7 @@ title:  BigMemory Max 4.3
 lang: en
 layout: page
 keywords:
-tags:
+space: release
 sidebar: lb2_sidebar
 permalink: /display/release/BigMemory+Max+4.3.html
 summary:

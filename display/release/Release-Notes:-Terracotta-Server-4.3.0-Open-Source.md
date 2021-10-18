@@ -3,7 +3,7 @@ title:  Release Notes
 lang: en
 layout: page
 keywords:
-tags:
+space: release
 sidebar: lb2_sidebar
 permalink: /display/release/Release+Notes%3A+Terracotta+Server+4.3.0+Open+Source.html
 summary:

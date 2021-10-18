@@ -3,7 +3,7 @@ title: "Top Five Tuning Tips"
 lang: en
 layout: page
 keywords: LoopBack
-tags:
+space: docs
 sidebar: lb2_sidebar
 permalink: /display/docs/Top+Five+Tuning+Tips
 summary:

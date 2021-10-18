@@ -3,7 +3,7 @@ title:  Terracotta 3.5 Release Notes
 lang: en
 layout: page
 keywords:
-tags:
+space: release
 sidebar: lb2_sidebar
 permalink: /display/release/Terracotta+3.5+Release+Notes.html
 summary:

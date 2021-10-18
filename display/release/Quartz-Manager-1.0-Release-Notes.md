@@ -3,7 +3,7 @@ title:  Quartz Manager 1.0 Release Notes
 lang: en
 layout: page
 keywords:
-tags:
+space: release
 sidebar: lb2_sidebar
 permalink: /display/release/Quartz+Manager+1.0+Release+Notes.html
 summary:

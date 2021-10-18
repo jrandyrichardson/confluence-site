@@ -3,7 +3,7 @@ title:  migration guide
 lang: en
 layout: page
 keywords:
-tags:
+space: release
 sidebar: lb2_sidebar
 permalink: /display/release/migration+guide
 summary:

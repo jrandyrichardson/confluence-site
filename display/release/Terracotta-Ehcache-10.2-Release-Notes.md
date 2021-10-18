@@ -3,7 +3,7 @@ title:  Terracotta Ehcache 10.2 Release Notes
 lang: en
 layout: page
 keywords:
-tags:
+space: release
 sidebar: lb2_sidebar
 permalink: /display/release/Terracotta+Ehcache+10.2+Release+Notes.html
 summary:

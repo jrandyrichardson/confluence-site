@@ -3,7 +3,7 @@ title:  Web Sessions 4.0.0
 lang: en
 layout: page
 keywords:
-tags:
+space: release
 sidebar: lb2_sidebar
 permalink: /display/release/Web+Sessions+4.0.0.html
 summary:

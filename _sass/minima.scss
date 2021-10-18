@@ -50,3 +50,10 @@ $on-laptop:        80000px !default;
   "minima/layout",
   "minima/syntax-highlighting"
 ;
+
+
+//additions:
+.trigger h3 {
+  text-transform: uppercase;
+  border-bottom: 1px solid;
+}

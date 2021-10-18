@@ -3,7 +3,7 @@ title: "DSO Eclipse Plugin Guide"
 lang: en
 layout: page
 keywords: LoopBack
-tags:
+space: docs
 sidebar: lb2_sidebar
 permalink: /display/docs/DSO+Eclipse+Plugin+Guide
 summary:

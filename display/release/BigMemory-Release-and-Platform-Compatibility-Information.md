@@ -2,7 +2,7 @@
 title:  "BigMemory Release and Platform Compatibility Information <br/> lang: en"
 layout: page
 keywords:
-tags:
+space: release
 sidebar: lb2_sidebar
 permalink: /display/release/BigMemory+Release+and+Platform+Compatibility+Information
 summary:

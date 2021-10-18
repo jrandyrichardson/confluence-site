@@ -3,7 +3,7 @@ title:  Terracotta 10.7 Release Notes
 lang: en
 layout: page
 keywords:
-tags:
+space: release
 sidebar: lb2_sidebar
 permalink: /display/release/Terracotta+10.7+Release+Notes.html
 summary:

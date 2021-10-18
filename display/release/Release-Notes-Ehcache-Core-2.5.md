@@ -3,7 +3,7 @@ title:  Release Notes Ehcache Core 2.5
 lang: en
 layout: page
 keywords:
-tags:
+space: release
 sidebar: lb2_sidebar
 permalink: /display/release/Release+Notes+Ehcache+Core+2.5.html
 summary:

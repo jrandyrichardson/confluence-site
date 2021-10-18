@@ -3,7 +3,7 @@ title: "Planning for a Clustered Application"
 lang: en
 layout: page
 keywords: LoopBack
-tags:
+space: docs
 sidebar: lb2_sidebar
 permalink: /display/docs/Planning+for+a+Clustered+Application
 summary:

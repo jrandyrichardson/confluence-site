@@ -3,7 +3,7 @@ title: "Terracotta Distributed Cache"
 lang: en
 layout: page
 keywords: LoopBack
-tags:
+space: docs
 sidebar: lb2_sidebar
 permalink: /display/docs/Terracotta+Distributed+Cache
 summary:

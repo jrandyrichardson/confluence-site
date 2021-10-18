@@ -3,7 +3,7 @@ title:  Platform Support Terracotta 3.6, Ehcache 2.5, Quartz 2.1
 lang: en
 layout: page
 keywords:
-tags:
+space: release
 sidebar: lb2_sidebar
 permalink: /display/release/Platform+Support+Terracotta+3.6%2C+Ehcache+2.5%2C+Quartz+2.1.html
 summary:

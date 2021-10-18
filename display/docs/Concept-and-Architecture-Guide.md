@@ -3,7 +3,7 @@ title: "Concept and Architecture Guide"
 lang: en
 layout: page
 keywords: LoopBack
-tags:
+space: docs
 sidebar: lb2_sidebar
 permalink: /display/docs/Concept+and+Architecture+Guide
 summary:

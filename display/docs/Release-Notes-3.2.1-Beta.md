@@ -3,7 +3,7 @@ title: "Release Notes 3.2.1 Beta"
 lang: en
 layout: page
 keywords: LoopBack
-tags:
+space: docs
 sidebar: lb2_sidebar
 permalink: /display/docs/Release+Notes+3.2.1+Beta
 summary:

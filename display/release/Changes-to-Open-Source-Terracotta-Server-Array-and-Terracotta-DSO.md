@@ -3,7 +3,7 @@ title:  Changes to Open-Source Terracotta Server Array and Terracotta DSO (FAQ)
 lang: en
 layout: page
 keywords:
-tags:
+space: release
 sidebar: lb2_sidebar
 permalink: /display/release/Changes+to+Open-Source+Terracotta+Server+Array+and+Terracotta+DSO+(FAQ)
 summary:

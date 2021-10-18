@@ -3,7 +3,7 @@ title:  Release Notes Terracotta 3.5.0 Release Candidate
 lang: en
 layout: page
 keywords:
-tags:
+space: release
 sidebar: lb2_sidebar
 permalink: /display/release/Release+Notes+Terracotta+3.5.0+Release+Candidate.html
 summary:

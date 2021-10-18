@@ -3,7 +3,7 @@ title: "How DSO Clustering Works"
 lang: en
 layout: page
 keywords: LoopBack
-tags:
+space: docs
 sidebar: lb2_sidebar
 permalink: /display/docs/How+DSO+Clustering+Works
 summary:

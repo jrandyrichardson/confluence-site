@@ -3,7 +3,7 @@ title: "Operations Guide"
 lang: en
 layout: page
 keywords: LoopBack
-tags:
+space: docs
 sidebar: lb2_sidebar
 permalink: /display/docs/Operations+Guide
 summary:
