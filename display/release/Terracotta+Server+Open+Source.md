@@ -53,7 +53,7 @@ Patches are a provided for ee (Enterprise Edition) kits for commercial customers
 Attachments:
 ------------
 
-![](images/icons/bullet_blue.gif) [3.5.3\_THIRD\_PARTY\_LICENSE.pdf](/download/attachments/43581492/3.5.3_THIRD_PARTY_LICENSE.pdf) (application/pdf)  
-![](images/icons/bullet_blue.gif) [3.5.2\_THIRD\_PARTY\_LICENSE.pdf](/download/attachments/43581492/3.5.2_THIRD_PARTY_LICENSE.pdf) (application/pdf)  
+![Bullet](images/icons/bullet_blue.gif) [3.5.3\_THIRD\_PARTY\_LICENSE.pdf](/download/attachments/43581492/3.5.3_THIRD_PARTY_LICENSE.pdf) (application/pdf)  
+![Bullet](images/icons/bullet_blue.gif) [3.5.2\_THIRD\_PARTY\_LICENSE.pdf](/download/attachments/43581492/3.5.2_THIRD_PARTY_LICENSE.pdf) (application/pdf)  
 
 

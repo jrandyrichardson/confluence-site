@@ -37,7 +37,7 @@ This is a bug fix release; and allows compatibility with Java 8.
 *   5641 -  Terracotta Distributed Shared Object (DSO) applications are not supported with Java 1.7 and 1.8. Hence the /terracotta-ee-3.7.10/platform/samples/pojo/chatter sample would not work with Java 1.7 and 1.8
 *   5665 – Ehcache color cache sample fails to compile using Java 8
 *   5677 - With Terracotta-ee-gt 3.7.10 kit when TSA is run as a service it results in No Class Def found Error.
-    *   Workaround: add wrapper.java.additional.8=-[Dcom.tc.l2.db.factory.name](http://Dcom.tc.l2.db.factory.name)\=[com.tc](http://com.tc).objectserver.storage.derby.DerbyDBFactory in wrapper/conf/wrapper-tsa.conf file
+    *   Workaround: add wrapper.java.additional.8=-Dcom.tc.l2.db.factory.name=com.tc.objectserver.storage.derby.DerbyDBFactory in wrapper/conf/wrapper-tsa.conf file
 *   7019 - IS unable to connect to secured (SSL-enabled) TSA when multipleCacheManagers are being initialized
     *   Workaround:  Use the following setting in IS:  
         

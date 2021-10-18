@@ -38,7 +38,7 @@ The resulting benefits deliver extremely low latencies for data access operation
 
 The following diagram illustrates how BigMemory adds a layer of off-heap memory storage that reduces faulting from the Terracotta server's disk yet remains outside of GC's domain.
 
-![](/download/attachments/24150503/L2-offheap.png)
+![diagram](/download/attachments/24150503/L2-offheap.png)
 
 ### How do I know if BigMemory will help me?
 
@@ -147,6 +147,6 @@ For the Sun HotSpot, compressed references are enabled using the option `-XX:+Us
 Attachments:
 ------------
 
-![](images/icons/bullet_blue.gif) [L2-offheap.png](/download/attachments/24150503/L2-offheap.png) (image/png)  
+![Bullet](images/icons/bullet_blue.gif) [L2-offheap.png](/download/attachments/24150503/L2-offheap.png) (image/png)  
 
 

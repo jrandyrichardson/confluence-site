@@ -1,5 +1,5 @@
 ---
-title:  BigMemory Release and Platform Compatibility Information <br/> lang: en
+title:  "BigMemory Release and Platform Compatibility Information <br/> lang: en"
 layout: page
 keywords:
 tags:
@@ -60,7 +60,7 @@ __Terracotta Open Source Release Notes can be found _[_here_](Terracotta+Server
 | Quartz 2.2.0 | 28 June 2013 | [Changelist for Quartz 2.2.0](https://jira.terracotta.org/jira/secure/ReleaseNote.jspa?projectId=10282&version=11041) |   |   |
 | Quartz Manager 1.0.2 | 27 January 2012 | [Release Notes Quartz Manager 1.0.2](Quartz+Manager+1.0+Release+Notes)[ ](https://iwiki.eur.ad.sag/display/TCREL/Test+Page+-+Product+Info) |   | Bug Fix Release |
 
-### Previous Releases [Archive](Terracotta+Release+Archive)
+### Previous Releases [Archive](BigMemory+Release+Archive)
 
 Understanding Terracotta Kit Names and Version Numbers
 ------------------------------------------------------

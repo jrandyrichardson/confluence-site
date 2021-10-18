@@ -100,7 +100,7 @@ summary:
 | Ehcache 2.3.2 | 7 February 2011 | [Release Notes Ehcache 2.3.2](Release+Notes+Ehcache+2.3.2) |    |    |
 | Ehcache 2.3.1 | 10 December 2010 | [Release Notes Ehcache 2.3.1](Release+Notes+Ehcache+2.3.1) |    |    |
 | Ehcache 2.3.0 | 9 November 2010 | [Release Notes Ehcache 2.3.0](Release+Notes+Ehcache+2.3.0) |    |    |
-| Ehcache-monitor 1.0.2 | 9 November 2010 | [Release Notes Ehcache-monitor 1.0.2](Ehcache-monitor+Release+Notes) |    | EOL |
+| Ehcache-monitor 1.0.2 | 9 November 2010 | [Release Notes Ehcache-monitor 1.0.2](Ehcache+monitor+Release+Notes) |    | EOL |
 
    
 

@@ -11,11 +11,11 @@ summary:
 
 The cluster activity gauges provide real-time readings of crucial cluster metrics.
 
-![](images/19955807.png)
+![gauge](images/19955807.png)
 
 Each gauge has the following characteristics:
 
-![](images/19955817.png)
+![gauge](images/19955817.png)
 
 *   Yellow and red zones on the dial indicate when the metric value has reached warning or extreme levels.
 *   A digital readout field displays the metric's current value.

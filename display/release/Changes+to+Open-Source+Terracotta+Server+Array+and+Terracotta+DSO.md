@@ -75,6 +75,6 @@ Can I still get the latest (version 3.7) version of the open-source Terracotta S
 Attachments:
 ------------
 
-![](images/icons/bullet_blue.gif) [DSOMigrationPlan-280213-1120-26.pdf](/download/attachments/37129634/DSOMigrationPlan-280213-1120-26.pdf) (application/pdf)  
+![Bullet](images/icons/bullet_blue.gif) [DSOMigrationPlan-280213-1120-26.pdf](/download/attachments/37129634/DSOMigrationPlan-280213-1120-26.pdf) (application/pdf)  
 
 

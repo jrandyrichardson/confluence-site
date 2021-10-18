@@ -286,6 +286,6 @@ BigMemory Max 4.1 introduces following new capabilities:
 Attachments:
 ------------
 
-![](images/icons/bullet_blue.gif) [TC414AIXandzLinuxSupport.zip](/download/attachments/38834155/TC414AIXandzLinuxSupport.zip) (application/zip)  
+![Bullet](images/icons/bullet_blue.gif) [TC414AIXandzLinuxSupport.zip](/download/attachments/38834155/TC414AIXandzLinuxSupport.zip) (application/zip)  
 
 

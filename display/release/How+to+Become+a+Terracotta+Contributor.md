@@ -79,11 +79,11 @@ Community Code of Conduct
 Attachments:
 ------------
 
-![](images/icons/bullet_blue.gif) [Individual Contributor Agreement.pdf](/download/attachments/27918462/Individual Contributor Agreement.pdf) (application/pdf)  
-![](images/icons/bullet_blue.gif) [Committer Agreement.pdf](/download/attachments/27918462/Committer Agreement.pdf) (application/pdf)  
-![](images/icons/bullet_blue.gif) [Individual Contributor Agreement.pdf](/download/attachments/27918462/Individual Contributor Agreement.pdf) (application/pdf)  
-![](images/icons/bullet_blue.gif) [Terracotta Individual Contributor Agreement v3.pdf](/download/attachments/27918462/Terracotta Individual Contributor Agreement v3.pdf) (application/pdf)  
-![](images/icons/bullet_blue.gif) [Terracotta Individual Contributor Agreement v4.docx](/download/attachments/27918462/Terracotta Individual Contributor Agreement v4.docx) (application/vnd.openxmlformats-officedocument.wordprocessingml.document)  
-![](images/icons/bullet_blue.gif) [TerracottaIndividualContributorAgreementv4.pdf](/download/attachments/27918462/TerracottaIndividualContributorAgreementv4.pdf) (application/pdf)  
+![Bullet](images/icons/bullet_blue.gif) [Individual Contributor Agreement.pdf](/download/attachments/27918462/Individual Contributor Agreement.pdf) (application/pdf)  
+![Bullet](images/icons/bullet_blue.gif) [Committer Agreement.pdf](/download/attachments/27918462/Committer Agreement.pdf) (application/pdf)  
+![Bullet](images/icons/bullet_blue.gif) [Individual Contributor Agreement.pdf](/download/attachments/27918462/Individual Contributor Agreement.pdf) (application/pdf)  
+![Bullet](images/icons/bullet_blue.gif) [Terracotta Individual Contributor Agreement v3.pdf](/download/attachments/27918462/Terracotta Individual Contributor Agreement v3.pdf) (application/pdf)  
+![Bullet](images/icons/bullet_blue.gif) [Terracotta Individual Contributor Agreement v4.docx](/download/attachments/27918462/Terracotta Individual Contributor Agreement v4.docx) (application/vnd.openxmlformats-officedocument.wordprocessingml.document)  
+![Bullet](images/icons/bullet_blue.gif) [TerracottaIndividualContributorAgreementv4.pdf](/download/attachments/27918462/TerracottaIndividualContributorAgreementv4.pdf) (application/pdf)  
 
 

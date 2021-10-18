@@ -18,6 +18,6 @@ License Key [terracotta-license.key](/download/attachments/30638761/terracotta-l
 Attachments:
 ------------
 
-![](images/icons/bullet_blue.gif) [terracotta-license.key](/download/attachments/30638761/terracotta-license.key) (application/octet-stream)  
+![Bullet](images/icons/bullet_blue.gif) [terracotta-license.key](/download/attachments/30638761/terracotta-license.key) (application/octet-stream)  
 
 

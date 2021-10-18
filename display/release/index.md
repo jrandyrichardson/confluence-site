@@ -11,7 +11,7 @@ Space Details:
 Available Pages:
 ----------------
 
-*   [Home](Home) ![](images/icons/contenttypes/home_page_16.png)
+*   [Home](Home) ![Home](images/icons/contenttypes/home_page_16.png)
     
     *   [3.3.0 Platform Support](3.3.0+Platform+Support)
     
@@ -136,7 +136,7 @@ Available Pages:
     
     *   [Terracotta 3.7](Terracotta+3.7)
         
-        *   [Changes to Open+Source Terracotta Server Array and Terracotta DSO (FAQ)](37129634)
+        *   [Changes to Open+Source Terracotta Server Array and Terracotta DSO (FAQ)](Changes+to+Open-Source+Terracotta+Server+Array+and+Terracotta+DSO+(FAQ))
         
         *   [Ehcache 2.6.0 Release Notes](Ehcache+2.6.0+Release+Notes)
     

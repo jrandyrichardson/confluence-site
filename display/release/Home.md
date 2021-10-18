@@ -9,7 +9,7 @@ permalink: /display/release/Home
 summary:
 ---
 
-![](/download/attachments/23232545/SAG_Terracotta_Logo_Oct17.png)
+![Terracotta Logo](/download/attachments/23232545/SAG_Terracotta_Logo_Oct17.png)
 =======================================
 
 
@@ -149,8 +149,8 @@ _**Terracotta Ehcache is simply a sub-set of the Terracotta 10.x product, provid
 Attachments:
 ------------
 
-![](images/icons/bullet_blue.gif) [3.5.2\_THIRD\_PARTY\_LICENSE.pdf](/download/attachments/23232545/3.5.2_THIRD_PARTY_LICENSE.pdf) (application/pdf)  
-![](images/icons/bullet_blue.gif) [3.5.3\_THIRD\_PARTY\_LICENSE.pdf](/download/attachments/23232545/3.5.3_THIRD_PARTY_LICENSE.pdf) (application/pdf)  
-![](images/icons/bullet_blue.gif) [SAG\_Terracotta\_Logo\_Oct17.png](/download/attachments/23232545/SAG_Terracotta_Logo_Oct17.png) (image/png)
+![Bullet](images/icons/bullet_blue.gif) [3.5.2\_THIRD\_PARTY\_LICENSE.pdf](/download/attachments/23232545/3.5.2_THIRD_PARTY_LICENSE.pdf) (application/pdf)  
+![Bullet](images/icons/bullet_blue.gif) [3.5.3\_THIRD\_PARTY\_LICENSE.pdf](/download/attachments/23232545/3.5.3_THIRD_PARTY_LICENSE.pdf) (application/pdf)  
+![Bullet](images/icons/bullet_blue.gif) [SAG\_Terracotta\_Logo\_Oct17.png](/download/attachments/23232545/SAG_Terracotta_Logo_Oct17.png) (image/png)
 
 
