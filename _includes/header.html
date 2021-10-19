@@ -22,7 +22,8 @@ Changes from minima:
                 {%- assign spaces = site.pages | map: "space" | uniq -%}
                 {%- for space in spaces -%}
                 {%- if space -%}
-                <h3>{{space}}</h3>
+                <div class="space">
+                <h2>{{space}}</h2>
 
                 {%- assign pages = site.pages | where: "space", space  -%}
                 {%- for my_page in pages  -%}
@@ -30,6 +31,7 @@ Changes from minima:
                 <a class="page-link" href="{{ my_page.url | relative_url | remove : '.html' }}">{{ my_page.title | escape }}</a>
                 {%- endif -%}
                 {%- endfor -%}
+                </div>
 
                 {%- endif -%}
                 {%- endfor -%}

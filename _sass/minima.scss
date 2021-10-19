@@ -53,7 +53,15 @@ $on-laptop:        80000px !default;
 
 
 //additions:
-.trigger h3 {
+.trigger h2 {
   text-transform: uppercase;
   border-bottom: 1px solid;
+  text-align: center;
+}
+
+div.space {
+  border-radius: 3px;
+  border: 1px solid;
+  margin: 3px;
+  padding: 3px;
 }
