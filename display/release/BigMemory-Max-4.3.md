@@ -19,7 +19,7 @@ Software AG intends to deprecate and remove from distribution the WAN Replicatio
 
 Software AG intends to deprecate the Web Sessions product in the next release (4.3.10, late 2021).
 
-  
+
 
 **New Features**
 -------------------
@@ -39,6 +39,24 @@ BigMemory Max 4.3.0 introduced following new capabilities:
 9.  Quartz no longer supported (BigMemory 4.3.3)
 10.  Added Docker to Terracotta kit for SAG Install (BigMemory 4.3.4)
 11.  Support for Windows Server 2016 (BigMemory 4.3.4)
+
+### Summary of Changes in 4.3.10
+####     New in Terracotta BigMemory 4.3.10
+
+* Prometheus support for BigMemory Max monitoring/stats.
+* WAN modularized into own tar file, removed from BigMemory Max kit as it was previously deprecated (notice given in early 2021).
+* WebSessions modularized into own tar file, removed from BigMemory Max kit as it was previously deprecated (notice given in early 2021).
+
+####    Security Updates
+
+* Contains all security updates included in BigMemory 4.3.9.4
+
+#### Resolved
+
+* Contains all defect solutions included in BigMemory 4.3.9.4
+
+
+
 
 ### Summary of Changes in 4.3.9
 
@@ -96,11 +114,13 @@ invalidRequest.blockSemicolon = false
 Users who have previously configured authentication settings for the TMS/TMC may need to make a manual file edits in order to be able to log in after applying fixes. The symptom of this need is a blank browser page or a message from the browser indicating too many redirects, or similar.  
 To fix the problem edit the "shiro.ini" found in the ".tc/mgmt" directory of the user's home folder (the user that the TMS/TMC process runs as). In this text file locate the line (typically near the bottom) that reads "/login.jsp = authc". Immediately above that line, add the three following lines if they are not present:
 
-/401.jsp = anon 
-/403.jsp = anon 
+```
+/401.jsp = anon
+/403.jsp = anon
 /404 = anon
+```
 
-  
+
 
 ### Summary of Changes in 4.3.7
 
@@ -301,7 +321,7 @@ To fix the problem edit the "shiro.ini" found in the ".tc/mgmt" directory of the
 *   7375 - If you have Terracotta Integration for Designer fix 2 already installed on 10.1 installation, then applying this fix 3 may fail during installation.  
     *   Workaround for this problem is to reinstall Terracotta Designer component using SAG Installer and apply this fix 3 directly
 
-  
+
 
 ### Summary of Changes in 4.3.4.2
 
@@ -332,7 +352,7 @@ To fix the problem edit the "shiro.ini" found in the ".tc/mgmt" directory of the
 
 *   7022 – Fixed TMC showing duplicates of Operator Events under some circumstances. E.g. Having multiple concurrent browser sessions.
 *   7091 - Fixed bug causing TMC on same localhost is slow with Connection refused  
-    
+
 
 #### Known Issues
 
@@ -344,7 +364,7 @@ To fix the problem edit the "shiro.ini" found in the ".tc/mgmt" directory of the
 #### Resolved
 
 *   6764 – Resolved issue where due to network issues, client connections were not cleared after clients were disconnected thereby causing the license policy to reject connections for new clients.
-    
+
 *   6785 – Resolved issue where excessive number of threads were created by Jersey Client causing issues with memory resources.
 *   6996 - Documentation update to show BigMemory 4.1 and later versions now support the FRS "SizeBasedCompactionPolicy"
 *   7019 - Fixed security-keychain bug that would sometimes not allow IS to start when connected to Terracotta 
@@ -357,7 +377,7 @@ To fix the problem edit the "shiro.ini" found in the ".tc/mgmt" directory of the
 *   4984 - Port 9520 is no longer valid.  Actual IP address will show versus the loopback one.
 *   5477 - When user kills Master Orchestrator and Replica Orchestrator, some caches in Region 1 return "OrchestratorAlive" to be "true".
 
-  
+
 
 ### Summary of Changes in 4.3.2.2
 
@@ -382,24 +402,24 @@ To fix the problem edit the "shiro.ini" found in the ".tc/mgmt" directory of the
 #### Known Issues
 
 *   4984 - Port 9520 is no longer valid.  Actual IP address will show versus the loopback one.
-    
+
 *   5477 - When user kills Master Orchestrator and Replica Orchestrator, some caches in Region 1 return "OrchestratorAlive" to be "true".
-    
+
 
 ### Summary of Changes in 4.3.2
 
 #### Resolved
 
 *   6493 – Validated Websessions on Websphere
-    
+
 *   6542 – Resolved error when configuring Active Direction in TMC
-    
+
 *   6569 – Resolved startup error when terracotta is launched from wrapper script or Command Central.
-    
+
 *   6576 – Fixed issue handling special characters in connection URLs in keychains
-    
+
 *   6584 – Corrected TransactionSequencer shutdown due to connection closure
-    
+
 
 #### Known Issues
 
@@ -416,10 +436,10 @@ To fix the problem edit the "shiro.ini" found in the ".tc/mgmt" directory of the
 #### Known Issues
 
 *   4984 - Port 9520 is no longer valid.  Actual IP address will show versus the loopback one.
-    
+
 
 *   5477 - When user kills Master Orchestrator and Replica Orchestrator, some caches in Region 1 return "OrchestratorAlive" to be "true".
-    
+
 
 ### Summary of Changes in 4.3.1.1
 
@@ -438,9 +458,9 @@ To fix the problem edit the "shiro.ini" found in the ".tc/mgmt" directory of the
 #### Known Issues
 
 *   4984 - Port 9520 is no longer valid.  Actual IP address will show versus the loopback one.
-    
+
 *   5477 - When user kills Master Orchestrator and Replica Orchestrator, some caches in Region 1 return "OrchestratorAlive" to be "true".
-    
+
 
 ### Summary of Changes in 4.3.1
 
@@ -463,18 +483,18 @@ To fix the problem edit the "shiro.ini" found in the ".tc/mgmt" directory of the
 #### Known Issues
 
 *   4984 - Port 9520 is no longer valid.  Actual IP address will show versus the loopback one.
-    
+
 *   5477 - When user kills Master Orchestrator and Replica Orchestrator, some caches in Region 1 return "OrchestratorAlive" to be "true".
-    
+
 *   5513 - Stopping of TSA from TMC fails when TSA is started as a service.
-    
+
 
 ### Summary of Changes in 4.3.0.1
 
 #### Resolved
 
 *   5503 - "Unresponsive script" dialog no longer appears, when connected with 560 clients.
-    
+
 *   5557 – Resolved issue that resulted in NullPointerException and server was terminated when large number of clients simultaneously connect with the TSA server.
 *   5598 – Resolved issue where a restarted passive server may become stuck in initializing state when removing event listeners for dead clients.
 *   5647 – Fixed rare situation where cluster does not recover after a specific type of network disruption.
@@ -482,15 +502,15 @@ To fix the problem edit the "shiro.ini" found in the ".tc/mgmt" directory of the
 #### Known Issues
 
 *   4984 - Port 9520 is no longer valid.  Actual IP address will show versus the loopback one.
-    
+
 *   5462 - When Master Orch of region 1 is terminated while using TMC for WAN, the region 2 Master Orch status in the replica option is listed as unknown in the Topology configuration.
-    
+
 *   5477 - When user kills Master Orch and Replica Orch, some caches in Region 1 return "OrchestratorAlive" to be "true".
-    
+
 *   5490 - When IE 11 browser, user is unable to view off-line data in TMC.
-    
+
 *   5513 - Stopping of TSA from TMC fails when TSA is started as a service.
-    
+
 
 ### Known Issues in 4.3.0
 
@@ -502,5 +522,3 @@ To fix the problem edit the "shiro.ini" found in the ".tc/mgmt" directory of the
 *   5503 - "Unresponsive script" dialog pops up, when observing the 560 caches listing in the management panel in TMC.
 *   5513 - Stopping of TSA from TMC fails when TSA is started as a service.
 *   5557 - When large number of clients simultaneously connect with the TSA server it could result in NullPointerException and server gets terminated.
-
-
