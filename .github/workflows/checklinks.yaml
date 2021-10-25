@@ -29,7 +29,7 @@ jobs:
         run: bundle exec jekyll build
       - name: Check for broken links
         run: |
-          bundle exec htmlproofer --log-level :debug --assume-extension --disable-external ./_site &> links.log
+          bundle exec rake test &> links.log
         continue-on-error: true
       - name: Archive log links
         uses: actions/upload-artifact@v1

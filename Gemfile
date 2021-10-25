@@ -35,3 +35,4 @@ gem "wdm", "~> 0.1.0", :install_if => Gem.win_platform?
 
 # link checking
 gem 'html-proofer'
+gem 'rake'
