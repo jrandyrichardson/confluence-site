@@ -65,8 +65,8 @@ Available Pages:
     
     *   [Building Terracotta Software](Building+Terracotta+Software)
     
-    *   [Ehcache+monitor1.0.1 Release Notes](Ehcache+monitor1.0.1+Release+Notes)
-        *   [Ehcache+monitor Release Notes](Ehcache+monitor+Release+Notes)
+    *   [Ehcache-monitor1.0.1 Release Notes](Ehcache-monitor1.0.1+Release+Notes)
+        *   [Ehcache-monitor Release Notes](Ehcache-monitor+Release+Notes)
     
     *   [Extended downtime for Fisheye](Extended+downtime+for+Fisheye)
     
