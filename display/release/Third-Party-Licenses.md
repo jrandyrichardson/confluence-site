@@ -56,7 +56,7 @@ Terracotta Server Open Source Third Party License Files
 All Attachments:
 ------------
 
-<ol markdown="1">
+<ol>
 {% assign attachments = site.static_files | sort: "name" %}
 {% for file in attachments -%}
 {% if file.extname == ".pdf" and file.path contains "29557169" -%}
