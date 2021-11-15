@@ -81,7 +81,7 @@ This product suite includes BigMemory Max, BigMemory Go, and Web Sessions
 ## Terracotta (10.x)
 ----------------------
 
-**Terracotta 10.x** is a distributed in-memory data management solutionfor both operational and analytical workloads. Terracotta DB has powerful query and computation capabilities, leveraging native JDK features such as Java Streams, collections, and functions.
+**Terracotta 10.x** is a distributed in-memory data management solution for both operational and analytical workloads. Terracotta DB has powerful query and computation capabilities, leveraging native JDK features such as Java Streams, collections, and functions.
 
 #### Current Releases
 
@@ -124,7 +124,7 @@ Some key features include:
 Ehcache also is alive as an open source project. Outside of this distribution, Ehcache builds are available on the project's GitHub release page at htt[ps://github.com/ehcache/ehcache3/releases](ps://github.com/ehcache/ehcache3/releases).
 
 
-_**Terracotta Ehcache is simply a sub-set of the Terracotta 10.x product, providing a means for commercial licensing and support of only the caching API/capabilities of Terracotta. Therefore, see the Terracotta 10.x release notes for relevant information about Terracotta Ehcache releases.**_
+> Terracotta Ehcache is simply a sub-set of the Terracotta 10.x product, providing a means for commercial licensing and support of only the caching API/capabilities of Terracotta. Therefore, see the Terracotta 10.x release notes for relevant information about Terracotta Ehcache releases.
 
 
 ## Notes 
