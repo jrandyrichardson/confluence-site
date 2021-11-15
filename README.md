@@ -37,6 +37,12 @@ Link to pages without `.html` suffix!
 ### Local Jekyll
 At this time, local testing is done using the same versions of ruby and jekyll as https://pages.github.com/versions/
 
+#### Option 1: Docker
+
+* https://github.com/Starefossen/docker-github-pages
+
+#### Option 2: Native Ruby:
+
 Easiest way is to use [rbenv](https://github.com/rbenv/rbenv), then:
 ```shell
 rbenv install 2.7.3  # one-time step
