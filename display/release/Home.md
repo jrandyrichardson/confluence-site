@@ -10,30 +10,29 @@ summary:
 ---
 
 ![Terracotta Logo](/download/attachments/23232545/SAG_Terracotta_Logo_Oct17.png)
-=======================================
 
+Terracotta is Software AG's In-memory data management platform. These products are built on top of a distributed, high performance scalable architecture. There are currently three products.
 
-
-Terracotta is Software AG's In-memory data management platform. These products are built on top of a distributed, high performance scalable architecture. There are currently three products:
-
-*   Terracotta BigMemory (including BigMemory Max, BigMemory Go, and Web Sessions)
-*   Terracotta 10.x
-*   Terracotta Ehcache 10.x
-
-
+* TOC
+{:toc}
 
 Terracotta software products and projects are made available in several packaged kits. In addition to releasing individual products/projects as kits (such as Ehcache and Quartz Scheduler), the Terracotta kit is a package that includes the Terracotta platform, Ehcache, Quartz Scheduler, Sessions, and related items.
 
 The following table provides the most current information on these releases.
 
-### Current Releases
+## Terracotta BigMemory (4.x)
+----------------------
+This product suite includes BigMemory Max, BigMemory Go, and Web Sessions
 
-__Terracotta Open Source Release Notes can be found_ [_here_](Terracotta+Server+Open+Source)_ .
+
+#### Current Releases
+
+*Terracotta Open Source Release Notes can be found [here](Terracotta+Server+Open+Source)*.
 
 
 | Release | Date | Release Notes | Platform Support | Notes |
 |---------|------|---------------|------------------|-------|
-| BigMemory 4.3.10 <br/>Ehcache 2.10.10 | Oct 15, 2021 | [BigMemory Max 4.3](BigMemory+Max+4.3) | Bug Fix Release |
+| BigMemory 4.3.10 <br/>Ehcache 2.10.10 | Oct 15, 2021 | [BigMemory Max 4.3](BigMemory+Max+4.3) | [Platform Support](BigMemory+4.3%2C+Ehcache+2.10+Platform+Support) | Bug Fix Release |
 | BigMemory 4.3.9 <br/>Ehcache 2.10.9 | Apr 16, 2021 | [BigMemory Max 4.3.9 Release Notes](BigMemory+Max+4.3) | [Platform Support](BigMemory+4.3%2C+Ehcache+2.10+Platform+Support) | Bug Fix Release |
 | BigMemory 4.3.8 <br/>Ehcache 2.10.8 | Oct, 2019 | [BigMemory Max 4.3.8 Release Notes](BigMemory+Max+4.3), <br/>[BigMemory Go 4.3.8 Release Notes](BigMemory+Go+4.3), <br/>[Ehcache 2.10.8 Release Notes](https://jira.terracotta.org/jira/browse/EHC/?selectedTab=com.atlassian.jira.jira-projects-plugin:changelog-panel) | [Platform Support](BigMemory+4.3%2C+Ehcache+2.10+Platform+Support) | Bug Fix and Feature Release |
 | BigMemory   4.3.7<br/>Ehcache 2.10.7 | Apr 16, 2019 | [BigMemory Max 4.3.7 Release Notes](BigMemory+Max+4.3), <br/>[BigMemory Go 4.3.7 Release Notes](BigMemory+Go+4.3), <br/>[Ehcache 2.10.7 Release Notes](https://jira.terracotta.org/jira/browse/EHC/?selectedTab=com.atlassian.jira.jira-projects-plugin:changelog-panel) | [Platform Support](BigMemory+4.3%2C+Ehcache+2.10+Platform+Support) | Bug Fix and Feature Release |
@@ -76,35 +75,15 @@ __Terracotta Open Source Release Notes can be found_ [_here_](Terracotta+Server+
 | BigMemory   4.1.1  <br/>Ehcache 2.8.1  <br/>Quartz 2.2.1 | 4 February 2014 | [BigMemory Max 4.1.1 Release Notes](BigMemory+Max+4.1),[BigMemory Go 4.1.1 Release Notes](BigMemory+Go+4.1),[Ehcache 2.8.1 Release Notes](https://jira.terracotta.org/jira/browse/EHC#selectedTab=com.atlassian.jira.plugin.system.project%3Achangelog-panel),[Changelist for Quartz 2.2.1](https://jira.terracotta.org/jira/browse/QTZ/?selectedTab=com.atlassian.jira.jira-projects-plugin:changelog-panel) | [Platform Support](BigMemory+4.1%2C+Ehcache+2.8+Platform+Support) | |
 | BigMemory   4.1.0  <br/>Ehcache 2.8.0  <br/>Quartz 2.2.1 | 20 December 2013 | [BigMemory Max 4.1.0 Release Notes](BigMemory+Max+4.1),[BigMemory Go 4.1.0 Release Notes](BigMemory+Go+4.1),[Ehcache 2.8.0 Release Notes](https://jira.terracotta.org/jira/browse/EHC#selectedTab=com.atlassian.jira.plugin.system.project%3Achangelog-panel),[Changelist for Quartz 2.2.1](https://jira.terracotta.org/jira/browse/QTZ/?selectedTab=com.atlassian.jira.jira-projects-plugin:changelog-panel) | [Platform Support](BigMemory+4.1%2C+Ehcache+2.8+Platform+Support)
 
- 
+### Previous Releases
+*Older BigMemory Releases can be found [here](BigMemory+Release+Archive)*
 
-Understanding Terracotta Kit Names and Version Numbers
-------------------------------------------------------
-
-Kit names include the kit content (whether it is an individual product/project - such as Ehcache - or a full Terracotta kit), a version, and possibly some additional attributes.
-
-Terracotta kits have a version number that in general refers to the platform version.
-
-A kit version number can also have one of the following attributes to indicate its purpose or a change other than to the platform:
-
-*   \_ (Underscore) – A kit containing the same platform as the non-underscore version but at least one major Terracotta component with a version change. Major components are Ehcache, Quartz Scheduler, Sessions, and the Toolkit. For example Terracotta 3.4.0\_1 is identical to Terracotta 3.4.0 except that Ehcache 2.3.0 was replaced with Ehcache 2.3.1.
-*   ee – Included in the name indicates that this is an Enterprise Edition product release (a commercial version that requires a license to run) as opposed to an Open Source project release.
-*   Beta – A pre-release kit intended for beta testing.
-*   RC (Release Candidate) – A kit that is a candidate to become the final release unless issues are discovered that must be fixed before a final release is made. A release candidate is suitable for late-stage testing.
-*   SNAPSHOT – Snapshots reflect the code as it currently exists, and are not official releases. Snapshot kits can change daily and may have functional and performance issues. For example, Terracotta 3.5.0-SNAPSHOT may be suitable for early testing purposes, but is not recommended for POCs.
-*   patch – A patch to an ee (Enterprise Edition) kit. See below for more details.
-
-Software Patches
-----------------
-
-Patches are a provided for ee (Enterprise Edition) kits for commercial customers only. For more information on using software patches, see [Patches](Patches).
-
-### Previous Releases [Archive](BigMemory+Release+Archive)
+## Terracotta (10.x)
+----------------------
 
 **Terracotta 10.x** is a distributed in-memory data management solutionfor both operational and analytical workloads. Terracotta DB has powerful query and computation capabilities, leveraging native JDK features such as Java Streams, collections, and functions.
 
-Current Releases
-----------------
+#### Current Releases
 
 | Release | Date | Release Notes | Platform Support | Notes |
 |---------|------|---------------|------------------|-------|
@@ -123,30 +102,48 @@ Current Releases
 | Terracotta 10.1.0.1 | Oct 17, 2017 | [Release Notes](Terracotta+DB+10.1+Release+Notes) | [Platform Support](Terracotta+DB+10.1+Supported+Platforms) | Bug Fix|
 | Terracotta 10.1 | Oct 17, 2017 | [Release Notes](Terracotta+DB+10.1+Release+Notes) | [Platform Support](Terracotta+DB+10.1+Supported+Platforms) | Feature Release|
 
+
+
+
+## Terracotta Ehcache (10.x)
+----------------------
 **Terracotta Ehcache** is a standards-based cache that boosts performance, offloads your database, and simplifies scalability. It's the most widely-used Java-based caching platform in the world for its ability to integrate with other popular libraries and frameworks like Hibernate, Spring, etc. Terracotta Ehcache scales from in-process caching, all the way to mixed in-process/out-of-process deployments with terabyte-sized caches. It strengthens distributed caching capabilities via a new generation of Terracotta server with support for high-availability and improved performance.
 
 Some key features include:
 
-*   An API that leverages Java generics and simplifies Cache interactions
-*   Java-based Key/Value store optimized for caching workloads
-*   Full compatibility with javax.cache API (JSR-107)
-*   The industry's first and best Offheap storage capabilities, including offheap-only caches
-*   In-memory storage with optional persistence to disk and ultra-fast recovery
-*   Out of the box Spring Caching and Hibernate integration thanks to the javax.cache support, and many more ...
-*   Distributed caching:
-    *   Supports various scale-out and HA deployment configurations
-    *   Flexible, fine-granular configuration of availability, consistency, and durability
-<br/>Ehcache also is alive as an open source project. Outside of this distribution, Ehcache builds are available on the project's GitHub release page at htt[ps://github.com/ehcache/ehcache3/releases](ps://github.com/ehcache/ehcache3/releases).
+* An API that leverages Java generics and simplifies Cache interactions
+* Java-based Key/Value store optimized for caching workloads
+* Full compatibility with javax.cache API (JSR-107)
+* The industry's first and best Offheap storage capabilities, including offheap-only caches
+* In-memory storage with optional persistence to disk and ultra-fast recovery
+* Out of the box Spring Caching and Hibernate integration thanks to the javax.cache support, and many more ...
+* Distributed caching:
+    * Supports various scale-out and HA deployment configurations
+    * Flexible, fine-granular configuration of availability, consistency, and durability
+
+Ehcache also is alive as an open source project. Outside of this distribution, Ehcache builds are available on the project's GitHub release page at htt[ps://github.com/ehcache/ehcache3/releases](ps://github.com/ehcache/ehcache3/releases).
 
 
 _**Terracotta Ehcache is simply a sub-set of the Terracotta 10.x product, providing a means for commercial licensing and support of only the caching API/capabilities of Terracotta. Therefore, see the Terracotta 10.x release notes for relevant information about Terracotta Ehcache releases.**_
 
 
-Attachments:
-------------
+## Notes 
 
-![Bullet](images/icons/bullet_blue.gif) [3.5.2\_THIRD\_PARTY\_LICENSE.pdf](/download/attachments/23232545/3.5.2_THIRD_PARTY_LICENSE.pdf) (application/pdf)  
-![Bullet](images/icons/bullet_blue.gif) [3.5.3\_THIRD\_PARTY\_LICENSE.pdf](/download/attachments/23232545/3.5.3_THIRD_PARTY_LICENSE.pdf) (application/pdf)  
-![Bullet](images/icons/bullet_blue.gif) [SAG\_Terracotta\_Logo\_Oct17.png](/download/attachments/23232545/SAG_Terracotta_Logo_Oct17.png) (image/png)
+### Understanding Terracotta Kit Names and Version Numbers
 
+Kit names include the kit content (whether it is an individual product/project - such as Ehcache - or a full Terracotta kit), a version, and possibly some additional attributes.
 
+Terracotta kits have a version number that in general refers to the platform version.
+
+A kit version number can also have one of the following attributes to indicate its purpose or a change other than to the platform:
+
+* `_` (Underscore) – A kit containing the same platform as the non-underscore version but at least one major Terracotta component with a version change. Major components are Ehcache, Quartz Scheduler, Sessions, and the Toolkit. For example Terracotta 3.4.0\_1 is identical to Terracotta 3.4.0 except that Ehcache 2.3.0 was replaced with Ehcache 2.3.1.
+* `ee` – Included in the name indicates that this is an Enterprise Edition product release (a commercial version that requires a license to run) as opposed to an Open Source project release.
+* `Beta` – A pre-release kit intended for beta testing.
+* `RC` (Release Candidate) – A kit that is a candidate to become the final release unless issues are discovered that must be fixed before a final release is made. A release candidate is suitable for late-stage testing.
+* `SNAPSHOT` – Snapshots reflect the code as it currently exists, and are not official releases. Snapshot kits can change daily and may have functional and performance issues. For example, Terracotta 3.5.0-SNAPSHOT may be suitable for early testing purposes, but is not recommended for POCs.
+* `patch` – A patch to an ee (Enterprise Edition) kit. See below for more details.
+
+### Software Patches
+
+Patches are a provided for ee (Enterprise Edition) kits for commercial customers only. For more information on using software patches, see [Patches](Patches).
