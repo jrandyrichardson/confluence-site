@@ -18,7 +18,7 @@ div.trigger {
 <br>
 <br>
 
-## Quick links to information about actively maintained and supported product versions:
+## Quick links:
 
 ### BigMemory Max 4.3.x
 * [BigMemory Max 4.3.x Release Notes](https://confluence.terracotta.org/display/release/BigMemory+Max+4.3)
