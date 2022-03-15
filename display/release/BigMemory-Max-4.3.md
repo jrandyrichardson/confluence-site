@@ -19,6 +19,7 @@ Februay 2020:
 * Software AG intends to deprecate and remove from distribution the WAN Replication Service/Module in the next release (4.3.10, late 2021).
 * Software AG intends to deprecate the Web Sessions product in the next release (4.3.10, late 2021).
 
+*Announcement October 2021: As previously announced, the BigMemory WAN Replication module and Web Sessions products have been deprecated and are no longer distributed or updated as part of BigMemory products.*
 
 
 **New Features**

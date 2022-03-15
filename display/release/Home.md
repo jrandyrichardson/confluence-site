@@ -1,5 +1,5 @@
 ---
-title:  Home
+title:  Release Information
 lang: en
 layout: page
 keywords:
