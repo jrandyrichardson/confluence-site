@@ -82,6 +82,8 @@ It has been validated on the following OSes with  JDK 1.8.0\_162, OpenJDK 1.8.0
 *   Windows 10
 *   Windows 2008 (up to 4.3.4)
 
+Sever JVM heap-space requirements vary by workload. While some small workloads can be handled in 2GB of heap, most workloads, especially with higher transaction rates, or usage of search features will require at minimum 4GB of heap space.
+
 The following are supported when used with webMethods 9.8+
 
 *   IBM System Z (Red Hat 6.x)  (with IBM J9 VM 1.8.0) and (Red Hat 7.x)
@@ -95,6 +97,8 @@ The following are supported when used with webMethods 9.8+
 *   AIX Power 6.1 (up to 4.3.2 only) , AIX 7.1 with IBM Java 1.7.0 and 1.8.0 and AIX 7.2 with IBM Java 1.8.0 SR5 (SJP\_1.8.0.0.96)
 
 For other JVM/platform combinations not listed above, please contact [info@terracotta.org](mailto:info@terracotta.org) to confirm status.
+
+Sever JVM heap-space requirements vary by workload. While some small workloads can be handled in 2GB of heap, most workloads, especially with higher transaction rates, or usage of search features will require at minimum 4GB of heap space.
 
 Browsers (TMC)
 --------------
