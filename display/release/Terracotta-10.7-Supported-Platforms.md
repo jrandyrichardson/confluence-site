@@ -47,7 +47,8 @@ It has been validated on the following OSes with Oracle 1.8.0\_162,  OpenJDK 
 *   IE 11.0.9, 10
 *   Edge 38
 
-  
+
+Terracotta Sever JVM heap-space requirements vary by workload. While some small workloads can be handled in 2GB of heap, most workloads, especially with higher transaction rates, or usage of search features will require at minimum 4GB of heap space.
 
   
 
