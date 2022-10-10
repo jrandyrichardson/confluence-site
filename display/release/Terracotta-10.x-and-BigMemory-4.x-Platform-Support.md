@@ -21,13 +21,10 @@ The server is a process that runs directly in a JVM.  JVM heap-space requirement
 
 <br>
 
-
-| **PRODUCT**                                           |      |  |  |  |  |  |
+| **PRODUCT**                                           | 2017 | 2018 | 2019 | 2020 | 2021 | 2022 |
 |:------------------------------------------------------|-----:|-----:|---:|---:|---:|---:|
-| Release Year                                          | 2017            | 2018            | 2019            | 2020            | 2021              | 2022 |
 | Terracotta<br>Ehcache                                 | 10.1<br>3.4.1   | 10.3<br>3.6.3   | 10.5<br>3.8.1   | 10.7<br>3.9.9   | 10.11<br>3.9.9    | 10.15<br>3.10.1 |
 | BigMemory Max<br>Ehcache                              | 4.3.4<br>2.10.4 | 4.3.6<br>2.10.6 | 4.3.8<br>2.10.8 | 4.3.9<br>2.10.9 | 4.3.10<br>2.10.10 | 4.4<br>2.11.0 |
-|                                                       |       |       |  |  |  |  |
 | **PLATFORM SUPPORT**                                  |       |       |  |  |  |  |
 | Windows Server 2012 (Datacenter and Standard Edition) |       |   X   | X | X |  |  |
 | Windows Server 2016 (Datacenter and Standard Edition) |       |   X   | X | X | X | X |
@@ -48,8 +45,6 @@ The server is a process that runs directly in a JVM.  JVM heap-space requirement
 | AIX 7.3 (no Java 11) webM only                        |       |       |  |  |  | X |
 | Solaris 11 (Spark 64)  webM Only                      |       |   X   | X | X | X |  |
 | HP-UX 11iv3                                           |       |   X   |  |  |  |  |
-|                                                       |       |       |  |  |  |  |
-|                                                       |       |       |  |  |  |  |
 | **BROWSER SUPPORT**                                   |       |       |  |  |  |  |
 | Microsoft Edge (latest)                               |       |       |  | X | X | X |
 | Microsoft IE 11.x                                     |       |       |  | X | X |  |
@@ -57,7 +52,6 @@ The server is a process that runs directly in a JVM.  JVM heap-space requirement
 | Mozilla Firefox ESR 78                                |       |       |  |  |  | X |
 | Mozilla Firefox ESR 68                                |       |       |  |  | X |  |
 | Google Chrome (latest)                                |       |       |  |  | X | X |
-|                                                       |       |       |  |  |  |  |
 | **JDK SUPPORT**                                       |       |       |  |  |  |  |
 | Zulu 11.50 (11.0.12)                                  |       |       |  |  | X | X |
 | Zulu 8.47 (1.8.0_261)                                 |       |       | X | X |  |  |
