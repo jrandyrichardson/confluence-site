@@ -20,6 +20,7 @@ If you are upgrading, do not use these tables. Always upgrade components using t
 
 | Ehcache | BigMemory | Notes |
 | --- | --- | --- |
+| 2.11.0 | 4.4 |   |
 | 2.10.0 | 4.3 |   |
 | 2.9.0 | 4.2 |   |
 | 2.8.5 | 4.1.5 |   |
