@@ -40,9 +40,10 @@ About Patches
 
 A patch is a compressed file with the following filename format:
 
-terracotta-<tc-version>-patch-<patch-level>.tar.gz 
+terracotta-<i>tc-version></i>-patch-<i>patch-level</i>.tar.gz 
 
-<tc-version> corresponds to the version of Terracotta installed in your cluster. <patch-level> refers to the version of the patch.
+<i>tc-version></i> corresponds to the version of Terracotta installed in your cluster. 
+<i>patch-level</i> refers to the version of the patch.
 
 For example, if you are running Terracotta 2.6.3, a level-1 patch would have the following filename:
 
