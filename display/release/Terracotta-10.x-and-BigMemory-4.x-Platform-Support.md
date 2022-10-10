@@ -9,11 +9,6 @@ permalink: /display/release/Terracotta+10.x+and+BigMemory+4.x+Platform+Support.h
 summary:
 ---
 
-* TOC
-{:toc}
-
-Platform Support
-----------------
 
 The platforms listed on this page are currently certified for use with commercial Terracotta product editions.  As a 100% Java solution, Terracotta should run without issues on Java platforms for which it is not certified as well.  If you have any questions about a certified or non-certified platform, contact us in one of the following ways:
 
@@ -26,9 +21,9 @@ The server is a process that runs directly in a JVM.  JVM heap-space requirement
 
 <br>
 
-|                                                       |       |       |  |  |  |  |
-|:------------------------------------------------------|-----:|-----:|---:|---:|---:|---:|
+
 | **PRODUCT**                                           |      |  |  |  |  |  |
+|:------------------------------------------------------|-----:|-----:|---:|---:|---:|---:|
 | Release Year                                          | 2017            | 2018            | 2019            | 2020            | 2021              | 2022 |
 | Terracotta<br>Ehcache                                 | 10.1<br>3.4.1   | 10.3<br>3.6.3   | 10.5<br>3.8.1   | 10.7<br>3.9.9   | 10.11<br>3.9.9    | 10.15<br>3.10.1 |
 | BigMemory Max<br>Ehcache                              | 4.3.4<br>2.10.4 | 4.3.6<br>2.10.6 | 4.3.8<br>2.10.8 | 4.3.9<br>2.10.9 | 4.3.10<br>2.10.10 | 4.4<br>2.11.0 |
@@ -53,6 +48,7 @@ The server is a process that runs directly in a JVM.  JVM heap-space requirement
 | AIX 7.3 (no Java 11) webM only                        |       |       |  |  |  | X |
 | Solaris 11 (Spark 64)  webM Only                      |       |   X   | X | X | X |  |
 | HP-UX 11iv3                                           |       |   X   |  |  |  |  |
+|                                                       |       |       |  |  |  |  |
 |                                                       |       |       |  |  |  |  |
 | **BROWSER SUPPORT**                                   |       |       |  |  |  |  |
 | Microsoft Edge (latest)                               |       |       |  | X | X | X |
