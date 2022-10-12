@@ -3,7 +3,7 @@ title:  Building Terracotta Software
 lang: en
 layout: page
 keywords:
-space: release
+space: current
 sidebar: lb2_sidebar
 permalink: /display/release/Building+Terracotta+Software
 summary:

@@ -3,7 +3,7 @@ title:  Release Information
 lang: en
 layout: page
 keywords:
-space: release
+space: current
 sidebar: lb2_sidebar
 permalink: /display/release/Home
 summary:

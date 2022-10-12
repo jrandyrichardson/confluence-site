@@ -3,7 +3,7 @@ title:  Patches
 lang: en
 layout: page
 keywords:
-space: release
+space: current
 sidebar: lb2_sidebar
 permalink: /display/release/Patches
 summary:

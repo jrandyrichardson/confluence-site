@@ -3,7 +3,7 @@ title:  Terracotta 10.11 Supported Platforms
 lang: en
 layout: page
 keywords:
-space: release
+space: current
 sidebar: lb2_sidebar
 permalink: /display/release/Terracotta+10.11+Supported+Platforms.html
 summary:
