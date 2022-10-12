@@ -3,7 +3,7 @@ title:  Release Notes Ehcache 2.3.0
 lang: en
 layout: page
 keywords:
-space: release
+space: archive
 sidebar: lb2_sidebar
 permalink: /display/release/Release+Notes+Ehcache+2.3.0.html
 summary:

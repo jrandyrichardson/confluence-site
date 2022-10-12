@@ -3,7 +3,7 @@ title:  Fremantle Beta Release Notes
 lang: en
 layout: page
 keywords:
-space: release
+space: archive
 sidebar: lb2_sidebar
 permalink: /display/release/Fremantle+Beta+Release+Notes
 summary:

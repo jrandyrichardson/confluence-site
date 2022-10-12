@@ -1,24 +1,11 @@
 ---
-# Feel free to add content and custom Front Matter to this file.
-# To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
-
-layout: home
-
-
+layout: pagelist
+showspace: current
+title: Terracotta Wiki Main
+listtitle: All Pages
 ---
-[comment]: Always show nav on the front page 
 
-<style>
-div.trigger {
-    display:block!important;
-}
-</style>
-
-<br>
-<br>
-<br>
-
-## Quick links:
+## Quick Links 
 
 ### BigMemory Max 4.3.x
 * [BigMemory Max 4.3.x Release Notes](https://confluence.terracotta.org/display/release/BigMemory+Max+4.3)
@@ -34,3 +21,5 @@ div.trigger {
 * [Terracotta 10.5 Release Notes](https://confluence.terracotta.org/display/release/Terracotta+10.5+Release+Notes)
 * [Terracotta 10.5 Supported Platforms](https://confluence.terracotta.org/display/release/Terracotta+10.5+Supported+Platforms)
 
+## Archived
+* [Archive](archive)

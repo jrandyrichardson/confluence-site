@@ -3,7 +3,7 @@ title:  BigMemory Max 4.2
 lang: en
 layout: page
 keywords:
-space: release
+space: archive
 sidebar: lb2_sidebar
 permalink: /display/release/BigMemory+Max+4.2.html
 summary:

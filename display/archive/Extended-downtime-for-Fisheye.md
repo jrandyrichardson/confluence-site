@@ -3,7 +3,7 @@ title:  Extended downtime for Fisheye
 lang: en
 layout: page
 keywords:
-space: release
+space: archive
 sidebar: lb2_sidebar
 permalink: /display/release/Extended+downtime+for+Fisheye
 summary:

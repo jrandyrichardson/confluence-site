@@ -3,7 +3,7 @@ title:  Terracotta 3.7
 lang: en
 layout: page
 keywords:
-space: release
+space: archive
 sidebar: lb2_sidebar
 permalink: /display/release/Terracotta+3.7.html
 summary:

@@ -3,7 +3,7 @@ title:  BigMemory Max 4.0.0 Release Notes
 lang: en
 layout: page
 keywords:
-space: release
+space: archive
 sidebar: lb2_sidebar
 permalink: /display/release/BigMemory+Max+4.0.0+Release+Notes.html
 summary:

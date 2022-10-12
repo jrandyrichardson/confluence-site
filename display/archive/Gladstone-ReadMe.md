@@ -3,7 +3,7 @@ title:  Gladstone ReadMe
 lang: en
 layout: page
 keywords:
-space: release
+space: archive
 sidebar: lb2_sidebar
 permalink: /display/release/Gladstone+ReadMe
 summary:

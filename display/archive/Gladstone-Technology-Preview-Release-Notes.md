@@ -3,7 +3,7 @@ title:  Gladstone Technology Preview Release Notes
 lang: en
 layout: page
 keywords:
-space: release
+space: archive
 sidebar: lb2_sidebar
 permalink: /display/release/Gladstone+Technology+Preview+Release+Notes
 summary:

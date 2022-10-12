@@ -3,7 +3,7 @@ title:  Terracotta DB 10.2 Release Notes
 lang: en
 layout: page
 keywords:
-space: release
+space: archive
 sidebar: lb2_sidebar
 permalink: /display/release/Terracotta+DB+10.2+Release+Notes.html
 summary:

@@ -3,7 +3,7 @@ title:  Release Notes Terracotta 3.3.0 Ehcache 2.2.0
 lang: en
 layout: page
 keywords:
-space: release
+space: archive
 sidebar: lb2_sidebar
 permalink: /display/release/Release+Notes+Terracotta+3.3.0+Ehcache+2.2.0.html
 summary:

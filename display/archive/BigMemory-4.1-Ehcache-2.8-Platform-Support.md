@@ -3,7 +3,7 @@ title:  BigMemory 4.1, Ehcache 2.8 Platform Support
 lang: en
 layout: page
 keywords:
-space: release
+space: archive
 sidebar: lb2_sidebar
 permalink: /display/release/BigMemory+4.1%2C+Ehcache+2.8+Platform+Support.html
 summary:

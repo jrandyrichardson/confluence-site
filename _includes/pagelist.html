@@ -1,0 +1,22 @@
+{% comment %}
+Generate a list of pages (links)
+for either a space or tag
+{% endcomment %}
+<div class="space">
+    {%- if include.space %}
+        <h2>{{include.space | capitalize }}</h2>
+        {%- assign pages = site.pages | where: "space", include.space  -%}
+    {%- endif -%}
+
+    {%- if include.tag %}
+        <h2>{{include.tag | capitalize }}</h2>
+        {%- assign pages = site.pages | where: "tags", include.tag -%}
+    {%- endif -%}
+
+    {%- for my_page in pages  -%}
+        {%- if my_page.title -%}
+            <a class="page-link" href="{{ my_page.url | relative_url | remove : '.html' }}">{{ my_page.title | escape }}</a>
+        {%- endif -%}
+    {%- endfor -%}
+
+</div>

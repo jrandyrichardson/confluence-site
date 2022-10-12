@@ -3,7 +3,7 @@ title:  What's new in Quartz 2.0
 lang: en
 layout: page
 keywords:
-space: release
+space: archive
 sidebar: lb2_sidebar
 permalink: /display/release/What%27s+new+in+Quartz+2.0.html
 summary:

@@ -3,7 +3,7 @@ title:  Quartz 1.8.x to Quartz 2.0 Migration Guide
 lang: en
 layout: page
 keywords:
-space: release
+space: current
 sidebar: lb2_sidebar
 permalink: /display/release/migration+guide
 summary:

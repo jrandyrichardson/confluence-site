@@ -3,7 +3,7 @@ title:  BigMemory Go 4.0.0
 lang: en
 layout: page
 keywords:
-space: release
+space: archive
 sidebar: lb2_sidebar
 permalink: /display/release/BigMemory+Go+4.0.0.html
 summary:
