@@ -3,7 +3,7 @@ title:  BigMemory Max 4.4 Release Notes and Notifications
 lang: en
 layout: page
 keywords:
-space: release
+space: current
 sidebar: lb2_sidebar
 permalink: /display/release/BigMemory+Max+4.4.html
 summary:
