@@ -3,7 +3,7 @@ title:  Terracotta 10.x and BigMemory 4.x Platform Support
 lang: en
 layout: page
 keywords:
-space: release
+space: current
 sidebar: lb2_sidebar
 permalink: /display/release/Terracotta+10.x+and+BigMemory+4.x+Platform+Support.html
 summary:
