@@ -3,7 +3,7 @@ title:  "BigMemory Release and Platform Compatibility Information"
 lang: en
 layout: page
 keywords:
-space: current
+space: archive
 sidebar: lb2_sidebar
 permalink: /display/release/BigMemory+Release+and+Platform+Compatibility+Information
 summary:
