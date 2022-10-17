@@ -3,7 +3,7 @@ title:  Technical FAQ
 lang: en
 layout: page
 keywords:
-space: current
+space: archive
 sidebar: lb2_sidebar
 permalink: /display/release/Technical+FAQ
 summary:
