@@ -1,7 +1,7 @@
 ---
 layout: pagelist
 showspace: current
-title: Terracotta Wiki Main
+title: Terracotta Documentation
 listtitle: All Pages
 ---
 
@@ -50,4 +50,6 @@ Both sub-systems are backed by the distributed Terracotta Server, which provides
 <br>
 
 ## Archived Documents
+<hr>
 * [Archive](archive)
+
