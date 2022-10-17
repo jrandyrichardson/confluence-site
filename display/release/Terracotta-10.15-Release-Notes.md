@@ -39,6 +39,7 @@ Fixes are cumulative from version to version.
 
 The Terracotta 10.15 release builds upon the enterprise readiness features and analytical capabilities of past releases, by improving operational usability and performance. Some of the notable features of Terracotta 10.15 include:
 
+*  Support for Java 11
 *  Support for RedHat EL9 (server)
 *  Support for Windows Server 2022
 *  Dataset import-export functionality  
