@@ -3,7 +3,7 @@ title:  Terracotta Server Open Source
 lang: en
 layout: page
 keywords:
-space: current
+space: archive
 sidebar: lb2_sidebar
 permalink: /display/release/Terracotta+Server+Open+Source
 summary:
