@@ -28,9 +28,7 @@ BigMemory Max 4.4.0 (October 2022) is the latest release. It includes Ehcache 2.
 
 Fixes are cumulative from version to version.
 
-<br>
-
-> **Deprecation Notice:**  As previously announced in October 2021, the BigMemory WAN Replication module and Web Sessions products have been deprecated and are no longer distributed or updated as part of BigMemory products.*
+> **Deprecation Notice:**  As previously announced in October 2021, the BigMemory WAN Replication module and Web Sessions products have been deprecated and are no longer distributed or updated as part of BigMemory products.
 
 <br>
 
