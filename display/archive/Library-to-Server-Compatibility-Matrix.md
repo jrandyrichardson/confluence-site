@@ -3,7 +3,7 @@ title:  Library to Server Compatibility Matrix
 lang: en
 layout: page
 keywords:
-space: current
+space: archive
 sidebar: lb2_sidebar
 permalink: /display/release/Library+to+Server+Compatibility+Matrix
 summary:
