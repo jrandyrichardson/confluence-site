@@ -18,12 +18,12 @@ Both sub-systems are backed by the distributed Terracotta Server, which provides
 ------------------
 
 ## BigMemory Max 4.4.x
-> + [BigMemory Max 4.4.x Release Notes](https://confluence.terracotta.org/display/release/BigMemory+Max+4.4)
-> + [Terracotta 10.x and BigMemory Max 4.x Platform Support](https://confluence.terracotta.org/display/release/Terracotta+10.x+and+BigMemory+4.x+Platform+Support)
++ [BigMemory Max 4.4.x Release Notes](https://confluence.terracotta.org/display/release/BigMemory+Max+4.4)
++ [Terracotta 10.x and BigMemory Max 4.x Platform Support](https://confluence.terracotta.org/display/release/Terracotta+10.x+and+BigMemory+4.x+Platform+Support)
 
 ## Terracotta 10.15.x
-> + [Terracotta 10.15 Release Notes](https://confluence.terracotta.org/display/release/Terracotta+10.15+Release+Notes)
-> + [Terracotta 10.x and BigMemory Max 4.x Platform Support](https://confluence.terracotta.org/display/release/Terracotta+10.x+and+BigMemory+4.x+Platform+Support)
++ [Terracotta 10.15 Release Notes](https://confluence.terracotta.org/display/release/Terracotta+10.15+Release+Notes)
++ [Terracotta 10.x and BigMemory Max 4.x Platform Support](https://confluence.terracotta.org/display/release/Terracotta+10.x+and+BigMemory+4.x+Platform+Support)
 
 <br>
 
