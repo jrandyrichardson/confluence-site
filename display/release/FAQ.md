@@ -1,5 +1,5 @@
 ---
-title:  FAQ: Terracotta General
+title:  FAQ Terracotta General
 lang: en
 layout: page
 keywords:
