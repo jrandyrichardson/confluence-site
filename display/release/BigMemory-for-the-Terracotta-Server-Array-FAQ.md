@@ -1,5 +1,5 @@
 ---
-title:  FAQ: BigMemory for the Terracotta Server Array
+title:  FAQ BigMemory for the Terracotta Server Array
 lang: en
 layout: page
 keywords:
