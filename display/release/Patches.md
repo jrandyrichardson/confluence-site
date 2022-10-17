@@ -1,5 +1,5 @@
 ---
-title:  Patches  
+title:  FAQ: Terracotta Patch Process
 lang: en
 layout: page
 keywords:
