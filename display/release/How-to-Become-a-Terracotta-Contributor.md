@@ -1,5 +1,5 @@
 ---
-title:  FAQ: How to Become a Terracotta Contributor  
+title:  FAQ How to Become a Terracotta Contributor  
 lang: en
 layout: page
 keywords:
