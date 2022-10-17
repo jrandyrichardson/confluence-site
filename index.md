@@ -14,27 +14,27 @@ Both sub-systems are backed by the distributed Terracotta Server, which provides
 
 <br>
 
-## Current Release:
-<hr>
+# Current Release
+------------------
 
-### BigMemory Max 4.4.x
+## BigMemory Max 4.4.x
 + [BigMemory Max 4.4.x Release Notes](https://confluence.terracotta.org/display/release/BigMemory+Max+4.4)
 + [Terracotta 10.x and BigMemory Max 4.x Platform Support](https://confluence.terracotta.org/display/release/Terracotta+10.x+and+BigMemory+4.x+Platform+Support)
 
-### Terracotta 10.15.x
+## Terracotta 10.15.x
 + [Terracotta 10.15 Release Notes](https://confluence.terracotta.org/display/release/Terracotta+10.15+Release+Notes)
 + [Terracotta 10.x and BigMemory Max 4.x Platform Support](https://confluence.terracotta.org/display/release/Terracotta+10.x+and+BigMemory+4.x+Platform+Support)
 
 <br>
 
-## Previous Release:
-<hr>
+# Previous Release
+------------------
 
-### BigMemory Max 4.3.x
+## BigMemory Max 4.3.x
 + [BigMemory Max 4.3.x Release Notes](https://confluence.terracotta.org/display/release/BigMemory+Max+4.3)
 + [BigMemory Max 4.3.x Platform Support](https://confluence.terracotta.org/display/release/BigMemory+4.3,+Ehcache+2.10+Platform+Support)
 
-### Terracotta 10.x
+## Terracotta 10.x
 + [Terracotta 10.11 Release Notes](https://confluence.terracotta.org/display/release/Terracotta+10.11+Release+Notes)
 + [Terracotta 10.11 Supported Platforms](https://confluence.terracotta.org/display/release/Terracotta+10.11+Supported+Platforms)
 <br>
@@ -47,9 +47,10 @@ Both sub-systems are backed by the distributed Terracotta Server, which provides
 + [Terracotta 10.5 Supported Platforms](https://confluence.terracotta.org/display/release/Terracotta+10.5+Supported+Platforms)
 
 <br>
-<br>
 
-## Archived Documents
-<hr>
+# Archived Documents
+------------------
 * [Archive](archive)
 
+<br>
+<br>
