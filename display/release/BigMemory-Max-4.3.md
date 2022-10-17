@@ -9,7 +9,7 @@ permalink: /display/release/BigMemory+Max+4.3.html
 summary:
 ---
 
-BigMemory Max 4.3.10 (October 2021) is the latest release. It includes Ehcache 2.10.10.
+BigMemory Max 4.3.10 (October 2021). It includes Ehcache 2.10.10.
 
 Fixes are cumulative from version to version.
 
