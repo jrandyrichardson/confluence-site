@@ -2,5 +2,5 @@
 layout: pagelist
 
 showspace: archive
-title: Archive
+title: Archived Documents
 ---
