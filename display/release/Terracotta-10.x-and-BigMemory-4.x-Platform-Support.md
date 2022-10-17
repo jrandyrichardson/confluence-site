@@ -18,7 +18,10 @@ Terracotta is comprised of two different components: the client that integrates 
 
 The server is a process that runs directly in a JVM.  JVM heap-space requirements vary by workload. While some small workloads can be handled in 2GB of heap, most workloads, especially with higher transaction rates, or usage of search features will require at minimum 4GB of heap space.
 
-<br>
+
+* TOC
+{:toc}
+
 
 ## Terracotta
 
