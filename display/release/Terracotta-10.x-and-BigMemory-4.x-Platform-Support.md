@@ -22,8 +22,11 @@ The server is a process that runs directly in a JVM.  JVM heap-space requirement
 * TOC
 {:toc}
 
+<br>
+<br>
 
 ## Terracotta
+----------------------
 
 | **PRODUCT**                                           | 2017 | 2018 | 2019 | 2020 | 2021 | 2022 |
 |:------------------------------------------------------|-----:|-----:|---:|---:|---:|---:|
@@ -59,8 +62,8 @@ The server is a process that runs directly in a JVM.  JVM heap-space requirement
 
 <br>
 
-
 ## BigMemory Max
+----------------------
 
 | **PRODUCT**                                           | 2017 | 2018 | 2019 | 2020 | 2021 | 2022 |
 |:------------------------------------------------------|-----:|-----:|---:|---:|---:|---:|
@@ -98,10 +101,6 @@ The server is a process that runs directly in a JVM.  JVM heap-space requirement
 | Zulu 8.40 (1.8.0_222)                                 |       |       | X |  |  |  |
 | Zulu 8.31 (1.8.0_181)                                 |       |   X   |  |  |  |  |
 | IBM Java 1.8.0 SR6 FP11                               |       |       | X | X | X |  |
-
-<br>
-<br>
-
 
 <br>
 <br>
