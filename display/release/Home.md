@@ -32,7 +32,7 @@ This product suite includes BigMemory Max, BigMemory Go, and Web Sessions
 
 | Release | Date | Release Notes | Platform Support | Notes |
 |---------|------|---------------|------------------|-------|
-| BigMemory 4.4.0 <br/>Ehcache 2.11 | Oct 18, 2022 | [BigMemory Max 4.4](BigMemory+Max+4.4) | [Platform Support](Terracotta+10.11+and+BigMemory+Max+4.x+Platform+Support) | Bug Fix Release |
+| BigMemory 4.4.0 <br/>Ehcache 2.11 | Oct 18, 2022 | [BigMemory Max 4.4](BigMemory+Max+4.4) | [Platform Support](Terracotta+10.x+and+BigMemory+Max+4.x+Platform+Support) | Bug Fix Release |
 | BigMemory 4.3.10 <br/>Ehcache 2.10.10 | Oct 15, 2021 | [BigMemory Max 4.3](BigMemory+Max+4.3) | [Platform Support](BigMemory+4.3%2C+Ehcache+2.10+Platform+Support) | Bug Fix Release |
 | BigMemory 4.3.9 <br/>Ehcache 2.10.9 | Apr 16, 2021 | [BigMemory Max 4.3.9 Release Notes](BigMemory+Max+4.3) | [Platform Support](BigMemory+4.3%2C+Ehcache+2.10+Platform+Support) | Bug Fix Release |
 | BigMemory 4.3.8 <br/>Ehcache 2.10.8 | Oct, 2019 | [BigMemory Max 4.3.8 Release Notes](BigMemory+Max+4.3), <br/>[BigMemory Go 4.3.8 Release Notes](BigMemory+Go+4.3), <br/>[Ehcache 2.10.8 Release Notes](https://jira.terracotta.org/jira/browse/EHC/?selectedTab=com.atlassian.jira.jira-projects-plugin:changelog-panel) | [Platform Support](BigMemory+4.3%2C+Ehcache+2.10+Platform+Support) | Bug Fix and Feature Release |
@@ -88,7 +88,7 @@ This product suite includes BigMemory Max, BigMemory Go, and Web Sessions
 
 | Release | Date | Release Notes | Platform Support | Notes |
 |---------|------|---------------|------------------|-------|
-| Terracotta 10.15.0 | Oct 18, 2022 | [Release Notes](Terracotta+10.15+Release+Notes) | [Platform Support](Terracotta+10.11+and+BigMemory+Max+4.x+Platform+Support) | Feature Release and Bug Fix |
+| Terracotta 10.15.0 | Oct 18, 2022 | [Release Notes](Terracotta+10.15+Release+Notes) | [Platform Support](Terracotta+10.x+and+BigMemory+Max+4.x+Platform+Support) | Feature Release and Bug Fix |
 | Terracotta 10.11.0 | Oct 15, 2021 | [Release Notes](Terracotta+10.11+Release+Notes) | [Platform Support](Terracotta+10.11+Supported+Platforms) | Feature Release and Bug Fix |
 | Terracotta 10.7.0 | Apr 16, 2021 | [Release Notes](Terracotta+10.7+Release+Notes) | [Platform Support](Terracotta+10.7+Supported+Platforms) | Feature Release and Bug Fix |
 | Terracotta 10.3.1 | Apr 16, 2019 | [Release Notes](Terracotta+10.3+Release+Notes) | [Platform Support](Terracotta+10.3+Supported+Platforms) | Feature Release and Bug Fix|
