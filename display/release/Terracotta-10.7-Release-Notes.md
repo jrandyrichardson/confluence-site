@@ -46,52 +46,47 @@ The Terracotta 10.7 release builds upon the enterprise readiness features and an
 # Summary of Changes 10.7.0
 -----------------------
 
-## 10.7.0.1
-- ### Release Date: 2021/04
-- ### Resolved
+### 10.7.0.1
+#### Release Date: 2021/04
+#### Resolved
   *   [TDB-4674] - close() is blocked when servers are gone if entity.close() is called.
   *   [TDB-4767] - Performance overhead when adding new cell definition in each record of a Dataset.
   *   [TDB-4720] - Cell data omitted when too many CellDefinitions used in Dataset.
   *   [TDB-4783] - Three node stripe data loss scenario possible during passive connection.
-<br><br>
-- ### Security Updates to Third Party Libraries
+#### Security Updates to Third Party Libraries
   *   [TDB-5317] - jackson-databind updated to 2.10.5.1 (CVE-2020-25649)
   *   [TDB-5234] - snakeyaml updated to 1.26 (CVE-2003-1564)
   *   Various other 3rd party library updates
   
-## 10.7.0.2
-- ### Release Date: 2021/04/23
-- ### Resolved
+### 10.7.0.2
+#### Release Date: 2021/04/23
+#### Resolved
   *   [TDB-5253] - Update TMS/TMC to support dynamic scale
   *   [TDB-5320] - Introduce validation constraints on names
   *   [TDB-5284] - Dynamic Scaling: Multistripe Scaling transaction persistence and recovery
   *   [TDB-5229] - Using the TMC to detach the passive node from a 2-node stripe does not remove the entry from the display
   *   [TDB-5304] - Indexes being dropped upon scaling
-<br><br>
-- ### Security Updates to Third Party Libraries
+#### Security Updates to Third Party Libraries
   *   None
 
-## 10.7.0.3
-- ### Release Date: 2021/05/21
-- ### Resolved
+### 10.7.0.3
+- #### Release Date: 2021/05/21
+- #### Resolved
   *   [TDB-5253] - Update TMS/TMC to support addition of stripes
   *   [TDB-5320] - Introduce validation constraints on stripe and node names
   *   [TDB-5284] - Dynamic Scaling: live addition/removal of stripes after activation of cluster
   *   [TDB-5229] - Using the TMC to detach the passive node from a 2-node stripe does not remove the entry from the display
   *   [TDB-5304] - Indexes being dropped upon scaling
   *   Fix health check config, Fix retirement off by one bug that can lead to a memory leak
-<br><br>
-- ### Security Updates to Third Party Libraries
+- #### Security Updates to Third Party Libraries
   *   None
 
-## 10.7.0.4
-
-- ### Release Date: 2021/08/13
-- ### Resolved
+### 10.7.0.4
+- #### Release Date: 2021/08/13
+- #### Resolved
   *   [TDB-5416] – Avoid crash on security audit log roll-over
   *   PR74 – Parsing error on cache operation timeout settings
-<br><br>
-- ### Security Updates to Third Party Libraries
+- #### Security Updates to Third Party Libraries
 *   None
 
 ## 10.7.0.5
