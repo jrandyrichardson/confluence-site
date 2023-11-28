@@ -16,7 +16,11 @@ Terracotta is a distributed in-memory data management solution for both operatio
     
 Both sub-systems are backed by the distributed Terracotta Server, which provides a common platform for distributed in-memory data storage with scale-out, scale-up and high availability features.
 
+
+* TOC
 {:toc}
+
+<br>
 
 
 # Feature Highlights
