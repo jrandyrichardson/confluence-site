@@ -49,7 +49,7 @@ The Terracotta 10.7 release builds upon the enterprise readiness features and an
 
 <br>
 
-### **10.7.0.1**
+### 10.7.0.1
 - #### Release Date: 2021/04
 - #### Resolved
   *   [TDB-4674] - close() is blocked when servers are gone if entity.close() is called.
@@ -62,7 +62,7 @@ The Terracotta 10.7 release builds upon the enterprise readiness features and an
   *   [TDB-5234] - snakeyaml updated to 1.26 (CVE-2003-1564)
   *   Various other 3rd party library updates
 
-### **10.7.0.2**
+### 10.7.0.2
 - #### Release Date: 2021/04/23
 - #### Resolved
   *   [TDB-5253] - Update TMS/TMC to support dynamic scale
@@ -74,7 +74,7 @@ The Terracotta 10.7 release builds upon the enterprise readiness features and an
 - #### Security Updates to Third Party Libraries
   *   none
 
-### **10.7.0.3**
+### 10.7.0.3
 - #### Release Date: 2021/05/21
 - #### Resolved
   *   [TDB-5253] - Update TMS/TMC to support addition of stripes
@@ -87,7 +87,7 @@ The Terracotta 10.7 release builds upon the enterprise readiness features and an
 - #### Security Updates to Third Party Libraries
   *   none
 
-### **10.7.0.4**
+### 10.7.0.4
 - #### Release Date: 2021/08/13
 - #### Resolved
   * [TDB-5416] – Avoid crash on security audit log roll-over
@@ -96,7 +96,7 @@ The Terracotta 10.7 release builds upon the enterprise readiness features and an
 - #### Security Updates to Third Party Libraries
   * none
   
-### **10.7.0.5**
+### 10.7.0.5
 - #### Release Date: 2022/01/05
 - #### Resolved
   * [TDB-5470] - TMC resource usage bugs
@@ -106,7 +106,7 @@ The Terracotta 10.7 release builds upon the enterprise readiness features and an
 - #### Security Updates to Third Party Libraries
   * none
 
-### **10.7.0.7**
+### 10.7.0.7
 - #### Release Date: 2022/04/01
 - #### Resolved
   * [TDB-5214] - Setting public hostname/port via config-tool is not displayed in TMC until restart
@@ -116,7 +116,7 @@ The Terracotta 10.7 release builds upon the enterprise readiness features and an
 - #### Security Updates to Third Party Libraries
   * [TDB-5594] - Vulnerable 3rd Party Component spring used
 
-### **10.7.0.8**
+### 10.7.0.8
 - #### Release Date: 2022/10/14
 - #### Resolved
   * none
@@ -124,7 +124,7 @@ The Terracotta 10.7 release builds upon the enterprise readiness features and an
   * [TDB-5666] - CVE-2022-2053 - Vulnerable 3rd Party Component Undertow used
   * Update spring.boot, jackson, snakeyaml
 
-### **10.7.0.9**
+### 10.7.0.9
 - #### Release Date: 2022/11/04
 - #### Resolved
   * none
@@ -132,7 +132,7 @@ The Terracotta 10.7 release builds upon the enterprise readiness features and an
   * Upgrade: spring-boot:2.7.5, spring-security:5.7.5
   * Ensure servers reach stable states before restart/termination
 
-### **10.7.0.10**
+### 10.7.0.10
 - #### Release Date: 2022/12/30
 - #### Resolved
   * Fix MultiDiagnosticServiceProvider which was incorrectly throwing exception and implementing the needed APIs
@@ -157,7 +157,7 @@ The Terracotta 10.7 release builds upon the enterprise readiness features and an
   * Upgrade to Jackson Databind 2.13.4.2
   * Update to new Spring static web-resources location
 
-### **10.7.0.11**
+### 10.7.0.11
 - #### Release Date: 2023/02/16
 - #### Resolved
   * none
@@ -165,7 +165,7 @@ The Terracotta 10.7 release builds upon the enterprise readiness features and an
 - #### Security Updates to Third Party Libraries
   * [TDB-5724] Vulnerable 3rd party component Jackson-databind updated
 
-### **10.7.0.12**
+### 10.7.0.12
 - #### Release Date: 2023/05/02
 - #### Resolved
   * [TDB-5529]  Gracefully return on thread interruption (like on a TimeoutException)
@@ -207,7 +207,7 @@ The Terracotta 10.7 release builds upon the enterprise readiness features and an
     * spring-webmvc 5.3.27
     * spring-websocket 5.3.27
 
-### **10.7.0.13**
+### 10.7.0.13
 - #### Release Date: 2023/06/15
 - #### Resolved
   *  none
@@ -215,7 +215,7 @@ The Terracotta 10.7 release builds upon the enterprise readiness features and an
 - #### Security Updates to Third Party Libraries
   * [TDB-5824] Update vulnerable 3rd party component Spring-boot to 2.7.12
 
-### **10.7.0.14**
+### 10.7.0.14
 - #### Release Date: 2023/06/28
 - #### Resolved
   * Improve DefinitionInterner Cleaner GC Behavior
@@ -225,7 +225,7 @@ The Terracotta 10.7 release builds upon the enterprise readiness features and an
 - #### Security Updates to Third Party Libraries
   * none
 
-### **10.7.0.15**
+### 10.7.0.15
 - #### Release Date: 2023/07/28
 - #### Resolved
   * none
@@ -233,7 +233,7 @@ The Terracotta 10.7 release builds upon the enterprise readiness features and an
 - #### Security Updates to Third Party Libraries
   * [TDB-5877] Vulnerable 3rd party components spring-web update
 
-### **10.7.0.16**
+### 10.7.0.16
 - #### Release Date: 2023/09/07
 - #### Resolved
   * Add capability for importing and exporting of datasets 
@@ -242,7 +242,7 @@ The Terracotta 10.7 release builds upon the enterprise readiness features and an
 - #### Security Updates to Third Party Libraries
   * none
 
-### **10.7.0.17**
+### 10.7.0.17
 - #### Release Date: 2023/09/21
 - #### Resolved
   * none
@@ -250,7 +250,7 @@ The Terracotta 10.7 release builds upon the enterprise readiness features and an
 - #### Security Updates to Third Party Libraries
   * [TDB-5946],[TDB-5947] Update spring to 5.3.30, spring-boot to 2.7.16
 
-### **10.7.0.18**
+### 10.7.0.18
 - #### Release Date: 2023/10/20
 - #### Resolved
   * none
@@ -258,7 +258,7 @@ The Terracotta 10.7 release builds upon the enterprise readiness features and an
 - #### Security Updates to Third Party Libraries
   * Spring upgrade, spring boot upgrade, undertow upgrade
 
-### **10.7.0.19**
+### 10.7.0.19
 - #### Release Date: 2023/11/16
 - #### Resolved
   * [TDB-5905] Close terminated pipeline completion/closure fault window
