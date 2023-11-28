@@ -9,21 +9,16 @@ permalink: /display/release/Terracotta+10.7+Release+Notes.html
 summary:
 ---
 
-
-
-
 Terracotta is a distributed in-memory data management solution for both operational storage and analytical processing.  Terracotta has powerful query and computation capabilities, leveraging native JDK features such as Java Streams, collections, and functions. It supports the following sub-systems:
 
 *   A storage sub-system fronted by TCStore API
     
 *   A caching sub-system fronted by the next generation Ehcache API which includes and extends JSR 107
     
-
 Both sub-systems are backed by the distributed Terracotta Server, which provides a common platform for distributed in-memory data storage with scale-out, scale-up and high availability features.
 
-
-
 [TOC]
+{:toc}
 
 
 # Feature Highlights
