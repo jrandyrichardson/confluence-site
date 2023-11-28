@@ -51,7 +51,7 @@ The Terracotta 10.11 release builds upon the enterprise readiness features and a
 
 <br>
 
-### **10.11.0.1**
+### 10.11.0.1
 - #### Release Date: 2021/10/22
 - #### Resolved
   *   5390 - Implement Rsource Monitoring for Embedded Datasets.
@@ -60,7 +60,7 @@ The Terracotta 10.11 release builds upon the enterprise readiness features and a
 - ### Security Updates to Third Party Libraries
   * none
 
-### **10.11.0.2**
+### 10.11.0.2
 - #### Release Date: 2021/12/08
 - #### Resolved
   *   [TDB-5469] - Support for periodic logging about server resources(offheap, disk etc.) usage 
@@ -68,7 +68,7 @@ The Terracotta 10.11 release builds upon the enterprise readiness features and a
 - ### Security Updates to Third Party Libraries
   * none
   
-### **10.11.0.7**
+### 10.11.0.7
 
 - #### Release Date: 2022/04/06
 - #### Resolved
@@ -80,7 +80,7 @@ The Terracotta 10.11 release builds upon the enterprise readiness features and a
   *    [TDB-5590] - CVE-2022-22965 - upgrade spring beans to 5.3.18
   *    [TDB-5592] - CVE-2022-22965  - upgrade spring-core used to 5.3.18
 
-### **10.11.0.8**
+### 10.11.0.8
 - #### Release Date: 2022/10/14
 - #### Resolved
   * none
@@ -89,7 +89,7 @@ The Terracotta 10.11 release builds upon the enterprise readiness features and a
   *   [TDB-5666] - CVE-2022-2053 - Vulnerable 3rd Party Component Undertow used
   *   Update spring.boot, jackson, snakeyaml
 
-### **10.11.0.9**
+### 10.11.0.9
 - #### Release Date: 2022/11/10
 - #### Resolved
   * Ensure servers reach stable states before restart/termination
@@ -98,7 +98,7 @@ The Terracotta 10.11 release builds upon the enterprise readiness features and a
 - #### Security Updates to Third Party Libraries
   *   Upgrade: spring-boot:2.7.5, spring-security:5.7.5
 
-### **10.11.0.10**
+### 10.11.0.10
 - #### Release Date: 2023/01/06
 - #### Resolved
   * Fix MultiDiagnosticServiceProvider which was incorrectly throwing exception and implementing the needed APIs
@@ -123,7 +123,7 @@ The Terracotta 10.11 release builds upon the enterprise readiness features and a
   * Upgrade to Jackson Databind 2.13.4.2
   * Update to new Spring static web-resources location
 
-### **10.11.0.11**
+### 10.11.0.11
 - #### Release Date: 2023/02/16
 - #### Resolved
   * none
@@ -131,7 +131,7 @@ The Terracotta 10.11 release builds upon the enterprise readiness features and a
 - #### Security Updates to Third Party Libraries
   * [TDB-5724] Vulnerable 3rd party component Jackson-databind updated
 
-### **10.11.0.12**
+### 10.11.0.12
 - #### Release Date: 2023/04/26
 - #### Resolved
   * [TDB-5529]  Gracefully return on thread interruption (like on a TimeoutException)
@@ -173,7 +173,7 @@ The Terracotta 10.11 release builds upon the enterprise readiness features and a
     * spring-webmvc 5.3.27
     * spring-websocket 5.3.27
 
-### **10.11.0.13**
+### 10.11.0.13
 - #### Release Date: 2023/06/09
 - #### Resolved
   * none
@@ -181,7 +181,7 @@ The Terracotta 10.11 release builds upon the enterprise readiness features and a
 - #### Security Updates to Third Party Libraries
   * [TDB-5824] Update vulnerable 3rd party component Spring-boot to 2.7.12
 
-### **10.11.0.14**
+### 10.11.0.14
 - #### Release Date: 2023/07/04
 - #### Resolved
   * Improve DefinitionInterner Cleaner GC Behavior
@@ -191,7 +191,7 @@ The Terracotta 10.11 release builds upon the enterprise readiness features and a
 - #### Security Updates to Third Party Libraries
   * none
 
-### **10.11.0.15**
+### 10.11.0.15
 - #### Release Date: 2023/07/29
 - #### Resolved
   * none
@@ -199,7 +199,7 @@ The Terracotta 10.11 release builds upon the enterprise readiness features and a
 - #### Security Updates to Third Party Libraries
   * [TDB-5877] Vulnerable 3rd party components spring-web update
 
-### **10.11.0.16**
+### 10.11.0.16
 - #### Release Date: 2023/09/11
 - #### Resolved
   * [TDB-5862],[TDB-5863] Fix order of fetching and storing user profile in session storage
@@ -209,7 +209,7 @@ The Terracotta 10.11 release builds upon the enterprise readiness features and a
 - #### Security Updates to Third Party Libraries
   * none
 
-### **10.11.0.17**
+### 10.11.0.17
 - #### Release Date: 2023/09/13
 - #### Resolved
   * Add capability for importing and exporting of datasets 
@@ -218,7 +218,7 @@ The Terracotta 10.11 release builds upon the enterprise readiness features and a
 - #### Security Updates to Third Party Libraries
   * none
 
-### **10.11.0.18**
+### 10.11.0.18
 - #### Release Date: 2023/11/06
 - #### Resolved
   * none
@@ -226,7 +226,7 @@ The Terracotta 10.11 release builds upon the enterprise readiness features and a
 - #### Security Updates to Third Party Libraries
   * Spring upgrade, spring boot upgrade, undertow upgrade
 
-### **10.11.0.19**
+### 10.11.0.19
 - #### Release Date: 2023/11/20
 - #### Resolved
   * [TDB-59051] Close terminated pipeline completion/closure fault window
