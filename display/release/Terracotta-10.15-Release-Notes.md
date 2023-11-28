@@ -63,8 +63,8 @@ The Terracotta 10.15 release builds upon the enterprise readiness features and a
 - #### Release Date: 2022/11/04
 - #### Resolved
   * [TDB-5688] TMC Versions feature not functioning correctly
-  * Ensure servers reach stable states before restart/termination  
-  <br><br>
+  * Ensure servers reach stable states before restart/termination
+<br><br>
 - #### Security Updates to Third Party Libraries
   * [TDB-5666] - CVE-2022-2053 - Vulnerable 3rd Party Component Undertow used
   * Upgrade: spring-boot:2.7.5, spring-security:5.7.5, jackson-databind 2.13.4.2
@@ -90,7 +90,7 @@ The Terracotta 10.15 release builds upon the enterprise readiness features and a
   * Add support for new summary statistics constructors (https://bugs.openjdk.org/browse/JDK-8178117)
   * Update to Java 17 compatible version of Mockito
   * Update to Java 17 compatible version of Terracotta Platform
-  <br><br>
+<br><br>
 - #### Security Updates to Third Party Libraries
   * none
 
@@ -98,7 +98,7 @@ The Terracotta 10.15 release builds upon the enterprise readiness features and a
 - #### Release Date: 2023/03/10
 - #### Resolved
   * Support for asynchronous operations
-  <br><br>
+<br><br>
 - #### Security Updates to Third Party Libraries
   * [TDB-5724] Vulnerable 3rd party component Jackson-databind upgraded
   
@@ -153,7 +153,7 @@ The Terracotta 10.15 release builds upon the enterprise readiness features and a
   * TMS Json refactorings
   * Wire shutdown of stores to removal of the associated shutdown handler
   * SAG Docker Documentation updates
-  <br><br>
+<br><br>
 - #### Security Updates to Third Party Libraries
   * [TDB-5823] Update vulnerable 3rd party component Spring-boot 
   
@@ -182,7 +182,7 @@ The Terracotta 10.15 release builds upon the enterprise readiness features and a
 - #### Resolved
   * [TDB-5862] [TMC] Admin User Unable to View 'Create New Connection' Link Upon Initial Logon
   * [TDB-5863] [TMC] Create New Connection Link is visible for non-admin user after admin user logs out
-  <br><br>
+<br><br>
 - #### Security Updates to Third Party Libraries
   * [TDB-5872] Vulnerable 3rd party components spring-web and snappy-java
   * [TDB-5856] Vulnerable 3rd party component Snappy-java updated
@@ -193,7 +193,8 @@ The Terracotta 10.15 release builds upon the enterprise readiness features and a
   * [TDB-5854] Remove the 'Create New Connection' link from the header menu
   * Handle addition/removal of connection link properly in header menu
   * Support for security in dynamic scale
-  * Removal of .netrc  <br><br>
+  * Removal of .netrc
+<br><br>
 - #### Security Updates to Third Party Libraries
   * none
   
@@ -201,7 +202,7 @@ The Terracotta 10.15 release builds upon the enterprise readiness features and a
 - #### Release Date: 2023/09/22
 - #### Resolved
   * none
-  <br><br>
+<br><br>
 - #### Security Updates to Third Party Libraries
   * [TDB-5946],[TDB-5947] Update spring to 5.3.30, spring-boot to 2.7.16
 
