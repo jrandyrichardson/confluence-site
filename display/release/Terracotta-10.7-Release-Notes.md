@@ -42,7 +42,7 @@ The Terracotta 10.7 release builds upon the enterprise readiness features and an
 * Azul Java 11 Support
 * DSL support for constant functional expressions in TCStore
   
-
+<br>
 
 # Summary of Changes 10.7.0
 -----------------------
@@ -178,34 +178,34 @@ The Terracotta 10.7 release builds upon the enterprise readiness features and an
   * [TDB-5767] Vulnerable 3rd party component Spring-webmvc updated to 5.3.27
   * [TDB-5762] Vulnerable 3rd party component Snakeyaml updated to 2.0
   * Other library updates:
-    logback-classic 1.2.12
-    logback-core 1.2.12
-    jackson-module-parameter-names 2.13.5
-    undertow-core 2.2.24.Final
-    undertow-servlet 2.2.24.Final
-    undertow-websockets-jsr 2.2.24.Final
-    snakeyaml 2.0
-    Spring Boot Actuator AutoConfigure 2.7.11
-    Spring Boot Configuration Annotation Processor 2.7.11
-    Spring Boot Layers Tools 2.7.11
-    Spring Boot Actuator 2.7.11
-    Spring Boot AutoConfigure 2.7.11
-    spring-context-support 5.3.27
-    spring-security-config 5.7.8
-    spring-security-core 5.7.8
-    spring-security-crypto 5.7.8
-    spring-security-web 5.7.8
-    Spring Boot 2.7.11
-    spring-aop 5.3.27
-    spring-beans 5.3.27
-    spring-context 5.3.27
-    spring-core 5.3.27
-    spring-expression 5.3.27
-    spring-jcl 5.3.27
-    spring-messaging 5.3.27
-    spring-web 5.3.27
-    spring-webmvc 5.3.27
-    spring-websocket 5.3.27
+    * logback-classic 1.2.12
+    * logback-core 1.2.12
+    * jackson-module-parameter-names 2.13.5
+    * undertow-core 2.2.24.Final
+    * undertow-servlet 2.2.24.Final
+    * undertow-websockets-jsr 2.2.24.Final
+    * snakeyaml 2.0
+    * Spring Boot Actuator AutoConfigure 2.7.11
+    * Spring Boot Configuration Annotation Processor 2.7.11
+    * Spring Boot Layers Tools 2.7.11
+    * Spring Boot Actuator 2.7.11
+    * Spring Boot AutoConfigure 2.7.11
+    * spring-context-support 5.3.27
+    * spring-security-config 5.7.8
+    * spring-security-core 5.7.8
+    * spring-security-crypto 5.7.8
+    * spring-security-web 5.7.8
+    * Spring Boot 2.7.11
+    * spring-aop 5.3.27
+    * spring-beans 5.3.27
+    * spring-context 5.3.27
+    * spring-core 5.3.27
+    * spring-expression 5.3.27
+    * spring-jcl 5.3.27
+    * spring-messaging 5.3.27
+    * spring-web 5.3.27
+    * spring-webmvc 5.3.27
+    * spring-websocket 5.3.27
 
 ### 10.7.0.13
 - #### Release Date: 2023/06/15
