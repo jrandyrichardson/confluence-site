@@ -9,16 +9,20 @@ permalink: /display/release/BigMemory+Max+4.4.html
 summary:
 ---
 
-* TOC
-{:toc}
-
-<br>
-
 BigMemory Max delivers ultrafast access to hundreds of terabytes of in-memory data. BigMemory snaps into enterprise applications to deliver unmatched performance at any scale.
 
 BigMemory Max supports a distributed in-memory data-storage topology, which enables the sharing of data among multiple caches and in-memory data stores in multiple JVMs. It uses a Terracotta Server Array to manage data that is shared by multiple application nodes in a cluster.
 
 The Ehcache 2.x API can be used with BigMemory Max 4.x as a general-purpose cache/in-memory data store or a second-level cache for Hibernate. You can additionally integrate it with third-party products such as ColdFusion, Google App Engine, and Spring.
+
+------
+
+<br>
+
+Document Contents
+
+* TOC
+{:toc}
 
 <br>
 
@@ -34,7 +38,6 @@ Fixes are cumulative from version to version.
 
 ## Feature Highlights
 -------------------
-
 BigMemory Max 4.4.0 introduced the following new capabilities:
 
 *  Support for Java 11
@@ -44,21 +47,184 @@ BigMemory Max 4.4.0 introduced the following new capabilities:
 *  Docker images with Logging as a service (LaaS) support
 *  Voter process now available with Docker image
 *  Various bug fixes and security fixes
+* Contains all features and functionality included in [BigMemory Max 4.3.x](https://confluence.terracotta.org/display/release/BigMemory+Max+4.3)
 
 <br>
 
-### Existing Features
+# Summary of Changes 4.4
+-----------------------
+### 4.4.0.1
+* Release Date: 2022/11/04
+* Resolved
+  * none  
+* Security Updates to Third Party Libraries
+  * [TAB-8200] Reflected Cross-Site Scripting
+  * [TAB-8202] Improper Error Handling
+  * [TAB-8203] Banner Grabbing
+  * [TAB-8204] Server-side request forgery
+  * [TAB-8241] Vulnerable 3rd Party Component Shiro used
+  * [TAB-8226] Vulnerable 3rd Party Component Jackson Databind used
 
-* Contains all features and functionality included in [BigMemory Max 4.3.x](https://confluence.terracotta.org/display/release/BigMemory+Max+4.3)
+### 4.4.0.2
+* Release Date: 2022/12/30
+* Resolved
+  * [TAB-8263]TMC shows blank page after installing Terracotta upgrade
+  * [TAB-8261] Ascending function not working in terracotta query while fetching data.  
+* Security Updates to Third Party Libraries
+  * none
+  
+### 4.4.0.3
+* Release Date: 2023/02/10
+* Resolved
+  * none  
+* Security Updates to Third Party Libraries
+  * [TAB-8280] Vulnerable 3rd Party Component shiro-core and jackson-databind updated
+  
+### 4.4.0.4
+* Release Date: 2023/07/12
+* Resolved
+  * Update file containing docker image 3rd party components
+* Security Updates to Third Party Libraries
+  * [TAB-8393] CVE updates of json-smart
+  * [TAB-8384] Vulnerable 3rd party component Guava updated
+  * [TAB-8363] Vulnerable 3rd party component Eclipse-Jetty updated
+  * Multiple 3rd party library updates
+    *   jetty 10.0.15
+    *   jackson-databind 2.15.2
+    *   jersey 2.39.1
+    *   guava 32.0.1-jre
+    *   csrfguard 4.3.0
+    *   logback 1.2.12
+    *   hamcrest 2.2
+    *   commons-io 2.13.0
+    *   jaxb-runtime 2.3.8
+  
+### 4.4.0.5
+* Release Date: 2023/08/11
+* Resolved
+  * none  
+* Security Updates to Third Party Libraries
+  * [TAB-8435][TAB-8436] Vulnerable 3rd party component Shiro updated
+  * Other 3rd party library updates
+    *   guava
+    *   commons-codec
+    *   commons-lang3
+    *   jersey
+  
+### 4.4.0.6
+* Release Date: 2023/10/04
+* Resolved
+  * [TAB-8276] Fix ConcurrentModificationException at org.terracotta.offheapstore.disk.storage.FileBackedStorageEngine.getOccupiedMemory
+* Security Updates to Third Party Libraries
+  * [TAB-8485] Vulnerable 3rd party component Eclipse Jetty updated to 10.0.16
+  
+### 4.4.0.7
+* Release Date: 2023/10/24
+* Resolved
+  * none  
+* Security Updates to Third Party Libraries
+  * Third-party library upgrades:
+    *   jetty to 10.0.17
+    *   jackson to 2.15.3
+    *   guava to 32.1.3-jre
+    *   commons-io to 2.14.0
+    *   rest-assured to 5.3.2
 
-### Security Updates
 
-* Contains all security updates included in BigMemory Max 4.3.x
+<br>
 
-### Resolved
-
-* Contains all defect solutions included in BigMemory Max 4.3.x
-
-
+# Notes
+-------
+* Terracotta BigMemory 4.x and Terracotta 10.x clients may be used simultaneously in the same application by ensuring ClassLoader isolation when initializing at least one of the clients.
+<br>
 
 
+# Important Upgrade Information
+-------
+The following information is contained in the readme.txt file included with each fix release and should be reviewed prior to applying any fix.
+<br>
+```
+8.0 Installation
+
+8.1 Shut down the server array. A safe shutdown procedure is as follows.
+
+  a. Shut down the mirror servers using the stop-tc-server script. 
+     If you are using a wrapper solution to manage the mirror servers, execute 
+     the wrapper shut down command to shut down the mirror servers instead of 
+     using the stop-tc-server script.
+
+  b. Shut down the clients. A Terracotta client will shut down when you shut 
+     down your application.
+
+  c. Shut down the active servers using the stop-tc-server script.
+     If you are using a wrapper solution to manage the servers, execute the 
+     wrapper shut down command to shut down the servers instead of using the 
+     stop-tc-server script.
+
+8.2 This fix overwrites server scripts,wrapper configuration files and default
+    tc-config.xml. If you have any custom settings defined on those files
+    (ex:MaxDirectMemorySize), then you need to restore those settings back after
+    applying the fix.
+
+8.3 Install the fix using the Software AG Update Manager.
+    For instructions, see Using the Software AG Update Manager located either in 
+    the _documentation directory or on the documentation Web site at 
+    http://documentation.softwareag.com.
+
+8.4 The upgrade of the 3rd party library Shiro may create an issue for some users 
+    that will require a manual configuration change to the "shiro.ini" found in 
+    the ".tc/mgmt" directory of the user's home folder (the user that the TMS/TMC
+    process runs as ~/.tc/mgmt/shiro.ini). Edit this file and restart the 
+    TMS/TMC.
+     
+   a. Blank browser page or a message from the browser indicating too many 
+      redirects, or similar.
+      In [urls] section of file ~/.tc/mgmt/shiro.ini, locate the line in the 
+      that reads "/login.jsp = authc". Immediately above that line add the three 
+      following lines:
+
+      /401.jsp = anon
+      /403.jsp = anon
+      /404.html = anon
+      
+      In the [main] section of file ~/.tc/mgmt/shiro.ini, add the following 
+      line:
+      
+      [main]
+      shiro.filterOncePerRequest=true
+   
+   b. URLs containing semi-colon are blocked and 400 client error is thrown. 
+      In the [main] section of file ~/.tc/mgmt/shiro.ini, add the following two 
+      lines to the top of the section:
+
+      [main]
+      invalidRequest = org.apache.shiro.web.filter.InvalidRequestFilter
+      invalidRequest.blockSemicolon = false
+
+9.0 Uninstallation
+
+9.1 Shut down the server array. A safe shutdown procedure is as follows.
+
+   a. Shut down the mirror servers using the stop-tc-server script. 
+      If you are using a wrapper solution to manage the mirror servers, execute
+      the wrapper shut down command to shut down the mirror servers instead of 
+      using the stop-tc-server script.
+
+   b. Shut down the clients. A Terracotta client will shut down when you shut 
+      down your application.
+
+   c. Shut down the active servers using the stop-tc-server script.
+      If you are using a wrapper solution to manage the servers, execute the 
+      wrapper shut down command to shut down the servers instead of using the 
+      stop-tc-server script.
+
+9.2 Uninstall the fix using the Software AG Update Manager.
+    For instructions, see Using the Software AG Update Manager.
+
+NOTE: This uninstall procedure can only be used to uninstall the most recently 
+      installed fix. This action will revert your installation to the previously 
+      installed fix. You cannot apply this uninstall procedure to the previously 
+      installed fix.
+```
+	  
+<br>
