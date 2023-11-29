@@ -29,7 +29,6 @@ Document Contents
 
 # Feature Highlights
 ------------------
-
 The Terracotta 10.11 release builds upon the enterprise readiness features and analytical capabilities of past releases, by improving operational usability and performance. Some of the notable features of Terracotta 10.11 include:
 
 * Improvements to the Dynamic Configuration feature.
@@ -46,15 +45,11 @@ The Terracotta 10.11 release builds upon the enterprise readiness features and a
 * API Improvements for visibility of resource usages
 * CVE-2021-22118 - spring-core updated
 * Updated Jackson libraries to 2.12.4
-
   
 <br>
 
 # Summary of Changes 10.11.0
 -----------------------
-
-<br>
-
 ### 10.11.0.1
 * Release Date: 2021/10/22
 * Resolved
@@ -228,9 +223,9 @@ The Terracotta 10.11 release builds upon the enterprise readiness features and a
   * none
 
 
-<br><br>
+<br>
 
-# Notes:
+# Notes
 ------
-
 * Terracotta BigMemory 4.x and Terracotta 10.x clients may be used simultaneously in the same application by ensuring ClassLoader isolation when initializing at least one of the clients.
+<br>
