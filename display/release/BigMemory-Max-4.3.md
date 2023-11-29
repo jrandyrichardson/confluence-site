@@ -66,7 +66,7 @@ BigMemory Max 4.3.x introduced the following new capabilities:
 
 <br>
 
-# Summary of Changes 4.3.10
+# Summary of Changes 4.3.10.x
 -----------------------
 
 ### 4.3.10.0
