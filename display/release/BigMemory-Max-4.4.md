@@ -46,12 +46,8 @@ BigMemory Max 4.4.0 introduced the following new capabilities:
 *  Voter process now available with Docker image
 *  Various bug fixes and security fixes
 * Contains all features and functionality included in [BigMemory Max 4.3.x](https://confluence.terracotta.org/display/release/BigMemory+Max+4.3)
-
+ 
 <br>
-
-### Existing Features
-
-* Contains all features and functionality included in [BigMemory Max 4.3.x](https://confluence.terracotta.org/display/release/BigMemory+Max+4.3)
 
 # Summary of Changes 10.15
 -----------------------
