@@ -155,87 +155,91 @@ BigMemory Max 4.4.0 introduced the following new capabilities:
 -------
 
 The following information is contained in the readme.txt file included with each fix release and should be reviewed prior to applying any fix.
+<br>
+{% highlight ini %}
+8.0 Installation
 
-> 8.0 Installation
-> 
-> 8.1 Shut down the server array. A safe shutdown procedure is as follows.
-> 
->   a. Shut down the mirror servers using the stop-tc-server script. 
->      If you are using a wrapper solution to manage the mirror servers, execute 
->      the wrapper shut down command to shut down the mirror servers instead of 
->      using the stop-tc-server script.
-> 
->   b. Shut down the clients. A Terracotta client will shut down when you shut 
->      down your application.
-> 
->   c. Shut down the active servers using the stop-tc-server script.
->      If you are using a wrapper solution to manage the servers, execute the 
->      wrapper shut down command to shut down the servers instead of using the 
->      stop-tc-server script.
-> 
-> 8.2 This fix overwrites server scripts,wrapper configuration files and default
->     tc-config.xml. If you have any custom settings defined on those files
->     (ex:MaxDirectMemorySize), then you need to restore those settings back after
->     applying the fix.
-> 
-> 8.3 Install the fix using the Software AG Update Manager.
->     For instructions, see Using the Software AG Update Manager located either in 
->     the _documentation directory or on the documentation Web site at 
->     http://documentation.softwareag.com.
-> 
-> 8.4 The upgrade of the 3rd party library Shiro may create an issue for some users 
->     that will require a manual configuration change to the "shiro.ini" found in 
->     the ".tc/mgmt" directory of the user's home folder (the user that the TMS/TMC
->     process runs as ~/.tc/mgmt/shiro.ini). Edit this file and restart the 
->     TMS/TMC.
->      
->    a. Blank browser page or a message from the browser indicating too many 
->       redirects, or similar.
->       In [urls] section of file ~/.tc/mgmt/shiro.ini, locate the line in the 
->       that reads "/login.jsp = authc". Immediately above that line add the three 
->       following lines:
-> 
->    /401.jsp = anon
->    /403.jsp = anon
->    /404.html = anon
->       
->    In the [main] section of file ~/.tc/mgmt/shiro.ini, add the following 
->    line:
->       
->    [main]
->    shiro.filterOncePerRequest=true
->    
->    b. URLs containing semi-colon are blocked and 400 client error is thrown. 
->       In the [main] section of file ~/.tc/mgmt/shiro.ini, add the following two 
->       lines to the top of the section:
-> 
->    [main]
->    invalidRequest = org.apache.shiro.web.filter.InvalidRequestFilter
->    invalidRequest.blockSemicolon = false
-> 
-> 9.0 Uninstallation
-> 
-> 9.1 Shut down the server array. A safe shutdown procedure is as follows.
-> 
->    a. Shut down the mirror servers using the stop-tc-server script. 
->       If you are using a wrapper solution to manage the mirror servers, execute
->       the wrapper shut down command to shut down the mirror servers instead of 
->       using the stop-tc-server script.
-> 
->    b. Shut down the clients. A Terracotta client will shut down when you shut 
->       down your application.
-> 
->    c. Shut down the active servers using the stop-tc-server script.
->       If you are using a wrapper solution to manage the servers, execute the 
->       wrapper shut down command to shut down the servers instead of using the 
->       stop-tc-server script.
-> 
-> 9.2 Uninstall the fix using the Software AG Update Manager.
->     For instructions, see Using the Software AG Update Manager.
-> 
-> NOTE: This uninstall procedure can only be used to uninstall the most recently 
->       installed fix. This action will revert your installation to the previously 
->       installed fix. You cannot apply this uninstall procedure to the previously 
->       installed fix.
+8.1 Shut down the server array. A safe shutdown procedure is as follows.
+
+  a. Shut down the mirror servers using the stop-tc-server script. 
+     If you are using a wrapper solution to manage the mirror servers, execute 
+     the wrapper shut down command to shut down the mirror servers instead of 
+     using the stop-tc-server script.
+
+  b. Shut down the clients. A Terracotta client will shut down when you shut 
+     down your application.
+
+  c. Shut down the active servers using the stop-tc-server script.
+     If you are using a wrapper solution to manage the servers, execute the 
+     wrapper shut down command to shut down the servers instead of using the 
+     stop-tc-server script.
+
+8.2 This fix overwrites server scripts,wrapper configuration files and default
+    tc-config.xml. If you have any custom settings defined on those files
+    (ex:MaxDirectMemorySize), then you need to restore those settings back after
+    applying the fix.
+
+8.3 Install the fix using the Software AG Update Manager.
+    For instructions, see Using the Software AG Update Manager located either in 
+    the _documentation directory or on the documentation Web site at 
+    http://documentation.softwareag.com.
+
+8.4 The upgrade of the 3rd party library Shiro may create an issue for some users 
+    that will require a manual configuration change to the "shiro.ini" found in 
+    the ".tc/mgmt" directory of the user's home folder (the user that the TMS/TMC
+    process runs as ~/.tc/mgmt/shiro.ini). Edit this file and restart the 
+    TMS/TMC.
+     
+   a. Blank browser page or a message from the browser indicating too many 
+      redirects, or similar.
+      In [urls] section of file ~/.tc/mgmt/shiro.ini, locate the line in the 
+      that reads "/login.jsp = authc". Immediately above that line add the three 
+      following lines:
+
+   /401.jsp = anon
+   /403.jsp = anon
+   /404.html = anon
+      
+   In the [main] section of file ~/.tc/mgmt/shiro.ini, add the following 
+   line:
+      
+   [main]
+   shiro.filterOncePerRequest=true
+   
+   b. URLs containing semi-colon are blocked and 400 client error is thrown. 
+      In the [main] section of file ~/.tc/mgmt/shiro.ini, add the following two 
+      lines to the top of the section:
+
+   [main]
+   invalidRequest = org.apache.shiro.web.filter.InvalidRequestFilter
+   invalidRequest.blockSemicolon = false
+{% endhighlight %} 
+<br>
+{% highlight ini %}
+9.0 Uninstallation
+
+9.1 Shut down the server array. A safe shutdown procedure is as follows.
+
+   a. Shut down the mirror servers using the stop-tc-server script. 
+      If you are using a wrapper solution to manage the mirror servers, execute
+      the wrapper shut down command to shut down the mirror servers instead of 
+      using the stop-tc-server script.
+
+   b. Shut down the clients. A Terracotta client will shut down when you shut 
+      down your application.
+
+   c. Shut down the active servers using the stop-tc-server script.
+      If you are using a wrapper solution to manage the servers, execute the 
+      wrapper shut down command to shut down the servers instead of using the 
+      stop-tc-server script.
+
+9.2 Uninstall the fix using the Software AG Update Manager.
+    For instructions, see Using the Software AG Update Manager.
+
+NOTE: This uninstall procedure can only be used to uninstall the most recently 
+      installed fix. This action will revert your installation to the previously 
+      installed fix. You cannot apply this uninstall procedure to the previously 
+      installed fix.
+{% endhighlight %} 
 	  
 <br>
