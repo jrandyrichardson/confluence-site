@@ -59,10 +59,10 @@ BigMemory Max 4.4.0 introduced the following new capabilities:
 <br>
 
 ### 4.4.0.1
-- Release Date: 2022/11/04
-- Resolved
+-  Release Date: 2022/11/04
+-  Resolved
   * none  
-- Security Updates to Third Party Libraries
+-  Security Updates to Third Party Libraries
   * [TAB-8200] Reflected Cross-Site Scripting
   * [TAB-8202] Improper Error Handling
   * [TAB-8203] Banner Grabbing
@@ -71,26 +71,25 @@ BigMemory Max 4.4.0 introduced the following new capabilities:
   * [TAB-8226] Vulnerable 3rd Party Component Jackson Databind used
 
 ### 4.4.0.2
-- Release Date: 2022/12/30
-- Resolved
+-  Release Date: 2022/12/30
+-  Resolved
   * [TAB-8263]TMC shows blank page after installing Terracotta upgrade
   * [TAB-8261] Ascending function not working in terracotta query while fetching data.  
-- Security Updates to Third Party Libraries
+-  Security Updates to Third Party Libraries
   * none
   
 ### 4.4.0.3
-- Release Date: 2023/02/10
-- Resolved
+-  Release Date: 2023/02/10
+-  Resolved
   * none  
-- Security Updates to Third Party Libraries
+-  Security Updates to Third Party Libraries
   * [TAB-8280] Vulnerable 3rd Party Component shiro-core and jackson-databind updated
   
 ### 4.4.0.4
-#### Release Date: 2023/07/12
-#### Resolved
+-  Release Date: 2023/07/12
+-  Resolved
   * Update file containing docker image 3rd party components
-  <br><br>
-#### Security Updates to Third Party Libraries
+-  Security Updates to Third Party Libraries
   * [TAB-8393] CVE updates of json-smart
   * [TAB-8384] Vulnerable 3rd party component Guava updated
   * [TAB-8363] Vulnerable 3rd party component Eclipse-Jetty updated
@@ -106,11 +105,10 @@ BigMemory Max 4.4.0 introduced the following new capabilities:
     *   jaxb-runtime 2.3.8
   
 ### 4.4.0.5
-#### Release Date: 2023/08/11
-#### Resolved
+-  Release Date: 2023/08/11
+-  Resolved
   * none  
-  <br><br>
-#### Security Updates to Third Party Libraries
+-  Security Updates to Third Party Libraries
   * [TAB-8435][TAB-8436] Vulnerable 3rd party component Shiro updated
   * Other 3rd party library updates
     *   guava
@@ -119,19 +117,17 @@ BigMemory Max 4.4.0 introduced the following new capabilities:
     *   jersey
   
 ### 4.4.0.6
-#### Release Date: 2023/10/04
-#### Resolved
+-  Release Date: 2023/10/04
+-  Resolved
   * [TAB-8276] Fix ConcurrentModificationException at org.terracotta.offheapstore.disk.storage.FileBackedStorageEngine.getOccupiedMemory
-  <br><br>
-#### Security Updates to Third Party Libraries
+-  Security Updates to Third Party Libraries
   * [TAB-8485] Vulnerable 3rd party component Eclipse Jetty updated to 10.0.16
   
 ### 4.4.0.7
-#### Release Date: 2023/10/24
-#### Resolved
+-  Release Date: 2023/10/24
+-  Resolved
   * none  
-  <br>
-#### Security Updates to Third Party Libraries
+-  Security Updates to Third Party Libraries
   * Third-party library upgrades:
     *   jetty to 10.0.17
     *   jackson to 2.15.3
@@ -140,14 +136,14 @@ BigMemory Max 4.4.0 introduced the following new capabilities:
     *   rest-assured to 5.3.2
 
 
-<br><br>
+<br>
 
 # Notes
 -------
 
 * Terracotta BigMemory 4.x and Terracotta 10.x clients may be used simultaneously in the same application by ensuring ClassLoader isolation when initializing at least one of the clients.
 
-  <br>
+<br>
 
 
 # Important Upgrade Information
@@ -236,6 +232,5 @@ The following information is contained in the readme.txt file included with each
 >       installed fix. This action will revert your installation to the previously 
 >       installed fix. You cannot apply this uninstall procedure to the previously 
 >       installed fix.
-
 	  
 <br>
