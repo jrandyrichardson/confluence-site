@@ -62,7 +62,6 @@ BigMemory Max 4.4.0 introduced the following new capabilities:
 - Release Date: 2022/11/04
 - Resolved
   * none  
-  <br><br>
 - Security Updates to Third Party Libraries
   * [TAB-8200] Reflected Cross-Site Scripting
   * [TAB-8202] Improper Error Handling
@@ -76,16 +75,14 @@ BigMemory Max 4.4.0 introduced the following new capabilities:
 - Resolved
   * [TAB-8263]TMC shows blank page after installing Terracotta upgrade
   * [TAB-8261] Ascending function not working in terracotta query while fetching data.  
-  <br><br>
 - Security Updates to Third Party Libraries
   * none
   
 ### 4.4.0.3
-#### Release Date: 2023/02/10
-#### Resolved
+- Release Date: 2023/02/10
+- Resolved
   * none  
-  <br><br>
-#### Security Updates to Third Party Libraries
+- Security Updates to Third Party Libraries
   * [TAB-8280] Vulnerable 3rd Party Component shiro-core and jackson-databind updated
   
 ### 4.4.0.4
