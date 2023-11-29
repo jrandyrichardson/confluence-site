@@ -15,13 +15,17 @@ Terracotta is a distributed in-memory data management solution for both operatio
 *   A caching sub-system fronted by the next generation Ehcache API which includes and extends JSR 107
 
 Both sub-systems are backed by the distributed Terracotta Server, which provides a common platform for distributed in-memory data storage with scale-out, scale-up and high availability features.
+
+------
+
 <br>
+
+Document Contents
 
 * TOC
 {:toc}
 
 <br>
-
 
 # Feature Highlights
 ------------------
