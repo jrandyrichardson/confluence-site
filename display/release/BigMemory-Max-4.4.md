@@ -156,7 +156,7 @@ BigMemory Max 4.4.0 introduced the following new capabilities:
 
 The following information is contained in the readme.txt file included with each fix release and should be reviewed prior to applying any fix.
 <br>
-{% highlight ini %}
+```
 8.0 Installation
 
 8.1 Shut down the server array. A safe shutdown procedure is as follows.
@@ -213,9 +213,9 @@ The following information is contained in the readme.txt file included with each
    [main]
    invalidRequest = org.apache.shiro.web.filter.InvalidRequestFilter
    invalidRequest.blockSemicolon = false
-{% endhighlight %} 
+```
 <br>
-{% highlight ini %}
+```
 9.0 Uninstallation
 
 9.1 Shut down the server array. A safe shutdown procedure is as follows.
@@ -240,6 +240,6 @@ NOTE: This uninstall procedure can only be used to uninstall the most recently
       installed fix. This action will revert your installation to the previously 
       installed fix. You cannot apply this uninstall procedure to the previously 
       installed fix.
-{% endhighlight %} 
+```
 	  
 <br>
