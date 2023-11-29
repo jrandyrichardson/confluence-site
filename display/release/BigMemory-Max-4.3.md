@@ -32,7 +32,7 @@ BigMemory Max 4.3.10 (October 2021). It includes Ehcache 2.10.10.
 Fixes are cumulative from version to version.
 
 
-### Deprecation Notices
+## Deprecation Notices
 
 February 2020:
 * Software AG intends to deprecate and remove from distribution the WAN Replication Service/Module in the next release (4.3.10, late 2021).
@@ -248,7 +248,6 @@ BigMemory Max 4.3.x introduced the following new capabilities:
 invalidRequest = org.apache.shiro.web.filter.InvalidRequestFilter
 invalidRequest.blockSemicolon = false
 ```
-<br>
 
 # Summary of Changes 4.3.8.x
 -----------------------
@@ -268,7 +267,6 @@ invalidRequest.blockSemicolon = false
 /403.jsp = anon
 /404 = anon
 ```
-<br>
 
 # Summary of Changes 4.3.7.x
 -----------------------
@@ -401,7 +399,7 @@ invalidRequest.blockSemicolon = false
 -------
 * Terracotta BigMemory 4.x and Terracotta 10.x clients may be used simultaneously in the same application by ensuring ClassLoader isolation when initializing at least one of the clients.
 
-
+<br>
 # Important Upgrade Information
 -------
 
