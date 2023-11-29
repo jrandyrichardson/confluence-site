@@ -58,7 +58,7 @@ BigMemory Max 4.4.0 introduced the following new capabilities:
 - #### Release Date: 2022/11/04
 - #### Resolved
   * none  
-  <br><br>
+  <br>
 - #### Security Updates to Third Party Libraries
   * [TAB-8200] Reflected Cross-Site Scripting
   * [TAB-8202] Improper Error Handling
@@ -72,7 +72,7 @@ BigMemory Max 4.4.0 introduced the following new capabilities:
 - #### Resolved
   * [TAB-8263]TMC shows blank page after installing Terracotta upgrade
   * [TAB-8261] Ascending function not working in terracotta query while fetching data.  
-  <br><br>
+  <br>
 - #### Security Updates to Third Party Libraries
   * none
   
@@ -80,7 +80,7 @@ BigMemory Max 4.4.0 introduced the following new capabilities:
 - #### Release Date: 2023/02/10
 - #### Resolved
   * none  
-  <br><br>
+  <br>
 - #### Security Updates to Third Party Libraries
   * [TAB-8280] Vulnerable 3rd Party Component shiro-core and jackson-databind updated
   
@@ -88,7 +88,7 @@ BigMemory Max 4.4.0 introduced the following new capabilities:
 - #### Release Date: 2023/07/12
 - #### Resolved
   * Update file containing docker image 3rd party components
-  <br><br>
+  <br>
 - #### Security Updates to Third Party Libraries
   * [TAB-8393] CVE updates of json-smart
   * [TAB-8384] Vulnerable 3rd party component Guava updated
@@ -108,7 +108,7 @@ BigMemory Max 4.4.0 introduced the following new capabilities:
 - #### Release Date: 2023/08/11
 - #### Resolved
   * none  
-  <br><br>
+  <br>
 - #### Security Updates to Third Party Libraries
   * [TAB-8435][TAB-8436] Vulnerable 3rd party component Shiro updated
   * Other 3rd party library updates
@@ -121,7 +121,7 @@ BigMemory Max 4.4.0 introduced the following new capabilities:
 - #### Release Date: 2023/10/04
 - #### Resolved
   * [TAB-8276] Fix ConcurrentModificationException at org.terracotta.offheapstore.disk.storage.FileBackedStorageEngine.getOccupiedMemory
-  <br><br>
+  <br>
 - #### Security Updates to Third Party Libraries
   * [TAB-8485] Vulnerable 3rd party component Eclipse Jetty updated to 10.0.16
   
@@ -129,7 +129,7 @@ BigMemory Max 4.4.0 introduced the following new capabilities:
 - #### Release Date: 2023/10/24
 - #### Resolved
   * none  
-  <br><br>
+  <br>
 - #### Security Updates to Third Party Libraries
   * Third-party library upgrades:
     *   jetty to 10.0.17
