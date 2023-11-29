@@ -196,23 +196,23 @@ The following information is contained in the readme.txt file included with each
       that reads "/login.jsp = authc". Immediately above that line add the three 
       following lines:
 
-   /401.jsp = anon
-   /403.jsp = anon
-   /404.html = anon
+      /401.jsp = anon
+      /403.jsp = anon
+      /404.html = anon
       
-   In the [main] section of file ~/.tc/mgmt/shiro.ini, add the following 
-   line:
+      In the [main] section of file ~/.tc/mgmt/shiro.ini, add the following 
+      line:
       
-   [main]
-   shiro.filterOncePerRequest=true
+      [main]
+      shiro.filterOncePerRequest=true
    
    b. URLs containing semi-colon are blocked and 400 client error is thrown. 
       In the [main] section of file ~/.tc/mgmt/shiro.ini, add the following two 
       lines to the top of the section:
 
-   [main]
-   invalidRequest = org.apache.shiro.web.filter.InvalidRequestFilter
-   invalidRequest.blockSemicolon = false
+      [main]
+      invalidRequest = org.apache.shiro.web.filter.InvalidRequestFilter
+      invalidRequest.blockSemicolon = false
 
 9.0 Uninstallation
 
