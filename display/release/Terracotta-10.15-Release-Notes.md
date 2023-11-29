@@ -190,7 +190,7 @@ The Terracotta 10.15 release builds upon the enterprise readiness features and a
   * [TDB-5854] Remove the 'Create New Connection' link from the header menu
   * Handle addition/removal of connection link properly in header menu
   * Support for security in dynamic scale
-  * Removal of .netrc  <br><br>
+  * Removal of .netrc 
 * Security Updates to Third Party Libraries
   * none
   
