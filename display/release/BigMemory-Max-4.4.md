@@ -213,9 +213,7 @@ The following information is contained in the readme.txt file included with each
    [main]
    invalidRequest = org.apache.shiro.web.filter.InvalidRequestFilter
    invalidRequest.blockSemicolon = false
-```
-<br>
-```
+
 9.0 Uninstallation
 
 9.1 Shut down the server array. A safe shutdown procedure is as follows.
