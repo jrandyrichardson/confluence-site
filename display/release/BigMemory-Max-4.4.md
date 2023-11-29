@@ -133,7 +133,7 @@ BigMemory Max 4.4.0 introduced the following new capabilities:
 - #### Release Date: 2023/10/24
 - #### Resolved
   * none  
-  <br><br>
+  <br>
 - #### Security Updates to Third Party Libraries
   * Third-party library upgrades:
     *   jetty to 10.0.17
@@ -162,18 +162,18 @@ The following information is contained in the readme.txt file included with each
 
 8.1 Shut down the server array. A safe shutdown procedure is as follows.
 
-    a. Shut down the mirror servers using the stop-tc-server script. 
-       If you are using a wrapper solution to manage the mirror servers, execute 
-       the wrapper shut down command to shut down the mirror servers instead of 
-       using the stop-tc-server script.
+  a. Shut down the mirror servers using the stop-tc-server script. 
+     If you are using a wrapper solution to manage the mirror servers, execute 
+     the wrapper shut down command to shut down the mirror servers instead of 
+     using the stop-tc-server script.
 
-    b. Shut down the clients. A Terracotta client will shut down when you shut 
-       down your application.
+  b. Shut down the clients. A Terracotta client will shut down when you shut 
+     down your application.
 
-    c. Shut down the active servers using the stop-tc-server script.
-       If you are using a wrapper solution to manage the servers, execute the 
-       wrapper shut down command to shut down the servers instead of using the 
-       stop-tc-server script.
+  c. Shut down the active servers using the stop-tc-server script.
+     If you are using a wrapper solution to manage the servers, execute the 
+     wrapper shut down command to shut down the servers instead of using the 
+     stop-tc-server script.
 
 8.2 This fix overwrites server scripts,wrapper configuration files and default
     tc-config.xml. If you have any custom settings defined on those files
@@ -191,46 +191,46 @@ The following information is contained in the readme.txt file included with each
     process runs as ~/.tc/mgmt/shiro.ini). Edit this file and restart the 
     TMS/TMC.
      
-    a. Blank browser page or a message from the browser indicating too many 
-       redirects, or similar.
-       In [urls] section of file ~/.tc/mgmt/shiro.ini, locate the line in the 
-       that reads "/login.jsp = authc". Immediately above that line add the three 
-       following lines:
+   a. Blank browser page or a message from the browser indicating too many 
+      redirects, or similar.
+      In [urls] section of file ~/.tc/mgmt/shiro.ini, locate the line in the 
+      that reads "/login.jsp = authc". Immediately above that line add the three 
+      following lines:
 
-       /401.jsp = anon
-       /403.jsp = anon
-       /404.html = anon
+   /401.jsp = anon
+   /403.jsp = anon
+   /404.html = anon
       
-       In the [main] section of file ~/.tc/mgmt/shiro.ini, add the following 
-       line:
+   In the [main] section of file ~/.tc/mgmt/shiro.ini, add the following 
+   line:
       
-       [main]
-       shiro.filterOncePerRequest=true
+   [main]
+   shiro.filterOncePerRequest=true
    
-    b. URLs containing semi-colon are blocked and 400 client error is thrown. 
-       In the [main] section of file ~/.tc/mgmt/shiro.ini, add the following two 
-       lines to the top of the section:
+   b. URLs containing semi-colon are blocked and 400 client error is thrown. 
+      In the [main] section of file ~/.tc/mgmt/shiro.ini, add the following two 
+      lines to the top of the section:
 
-       [main]
-       invalidRequest = org.apache.shiro.web.filter.InvalidRequestFilter
-       invalidRequest.blockSemicolon = false
+   [main]
+   invalidRequest = org.apache.shiro.web.filter.InvalidRequestFilter
+   invalidRequest.blockSemicolon = false
 
 9.0 Uninstallation
 
 9.1 Shut down the server array. A safe shutdown procedure is as follows.
 
-    a. Shut down the mirror servers using the stop-tc-server script. 
-       If you are using a wrapper solution to manage the mirror servers, execute
-       the wrapper shut down command to shut down the mirror servers instead of 
-       using the stop-tc-server script.
+   a. Shut down the mirror servers using the stop-tc-server script. 
+      If you are using a wrapper solution to manage the mirror servers, execute
+      the wrapper shut down command to shut down the mirror servers instead of 
+      using the stop-tc-server script.
 
-    b. Shut down the clients. A Terracotta client will shut down when you shut 
-       down your application.
+   b. Shut down the clients. A Terracotta client will shut down when you shut 
+      down your application.
 
-    c. Shut down the active servers using the stop-tc-server script.
-       If you are using a wrapper solution to manage the servers, execute the 
-       wrapper shut down command to shut down the servers instead of using the 
-       stop-tc-server script.
+   c. Shut down the active servers using the stop-tc-server script.
+      If you are using a wrapper solution to manage the servers, execute the 
+      wrapper shut down command to shut down the servers instead of using the 
+      stop-tc-server script.
 
 9.2 Uninstall the fix using the Software AG Update Manager.
     For instructions, see Using the Software AG Update Manager.
