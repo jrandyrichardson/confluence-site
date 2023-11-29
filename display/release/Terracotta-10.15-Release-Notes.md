@@ -23,7 +23,7 @@ The Terracotta 10.x Enterprise Edition offering includes the following:
 
 <br>
 
-Contained within this document:
+**Document Contents**
 
 * TOC
 {:toc}
