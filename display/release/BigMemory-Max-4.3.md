@@ -31,9 +31,10 @@ BigMemory Max 4.3.10 (October 2021). It includes Ehcache 2.10.10.
 
 Fixes are cumulative from version to version.
 
+<br>
 
 ## Deprecation Notices
-
+------------------
 February 2020:
 * Software AG intends to deprecate and remove from distribution the WAN Replication Service/Module in the next release (4.3.10, late 2021).
 * Software AG intends to deprecate the Web Sessions product in the next release (4.3.10, late 2021).
