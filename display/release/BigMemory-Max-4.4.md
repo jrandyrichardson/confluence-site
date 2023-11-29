@@ -15,13 +15,16 @@ BigMemory Max supports a distributed in-memory data-storage topology, which enab
 
 The Ehcache 2.x API can be used with BigMemory Max 4.x as a general-purpose cache/in-memory data store or a second-level cache for Hibernate. You can additionally integrate it with third-party products such as ColdFusion, Google App Engine, and Spring.
 
+------
+
 <br>
+
+Document Contents
 
 * TOC
 {:toc}
 
 <br>
-
 
 ## Current Release
 ------------------
