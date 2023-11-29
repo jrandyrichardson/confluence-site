@@ -9,6 +9,10 @@ permalink: /display/release/Terracotta+10.15+Release+Notes.html
 summary:
 ---
 
+* TOC
+{:toc}
+
+<br>
 
 Terracotta provides distributed in-memory operational data storage and caching for highly concurrent use cases requiring low and predictable latency.
 
@@ -60,18 +64,17 @@ The Terracotta 10.15 release builds upon the enterprise readiness features and a
 <br>
 
 ### 10.15.0.1
-- #### Release Date: 2022/11/04
-- #### Resolved
+* Release Date: 2022/11/04
+* Resolved
   * [TDB-5688] TMC Versions feature not functioning correctly
-  * Ensure servers reach stable states before restart/termination
-<br><br>
-- #### Security Updates to Third Party Libraries
+  * Ensure servers reach stable states before restart/termination  
+* Security Updates to Third Party Libraries
   * [TDB-5666] - CVE-2022-2053 - Vulnerable 3rd Party Component Undertow used
   * Upgrade: spring-boot:2.7.5, spring-security:5.7.5, jackson-databind 2.13.4.2
 
 ### 10.15.0.2
-- #### Release Date: 2022/12/30
-- #### Resolved
+* Release Date: 2022/12/30
+* Resolved
   * Fix MultiDiagnosticServiceProvider which was incorrectly throwing exception and implementing the needed APIs
   * Support config-tool diagnostic -output-format json
   * Support multiple `-connect-to` parameters for `config-tool import` to allow to send a cluster config file to many nodes at once (cloud)
@@ -90,28 +93,25 @@ The Terracotta 10.15 release builds upon the enterprise readiness features and a
   * Add support for new summary statistics constructors (https://bugs.openjdk.org/browse/JDK-8178117)
   * Update to Java 17 compatible version of Mockito
   * Update to Java 17 compatible version of Terracotta Platform
-<br><br>
-- #### Security Updates to Third Party Libraries
+* Security Updates to Third Party Libraries
   * none
 
 ### 10.15.0.3
-- #### Release Date: 2023/03/10
-- #### Resolved
+* Release Date: 2023/03/10
+* Resolved
   * Support for asynchronous operations
-<br><br>
-- #### Security Updates to Third Party Libraries
+* Security Updates to Third Party Libraries
   * [TDB-5724] Vulnerable 3rd party component Jackson-databind upgraded
   
 ### 10.15.0.4
-- #### Release Date: 2023/04/21
-- #### Resolved
+* Release Date: 2023/04/21
+* Resolved
   * Improved asynchronous client behaviors
   * In operator DSL and Intrinsics implementation
   * Align stream ids to better correlate across stripes
   * Docker >= v23 compatibility
   * [TDB-5529]  Gracefully return on thread interruption (like on a TimeoutException)
-<br><br>
-- #### Security Updates to Third Party Libraries
+* Security Updates to Third Party Libraries
   * [TDB-5766] Vulnerable 3rd party component Spring-webmvc updated
   * [TDB-5761] Vulnerable 3rd party component Snakeyaml updated
   * 3rd Party Library Updates:
@@ -145,21 +145,20 @@ The Terracotta 10.15 release builds upon the enterprise readiness features and a
     *   spring-websocket 5.3.27  
   
 ### 10.15.0.5
-- #### Release Date: 2023/06/15
-- #### Resolved
+* Release Date: 2023/06/15
+* Resolved
   * [TDB-5290] Fix failing test and audit all authentication failure
   * [TDB-4548] Added default timeout for coordinator operation
   * [TDB-4339] Implemented LivenessChecker service for CoordinationEntity
   * TMS Json refactorings
   * Wire shutdown of stores to removal of the associated shutdown handler
   * SAG Docker Documentation updates
-<br><br>
-- #### Security Updates to Third Party Libraries
+* Security Updates to Third Party Libraries
   * [TDB-5823] Update vulnerable 3rd party component Spring-boot 
   
 ### 10.15.0.6
-- #### Release Date: 2023/06/30
-- #### Resolved
+* Release Date: 2023/06/30
+* Resolved
   * [TDB-5848] Refresh TCStore Overview panel when "Datasets" dropdown value is changed for the same client.
   * [TDB-5388] Fix for NPE when concurrenty updating the index value and destroying the same index
   * Improve DefinitionInterner Cleaner GC Behavior
@@ -173,54 +172,46 @@ The Terracotta 10.15 release builds upon the enterprise readiness features and a
   * Fix task dependencies for OSGi tests
   * Use TC file deletion routines in Sovereign
   * Allow setting batch scaling message size
-<br><br>
-- #### Security Updates to Third Party Libraries
+* Security Updates to Third Party Libraries
   * none
   
 ### 10.15.0.7
-- #### Release Date: 2023/07/28
-- #### Resolved
+* Release Date: 2023/07/28
+* Resolved
   * [TDB-5862] [TMC] Admin User Unable to View 'Create New Connection' Link Upon Initial Logon
   * [TDB-5863] [TMC] Create New Connection Link is visible for non-admin user after admin user logs out
-<br><br>
-- #### Security Updates to Third Party Libraries
+* Security Updates to Third Party Libraries
   * [TDB-5872] Vulnerable 3rd party components spring-web and snappy-java
   * [TDB-5856] Vulnerable 3rd party component Snappy-java updated
   
 ### 10.15.0.8
-- #### Release Date: 2023/08/25
-- #### Resolved
+* Release Date: 2023/08/25
+* Resolved
   * [TDB-5854] Remove the 'Create New Connection' link from the header menu
   * Handle addition/removal of connection link properly in header menu
   * Support for security in dynamic scale
-  * Removal of .netrc
-<br><br>
-- #### Security Updates to Third Party Libraries
+  * Removal of .netrc  <br><br>
+* Security Updates to Third Party Libraries
   * none
   
 ### 10.15.0.9
-- #### Release Date: 2023/09/22
-- #### Resolved
+* Release Date: 2023/09/22
+* Resolved
   * none
-<br><br>
-- #### Security Updates to Third Party Libraries
+* Security Updates to Third Party Libraries
   * [TDB-5946],[TDB-5947] Update spring to 5.3.30, spring-boot to 2.7.16
 
 ### 10.15.0.10
-- #### Release Date: 2023/11/17
-- #### Resolved
+* Release Date: 2023/11/17
+* Resolved
   * [TDB-5842] Update password policy
   * [TDB-5905] Close terminated pipeline completion/closure fault window
   * Helm chart updates for security
   * Support for security in k8s operator
   * Support for wildcard certificates for servers
-<br><br>
-- #### Security Updates to Third Party Libraries
+* Security Updates to Third Party Libraries
   * none
  
-  
-
-
 
 <br><br>
 
