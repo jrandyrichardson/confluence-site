@@ -18,7 +18,6 @@ The Ehcache 2.x API can be used with BigMemory Max 4.x as a general-purpose cach
 ------
 
 <br>
-
 Document Contents
 
 * TOC
@@ -33,7 +32,7 @@ BigMemory Max 4.3.10 (October 2021). It includes Ehcache 2.10.10.
 Fixes are cumulative from version to version.
 
 
-### **Deprecation Notices**
+### Deprecation Notices
 
 February 2020:
 * Software AG intends to deprecate and remove from distribution the WAN Replication Service/Module in the next release (4.3.10, late 2021).
@@ -45,7 +44,6 @@ February 2020:
 
 ## Feature Highlights
 -------------------
-
 BigMemory Max 4.3.x introduced the following new capabilities:
 
 * Terracotta Management Console (TMC) extended to support WAN Replication Service: The WAN tab enables monitoring of information about the following aspects of the WAN Replication Service:
@@ -69,8 +67,6 @@ BigMemory Max 4.3.x introduced the following new capabilities:
 
 # Summary of Changes 4.3.10
 -----------------------
-
-<br>
 
 ### 4.3.10.0
 * Release Date: 2021/10/15
@@ -232,7 +228,6 @@ BigMemory Max 4.3.x introduced the following new capabilities:
 
 # Summary of Changes 4.3.9.x
 -----------------------
-<br>
 * Release Date: 2021/04/15
 * New Features
   * Java 11 officially supported (along with Java 8)
@@ -254,11 +249,9 @@ invalidRequest = org.apache.shiro.web.filter.InvalidRequestFilter
 invalidRequest.blockSemicolon = false
 ```
 <br>
-<br>
 
 # Summary of Changes 4.3.8.x
 -----------------------
-<br>
 * Release Date: 2019/10/15
 * New Features
   * Logging moved from (directly) "log4j" framework to "logback".
@@ -276,22 +269,18 @@ invalidRequest.blockSemicolon = false
 /404 = anon
 ```
 <br>
-<br>
 
 # Summary of Changes 4.3.7.x
 -----------------------
-<br>
 * Release Date: 2019/04/15
 * New Features
   * Improvements and new options for Terracotta server start/stop commands to facilitate safer automation of operations
 * Resolved 
   * 7697 - Fixed issue with fully cleaning up SSE socket connections (from TMC) when connection is parially broken unexpectedly
 <br>
-<br>
 
 # Summary of Changes 4.3.6.x
 -----------------------
-<br>
 * Release Date: 2018/10/16
 * Resolved 
   * 7683 - Fixed a potential file descriptor leak in the TSA’s management agent that was introduced in version 4.3.6.
@@ -307,11 +296,9 @@ invalidRequest.blockSemicolon = false
   * 7429 – Addressed security vulnerabilities CVE-2017-7525, CVE-2014-0114, and CVE-2017-9735
   * 7518 – Resolved security vulnerability CVE-2015-2080
 <br>
-<br>
 
 # Summary of Changes 4.3.5.x
 -----------------------
-<br>
 * Release Date: 2017/10/16
 * Resolved 
   * 7214 – Fixed memory leak caused by dynamically creating and removing caches
@@ -327,11 +314,9 @@ invalidRequest.blockSemicolon = false
 * Security Updates to Third Party Libraries
   * 7517 – Upgraded Jackson-Databind to version 2.9.5 to address security vulnerabilities
 <br>
-<br>
 
 # Summary of Changes 4.3.4.x
 -----------------------
-<br>
 * Release Date: 2017/10/16
 * Resolved 
 *   7423 – Resolved null pointer exception issue that occurs when the server tries to process an already applied replace operation that has been re-sent by a client on a server failover or a server restart. 
@@ -344,11 +329,9 @@ invalidRequest.blockSemicolon = false
 *   7213 – Fixed server mistakenly kicking out clients with "Error hydrating message of type REQUEST\_MANAGED\_OBJECT\_MESSAGE (12) java.lang.UnsupportedOperationException: Inserts out of order"
 *   7244 - Fixed the issue of an exception being thrown while executing a query with key as search attribute. This issue was seen only on installations with WAN replication enabled.
 <br>
-<br>
 
 # Summary of Changes 4.3.3.x
 -----------------------
-<br>
 * Release Date: 2016/10/14
 * Resolved 
   * 7022 – Fixed TMC showing duplicates of Operator Events under some circumstances. E.g. Having multiple concurrent browser sessions.
@@ -361,11 +344,9 @@ invalidRequest.blockSemicolon = false
     *   Added a new section "Scope of the SSL documentation"
     *   Added hints about -trustcacerts and the KeyStore Explorer GUI.
 <br>
-<br>
 
 # Summary of Changes 4.3.2.x
 -----------------------
-<br>
 * Release Date: 2016/04/15
 * Resolved 
   * 6785 – Resolved issue where excessive number of threads were created by Jersey Client causing issues with memory resources.
@@ -376,11 +357,9 @@ invalidRequest.blockSemicolon = false
   * 6576 – Fixed issue handling special characters in connection URLs in keychains
   * 6584 – Corrected TransactionSequencer shutdown due to connection closure
 <br>
-<br>
 
 # Summary of Changes 4.3.1.x
 -----------------------
-<br>
 * Resolved 
   * 6576 – Fixed issue handling special characters in connection URLs in keychains
   * 6636 - Resolved memory leak issue caused by Jersey 2.6 client listeners
@@ -407,25 +386,20 @@ invalidRequest.blockSemicolon = false
   * 6027 – Resolved deadlock possibility for cases with 2 threads and 2 locks when shutting down clustered cache manager
   * 6134 – Fixed issue with Quartz MBeans not being exposed to the JMX server
 <br>
-<br>
 
 # Summary of Changes 4.3.0.x
 -----------------------
-<br>
 * Resolved
-*   5503 - "Unresponsive script" dialog no longer appears, when connected with 560 clients.
-*   5557 – Resolved issue that resulted in NullPointerException and server was terminated when large number of clients simultaneously connect with the TSA server.
-*   5598 – Resolved issue where a restarted passive server may become stuck in initializing state when removing event listeners for dead clients.
-*   5647 – Fixed rare situation where cluster does not recover after a specific type of network disruption.
+  * 5503 - "Unresponsive script" dialog no longer appears, when connected with 560 clients.
+  * 5557 – Resolved issue that resulted in NullPointerException and server was terminated when large number of clients simultaneously connect with the TSA server.
+  * 5598 – Resolved issue where a restarted passive server may become stuck in initializing state when removing event listeners for dead clients.
+  * 5647 – Fixed rare situation where cluster does not recover after a specific type of network disruption.
 <br>
 <br>
 
 # Notes
 -------
-
 * Terracotta BigMemory 4.x and Terracotta 10.x clients may be used simultaneously in the same application by ensuring ClassLoader isolation when initializing at least one of the clients.
-
-<br>
 
 
 # Important Upgrade Information
