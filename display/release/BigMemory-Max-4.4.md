@@ -38,7 +38,6 @@ Fixes are cumulative from version to version.
 
 ## Feature Highlights
 -------------------
-
 BigMemory Max 4.4.0 introduced the following new capabilities:
 
 *  Support for Java 11
@@ -52,17 +51,8 @@ BigMemory Max 4.4.0 introduced the following new capabilities:
 
 <br>
 
-### Existing Features
-
-* Contains all features and functionality included in [BigMemory Max 4.3.x](https://confluence.terracotta.org/display/release/BigMemory+Max+4.3)
-
-<br>
-
 # Summary of Changes 4.4
 -----------------------
-
-<br>
-
 ### 4.4.0.1
 * Release Date: 2022/11/04
 * Resolved
@@ -145,15 +135,12 @@ BigMemory Max 4.4.0 introduced the following new capabilities:
 
 # Notes
 -------
-
 * Terracotta BigMemory 4.x and Terracotta 10.x clients may be used simultaneously in the same application by ensuring ClassLoader isolation when initializing at least one of the clients.
-
 <br>
 
 
 # Important Upgrade Information
 -------
-
 The following information is contained in the readme.txt file included with each fix release and should be reviewed prior to applying any fix.
 <br>
 ```
