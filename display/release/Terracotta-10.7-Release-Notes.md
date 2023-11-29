@@ -30,7 +30,6 @@ Document Contents
 
 # Feature Highlights
 ------------------
-
 The Terracotta 10.7 release builds upon the enterprise readiness features and analytical capabilities of past releases, by improving operational usability and performance. Some of the notable features of Terracotta 10.7 include:
 
 * Significant replacement of the configuration system of Terracotta Servers
@@ -50,9 +49,6 @@ The Terracotta 10.7 release builds upon the enterprise readiness features and an
 
 # Summary of Changes 10.7.0
 -----------------------
-
-<br>
-
 ### 10.7.0.1
 * Release Date: 2021/04
 * Resolved
@@ -257,10 +253,9 @@ The Terracotta 10.7 release builds upon the enterprise readiness features and an
 * Security Updates to Third Party Libraries
   * none
 
-
-<br><br>
+<br>
 
 # Notes:
 ------
-
 * Terracotta BigMemory 4.x and Terracotta 10.x clients may be used simultaneously in the same application by ensuring ClassLoader isolation when initializing at least one of the clients.
+<br>
