@@ -19,9 +19,9 @@ The Terracotta 10.x Enterprise Edition offering includes the following:
    *  In memory off-heap storage - take advantage of all the RAM in your server and your client applications without GC pauses
    *  Terracotta Management Console for monitoring and managing your Terracotta cluster, and the workload that you've thrown at it
 
-<br>
-
 ------
+
+<br>
 
 Contained within this document:
 
