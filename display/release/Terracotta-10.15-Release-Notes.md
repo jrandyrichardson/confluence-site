@@ -9,11 +9,6 @@ permalink: /display/release/Terracotta+10.15+Release+Notes.html
 summary:
 ---
 
-* TOC
-{:toc}
-
-<br>
-
 Terracotta provides distributed in-memory operational data storage and caching for highly concurrent use cases requiring low and predictable latency.
 
 The Terracotta 10.x Enterprise Edition offering includes the following:
