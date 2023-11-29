@@ -40,7 +40,6 @@ Fixes are cumulative from version to version.
 
 # Feature Highlights
 ------------------
-
 The Terracotta 10.15 release builds upon the enterprise readiness features and analytical capabilities of past releases, by improving operational usability and performance. Some of the notable features of Terracotta 10.15 include:
 
 *  Support for Java 11
@@ -59,9 +58,6 @@ The Terracotta 10.15 release builds upon the enterprise readiness features and a
 
 # Summary of Changes 10.15
 -----------------------
-
-<br>
-
 ### 10.15.0.1
 * Release Date: 2022/11/04
 * Resolved
@@ -210,11 +206,11 @@ The Terracotta 10.15 release builds upon the enterprise readiness features and a
   * Support for wildcard certificates for servers
 * Security Updates to Third Party Libraries
   * none
- 
 
-<br><br>
+
+<br>
 
 # Notes
 -------
-
 * Terracotta BigMemory 4.x and Terracotta 10.x clients may be used simultaneously in the same application by ensuring ClassLoader isolation when initializing at least one of the clients.
+<br>
