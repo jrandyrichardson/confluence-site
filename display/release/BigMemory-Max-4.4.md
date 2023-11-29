@@ -53,6 +53,8 @@ BigMemory Max 4.4.0 introduced the following new capabilities:
 
 * Contains all features and functionality included in [BigMemory Max 4.3.x](https://confluence.terracotta.org/display/release/BigMemory+Max+4.3)
 
+<br>
+
 # Summary of Changes 4.4
 -----------------------
 
