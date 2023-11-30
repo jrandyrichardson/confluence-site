@@ -11,7 +11,7 @@ Space Details:
 Available Pages:
 ----------------
 
-*   [Home](Home) ![Home](images/icons/contenttypes/home_page_16.png)
+*   [Home](../release/Home) ![Home](images/icons/contenttypes/home_page_16.png)
     
     *   [3.3.0 Platform Support](3.3.0+Platform+Support)
     
@@ -28,7 +28,7 @@ Available Pages:
             
             *   [BigMemory 4.3, Ehcache 2.10 Platform Support](BigMemory+4.3%2C+Ehcache+2.10+Platform+Support)
     
-    *   [BigMemory for the Terracotta Server Array + FAQ](BigMemory+for+the+Terracotta+Server+Array+-+FAQ)
+    *   [BigMemory for the Terracotta Server Array + FAQ](../release/BigMemory+for+the+Terracotta+Server+Array+-+FAQ)
     
     *   [BigMemory Go 3.7 Release Notes](BigMemory+Go+3.7+Release+Notes)
     
@@ -82,7 +82,7 @@ Available Pages:
             *   [migration guide](migration+guide)
     
     *   [Gladstone ReadMe](Gladstone+ReadMe)
-        *   [Test Drive TMC](Test+Drive+TMC)
+        *   [Test Drive TMC](../release/Test+Drive+TMC)
     
     *   [Gladstone Technology Preview Release Notes](Gladstone+Technology+Preview+Release+Notes)
     
