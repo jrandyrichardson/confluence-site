@@ -32,7 +32,7 @@ How to get started
 ------------------
 
 1.  After downloading the archive (Gladstone-Tech-Preview.tar.gz), uncompress and untar the file. After doing so, you will see the following files in the distribution - ehcache-core-ee-2.6.0-SNAPSHOT, README.txt, and terracotta-license.key.
-2.  Click [here](Test+Drive+TMC) for instructions on trying out the Terracotta Management Console.
+2.  Click [here](../release/Test+Drive+TMC) for instructions on trying out the Terracotta Management Console.
 3.  For instructions on other enhancements including Restartability and Search, please refer to the respective links to documentation on [http://ehcache.org/documentation/beta](http://ehcache.org/documentation/beta)
 
 Feedback

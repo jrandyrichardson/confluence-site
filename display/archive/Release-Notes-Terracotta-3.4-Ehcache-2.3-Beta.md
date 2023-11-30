@@ -38,7 +38,7 @@ Additionally, the accompanying trial license key "terracotta-license.key" should
 3\. Review the new beta documentation:
 
 *   For Enterprise Ehcache (standalone): [http://ehcache.org/documentation/offheap\_store](http://ehcache.org/documentation/offheap_store)
-*   For Terracotta Server Array: [BigMemory+for+the+Terracotta+Server+Array+-+FAQ](BigMemory+for+the+Terracotta+Server+Array+-+FAQ)
+*   For Terracotta Server Array: [BigMemory+for+the+Terracotta+Server+Array+-+FAQ](../release/BigMemory+for+the+Terracotta+Server+Array+-+FAQ)
 
 Getting Started with BigMemory for Enterprise Ehcache (standalone)
 ------------------------------------------------------------------

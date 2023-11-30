@@ -67,7 +67,7 @@ At least two Terracotta servers should be used in production systems to avoid do
 For example, to implement a rolling upgrade in a cluster with an active Terracotta server, a passive (backup) Terracotta server, and any number of Terracotta clients, follow these steps:
 
 1.  Confirm that all prerequisites have been met.  
-    See [Preparing for a Patch Installation](#Patches-prepare).
+    See [Preparing for a Patch Installation](#Patches-Preparing for a Patch Installation).
 2.  Shut down the passive Terracotta server using the [server Shutdown button](http://www.terracotta.org/documentation/dev-console) or the Terracotta [stop-tc-server script](http://www.terracotta.org/documentation/tools-catalog).
 3.  Unzip the patch file in the passive Terracotta server's installation (root) directory.  
     On a UNIX/Linux machine, use the tar command as shown:
