@@ -5,7 +5,7 @@ layout: page
 keywords:
 space: archive
 sidebar: lb2_sidebar
-permalink: /display/release/Technical+FAQ
+permalink: /display/archive/Technical+FAQ
 summary:
 ---
 

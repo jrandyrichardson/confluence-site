@@ -5,7 +5,7 @@ layout: page
 keywords:
 space: archive
 sidebar: lb2_sidebar
-permalink: /display/release/Release+Notes+3.3.0+Beta.html
+permalink: /display/archive/Release+Notes+3.3.0+Beta.html
 summary:
 ---
 

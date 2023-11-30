@@ -5,7 +5,7 @@ layout: page
 keywords:
 space: archive
 sidebar: lb2_sidebar
-permalink: /display/release/BigMemory+Release+Archive
+permalink: /display/archive/BigMemory+Release+Archive
 summary:
 ---
 

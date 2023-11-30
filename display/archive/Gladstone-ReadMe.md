@@ -5,7 +5,7 @@ layout: page
 keywords:
 space: archive
 sidebar: lb2_sidebar
-permalink: /display/release/Gladstone+ReadMe
+permalink: /display/archive/Gladstone+ReadMe
 summary:
 ---
 

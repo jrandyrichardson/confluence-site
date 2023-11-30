@@ -5,7 +5,7 @@ layout: page
 keywords:
 space: archive
 sidebar: lb2_sidebar
-permalink: /display/release/Web+Sessions+4.0.0.html
+permalink: /display/archive/Web+Sessions+4.0.0.html
 summary:
 ---
 

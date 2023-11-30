@@ -5,7 +5,7 @@ layout: page
 keywords:
 space: archive
 sidebar: lb2_sidebar
-permalink: /display/release/BigMemory+4.0%2C+Ehcache+2.7+Platform+Support.html
+permalink: /display/archive/BigMemory+4.0%2C+Ehcache+2.7+Platform+Support.html
 summary:
 ---
 

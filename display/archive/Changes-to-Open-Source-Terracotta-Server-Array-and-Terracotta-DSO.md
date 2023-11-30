@@ -5,7 +5,7 @@ layout: page
 keywords:
 space: archive
 sidebar: lb2_sidebar
-permalink: /display/release/Changes+to+Open-Source+Terracotta+Server+Array+and+Terracotta+DSO+(FAQ)
+permalink: /display/archive/Changes+to+Open-Source+Terracotta+Server+Array+and+Terracotta+DSO+(FAQ)
 summary:
 ---
 
