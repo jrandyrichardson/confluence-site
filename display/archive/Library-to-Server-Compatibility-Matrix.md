@@ -5,7 +5,7 @@ layout: page
 keywords:
 space: archive
 sidebar: lb2_sidebar
-permalink: /display/release/Library+to+Server+Compatibility+Matrix
+permalink: /display/archive/Library+to+Server+Compatibility+Matrix
 summary:
 ---
 

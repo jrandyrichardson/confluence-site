@@ -5,7 +5,7 @@ layout: page
 keywords:
 space: archive
 sidebar: lb2_sidebar
-permalink: /display/release/Terracotta+3.6.0+Beta+Release+Notes.html
+permalink: /display/archive/Terracotta+3.6.0+Beta+Release+Notes.html
 summary:
 ---
 

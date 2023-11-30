@@ -5,7 +5,7 @@ layout: page
 keywords:
 space: archive
 sidebar: lb2_sidebar
-permalink: /display/release/Platform+Support+Terracotta+3.6%2C+Ehcache+2.5%2C+Quartz+2.1.html
+permalink: /display/archive/Platform+Support+Terracotta+3.6%2C+Ehcache+2.5%2C+Quartz+2.1.html
 summary:
 ---
 

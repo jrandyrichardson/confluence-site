@@ -5,7 +5,7 @@ layout: page
 keywords:
 space: archive
 sidebar: lb2_sidebar
-permalink: /display/release/Terracotta+Server+Open+Source
+permalink: /display/archive/Terracotta+Server+Open+Source
 summary:
 ---
 

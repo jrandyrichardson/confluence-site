@@ -5,7 +5,7 @@ layout: page
 keywords:
 space: archive
 sidebar: lb2_sidebar
-permalink: /display/release/Ehcache-monitor1.0.1+Release+Notes.html
+permalink: /display/archive/Ehcache-monitor1.0.1+Release+Notes.html
 summary:
 ---
 

@@ -5,7 +5,7 @@ layout: page
 keywords:
 space: archive
 sidebar: lb2_sidebar
-permalink: /display/release/BigMemory+Go+3.7+Release+Notes.html
+permalink: /display/archive/BigMemory+Go+3.7+Release+Notes.html
 summary:
 ---
 

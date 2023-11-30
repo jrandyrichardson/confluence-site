@@ -5,7 +5,7 @@ layout: page
 keywords:
 space: archive
 sidebar: lb2_sidebar
-permalink: /display/release/Fremantle+Beta+Release+Notes
+permalink: /display/archive/Fremantle+Beta+Release+Notes
 summary:
 ---
 

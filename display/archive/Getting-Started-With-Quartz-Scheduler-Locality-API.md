@@ -5,7 +5,7 @@ layout: page
 keywords:
 space: archive
 sidebar: lb2_sidebar
-permalink: /display/release/Getting+Started+With+Quartz+Scheduler+Locality+API
+permalink: /display/archive/Getting+Started+With+Quartz+Scheduler+Locality+API
 summary:
 ---
 

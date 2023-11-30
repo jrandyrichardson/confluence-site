@@ -5,7 +5,7 @@ layout: page
 keywords:
 space: archive
 sidebar: lb2_sidebar
-permalink: /display/release/Gladstone+Technology+Preview+Release+Notes
+permalink: /display/archive/Gladstone+Technology+Preview+Release+Notes
 summary:
 ---
 

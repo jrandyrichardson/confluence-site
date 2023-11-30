@@ -5,7 +5,7 @@ layout: page
 keywords:
 space: archive
 sidebar: lb2_sidebar
-permalink: /display/release/What%27s+new+in+Quartz+2.0.html
+permalink: /display/archive/What%27s+new+in+Quartz+2.0.html
 summary:
 ---
 

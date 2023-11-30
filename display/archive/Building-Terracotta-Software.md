@@ -5,7 +5,7 @@ layout: page
 keywords:
 space: archive
 sidebar: lb2_sidebar
-permalink: /display/release/Building+Terracotta+Software
+permalink: /display/archive/Building+Terracotta+Software
 summary:
 ---
 

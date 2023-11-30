@@ -5,7 +5,7 @@ layout: page
 keywords:
 space: archive
 sidebar: lb2_sidebar
-permalink: /display/release/Terracotta+Ehcache+10.0+Supported+Platforms.html
+permalink: /display/archive/Terracotta+Ehcache+10.0+Supported+Platforms.html
 summary:
 ---
 

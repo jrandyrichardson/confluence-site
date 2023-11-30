@@ -5,7 +5,7 @@ layout: page
 keywords:
 space: archive
 sidebar: lb2_sidebar
-permalink: /display/release/Extended+downtime+for+Fisheye
+permalink: /display/archive/Extended+downtime+for+Fisheye
 summary:
 ---
 
