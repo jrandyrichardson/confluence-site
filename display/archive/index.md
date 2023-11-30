@@ -40,7 +40,7 @@ Available Pages:
     
     *   [BigMemory Go 4.2](BigMemory+Go+4.2)
     
-    *   [BigMemory Go 4.3](BigMemory+Go+4.3)
+    *   [BigMemory Go 4.3](../release/BigMemory+Go+4.3)
     
     *   [BigMemory Max 4.0](BigMemory+Max+4.0)
     
@@ -56,7 +56,7 @@ Available Pages:
     
     *   [BigMemory Max 4.2](BigMemory+Max+4.2)
     
-    *   [BigMemory Max 4.3](BigMemory+Max+4.3)
+    *   [BigMemory Max 4.3](../release/BigMemory+Max+4.3)
     
     *   [BigMemory Release and Platform Compatibility Information](BigMemory+Release+and+Platform+Compatibility+Information)
     
@@ -70,11 +70,11 @@ Available Pages:
     
     *   [Extended downtime for Fisheye](Extended+downtime+for+Fisheye)
     
-    *   [FAQ](FAQ)
+    *   [FAQ](../release/FAQ)
     
     *   [Fremantle Beta Release Notes](Fremantle+Beta+Release+Notes)
         
-        *   [Getting Started With Ehcache Search API For Clustered Caches](Getting+Started+With+Ehcache+Search+API+For+Clustered+Caches)
+        *   [Getting Started With Ehcache Search API For Clustered Caches](../release/Getting+Started+With+Ehcache+Search+API+For+Clustered+Caches)
         
         *   [Getting Started With Quartz Scheduler Locality API](Getting+Started+With+Quartz+Scheduler+Locality+API)
         
@@ -86,11 +86,11 @@ Available Pages:
     
     *   [Gladstone Technology Preview Release Notes](Gladstone+Technology+Preview+Release+Notes)
     
-    *   [How to Become a Terracotta Contributor](How+to+Become+a+Terracotta+Contributor)
+    *   [How to Become a Terracotta Contributor](../release/How+to+Become+a+Terracotta+Contributor)
     
     *   [Library to Server Compatibility Matrix](Library+to+Server+Compatibility+Matrix)
     
-    *   [Patches](Patches)
+    *   [Patches](../release/Patches)
     
     *   [Platform Support Terracotta 3.6, Ehcache 2.5, Quartz 2.1](Platform+Support+Terracotta+3.6%2C+Ehcache+2.5%2C+Quartz+2.1)
     
@@ -148,9 +148,9 @@ Available Pages:
     
     *   [Terracotta 10.3 Supported Platforms](Terracotta+10.3+Supported+Platforms)
     
-    *   [Terracotta 10.7 Release Notes](Terracotta+10.7+Release+Notes)
+    *   [Terracotta 10.7 Release Notes](../release/Terracotta+10.7+Release+Notes)
     
-    *   [Terracotta 10.7 Supported Platforms](Terracotta+10.7+Supported+Platforms)
+    *   [Terracotta 10.7 Supported Platforms](../release/Terracotta+10.7+Supported+Platforms)
     
     *   [Terracotta DB 10.1 Release Notes](Terracotta+DB+10.1+Release+Notes)
     
@@ -175,11 +175,11 @@ Available Pages:
     
     *   [Terracotta Ehcache 10.3 Supported Platforms](Terracotta+Ehcache+10.3+Supported+Platforms)
     
-    *   [Terracotta EOS Policy and Notices](Terracotta+EOS+Policy+and+Notices)
+    *   [Terracotta EOS Policy and Notices](../release/Terracotta+EOS+Policy+and+Notices)
     
     *   [Terracotta Server Open Source](Terracotta+Server+Open+Source)
     
-    *   [Third Party Licenses](Third+Party+Licenses)
+    *   [Third Party Licenses](../release/Third+Party+Licenses)
     
     *   [Web Sessions 4.0.0](Web+Sessions+4.0.0)
 
