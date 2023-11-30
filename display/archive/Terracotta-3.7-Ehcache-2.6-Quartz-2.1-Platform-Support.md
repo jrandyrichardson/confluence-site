@@ -104,6 +104,6 @@ Library to Server Compatibility Matrix
 
 [commentedout]: If you are using Sun SPARC, see the [SPARC section of the Troubleshooting Guide](/display/docs/Troubleshooting+Guide).
 
-For Terracotta Server garbage-collector settings, see the [Technical FAQ](Technical+FAQ).
+For Terracotta Server garbage-collector settings, see the [Technical FAQ](../release/Technical+FAQ).
 
 

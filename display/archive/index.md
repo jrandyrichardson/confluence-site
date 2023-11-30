@@ -127,7 +127,7 @@ Available Pages:
     *   [Release Notes Terracotta 3.6, Ehcache 2.5, Quartz 2.1](Release+Notes+Terracotta+3.6%2C+Ehcache+2.5%2C+Quartz+2.1)
         *   [Release Notes Ehcache Core 2.5](Release+Notes+Ehcache+Core+2.5)
     
-    *   [Technical FAQ](Technical+FAQ)
+    *   [Technical FAQ](../release/Technical+FAQ)
     
     *   [Terracotta 3.5 Release Notes](Terracotta+3.5+Release+Notes)
         *   [Release Notes Ehcache 2.4.1](Release+Notes+Ehcache+2.4.1)
