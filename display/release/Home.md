@@ -27,7 +27,7 @@ This product suite includes BigMemory Max, BigMemory Go, and Web Sessions
 
 #### Current Releases
 
-*Terracotta Open Source Release Notes can be found [here](Terracotta+Server+Open+Source)*.
+*Terracotta Open Source Release Notes can be found [here](../archive/Terracotta+Server+Open+Source)*.
 
 
 
