@@ -38,7 +38,7 @@ Quartz Scheduler
 
 *   New fluent configuration API (see below)
 *   Quartz Where - permitting control of where jobs execute in a clustered environment through node groups and node type constraints  
-    A getting-started page for using Quartz Scheduler Locality API is available: [Getting Started With Quartz Scheduler Locality API](../release/Getting+Started+With+Quartz+Scheduler+Locality+API)
+    A getting-started page for using Quartz Scheduler Locality API is available: [Getting Started With Quartz Scheduler Locality API](Getting+Started+With+Quartz+Scheduler+Locality+API)
 
 #### About Ehcache Search
 
@@ -48,7 +48,7 @@ The easiest way to get started with the API is to try the sample application pos
 
 Ehcache Search docs are here: [http://ehcache.org/documentation/search](http://ehcache.org/documentation/search)
 
-A getting-started page for using Ehcache Search with clustered caches is also available: [Getting Started With Ehcache Search API For Clustered Caches](Getting+Started+With+Ehcache+Search+API+For+Clustered+Caches)
+A getting-started page for using Ehcache Search with clustered caches is also available: [Getting Started With Ehcache Search API For Clustered Caches](../release/Getting+Started+With+Ehcache+Search+API+For+Clustered+Caches)
 
 #### New configuration options
 

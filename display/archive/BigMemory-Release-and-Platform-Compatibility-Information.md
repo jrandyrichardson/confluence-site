@@ -82,6 +82,6 @@ A kit version number can also have one of the following attributes to indicate i
 Software Patches
 ----------------
 
-Patches are a provided for ee (Enterprise Edition) kits for commercial customers only. For more information on using software patches, see [Patches](Patches).
+Patches are a provided for ee (Enterprise Edition) kits for commercial customers only. For more information on using software patches, see [Patches](../release/Patches).
 
 
