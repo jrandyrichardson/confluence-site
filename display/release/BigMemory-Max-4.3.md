@@ -225,6 +225,16 @@ BigMemory Max 4.3.x introduced the following new capabilities:
     *   commons-io to 2.14.0
     *   rest-assured to 5.3.2
 
+### 4.3.10.17
+* Release Date: 2023/12/18
+* Resolved
+  * [TAB-8521] Secure Setting on cookies from TMS
+  * [TAB-8522] Disable additional set of ciphers in TMS that are now considered weak
+  * [TAB-8523] Enforce more strict password policy for strong passwords
+  * [TAB-8288] Disallow HTTP v 1.0 protocol to TMS
+* Security Updates to Third Party Libraries
+  * none
+
 <br>
 
 # Summary of Changes 4.3.9.x
