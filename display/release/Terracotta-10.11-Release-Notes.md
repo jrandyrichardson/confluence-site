@@ -222,6 +222,14 @@ The Terracotta 10.11 release builds upon the enterprise readiness features and a
 * Security Updates to Third Party Libraries
   * none
 
+### 10.11.0.20
+* Release Date: 2024/02/01
+* Resolved
+  * [TDB-6008] Vulnerable 3rd Party component logback used
+* Security Updates to Third Party Libraries
+  * logback 1.2.13
+  * springframework 5.3.31
+  * spring-boot 2.7.18
 
 <br>
 
