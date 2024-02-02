@@ -235,6 +235,30 @@ BigMemory Max 4.3.x introduced the following new capabilities:
 * Security Updates to Third Party Libraries
   * none
 
+### 4.3.10.18
+* Release Date: 2024/02/01
+* Resolved
+  * none
+* Security Updates to Third Party Libraries
+  * [TAB-8524] Http Security headers missing
+  * [TAB-8537] Vulnerable 3rd party component logback used
+  * [TAB-8550] Vulnerable 3rd party component shiro used 
+  * Third-party library upgrades:
+    *   bytebuddy 1.14.11
+    *   byteman 4.0.22
+    *   commons-cli 1.6.0
+    *   commons-io 2.15.1
+    *   commons-lang 3.14.0
+    *   commons-logging 1.3.0
+    *   groovy 3.0.20
+    *   guava 33.0.0-jre
+    *   jackson 2.16.1
+    *   jaxb-runtime 2.3.9
+    *   jersey 2.41
+    *   logback 1.2.13
+    *   rest-assured 5.4.0
+    *   shiro 1.13.0
+
 <br>
 
 # Summary of Changes 4.3.9.x
