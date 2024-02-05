@@ -207,6 +207,16 @@ The Terracotta 10.15 release builds upon the enterprise readiness features and a
 * Security Updates to Third Party Libraries
   * none
 
+### 10.15.0.10
+* Release Date: 2024/02/03
+* Resolved
+  * none
+* Security Updates to Third Party Libraries
+  * [TDB-6008] Vulnerable 3rd Party component logback used
+  * 3rd Party Library Updates:
+    *   logback 1.2.13
+    *   springframework 5.3.31
+    *   spring-boot 2.7.18
 
 <br>
 
