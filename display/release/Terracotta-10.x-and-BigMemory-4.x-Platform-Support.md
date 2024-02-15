@@ -85,9 +85,9 @@ The server is a process that runs directly in a JVM.  JVM heap-space requirement
 | Red Hat Enterprise Linux Server 9.x                   |       |       |  |  |  | X | X |
 | Centos 7.x                                            |       |   X   | X | X |  |  |  |
 | Ubuntu 18.07                                          |       |       |  | X |  |  |  |
-| AIX 7.1 (no Java 11) webM only                        |       |   X   | X |  |  |  |  |
-| AIX 7.2 (no Java 11) webM only                        |       |   X   |  | X | X | X | X |
-| AIX 7.3 (no Java 11) webM only                        |       |       |  |  |  | X | X |
+| AIX 7.1 (no Java 11, Java 17) webM only               |       |   X   | X |  |  |  |  |
+| AIX 7.2 (no Java 11, Java 17) webM only               |       |   X   |  | X | X | X | X |
+| AIX 7.3 (no Java 11, Java 17) webM only               |       |       |  |  |  | X | X |
 | Solaris 11 (Spark 64)  webM Only                      |       |   X   | X | X | X |  |  |
 | HP-UX 11iv3                                           |       |   X   |  |  |  |  |  |
 | **BROWSER SUPPORT**                                   |       |       |  |  |  |  |  |
