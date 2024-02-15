@@ -55,7 +55,7 @@ The server is a process that runs directly in a JVM.  JVM heap-space requirement
 | Mozilla Firefox ESR 68                                |       |       |  |  | X |  |  |
 | Google Chrome (latest)                                |       |       |  |  | X | X | X |
 | **JDK SUPPORT**                                       |       |       |  |  |  |  |  |
-| Zulu 17.0 (17.0.10)                                   |       |       |  |  | X | X | X |
+| Zulu 17.0 (17.0.10)                                   |       |       |  |  |  |  | X |
 | Zulu 11.50 (11.0.12)                                  |       |       |  |  | X | X | X |
 | Zulu 8.47 (1.8.0_261)                                 |       |       | X | X |  |  |  |
 | Zulu 8.40 (1.8.0_222)                                 |       |       | X |  |  |  |  |
@@ -98,7 +98,7 @@ The server is a process that runs directly in a JVM.  JVM heap-space requirement
 | Mozilla Firefox ESR 68                                |       |       |  |  | X |  |  |
 | Google Chrome (latest)                                |       |       |  |  | X | X | X |
 | **JDK SUPPORT**                                       |       |       |  |  |  |  |  |
-| Zulu 17.0 (17.0.10)                                   |       |       |  |  | X | X | X |
+| Zulu 17.0 (17.0.10)                                   |       |       |  |  |  |  | X |
 | Zulu 11.50 (11.0.12)                                  |       |       |  |  | X | X | X |
 | Zulu 8.47 (1.8.0_261)                                 |       |       | X | X |  |  |  |
 | Zulu 8.40 (1.8.0_222)                                 |       |       | X |  |  |  |  |
