@@ -254,13 +254,26 @@ The Terracotta 10.7 release builds upon the enterprise readiness features and an
   * none
 
 ### 10.7.0.20
-* Release Date: 2024/02/02
+* Release Date: 2024/01/25
 * Resolved
-  * [TDB-6008] Vulnerable 3rd Party component logback used
+  * none
 * Security Updates to Third Party Libraries
-  * logback 1.2.13
-  * springframework 5.3.31
-  * spring-boot 2.7.18
+  * [TDB-6008] Vulnerable 3rd Party component logback used
+    * logback 1.2.13
+    * springframework 5.3.31
+    * spring-boot 2.7.18
+
+### 10.7.0.21
+* Release Date: 2024/02/08
+* Resolved
+  * none
+* Security Updates to Third Party Libraries
+  * [TDB-6026] Vulnerable 3rd Party component snappy-java used
+  * [TDB-6028] Vulnerable 3rd Party component Apache Avro used
+  * 3rd Party Library Updates:
+    * apache avro 1.11.3
+    * commons-compress 1.25.0
+    * snappy-java 1.1.10.5
 
 <br>
 
