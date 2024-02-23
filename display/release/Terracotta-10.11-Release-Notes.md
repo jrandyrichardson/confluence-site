@@ -231,6 +231,18 @@ The Terracotta 10.11 release builds upon the enterprise readiness features and a
   * springframework 5.3.31
   * spring-boot 2.7.18
 
+### 10.11.0.21
+* Release Date: 2024/02/23
+* Resolved
+  * none
+* Security Updates to Third Party Libraries
+  * [TDB-6026] Vulnerable 3rd Party component snappy-java used
+  * [TDB-6028] Vulnerable 3rd Party component Apache Avro used
+  * 3rd Party Library Updates:
+    * apache avro 1.11.3
+    * commons-compress 1.25.0
+    * snappy-java 1.1.10.5
+
 <br>
 
 # Notes
