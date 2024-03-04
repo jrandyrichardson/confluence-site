@@ -161,6 +161,15 @@ BigMemory Max 4.4.0 introduced the following new capabilities:
     *   rest-assured 5.4.0
     *   shiro 1.13.0       
 
+### 4.4.0.10
+* Release Date: 2024/02/23
+* Resolved
+  * none
+* Security Updates to Third Party Libraries
+  * [TAB-8673] Vulnerable 3rd party component json-path used
+  * Third-party library upgrades:
+    *   json-path updated to 2.9.0
+
 <br>
 
 # Notes
