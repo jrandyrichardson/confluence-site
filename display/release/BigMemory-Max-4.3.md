@@ -259,6 +259,17 @@ BigMemory Max 4.3.x introduced the following new capabilities:
     *   rest-assured 5.4.0
     *   shiro 1.13.0
 
+### 4.3.10.19
+* Release Date: 2024/03/08
+* Resolved
+  * none
+* Security Updates to Third Party Libraries
+  * [TAB-8671] Vulnerable 3rdparty components found in docker image 
+    *   Updated to latest Alpine image containing updates for libssl3, libcrypto3
+  * [TAB-8673] Vulnerable 3rd party component json-path used
+  * Third-party library upgrades:
+    *   json-path 2.9.0
+
 <br>
 
 # Summary of Changes 4.3.9.x
