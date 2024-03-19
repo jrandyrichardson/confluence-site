@@ -275,6 +275,16 @@ The Terracotta 10.7 release builds upon the enterprise readiness features and an
     * commons-compress 1.25.0
     * snappy-java 1.1.10.5
 
+### 10.7.0.22
+* Release Date: 2024/03/07
+* Resolved
+  * none
+* Security Updates to Third Party Libraries
+  * [TDB-6041] CVE Update undertow
+  * Disallow HTTP/0.9, HTTP/1.0, and HTTP/1.1 without a Host header 
+  * 3rd Party Library Updates:
+    *   undertow 2.2.30.Final
+
 <br>
 
 # Notes:
