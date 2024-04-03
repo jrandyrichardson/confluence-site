@@ -240,6 +240,15 @@ The Terracotta 10.15 release builds upon the enterprise readiness features and a
   * 3rd Party Library Updates:
     *   undertow 2.2.30.Final
 
+### 10.15.0.14
+* Release Date: 2024/03/23
+* Resolved
+  * none
+* Security Updates to Third Party Libraries
+  * [TDB-6054] Vulnerable 3rd party component Commons-compress used
+  * 3rd Party Library Updates:
+    *   commons-compress updated to 1.26.1
+
 <br>
 
 # Notes
