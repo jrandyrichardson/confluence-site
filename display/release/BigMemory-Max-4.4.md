@@ -170,8 +170,8 @@ BigMemory Max 4.4.0 introduced the following new capabilities:
   * Third-party library upgrades:
     *   json-path updated to 2.9.0
 
-### 4.4.0.10
-* Release Date: 2024/02/23
+### 4.4.0.11
+* Release Date: 2024/03/23
 * Resolved
   * none
 * Security Updates to Third Party Libraries
