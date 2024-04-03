@@ -170,6 +170,16 @@ BigMemory Max 4.4.0 introduced the following new capabilities:
   * Third-party library upgrades:
     *   json-path updated to 2.9.0
 
+### 4.4.0.10
+* Release Date: 2024/02/23
+* Resolved
+  * none
+* Security Updates to Third Party Libraries
+  * [TAB-8727] Vulnerable 3rd party component eclipse-jetty used
+  * Third-party library upgrades:
+    *   eclipse-jetty updated to 10.0.20
+
+
 <br>
 
 # Notes
