@@ -253,6 +253,16 @@ The Terracotta 10.11 release builds upon the enterprise readiness features and a
   * 3rd Party Library Updates:
     *   undertow 2.2.30.Final
 
+### 10.11.0.23
+* Release Date: 2024/03/27
+* Resolved
+  * none
+* Security Updates to Third Party Libraries
+  * [TDB-6024] Vulnerable 3rd party component Commons-compress used
+  * 3rd Party Library Updates:
+    *   commons-compress 1.26.1
+
+
 <br>
 
 # Notes
