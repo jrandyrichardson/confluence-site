@@ -279,6 +279,20 @@ BigMemory Max 4.3.x introduced the following new capabilities:
   * Third-party library upgrades:
     *   eclipse-jetty 9.4.54.v20240208
 
+### 4.3.10.21
+* Release Date: 2024/05/09
+* Resolved
+  * Update to installation instructions to remove all legacy files
+* Security Updates to Third Party Libraries
+  * none
+
+### 4.3.10.22
+* Release Date: 2024/07/05
+* Resolved
+  * none
+* Security Updates to Third Party Libraries
+  * none
+
 <br>
 
 # Summary of Changes 4.3.9.x
