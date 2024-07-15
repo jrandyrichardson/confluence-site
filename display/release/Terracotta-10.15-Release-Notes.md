@@ -249,6 +249,24 @@ The Terracotta 10.15 release builds upon the enterprise readiness features and a
   * 3rd Party Library Updates:
     *   commons-compress updated to 1.26.1
 
+### 10.15.0.15
+* Release Date: 2024/06/05
+* Resolved
+  * none
+* Security Updates to Third Party Libraries
+  * [TDB-18392] Vulnerable 3rd party component xnio-api used 
+  * 3rd Party Library Updates:
+    *   xnio 3.8.14.Final
+
+### 10.15.0.16
+* Release Date: 2024/07/11
+* Resolved
+  * Set TMS Session Timeout to 10 min
+* Security Updates to Third Party Libraries
+  * [TDB-18971] Update to io.airlift:aircompressor
+  * 3rd Party Library Updates:
+    *   aircompressor 0.27
+
 <br>
 
 # Notes
