@@ -285,6 +285,38 @@ The Terracotta 10.7 release builds upon the enterprise readiness features and an
   * 3rd Party Library Updates:
     *   undertow 2.2.30.Final
 
+### 10.7.0.23
+* Release Date: Skipped
+  
+### 10.7.0.24
+* Release Date: 2024/04/11
+* Resolved
+  * none
+* Security Updates to Third Party Libraries
+  * [TDB-6060] Vulnerable 3rd Party Component Spring Security used - updated to 5.7.12
+  * [TDB-6065] Vulnerable 3rd party component Jackson-databind used - updated to 2.16.1
+  * 3rd Party Library Updates:
+    *   spring security 5.7.12
+    *   jackson 2.16.1
+
+### 10.7.0.25
+* Release Date: 2024/06/05
+* Resolved
+  * none
+* Security Updates to Third Party Libraries
+  * [TDB-18393] Vulnerable 3rd party component xnio-api used
+  * 3rd Party Library Updates:
+    *   xnio 3.10.14.Final
+
+### 10.7.0.26
+* Release Date: 2024/07/11
+* Resolved
+  * Set TMS Session Timeout to 10 min
+* Security Updates to Third Party Libraries
+  * [TDB-18971] Update to io.airlift:aircompressor
+  * 3rd Party Library Updates:
+    *   aircompressor 0.27
+
 <br>
 
 # Notes:
