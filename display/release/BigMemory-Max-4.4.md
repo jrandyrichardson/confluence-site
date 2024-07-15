@@ -179,6 +179,27 @@ BigMemory Max 4.4.0 introduced the following new capabilities:
   * Third-party library upgrades:
     *   eclipse-jetty updated to 10.0.20
 
+### 4.4.0.12
+* Release Date: 2024/05/09
+* Resolved
+  * Update to generation of install instructions
+* Security Updates to Third Party Libraries
+  * none
+
+### 4.4.0.13
+* Release Date: 2024/06/07
+* Resolved
+  * Updates to manifest for java 17
+* Security Updates to Third Party Libraries
+  * none
+
+### 4.4.0.14
+* Release Date: 2024/07/11
+* Resolved
+  * none
+* Security Updates to Third Party Libraries
+  *   [TAB-9448] Allow user to configure secure cookie attribute
+  *   Don't set cookies secure in an INI setup, Jetty handles that when SSL is enabled
 
 <br>
 
