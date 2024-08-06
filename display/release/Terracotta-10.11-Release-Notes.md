@@ -201,7 +201,6 @@ The Terracotta 10.11 release builds upon the enterprise readiness features and a
 * Release Date: 2023/09/13
 * Resolved
   * Add capability for importing and exporting of datasets 
-    See https://documentation.softwareag.com/terracotta/terracotta_10-15/webhelp/terracotta-db-webhelp/index.html#page/terracotta-db-webhelp%2Fco-import_export_overview.html
 * Security Updates to Third Party Libraries
   * none
 

@@ -147,7 +147,7 @@ The Terracotta 10.15 release builds upon the enterprise readiness features and a
   * [TDB-4339] Implemented LivenessChecker service for CoordinationEntity
   * TMS Json refactorings
   * Wire shutdown of stores to removal of the associated shutdown handler
-  * SAG Docker Documentation updates
+  * Docker Documentation updates
 * Security Updates to Third Party Libraries
   * [TDB-5823] Update vulnerable 3rd party component Spring-boot 
   

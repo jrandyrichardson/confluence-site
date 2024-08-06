@@ -36,8 +36,8 @@ Fixes are cumulative from version to version.
 ## Deprecation Notices
 ------------------
 February 2020:
-* Software AG intends to deprecate and remove from distribution the WAN Replication Service/Module in the next release (4.3.10, late 2021).
-* Software AG intends to deprecate the Web Sessions product in the next release (4.3.10, late 2021).
+* Deprecate and remove from distribution the WAN Replication Service/Module in the next release (4.3.10, late 2021).
+* Deprecate the Web Sessions product in the next release (4.3.10, late 2021).
 
 > Deprecation Notice:  As previously announced in February 2020, as of October 2021, the BigMemory WAN Replication module and Web Sessions products have been deprecated and are no longer distributed or updated as part of BigMemory products (any/all versions).
 
@@ -58,7 +58,7 @@ BigMemory Max 4.3.x introduced the following new capabilities:
 * Failover Tuning – Data consistency for cross-data center clustering (BigMemory 4.3.3)
 * Support for Tomcat 8 (BigMemory 4.3.3)
 * Quartz no longer supported (BigMemory 4.3.3)
-* Added Docker to Terracotta kit for SAG Install (BigMemory 4.3.4)
+* Added Docker to Terracotta kit (BigMemory 4.3.4)
 * Support for Windows Server 2016 (BigMemory 4.3.4)
 * Prometheus support for BigMemory Max monitoring/stats (BigMemory 4.3.10)
 * As notified in early 2021, WAN modularized into own tar file, removed from BigMemory Max kit as it was previously deprecated (BigMemory 4.3.10)
@@ -497,10 +497,7 @@ The following information is contained in the readme.txt file included with each
     (ex:MaxDirectMemorySize), then you need to restore those settings back after
     applying the fix.
 
-8.3 Install the fix using the Software AG Update Manager.
-    For instructions, see Using the Software AG Update Manager located either in 
-    the _documentation directory or on the documentation Web site at 
-    http://documentation.softwareag.com.
+8.3 Install the fix using the Update Manager.
 
 8.4 The upgrade of the 3rd party library Shiro may create an issue for some users 
     that will require a manual configuration change to the "shiro.ini" found in 
@@ -549,8 +546,7 @@ The following information is contained in the readme.txt file included with each
       wrapper shut down command to shut down the servers instead of using the 
       stop-tc-server script.
 
-9.2 Uninstall the fix using the Software AG Update Manager.
-    For instructions, see Using the Software AG Update Manager.
+9.2 Uninstall the fix using the Update Manager.
 
 NOTE: This uninstall procedure can only be used to uninstall the most recently 
       installed fix. This action will revert your installation to the previously 

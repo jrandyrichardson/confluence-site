@@ -236,10 +236,7 @@ The following information is contained in the readme.txt file included with each
     (ex:MaxDirectMemorySize), then you need to restore those settings back after
     applying the fix.
 
-8.3 Install the fix using the Software AG Update Manager.
-    For instructions, see Using the Software AG Update Manager located either in 
-    the _documentation directory or on the documentation Web site at 
-    http://documentation.softwareag.com.
+8.3 Install the fix using the Update Manager.
 
 8.4 The upgrade of the 3rd party library Shiro may create an issue for some users 
     that will require a manual configuration change to the "shiro.ini" found in 
@@ -288,8 +285,7 @@ The following information is contained in the readme.txt file included with each
       wrapper shut down command to shut down the servers instead of using the 
       stop-tc-server script.
 
-9.2 Uninstall the fix using the Software AG Update Manager.
-    For instructions, see Using the Software AG Update Manager.
+9.2 Uninstall the fix using the Update Manager.
 
 NOTE: This uninstall procedure can only be used to uninstall the most recently 
       installed fix. This action will revert your installation to the previously 
