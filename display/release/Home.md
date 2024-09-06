@@ -9,8 +9,6 @@ permalink: /display/release/Home
 summary:
 ---
 
-![Terracotta Logo](/download/attachments/23232545/SAG_Terracotta_Logo_Oct17.png)
-
 Terracotta is an in-memory data management platform. These products are built on top of a distributed, high performance scalable architecture. There are currently three products.
 
 * TOC
