@@ -267,6 +267,13 @@ The Terracotta 10.15 release builds upon the enterprise readiness features and a
   * 3rd Party Library Updates:
     *   aircompressor 0.27
 
+### 10.15.0.17
+* Release Date: 2024/09/12
+* Resolved
+  * Updates to installer instructions.txt
+* Security Updates to Third Party Libraries
+  * none
+
 <br>
 
 # Notes

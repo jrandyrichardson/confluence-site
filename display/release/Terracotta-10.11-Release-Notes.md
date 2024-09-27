@@ -281,6 +281,22 @@ The Terracotta 10.11 release builds upon the enterprise readiness features and a
   * 3rd Party Library Updates:
     *   xnio 3.10.14.Final
 
+### 10.11.0.26
+* Release Date: 2024/07/11
+* Resolved
+  * Set TMS Session Timeout to 10 min
+* Security Updates to Third Party Libraries
+  * [TDB-18971] Update to io.airlift:aircompressor
+  * 3rd Party Library Updates:
+    *   aircompressor 0.27
+
+### 10.11.0.27
+* Release Date: 2024/09/12
+* Resolved
+  * Updates to installer instructions.txt
+* Security Updates to Third Party Libraries
+  * none
+
 <br>
 
 # Notes

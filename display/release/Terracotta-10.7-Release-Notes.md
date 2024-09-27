@@ -316,6 +316,13 @@ The Terracotta 10.7 release builds upon the enterprise readiness features and an
   * 3rd Party Library Updates:
     *   aircompressor 0.27
 
+### 10.7.0.27
+* Release Date: 2024/09/12
+* Resolved
+  * Updates to installer instructions.txt
+* Security Updates to Third Party Libraries
+  * none
+
 <br>
 
 # Notes:
