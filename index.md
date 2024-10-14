@@ -22,7 +22,7 @@ Both sub-systems are backed by the distributed Terracotta Server, which provides
 + [Terracotta and BigMemory Max Platform Support](https://confluence.terracotta.org/display/release/Terracotta+and+BigMemory+Platform+Support)
 
 ## Terracotta 11.1
-+ [Terracotta 10.15 Release Notes](https://confluence.terracotta.org/display/release/Terracotta+11.1+Release+Notes)
++ [Terracotta 11.1 Release Notes](https://confluence.terracotta.org/display/release/Terracotta+11.1+Release+Notes)
 + [Terracotta and BigMemory Max Platform Support](https://confluence.terracotta.org/display/release/Terracotta+and+BigMemory+Platform+Support)
 
 <br>
