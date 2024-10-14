@@ -50,7 +50,7 @@ The Terracotta 11.1 release builds upon the enterprise readiness features and an
 
 # Summary of Changes 11.1
 -----------------------
-### 10.15.0.1
+### 11.1.0.1
 * Release Date: 2024/09/13
 * Resolved
   * [TDB-18984]	Potential Cross Site Scripting Vulnerability in 'management/tmc/src/login.html'
