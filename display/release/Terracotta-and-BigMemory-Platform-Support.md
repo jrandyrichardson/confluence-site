@@ -5,7 +5,7 @@ layout: page
 keywords:
 space: current
 sidebar: lb2_sidebar
-permalink: /display/release/Terracotta+10.x+and+BigMemory+4.x+Platform+Support.html
+permalink: /display/release/Terracotta+and+BigMemory+Platform+Support.html
 summary:
 ---
 
