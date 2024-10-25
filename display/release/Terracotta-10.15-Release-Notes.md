@@ -274,6 +274,23 @@ The Terracotta 10.15 release builds upon the enterprise readiness features and a
 * Security Updates to Third Party Libraries
   * none
 
+### 10.15.0.18
+* Release Date: 2024/10/25
+* Resolved
+  * none
+* Security Updates to Third Party Libraries
+  * [TDB-19101] Vulnerable 3rd party component Spring framework used
+  * [TDB-19097] Vulnerable 3rd party component undertow-core used 
+  * 3rd Party Library Updates:
+    *   spring 5.3.39
+    *   xnio 3.8.16.Final
+    *   parquet 1.14.3
+    *   commons-compress 1.26.2
+    *   avro 1.11.4
+    *   undertow 2.2.36.Final
+    *   commons-codec 1.17.0
+
+
 <br>
 
 # Notes
