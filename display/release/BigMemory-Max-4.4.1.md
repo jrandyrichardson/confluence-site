@@ -61,6 +61,14 @@ BigMemory Max 4.4.1 introduced the following new capabilities:
   * [TAB-8241] Vulnerable 3rd Party Component Shiro used
   * [TAB-8226] Vulnerable 3rd Party Component Jackson Databind used
 
+
+### 4.4.1.2
+* Release Date: 2024/11/06
+* Resolved
+  * none  
+* Security Updates to Third Party Libraries
+  * [TAB-9570] Vulnerable 3rd Party Component org.eclipse.jetty_jetty-io used
+
 <br>
 
 # Notes
