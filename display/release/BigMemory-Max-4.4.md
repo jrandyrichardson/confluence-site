@@ -201,6 +201,13 @@ BigMemory Max 4.4.0 introduced the following new capabilities:
   *   [TAB-9448] Allow user to configure secure cookie attribute
   *   Don't set cookies secure in an INI setup, Jetty handles that when SSL is enabled
 
+### 4.4.0.15
+* Release Date: 2024/11/11
+* Resolved
+  * none
+* Security Updates to Third Party Libraries
+  *   [TAB-9591] Update jetty to 10.0.24
+
 <br>
 
 # Notes
