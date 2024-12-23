@@ -28,7 +28,7 @@ Document Contents
 
 ## Release Details
 ------------------
-BigMemory Max 4.4.0 (October 2022) is the latest release. It includes Ehcache 2.11.
+BigMemory Max 4.4.0 (October 2022). It includes Ehcache 2.11.
 
 Fixes are cumulative from version to version.
 
