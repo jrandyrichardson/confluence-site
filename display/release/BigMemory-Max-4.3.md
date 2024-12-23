@@ -302,6 +302,13 @@ BigMemory Max 4.3.x introduced the following new capabilities:
   * Third-party library upgrades:
     *   eclipse-jetty 9.4.56.v20240826
 
+### 4.3.10.24
+* Release Date: 2024/12
+* Resolved
+  * [TAB-9603] Update tanuki license to IBM
+* Security Updates to Third Party Libraries
+  * none
+
 <br>
 
 # Summary of Changes 4.3.9.x
