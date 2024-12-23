@@ -208,6 +208,13 @@ BigMemory Max 4.4.0 introduced the following new capabilities:
 * Security Updates to Third Party Libraries
   *   [TAB-9591] Update jetty to 10.0.24
 
+### 4.4.0.16
+* Release Date: 2024/12
+* Resolved
+  * [TAB-9603] Update tanuki license to IBM
+* Security Updates to Third Party Libraries
+  * none
+
 <br>
 
 # Notes
