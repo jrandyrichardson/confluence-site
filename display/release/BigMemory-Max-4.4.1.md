@@ -69,6 +69,14 @@ BigMemory Max 4.4.1 introduced the following new capabilities:
 * Security Updates to Third Party Libraries
   * [TAB-9570] Vulnerable 3rd Party Component org.eclipse.jetty_jetty-io used
 
+
+### 4.4.1.3
+* Release Date: 2024/12
+* Resolved
+  * [TAB-9603] Update tanuki license file to IBM  
+* Security Updates to Third Party Libraries
+  * none
+
 <br>
 
 # Notes
