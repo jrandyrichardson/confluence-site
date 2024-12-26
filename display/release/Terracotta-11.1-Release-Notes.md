@@ -66,6 +66,22 @@ The Terracotta 11.1 release builds upon the enterprise readiness features and an
 * Security Updates to Third Party Libraries
   * none
 
+### 11.1.0.2
+* Release Date: 2024/11
+* Resolved
+  * none
+* Security Updates to Third Party Libraries
+  * [TDB-19100] Vulnerable 3rd party component Spring framework used
+
+### 11.1.0.3
+* Release Date: 2024/12
+* Resolved
+  * none
+* Security Updates to Third Party Libraries
+  * [TDB-19136] Vulnerable 3rd party component Spring-security-web used - upgraded to 6.3.5
+  * [TDB-19153] Vulnerable 3rd party component Spring framework used - upgraded to 6.1.15
+  * [TDB-19146] Vulnerable 3rdparty components found in TDB Container images[11.1.0.1.3] - upgraded undertow-core to 2.3.18.Final
+
 <br>
 
 # Notes
