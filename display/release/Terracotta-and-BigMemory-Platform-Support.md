@@ -29,38 +29,38 @@ The server is a process that runs directly in a JVM.  JVM heap-space requirement
 ## Terracotta
 ----------------------
 
-| **PRODUCT**                                           | 2017 | 2018 | 2019 | 2020 | 2021 | 2022 | 2023 | 2024 |
-|:------------------------------------------------------|-----:|-----:|---:|---:|---:|---:|---:|--:|
-| Terracotta<br>Ehcache                                 | 10.1<br>3.4.1   | 10.3<br>3.6.3   | 10.5<br>3.8.1   | 10.7<br>3.9.9   | 10.11<br>3.9.9    | 10.15<br>3.10.1 | 10.15<br>3.10.1 | 11.1<br>3.11.1 |
-| **PLATFORM SUPPORT**                                  |       |       |  |  |  |  |  |  |
-| Windows Server 2012 (Datacenter and Standard Edition) |       |   X   | X | X |  |  |  |  |
-| Windows Server 2016 (Datacenter and Standard Edition) |       |   X   | X | X | X | X | X | X |
-| Windows Server 2019 (Datacenter and Standard Edition) |       |       | X | X | X | X | X | X |
-| Windows Server 2022 (Datacenter and Standard Edition) |       |       |  |  |  | X | X | X |
-| Windows 8 (Pro and Enterprise)                        |       |   X   |  |  |  |  |  |  |
-| Windows 10 (Pro and Enterprise)                       |       |   X   | X | X | X | X | X | X |
-| Windows 11 (Pro and Enterprise)                       |       |       |  |  |  | X | X | X |
-| Suse Linux Enterprise Server 15 SPx                   |       |       | X | X | X | X | X | X |
-| Suse Linux Enterprise Server 12 SPx                   |       |   X   | X | X | X |  |  |  |
-| Red Hat Enterprise Linux Server 7.x                   |       |       | X | X | X | X | X | X |
-| Red Hat Enterprise Linux Server 8.x                   |       |       | X | X | X | X | X | X |
-| Red Hat Enterprise Linux Server 9.x                   |       |       |  |  |  | X | X | X |
-| Centos 7.x                                            |       |   X   | X | X |  |  |  |  |
-| Ubuntu 18.07                                          |       |       |  | X |  |  |  |  |
-| **BROWSER SUPPORT**                                   |       |       |  |  |  |  |  |  |
-| Microsoft Edge (latest)                               |       |       |  | X | X | X | X | X |
-| Microsoft IE 11.x                                     |       |       |  | X | X |  |  |  |
-| Mozilla Firefox ESR 91                                |       |       |  |  | X | X | X | X |
-| Mozilla Firefox ESR 78                                |       |       |  |  |  | X | X | X |
-| Mozilla Firefox ESR 68                                |       |       |  |  | X |  |  |  |
-| Google Chrome (latest)                                |       |       |  |  | X | X | X | X |
-| **JDK SUPPORT**                                       |       |       |  |  |  |  |  |  |
-| Zulu 17.0 (17.0.10)                                   |       |       |  |  |  |  | X | X |
-| Zulu 11.50 (11.0.12)                                  |       |       |  |  | X | X | X |  |
-| Zulu 8.47 (1.8.0_261)                                 |       |       | X | X |  |  |  |  |
-| Zulu 8.40 (1.8.0_222)                                 |       |       | X |  |  |  |  |  |
-| Zulu 8.31 (1.8.0_181)                                 |       |   X   |  |  |  |  |  |  |
-| IBM Java 1.8.0 SR6 FP11                               |       |       | X | X | X |  |  |  |
+| **PRODUCT**                                           | 2017 | 2018 | 2019 | 2020 |           2021 |            2022 | 2023 |           2024 |
+|:------------------------------------------------------|-----:|-----:|---:|---:|---------------:|----------------:|---:|---------------:|
+| Terracotta<br>Ehcache                                 | 10.1<br>3.4.1   | 10.3<br>3.6.3   | 10.5<br>3.8.1   | 10.7<br>3.9.9   | 10.11<br>3.9.9 | 10.15<br>3.10.1 | 10.15<br>3.10.1 | 11.1<br>3.11.1 |
+| **PLATFORM SUPPORT**                                  |       |       |  |  |                |                 |  |                |
+| Windows Server 2012 (Datacenter and Standard Edition) |       |   X   | X | X |                |                 |  |                |
+| Windows Server 2016 (Datacenter and Standard Edition) |       |   X   | X | X |              X |               X | X |              X |
+| Windows Server 2019 (Datacenter and Standard Edition) |       |       | X | X |              X |               X | X |              X |
+| Windows Server 2022 (Datacenter and Standard Edition) |       |       |  |  |                |               X | X |              X |
+| Windows 8 (Pro and Enterprise)                        |       |   X   |  |  |                |                 |  |                |
+| Windows 10 (Pro and Enterprise)                       |       |   X   | X | X |              X |               X | X |              X |
+| Windows 11 (Pro and Enterprise)                       |       |       |  |  |                |               X | X |              X |
+| Suse Linux Enterprise Server 15 SPx                   |       |       | X | X |              X |               X | X |              X |
+| Suse Linux Enterprise Server 12 SPx                   |       |   X   | X | X |              X |                 |  |                |
+| Red Hat Enterprise Linux Server 7.x                   |       |       | X | X |              X |               X | X |              X |
+| Red Hat Enterprise Linux Server 8.x                   |       |       | X | X |              X |               X | X |              X |
+| Red Hat Enterprise Linux Server 9.x                   |       |       |  |  |                |               X | X |              X |
+| Centos 7.x                                            |       |   X   | X | X |                |                 |  |                |
+| Ubuntu 18.07                                          |       |       |  | X |                |                 |  |                |
+| **BROWSER SUPPORT**                                   |       |       |  |  |                |                 |  |                |
+| Microsoft Edge (latest)                               |       |       |  | X |              X |               X | X |              X |
+| Microsoft IE 11.x                                     |       |       |  | X |              X |                 |  |                |
+| Mozilla Firefox ESR 91                                |       |       |  |  |              X |               X | X |              X |
+| Mozilla Firefox ESR 78                                |       |       |  |  |                |               X | X |              X |
+| Mozilla Firefox ESR 68                                |       |       |  |  |              X |                 |  |                |
+| Google Chrome (latest)                                |       |       |  |  |              X |               X | X |              X |
+| **JDK SUPPORT**                                       |       |       |  |  |                |                 |  |                |
+| Zulu 17.0 (17.0.10)                                   |       |       |  |  |                |                 | X |              X |
+| Zulu 11.50 (11.0.12)                                  |       |       |  |  |              X |               X |  |                |
+| Zulu 8.47 (1.8.0_261)                                 |       |       | X | X |                |                 |  |                |
+| Zulu 8.40 (1.8.0_222)                                 |       |       | X |  |                |                 |  |                |
+| Zulu 8.31 (1.8.0_181)                                 |       |   X   |  |  |                |                 |  |                |
+| IBM Java 1.8.0 SR6 FP11                               |       |       | X | X |              X |                 |  |                |
 
 <br>
 
