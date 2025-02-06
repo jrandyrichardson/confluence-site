@@ -32,7 +32,7 @@ Document Contents
 
 # Current Release
 ------------------
-Terracotta 10.15 (October 2022) is the latest release. It includes Ehcache 3.10.
+Terracotta 10.15 (February 2025). Includes Ehcache 3.10.
 
 Fixes are cumulative from version to version.
 
@@ -42,17 +42,16 @@ Fixes are cumulative from version to version.
 ------------------
 The Terracotta 10.15 release builds upon the enterprise readiness features and analytical capabilities of past releases, by improving operational usability and performance. Some of the notable features of Terracotta 10.15 include:
 
-*  Support for Java 11
-*  Support for RedHat EL9 (server)
-*  Support for Windows Server 2022
-*  Dataset import-export functionality  
-*  Provide logs in JSON format for better searchability and performance.
-*  Docker images with Logging as a service (LaaS) support
-*  Voter process now available with Docker image
-*  Various bug fixes and security fixes
-*  Dataset import-export functionality can be exported to both Parquet and TSON file formats.  Data from a TSON-formatted file can be imported into a dataset (Parquet import not supported).  The import-export operations can be performed through a new CLI import-export tool or through an end-user built client making use of the new import-export library.
-*  CVE-2022-2053 - Vulnerable 3rd Party Component Undertow updated
-*  Updates to spring.boot, jackson, snakeyaml libraries
+* Requires Java 17
+* Spring Framework 6.x
+* Support for RedHat EL9 (server)
+* Support for Windows Server 2022
+* Dataset import-export functionality  
+* Provide logs in JSON format for better searchability and performance.
+* Docker images with Logging as a service (LaaS) support
+* Voter process now available with Docker image
+* Various bug fixes and security fixes
+* Dataset import-export functionality can be exported to both Parquet and TSON file formats.  Data from a TSON-formatted file can be imported into a dataset (Parquet import not supported).  The import-export operations can be performed through a new CLI import-export tool or through an end-user built client making use of the new import-export library.
 
 <br>
 
@@ -290,10 +289,36 @@ The Terracotta 10.15 release builds upon the enterprise readiness features and a
     *   undertow 2.2.36.Final
     *   commons-codec 1.17.0
 
+### 10.15.0.19
+* Release Date: 2024/12/20
+* Resolved
+  * Internal maintenance release.
+* Security Updates to Third Party Libraries
+  * none
+
+### 10.15.0.20
+* Release Date: 2024/02/14
+* Resolved
+  * Java 17 build and support
+* Security Updates to Third Party Libraries
+  * [TDB-19140] Vulnerable 3rd party component Spring-security-web used - upgraded to 6.3.5
+  * [TDB-19155] Vulnerable 3rd party component Spring framework used - upgraded to 6.1.15
+  * [TDB-19147] Vulnerable 3rd party components found in TDB Container images [10.15.0.17]
+  * [RNDXPC-2942] Move to official Redhat UBI images
+  * 3rd Party Library Updates:
+    *   Spring Boot 2.7.18 to 3.3.6
+    *   spring-context-support 5.3.39 to 6.1.15
+    *   Spring Framework 5.3.39 to 6.1.15
+    *   undertow updated 2.2.36.Final to 2.3.18.Final
+    *   jakarta.annotatoin-api 1.3.5 to 2.1.1
+    *   jakarta.servlet-api 4.0.4 to 6.0.0
+    *   jakarta.validation-api 2.0.2 to 3.0.2
+    *   jakarta.websocket-api 1.1.2 to 2.1.1
+    *   snakeyaml 2.0 to 2.2
 
 <br>
 
 # Notes
 -------
-* Terracotta BigMemory 4.x and Terracotta 10.x clients may be used simultaneously in the same application by ensuring ClassLoader isolation when initializing at least one of the clients.
+* Terracotta BigMemory and Terracotta clients may be used simultaneously in the same application by ensuring ClassLoader isolation when initializing at least one of the clients.
 <br>
