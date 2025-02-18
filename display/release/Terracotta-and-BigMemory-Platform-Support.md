@@ -47,6 +47,7 @@ The server is a process that runs directly in a JVM.  JVM heap-space requirement
 | Red Hat Enterprise Linux Server 9.x                   |       |       |  |  |                |               X | X |              X |
 | Centos 7.x                                            |       |   X   | X | X |                |                 |  |                |
 | Ubuntu 18.07                                          |       |       |  | X |                |                 |  |                |
+| AIX 7.3                                               |       |       |  |   |                |         X        | X |       X         |
 | **BROWSER SUPPORT**                                   |       |       |  |  |                |                 |  |                |
 | Microsoft Edge (latest)                               |       |       |  | X |              X |               X | X |              X |
 | Microsoft IE 11.x                                     |       |       |  | X |              X |                 |  |                |
@@ -61,7 +62,7 @@ The server is a process that runs directly in a JVM.  JVM heap-space requirement
 | Zulu 8.40 (1.8.0_222)                                 |       |       | X |  |                |                 |  |                |
 | Zulu 8.31 (1.8.0_181)                                 |       |   X   |  |  |                |                 |  |                |
 | IBM Java 1.8.0 SR6 FP11                               |       |       | X | X |              X |                 |  |                |
-
+| IBM Semeru 17 on AIX 7.3                              |       |       |   |   |   | X | X | X |
 <br>
 
 ## BigMemory Max
@@ -104,7 +105,7 @@ The server is a process that runs directly in a JVM.  JVM heap-space requirement
 | Zulu 8.40 (1.8.0_222)                                 |       |       | X |  |  |  |  |  |
 | Zulu 8.31 (1.8.0_181)                                 |       |   X   |  |  |  |  |  |  |
 | IBM Java 1.8.0 SR6 FP11                               |       |       | X | X | X |  |  |  |
-
+| IBM Semeru 17 on AIX 7.3                              |       |       |   |   |   |  | X | X |
 <br>
 <br>
 
