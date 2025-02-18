@@ -63,6 +63,7 @@ The server is a process that runs directly in a JVM.  JVM heap-space requirement
 | Zulu 8.31 (1.8.0_181)                                 |       |   X   |   |   |                |                 |   |                |
 | IBM Java 1.8.0 SR6 FP11                               |       |       | X | X |              X |                 |   |                |
 | IBM Semeru 17 on AIX 7.3                              |       |       |   |   |                |               X | X |              X |
+
 <br>
 
 ## BigMemory Max
@@ -106,6 +107,7 @@ The server is a process that runs directly in a JVM.  JVM heap-space requirement
 | Zulu 8.31 (1.8.0_181)                                 |       |   X   |   |   |   |   |   |   |
 | IBM Java 1.8.0 SR6 FP11                               |       |       | X | X | X |   |   |   |
 | IBM Semeru 17 on AIX 7.3                              |       |       |   |   |   |   | X | X |
+
 <br>
 <br>
 
