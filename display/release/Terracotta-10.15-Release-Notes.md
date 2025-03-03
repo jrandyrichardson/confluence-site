@@ -316,6 +316,13 @@ The Terracotta 10.15 release builds upon the enterprise readiness features and a
     *   jakarta.websocket-api 1.1.2 to 2.1.1
     *   snakeyaml 2.0 to 2.2
 
+### 10.15.0.21
+* Release Date: 2024/03/03
+* Resolved
+  * Java 17 build with generation of java 11 bytecode
+* Security Updates to Third Party Libraries
+  * none
+
 <br>
 
 # Notes
