@@ -1,5 +1,5 @@
 ---
-title:  Terracotta 10.x and BigMemory 4.x Platform Support  
+title:  Terracotta and BigMemory Platform Support  
 lang: en
 layout: page
 keywords:
