@@ -47,7 +47,7 @@ The server is a process that runs directly in a JVM.  JVM heap-space requirement
 | Red Hat Enterprise Linux Server 9.x                   |       |       |   |   |                |               X | X |              X |              X |
 | Centos 7.x                                            |       |   X   | X | X |                |                 |   |                |                |
 | Ubuntu 18.07                                          |       |       |   | X |                |                 |   |                |                |
-| Ubuntu 24.04                                          |       |       |   |   |                |                 |   |              X |              X |
+| Ubuntu 24.04                                          |       |       |   |   |                |                 | X |              X |              X |
 | AIX 7.3                                               |       |       |   |   |                |               X | X |              X |              X |
 | **BROWSER SUPPORT**                                   |       |       |   |   |                |                 |   |                |                |
 | Microsoft Edge (latest)                               |       |       |   | X |              X |               X | X |              X |              X |
