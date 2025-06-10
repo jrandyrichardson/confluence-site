@@ -137,6 +137,16 @@ The following information is contained in the readme.txt file included with each
        invalidRequest = org.apache.shiro.web.filter.InvalidRequestFilter
        invalidRequest.blockSemicolon = false
 
+    c. Previously, secure cookies in TMS were enabled by default, working only with TLS-secured 
+       connections or localhost requests. Remote HTTP access required adding the following line to 
+       the ~/.tc/mgmt/shiro.ini file:
+       
+       [main]
+       securityManager.sessionManager.sessionIdCookie.secure = false
+       
+       The default value for this setting is now set to false. A restart of the TMS for changes
+       to take effect.
+
 9.0 Uninstallation
 
 9.1 Shut down the server array. A safe shutdown procedure is as follows.
