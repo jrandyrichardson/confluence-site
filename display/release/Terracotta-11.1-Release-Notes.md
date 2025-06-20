@@ -82,6 +82,22 @@ The Terracotta 11.1 release builds upon the enterprise readiness features and an
   * [TDB-19153] Vulnerable 3rd party component Spring framework used - upgraded to 6.1.15
   * [TDB-19146] Vulnerable 3rdparty components found in TDB Container images[11.1.0.1.3] - upgraded undertow-core to 2.3.18.Final
 
+### 11.1.0.4
+* Release Date: 2025/06/20
+* Resolved
+  * none
+* Security Updates to Third Party Libraries
+  * k8s.io/apimachinery to v0.26.10
+  * micrometer-registry-prometheus to 1.13.13
+  * logback-classic to 1.5.18
+  * logback-core to 1.5.18
+  * hibernate-validator to 8.0.2.Final
+  * slf4j-api to 2.0.17
+  * Spring Boot to 3.3.11
+  * Spring Security 6.3.9
+  * Spring to 6.1.19
+
+
 <br>
 
 # Notes
