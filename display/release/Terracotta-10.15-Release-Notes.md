@@ -316,6 +316,30 @@ The Terracotta 10.15 release builds upon the enterprise readiness features and a
     *   jakarta.websocket-api 1.1.2 to 2.1.1
     *   snakeyaml 2.0 to 2.2
 
+### 10.15.0.21
+* Release Date: 2024/02/27
+* Resolved
+  * Java 17 build and support
+* Security Updates to Third Party Libraries
+  * none
+
+### 10.15.0.22
+* Release Date: 2024/06/23
+* Resolved
+  * none
+* Security Updates to Third Party Libraries
+  * 3rd Party Library Updates:
+    *   k8s.io/apimachinery to v0.26.10
+    *   micrometer-registry-prometheus to 1.13.13
+    *   logback-classic to 1.5.18
+    *   logback-core to 1.5.18
+    *   hibernate-validator to 8.0.2.Final
+    *   slf4j-api to 2.0.17
+    *   Spring Boot to 3.3.11
+    *   Spring Security 6.3.9
+    *   Spring to 6.1.19
+
+
 <br>
 
 # Notes
