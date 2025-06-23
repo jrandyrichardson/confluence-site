@@ -215,6 +215,35 @@ BigMemory Max 4.4.0 introduced the following new capabilities:
 * Security Updates to Third Party Libraries
   * none
 
+### 4.4.0.17
+* Release Date: 2025/03/27
+* Resolved
+  * none
+* Security Updates to Third Party Libraries
+  *  Update to jetty 12
+
+### 4.4.0.18
+* Release Date: 2025/06/23
+* Resolved
+  * none
+* Security Updates to Third Party Libraries
+  * [TAB-9653] Disable the secure flag on cookies by default
+  * [TAB-9654] Mask sensitive data in log files
+  * [TAB-9655] Mask sensitive query parameters in logged URIs
+  * Third-party library upgrades
+  * jackson-annotations to 2.19.0
+  * jackson-core to 2.19.0
+  * jackson-databind to 2.19.0
+  * guava to 33.4.8-jre
+  * commons-beanutils to 1.11.0
+  * commons-codec to 1.18.0
+  * commons-io to 2.19.0
+  * commons-logging to 1.3.5
+  * commons-collections4 to 4.5.0
+  * jetty to 12.0.21
+  * slf4j-api to 2.0.17
+
+
 <br>
 
 # Notes
