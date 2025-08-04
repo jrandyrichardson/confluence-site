@@ -243,7 +243,16 @@ BigMemory Max 4.4.0 introduced the following new capabilities:
   * jetty to 12.0.21
   * slf4j-api to 2.0.17
 
-
+### 4.4.0.19
+* Release Date: 2025/08/04
+* Resolved
+  * none
+* Security Updates to Third Party Libraries
+  * [TAB-9691] Vulnerable 3rdparty component commons-lang3 used
+  * Third-party library upgrades
+  * commons-lang to 3.18.0
+  * Jetty update to 12.0.23
+  
 <br>
 
 # Notes
