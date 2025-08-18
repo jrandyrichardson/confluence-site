@@ -252,6 +252,11 @@ BigMemory Max 4.4.0 introduced the following new capabilities:
   * Third-party library upgrades
   * commons-lang to 3.18.0
   * Jetty update to 12.0.23
+
+### 4.4.0.20
+* Release Date: 2025/08/18
+* Resolved
+  * Internal maintenance release
   
 <br>
 
