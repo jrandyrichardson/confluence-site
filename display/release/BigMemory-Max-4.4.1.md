@@ -177,6 +177,18 @@ The following information is contained in the readme.txt file included with each
        The default value for this setting is now set to false. A restart of the TMS for changes
        to take effect.
 
+8.5 The upgrade of the 3rd party library Jetty to v12+ will result in the following configuration changes:
+
+    To allow an SSL connection from the managed agent, the SSL connector must be configured. If the TMS is deployed
+    with the provided Jetty web server, add the following to /tools/management-console/etc/start.d/ssl.ini
+    (in the BigMemory kit) as shown:
+
+       jetty.sslContext.keyStorePath=etc/dev-keystore.jks
+       jetty.sslContext.trustStorePath=etc/dev-keystore.jks
+       jetty.sslContext.keyStorePassword=terracotta
+       jetty.sslContext.trustStorePassword=terracotta
+       jetty.sslContext.keyManagerPassword=terracotta
+
 9.0 Uninstallation
 
 9.1 Shut down the server array. A safe shutdown procedure is as follows.
