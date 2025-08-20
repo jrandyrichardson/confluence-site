@@ -257,7 +257,10 @@ BigMemory Max 4.4.0 introduced the following new capabilities:
 * Release Date: 2025/08/18
 * Resolved
   * Internal maintenance release of automation build processes
-  
+* Security Updates to Third Party Libraries
+  * none
+ 
+ 
 <br>
 
 # Notes
